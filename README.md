@@ -9,7 +9,7 @@
   <br>
   <a href="https://arxiv.org/abs/2508.15418"><img src="https://img.shields.io/badge/arXiv-2508.15418-B31B1B.svg" alt="arXiv"></a>
   <a href="https://huggingface.co/YirongSun/LLaSO-Base-3.8B-Instruct"><img src="https://img.shields.io/badge/HuggingFace-Model-ffcc00.svg" alt="HF Model"></a>
-  <a href="https://github.com/EIT-NLP/LLaSO"><img src="https://img.shields.io/github/stars/EIT-NLP/LLaSO?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/InsiderX-Pro/LLaSO"><img src="https://img.shields.io/github/stars/EIT-NLP/LLaSO?style=social" alt="GitHub Stars"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Cite-BibTeX-9cf.svg" alt="Cite"></a>
 </p>
 
