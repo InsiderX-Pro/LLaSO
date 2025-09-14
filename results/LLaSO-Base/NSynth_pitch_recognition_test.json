@@ -1,0 +1,1794 @@
+[
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_025-068-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the pitch in the given audio sample and return its MIDI number. Only output an integer between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "68"
+      }
+    ],
+    "answer": "63"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_065-023-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and return the detected pitch as a MIDI value between 0 and 127. Provide only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_electronic_028-031-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and determine the primary pitch in the audio. Return only the corresponding MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "answer": "31"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_132-049-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and return the detected pitch as a MIDI value between 0 and 127. Provide only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "49"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_011-097-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, extract the dominant pitch and provide its MIDI number. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "97"
+      }
+    ],
+    "answer": "97"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_031-078-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the dominant pitch from the given audio and return it as a MIDI integer. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "78"
+      }
+    ],
+    "answer": "78"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_049-066-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and return the detected pitch as a MIDI value between 0 and 127. Provide only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "66"
+      }
+    ],
+    "answer": "61"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_009-054-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the pitch and return its MIDI representation as a number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "54"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_005-037-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and determine the primary pitch in the audio. Return only the corresponding MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "37"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\bass_synthetic_033-039-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the pitch detection is based on the most dominant frequency in the audio. Return only its MIDI equivalent (0-127).<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "39"
+      }
+    ],
+    "answer": "31"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_004-032-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI pitch value of the note played in this recording? Respond with a number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_044-041-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI pitch value of the note played in this recording? Respond with a number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "41"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_005-063-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech processing system, detect the fundamental pitch of the voice and return its corresponding MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "63"
+      }
+    ],
+    "answer": "63"
+  },
+  {
+    "voice": [
+      "nsynth-test/audio\\keyboard_electronic_002-105-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech processing system, detect the fundamental pitch of the voice and return its corresponding MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "105"
+      }
+    ],
+    "answer": "102"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_006-040-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A melody extraction algorithm needs to identify the dominant pitch in this clip. Output only a single MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "40"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\keyboard_electronic_002-067-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the fundamental frequency to determine the pitch. Provide only the MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "67"
+      }
+    ],
+    "answer": "65"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_025-056-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI pitch value of the note played in this recording? Respond with a number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "56"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_019-061-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the pitch detection is based on the most dominant frequency in the audio. Return only its MIDI equivalent (0-127).<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "61"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_111-059-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A melody extraction algorithm needs to identify the dominant pitch in this clip. Output only a single MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "59"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\brass_acoustic_059-051-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and determine the primary pitch in the audio. Return only the corresponding MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "51"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_007-104-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the MIDI pitch value in this audio sample and output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "104"
+      }
+    ],
+    "answer": "103"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_038-038-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the lowest pitch in the given audio and output its corresponding MIDI number. No text, just the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_080-071-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, extract the dominant pitch and provide its MIDI number. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "71"
+      }
+    ],
+    "answer": "73"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\mallet_acoustic_062-021-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the fundamental frequency to determine the pitch. Provide only the MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "21"
+      }
+    ],
+    "answer": "42"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_045-083-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the pitch and return its MIDI representation as a number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "83"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_027-060-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the MIDI pitch value in this audio sample and output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "60"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_113-025-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch variation in this recording and return the closest MIDI pitch value. Output only an integer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "answer": "31"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_synthetic_001-064-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, extract the dominant pitch and provide its MIDI number. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "64"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_002-044-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an audio-to-MIDI conversion task, classify the main pitch heard in the recording. Provide only the MIDI number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "44"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_084-036-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the pitch of the sound in this clip? Return a single MIDI pitch number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "36"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_041-046-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, extract the dominant pitch and provide its MIDI number. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "46"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_117-091-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the pitch of the sound in this clip? Return a single MIDI pitch number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "91"
+      }
+    ],
+    "answer": "92"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_013-030-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch variation in this recording and return the closest MIDI pitch value. Output only an integer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_049-093-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the fundamental frequency to determine the pitch. Provide only the MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "93"
+      }
+    ],
+    "answer": "93"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_006-065-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the pitch in the given audio sample and return its MIDI number. Only output an integer between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "65"
+      }
+    ],
+    "answer": "65"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_068-026-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech processing system, detect the fundamental pitch of the voice and return its corresponding MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "26"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_043-094-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI pitch value of the note played in this recording? Respond with a number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "94"
+      }
+    ],
+    "answer": "94"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_016-072-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the pitch in the given audio sample and return its MIDI number. Only output an integer between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "72"
+      }
+    ],
+    "answer": "65"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_043-052-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A melody extraction algorithm needs to identify the dominant pitch in this clip. Output only a single MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "52"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_036-055-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the pitch of the sound in this clip? Return a single MIDI pitch number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "55"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_000-050-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is tuning an instrument. Identify the pitch in the audio and return its MIDI value in the range [0, 127].<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_048-082-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an audio-to-MIDI conversion task, classify the main pitch heard in the recording. Provide only the MIDI number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "82"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_018-076-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the pitch detection is based on the most dominant frequency in the audio. Return only its MIDI equivalent (0-127).<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "76"
+      }
+    ],
+    "answer": "73"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_064-086-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the fundamental frequency to determine the pitch. Provide only the MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "86"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_023-081-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI pitch value in the range [0, 127]. Respond with only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "81"
+      }
+    ],
+    "answer": "80"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_064-092-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the pitch detection is based on the most dominant frequency in the audio. Return only its MIDI equivalent (0-127).<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "92"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_054-100-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the pitch detection is based on the most dominant frequency in the audio. Return only its MIDI equivalent (0-127).<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "answer": "100"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_115-103-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the lowest pitch in the given audio and output its corresponding MIDI number. No text, just the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "103"
+      }
+    ],
+    "answer": "103"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_076-098-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the lowest pitch in the given audio and output its corresponding MIDI number. No text, just the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "98"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_053-073-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the dominant pitch from the given audio and return it as a MIDI integer. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "73"
+      }
+    ],
+    "answer": "80"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_007-099-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the pitch detection is based on the most dominant frequency in the audio. Return only its MIDI equivalent (0-127).<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "99"
+      }
+    ],
+    "answer": "97"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_017-048-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and return the detected pitch as a MIDI value between 0 and 127. Provide only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "48"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_013-058-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the dominant pitch from the given audio and return it as a MIDI integer. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "58"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_electronic_022-034-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the lowest pitch in the given audio and output its corresponding MIDI number. No text, just the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "34"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_004-077-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the most prominent pitch in this sound sample. Output a single integer between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "77"
+      }
+    ],
+    "answer": "73"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\guitar_acoustic_015-047-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A melody extraction algorithm needs to identify the dominant pitch in this clip. Output only a single MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "47"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_038-045-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the MIDI pitch value in this audio sample and output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "45"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_026-029-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the lowest pitch in the given audio and output its corresponding MIDI number. No text, just the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_010-087-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the dominant pitch from the given audio and return it as a MIDI integer. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "87"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_013-043-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an audio-to-MIDI conversion task, classify the main pitch heard in the recording. Provide only the MIDI number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_004-057-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the MIDI pitch value in this audio sample and output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "57"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_006-074-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the pitch detection is based on the most dominant frequency in the audio. Return only its MIDI equivalent (0-127).<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "74"
+      }
+    ],
+    "answer": "65"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_020-062-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the fundamental frequency to determine the pitch. Provide only the MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "62"
+      }
+    ],
+    "answer": "63"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\keyboard_acoustic_004-070-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A melody extraction algorithm needs to identify the dominant pitch in this clip. Output only a single MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "70"
+      }
+    ],
+    "answer": "65"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_077-033-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the most prominent pitch in this sound sample. Output a single integer between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "33"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_060-027-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A melody extraction algorithm needs to identify the dominant pitch in this clip. Output only a single MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\bass_synthetic_098-075-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the MIDI pitch value in this audio sample and output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "answer": "72"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_096-106-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech processing system, detect the fundamental pitch of the voice and return its corresponding MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "106"
+      }
+    ],
+    "answer": "94"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_062-085-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an audio-to-MIDI conversion task, classify the main pitch heard in the recording. Provide only the MIDI number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "85"
+      }
+    ],
+    "answer": "73"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_018-042-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A melody extraction algorithm needs to identify the dominant pitch in this clip. Output only a single MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "42"
+      }
+    ],
+    "answer": "44"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_145-016-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is tuning an instrument. Identify the pitch in the audio and return its MIDI value in the range [0, 127].<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "16"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\guitar_acoustic_010-053-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple pitches are present, return the most dominant one as a single MIDI number in the range [0, 127].<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "53"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_012-028-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the fundamental frequency to determine the pitch. Provide only the MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "28"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_036-084-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and determine the primary pitch in the audio. Return only the corresponding MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "84"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_045-095-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the pitch of the sound in this clip? Return a single MIDI pitch number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "95"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_005-069-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and return the detected pitch as a MIDI value between 0 and 127. Provide only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "69"
+      }
+    ],
+    "answer": "63"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_071-024-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the pitch and return its MIDI representation as a number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_012-090-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the fundamental frequency to determine the pitch. Provide only the MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "90"
+      }
+    ],
+    "answer": "89"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_032-022-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI pitch value of the note played in this recording? Respond with a number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "22"
+      }
+    ],
+    "answer": "45"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_087-088-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is tuning an instrument. Identify the pitch in the audio and return its MIDI value in the range [0, 127].<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "88"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_045-089-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch variation in this recording and return the closest MIDI pitch value. Output only an integer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "89"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_005-035-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, extract the dominant pitch and provide its MIDI number. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "35"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_077-079-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the MIDI pitch value in this audio sample and output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "79"
+      }
+    ],
+    "answer": "77"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_131-108-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI pitch value of the note played in this recording? Respond with a number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "108"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_013-110-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch variation in this recording and return the closest MIDI pitch value. Output only an integer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "110"
+      }
+    ],
+    "answer": "105"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_005-096-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the pitch of the sound in this clip? Return a single MIDI pitch number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "96"
+      }
+    ],
+    "answer": "72"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_016-101-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the dominant pitch from the given audio and return it as a MIDI integer. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "101"
+      }
+    ],
+    "answer": "96"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\organ_electronic_007-019-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch variation in this recording and return the closest MIDI pitch value. Output only an integer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "19"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_041-107-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and return the detected pitch as a MIDI value between 0 and 127. Provide only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "107"
+      }
+    ],
+    "answer": "102"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_016-080-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple pitches are present, return the most dominant one as a single MIDI number in the range [0, 127].<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "80"
+      }
+    ],
+    "answer": "79"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_111-013-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the pitch detection is based on the most dominant frequency in the audio. Return only its MIDI equivalent (0-127).<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "13"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_017-102-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the pitch of the sound in this clip? Return a single MIDI pitch number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "102"
+      }
+    ],
+    "answer": "102"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_005-014-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI pitch value of the note played in this recording? Respond with a number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "14"
+      }
+    ],
+    "answer": "21"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_026-012-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the pitch detection is based on the most dominant frequency in the audio. Return only its MIDI equivalent (0-127).<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "12"
+      }
+    ],
+    "answer": "21"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_027-011-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and return the detected pitch as a MIDI value between 0 and 127. Provide only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "11"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_097-015-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the fundamental frequency to determine the pitch. Provide only the MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "15"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-test/audio\\bass_synthetic_009-017-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an audio-to-MIDI conversion task, classify the main pitch heard in the recording. Provide only the MIDI number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "17"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_005-009-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the pitch and return its MIDI representation as a number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_015-020-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an audio-to-MIDI conversion task, classify the main pitch heard in the recording. Provide only the MIDI number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "20"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_027-010-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech processing system, detect the fundamental pitch of the voice and return its corresponding MIDI pitch number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "10"
+      }
+    ],
+    "answer": "28"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\mallet_acoustic_056-118-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A melody extraction algorithm needs to identify the dominant pitch in this clip. Output only a single MIDI pitch value.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "118"
+      }
+    ],
+    "answer": "107"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_013-112-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple pitches are present, return the most dominant one as a single MIDI number in the range [0, 127].<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "112"
+      }
+    ],
+    "answer": "105"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_068-113-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the pitch and return its MIDI representation as a number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "113"
+      }
+    ],
+    "answer": "105"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_009-018-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the MIDI pitch value in this audio sample and output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "answer": "41"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_013-117-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the pitch of the sound in this clip? Return a single MIDI pitch number between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "117"
+      }
+    ],
+    "answer": "105"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_003-115-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the most prominent pitch in this sound sample. Output a single integer between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "115"
+      }
+    ],
+    "answer": "55"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\mallet_acoustic_056-120-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI pitch value in the range [0, 127]. Respond with only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "120"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\mallet_acoustic_056-114-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the most prominent pitch in this sound sample. Output a single integer between 0 and 127.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "114"
+      }
+    ],
+    "answer": "105"
+  },
+  {
+    "voice": [
+      "nsynth-test/audio\\mallet_acoustic_056-119-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the pitch and return its MIDI representation as a number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "119"
+      }
+    ],
+    "answer": "83"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_035-109-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an audio-to-MIDI conversion task, classify the main pitch heard in the recording. Provide only the MIDI number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "109"
+      }
+    ],
+    "answer": "97"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_008-111-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and return the detected pitch as a MIDI value between 0 and 127. Provide only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "111"
+      }
+    ],
+    "answer": "97"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\mallet_acoustic_056-116-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the dominant pitch from the given audio and return it as a MIDI integer. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "116"
+      }
+    ],
+    "answer": "105"
+  }
+]

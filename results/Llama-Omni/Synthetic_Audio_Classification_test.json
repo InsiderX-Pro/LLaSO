@@ -1,0 +1,1802 @@
+[
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file21390.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of categorizing speech samples in real-time. However, I can tell you that anti-deepfake systems typically use machine learning algorithms to analyze audio and video features to determine authenticity. These systems can be trained on a dataset of known real and fake samples to make predictions.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 45 914 445 137 167 761 430 185 788 15 998 350 836 663 466 824 655 837 81 664 347 376 398 212 455 143 912 519 589 126 323 534 485 321 948 86 539 552 326 519 26 204 280 576 384 907 430 816 409 757 302 716 205 521 711 510 169 609 46 812 222 915 156 824 442 485 113 327 635 205 521 691 105 244 583 167 655 764 837 81 377 627 385 584 902 415 772 497 63 644 254 821 104 108 894 852 741 384 879 577 154 302 663 969 44 254 530 733 445 137 488 620 143 38 244 583 576 384 104 693 521 854 258 436 139 340 459 173 945 29 423 384 175 430 684 274 794 75 583 874 167 104 837 81 664 196 721 250 250 485 948 86 539 876 29 479 330 822 89 194 664 219 107 519 26 204 280 314 333 432 882 170 731 600 702 788 874 366 896 627 758 711 510 589 884 244 583 15 333 998 357 757 323 333 319 990 501 107 518 321 948 258 436 139 340 828 835 22 589 243 172 871 734 432 431 531 534 485 321 948 620 112 915 781 645 803 969 179 961 398 212 455 659 609 423 27 761 104 693 521 382 350 836 663 466 503 333 523 958 918 743 776 366 627 758 545 711 510 297 884 79 868 220 846 483 423 27 761 430 650 931 62 954 317 645 453 655 837 81 198 711 510 878 609 187 594 246 901 166 964 113 327 905 803 791 894 52 267 684 136 915 143 537 526 559 333 196 166 56 113 327 635 791 380 382 390 479 330 776 534 485 948 86 539 477 74 663 969 198 711 510 884 79 868 220 196 721 250 523 793 105 244 477 583 576 663 969 748 12 977 877 366 488 352 931 538 27 246 70 390 66 776 59 488 328 915 274 794 680 910 333 32 924 234 161 523 50 53 458 584 902 193 415 772 497 63 63 991 202 881 331 485 948 813 32 683 519 26 204 280 314 333 432 32 170 731 600 702 788 874 6 366 896 627 758 545 711 510 337 243 850 914 445 137 488 620 915 943 321 948 539 105 777 227 647 822 89 194 620 112 208 944 878 609 187 594 493 361 931 565 734 537 721 250 822 194 664 539 794 680 15 333 432 742 519 26 204 280 576 384 879 901 185 944 932 148 116 281 783 803 791 380 620 112 156 824 485 974 284 327 635 716 205 521 267 538 823 175 684 136 143 390 479 330 776 822 89 194 664 107 519 589 26 204 280 668 576 384 761 907 430 650 409 757 716 205 521 711 510 884 79 868 220 498 172 871 822 89 194 664 990 107 137 412 973 288 796 33 523 196 166 250 333 487 219 727 817 146 283 377 832 758 545 711 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33576.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 89 194 664 990"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file15601.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided speech sample and classify it as either real human speech or a synthetic voice. Output only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "real",
+    "prediction_units": "156 824 485 284 327 635 205 521 916"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file1450.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I would categorize this speech sample as fake.",
+    "prediction_units": "530 733 787 935 101 677 660 555 233 914 445 137 167 761 430 70 185 794 788 15 998 350 836 402 663 466 556 655 837 81 198 711 124 884 202 393 946 333 32 683 519 589 126 323 534 485 321 948 86 539 552 326 589 26 204 280 576 384 907 430 816 409 757 716 205 521 267 173 198 641 683 589 337 243 479 330 776 822 89 194 664 990 107 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file20959.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 655 837 81 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file7377.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "I'm not capable of classifying recordings or accessing external data. However, I can provide information on deepfake speech detection or the history of the West Virginia coal mining industry if you're interested.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 445 137 822 89 664 757 323 59 790 716 205 521 932 148 850 45 914 119 887 593 167 761 907 430 70 835 866 586 362 59 66 776 655 837 81 398 212 455 143 156 824 734 263 45 119 607 592 103 969 660 166 398 212 455 758 711 510 362 461 969 538 423 27 761 430 219 522 586 314 245 798 32 882 924 866 398 212 455 428 161 487 319 219 522 589 600 702 788 576 663 466 852 353 716 205 521 537 721 250 822 89 194 664 934 75 788 291 377 87 164 584 902 193 341 415 661 497 63 665 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 530 733 445 137 488 620 143 38 676 481 973 288 750 687 870 692 154 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 931 659 493 361 915 537 721 250 485 948 86 876 233 479 330 837 664 990 519 589 126 323 534 485 321 948 539 552 326 884 721 250 523 793 403 244 583 576 384 879 70 219 727 817 146 283 352 385 343 659 461 969 393 946 734 470 821 333 32 170 731 600 702 477 728 663 466 56 321 633 327 932 148 202 393 946 734 787 935 101 741 384 879 70 835 67 940 118 233 526 705 11 534 837 81 327 272 119 607 908 103 205 521 889 324 338 359 655 837 81 179 961 398 212 455 771 46 328 801 250 333 432 170 731 600 728 663 321 633 406 389 771 685 333 958 66 258 436 663 969 406 25 771 333 328 274 992 477 728 647 384 879 70 835 67 940 118 599 377 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file5878.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file21137.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1529.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I would classify this speech as real. The language and sentence structure used are typical of human communication, and the content is coherent and natural-sounding.",
+    "prediction_units": "530 733 787 935 101 677 660 555 233 914 887 593 167 761 907 430 70 540 866 586 362 998 958 66 776 655 837 81 901 202 393 946 333 32 683 519 589 126 323 534 485 321 948 86 539 552 326 169 333 198 641 124 243 156 824 485 974 284 327 635 205 611 916 584 902 819 415 772 497 63 665 991 202 393 946 215 259 781 645 462 761 907 430 194 816 325 968 101 741 333 53 523 555 705 326 169 823 175 684 136 912 519 26 204 280 668 384 879 443 274 794 75 15 333 832 758 545 85 510 589 884 780 519 589 600 702 728 647 167 104 70 952 477 663 969 258 436 139 340 198 347 376 940 118 944 579 969 867 691 105 244 583 333 357 404 757 323 366 382 268 501 119 716 205 521 932 148 470 821 258 436 139 340 748 12 872 336 877 488 352 915 143 914 445 469 754 12 977 950 436 139 179 207 950 487 319 501 137 822 89 194 817 146 283 377 385 343 942 115 193 121 111 505 665 254 823 175 684 136 202 393 946 734 263 914 445 469 167 104 764 650 816 274 794 75 583 15 384 488 443 93 274 208 613 944 865 641 683 337 850 272 313 607 269 908 380 382 470 821 485 284 814 466 503 333 488 93 506 208 613 609 823 175 684 136 116 281 62 384 761 430 70 185 477 728 663 716 205 521 98 519 519 26 204 280 668 167 384 761 907 597 816 325 801 398 377 53 455 385 584 902 415 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file19779.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 990 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file6728.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 837 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file32061.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of accessing or analyzing audio recordings. However, I can provide you with some tips to help you determine if a voice is real or fake. Look for inconsistencies in tone, pitch, and rhythm. Check for unnatural pauses or hesitations. Also, listen for a lack of emotional depth or authenticity. If you're still unsure, you can try to find more information about the speaker or consult with an expert.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 423 27 761 430 70 219 522 866 586 314 798 432 32 882 924 866 398 212 455 659 461 969 538 609 423 27 761 430 179 931 62 954 259 317 645 453 655 837 81 664 347 376 398 212 455 538 609 187 594 246 901 166 964 113 327 635 894 382 156 824 734 870 263 45 272 119 607 592 103 660 166 398 212 455 758 545 711 510 297 265 675 237 415 772 497 63 644 254 821 104 894 852 741 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 143 38 481 973 288 750 870 692 306 154 558 655 837 81 664 555 166 258 436 139 340 787 271 333 523 196 918 519 26 204 280 668 167 104 896 627 143 38 542 244 583 15 576 333 506 876 545 85 297 884 79 868 220 470 821 576 693 268 876 233 258 436 139 340 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 377 488 620 352 385 659 825 685 958 66 776 734 692 526 302 592 103 81 194 664 835 67 22 297 265 955 865 641 124 337 243 156 824 442 485 284 327 635 716 205 521 267 187 594 461 969 390 479 330 776 576 822 89 194 664 990 107 417 755 193 415 772 497 63 991 162 781 645 908 382 268 107 233 515 663 969 263 46 328 45 914 445 469 328 912 519 26 204 280 314 333 432 882 170 731 600 702 15 832 912 866 261 976 534 321 948 198 711 510 362 812 222 915 143 38 105 244 583 576 803 563 380 620 385 343 44 115 752 63 662 213 260 323 821 576 333 506 552 326 531 417 169 254 823 175 684 136 156 824 442 333 166 549 366 896 627 385 584 902 193 415 772 497 63 662 326 531 576 384 879 70 219 107 233 479 515 663 538 27 650 816 325 116 281 62 384 761 430 70 185 477 728 663 716 205 521 382 251 676 412 260 41 740 246 693 828 347 376 975 955 53 198 711 510 169 461 969 470 821 384 879 32 347 924 866 975 586 955 59 403 794 680 15 822 89 194 664 817 146 283 377 758 545 711 510 297 265 675 755 237 415 772 497 63 644 187 594 310 346 540 295 76 614 803 791 52 524 44 63 665 991 162 781 303 333 32 924 866 586 955 6 620 352 915 143 390 515 663 565 734 259 781 645 761 907 430 70 219 501 107 137 932 148 565 734 498 324 789 908 380 817 146 283 353 716 205 521 537 721 250 549 384 879 430 70 404 876 743 417 187 594 461 969 538 594 246 70 390 66 776 59 328 915 274 557 794 680 15 333 32 866 230 955 523 50 53 458 309 902 193 415 772 497 63 644 864 771 685 333 873 958 66 258 436 663 969 742 519 589 600 702 15 576 635 693 205 521 267 538 27 650 816 915 912 431 531 643 253 592 103 969 524 726 44 605 63 665 991 258 436 139 340 867 263 914 445 137 469 488 620 143 105 777 227 647 655 837 81 664 79 868 220 390 479 330 776 167 655 837 81 620 555 915 233 889 324 826 592 103 969 25 825 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 931 428 565 734 849 907 597 945 29 393 946 734 432 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 714 187 594 461 969 867 45 272 313 469 366 832 915 912 98 519 589 26 586 668 246 693 521 351 506 208 613 417 243 935 271 523 196 921 488 620 931 659 423 384 879 219 522 589 337 126 323 663 969 506 686 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1497.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I would classify this speech as fake. The phrase 'gone too far' is a common idiomatic expression that is often used in human language, but may not be as commonly used in AI-generated speech.",
+    "prediction_units": "530 733 787 935 101 677 660 555 233 914 914 887 593 167 761 907 430 70 540 866 586 362 998 958 66 776 655 837 81 901 196 202 393 946 333 32 683 519 589 126 323 534 485 321 948 86 539 552 326 169 173 198 641 124 337 243 479 330 776 822 89 194 664 990 107 417 755 193 415 497 63 665 991 202 393 946 734 390 479 330 647 822 89 194 198 711 376 124 416 836 167 803 764 650 816 143 38 79 799 808 220 340 846 382 390 479 330 776 435 655 764 969 865 641 124 362 565 734 263 45 914 445 469 167 655 104 764 861 715 336 877 488 620 352 659 389 771 333 3 250 56 113 327 754 498 338 359 761 430 70 185 680 15 161 487 319 990 107 137 161 487 319 219 522 589 337 126 712 796 33 384 879 70 817 146 283 352 385 343 942 128 665 991 459 173 945 944 865 641 124 878 538 594 27 246 70 390 66 776 366 488 620 352 915 258 436 139 340 347 376 940 118 944 46 812 222 143 470 821 258 436 139 340 748 872 336 877 488 352 915 781 645 761 907 430 816 325 852 387 741 377 53 198 506 705 326 417 675 237 307 407 111 621 128 665 213 547 833 104 945 29 73 172 871 822 89 194 664 575 116 475 783 104 945 29 943 321 948 86 173 641 124 850 914 445 469 167 104 336 366 352 915 518 321 948 258 436 139 340 198 347 376 940 118 944 46 812 222 428 25 423 822 89 327 905 579 837 81 664 196 705 11 576 384 879 179 961 428 663 466 503 822 89 194 664 599 161 523 555 85 519 589 126 323 534 485 321 948 53 539 506 686 552 326 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file22641.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided speech sample and classify it as either real human speech or a synthetic voice. Output only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "real",
+    "prediction_units": "156 824 485 284 635 205 521"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file15301.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A security system is detecting AI-generated voices. Identify whether this voice sample is real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I don't see a voice sample or a testimonial from Brennen. Could you please provide more context or information?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 105 79 868 220 470 821 576 693 268 876 417 341 661 497 63 644 254 821 167 104 108 894 968 852 741 384 879 577 154 302 663 969 44 254 504 530 733 537 721 549 803 795 208 233 519 26 204 981 976 534 485 321 948 633 327 565 734 692 526 302 592 103 81 194 664 835 67 940 519 26 280 576 384 907 430 816 409 757 716 205 521 267 461 969 565 734 793 105 244 583 70 600 702 683 600 788 663 211 179 961 428 664 113 327 635 716 205 521 382 390 479 515 647 896 627 143 290 978 824 647 466 384 879 488 179 961 428 584 902 193 415 772 497 63 662 914 119 469 677 220 523 555 166 258 436 139 340 357 251 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 29 324 826 592 103 969 867 263 45 272 313 469 367 167 655 764 650 816 274 794 75 583 576 384 879 219 952 522 67 940 118 461 969 25 771 46 328 143 390 422 330 776 663 748 806 336 822 89 194 817 146 283 377 385 343 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file18502.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided speech sample and classify it as either real human speech or a synthetic voice. Output only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 764 89 194 664 506"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file4308.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 764 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17012.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing speech or audio files. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 423 761 907 430 179 931 62 954 259 317 645 655 837 81 664 347 376 398 212 455 143 912 98 519 589 126 323 534 485 321 948 86 539 552 326 169 461 969 538 187 594 246 660 166 964 113 327 390 479 330 776 655 837 81 693 205 521 611 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 931 538 187 594 908 310 325 518 56 321 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file33178.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of directly analyzing voice recordings. However, I can suggest some online tools or apps that can help you determine whether a voice recording is real or fake. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 537 721 250 734 156 824 384 879 219 952 29 518 321 948 406 423 27 761 907 430 179 931 62 954 317 645 453 655 837 81 664 347 376 866 398 212 455 143 692 526 302 592 81 194 664 32 835 67 22 337 243 156 824 870 263 45 119 607 592 103 969 660 166 398 212 455 758 545 711 297 265 675 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 352 915 912 519 26 204 280 314 59 523 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 167 104 896 627 878 538 27 579 764 361 325 781 645 655 837 81 664 143 38 244 583 516 677 253 205 521 711 510 169 461 969 538 423 27 761 907 430 70 404 595 85 297 884 459 173 945 233 914 445 137 620 352 915 470 821 576 384 693 268 404 876 323 258 436 139 340 196 721 250 523 793 105 244 583 576 663 969 748 12 977 877 377 488 352 385 915 935 101 741 879 901 921 663 969 734 692 526 302 592 103 81 194 32 835 67 22 337 243 156 824 870 263 272 119 607 592 103 660 166 398 212 455 428 865 641 124 243 156 824 485 974 284 327 635 205 521 267 187 594 461 969 390 479 330 776 822 89 194 664 990 107 755 415 772 497 63 665 991 535 101 271 355 660 555 258 436 139 340 259 781 645 837 81 664 219 107 29 519 26 204 280 668 167 104 896 627 156 824 442 384 879 219 501 469 59 748 12 671 877 488 443 93 801 549 822 89 194 664 817 146 283 832 758 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/real\\file25092.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "The speech sample is fake, as it appears to be a quote from a movie or book, rather than a real conversation.",
+    "prediction_units": "393 946 734 742 98 519 589 126 323 534 485 948 813 539 552 326 519 26 204 280 668 576 384 907 430 650 409 757 716 205 521 25 825 771 865 641 683 589 337 243 479 330 776 822 89 194 664 990 107 417 755 237 193 63 665 254 823 173 641 124 437 734 870 251 676 0 260 323 534 485 284 663 969 198 711 510 884 79 868 220 943 327 327 734 263 45 272 119 387 908 380 660 506 233 479 515 647 37 896 627 168 565 734 498 889 324 789 677 253 692 559 56 321 948 855 187 594 461 969 382 290 978 833 908 611 382 268 506 107 417 755 237 605 63 665 991 156 824 556 462 761 907 430 901 921 366 921 331 173 488 620 931 565 734 156 824 485 974 284 327 635 716 205 521 382 45 313 367 167 246 650 816 409 154 559 663 432 346 540 866 586 314 6 822 89 194 817 146 283 377 385 584 193 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file25874.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing voice recordings or determining their authenticity. I can provide general information on the topic, though. Would you like that?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 423 27 761 907 430 179 931 62 259 317 645 655 837 81 664 347 376 398 212 455 143 692 526 302 592 103 81 194 664 835 67 22 337 243 156 824 870 263 45 119 607 592 103 969 660 166 398 212 455 758 545 711 510 362 461 969 196 721 250 523 793 105 244 583 576 663 969 748 12 977 877 179 398 212 455 202 881 331 663 969 538 27 246 70 390 66 776 488 328 915 274 557 680 15 333 32 882 924 261 230 161 523 50 53 458 309 584 193 415 772 497 63 644 254 530 733 914 445 137 488 620 143 38 676 481 973 288 750 687 870 692 154 558 655 837 81 664 555 29 542 705 11 576 384 879 179 961 62 466 716 205 521 267 25 771 46 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 538 187 594 493 361 393 946 734 793 105 244 583 167 104 764 108 404 757 323 377 990 107 417 755 237 193 63 665 202 881 331 803 563 611 916 584 902 193 341 661 497 63 665 991 535 935 101 355 660 555 166 258 436 139 340 259 781 645 655 837 81 664 219 990 107 29 881 331 384 907 430 945 506 686 417 755 902 415 341 661 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file24287.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 990 107"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file245.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file29370.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "479 330 776 822 89 194 664 990 107"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file6571.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 764 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17383.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of classifying recordings in real-time. However, I can provide you with information on how to classify deepfake speech detection recordings or recommend tools that can help you with that task.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 850 45 914 119 887 593 167 761 907 430 70 835 866 586 362 59 66 776 655 837 81 398 212 455 143 156 824 45 119 607 592 103 969 660 166 398 212 455 545 711 510 362 46 812 222 156 824 442 485 113 327 716 205 521 691 45 244 583 167 655 764 837 81 377 627 385 584 902 415 497 63 644 254 821 761 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 258 436 139 340 787 935 271 333 523 196 918 743 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 659 187 493 361 470 821 761 907 597 660 691 79 868 220 483 914 593 167 761 430 70 835 866 586 59 998 319 958 66 776 655 837 81 664 915 537 721 250 485 321 948 86 539 876 29 233 479 330 655 837 81 664 219 107 85 519 589 126 323 534 485 321 948 86 539 552 326 884 250 523 793 403 244 583 576 384 879 219 727 817 146 283 352 915 143 272 119 592 103 969 166 398 212 758 711 510 362 461 969 156 824 442 384 879 319 501 445 469 748 12 872 336 877 384 488 443 93 915 233 850 244 240 516 677 253 205 521 711 510 884 459 173 945 233 914 445 137 488 620 352 915 470 821 576 384 693 268 404 876 323 258 436 139 340 787 935 271 333 523 196 555 29 202 881 331 238 907 430 164 506 686 29 561 244 583 576 761 907 430 70 835 67 940 118 107 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file20868.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/fake\\file21723.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speech sample as either real or fake. Provide no extra text, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "Real",
+    "prediction_units": "156 824 485 284 327 635 205 611 916"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17155.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "The speech sample appears to be synthetic, likely generated by a text-to-speech model.",
+    "prediction_units": "393 946 734 742 98 519 589 126 323 534 485 948 813 86 539 552 326 519 26 204 280 576 384 907 430 650 816 409 757 41 716 205 521 565 734 251 676 260 323 534 485 321 284 663 969 198 711 510 337 884 79 868 220 943 321 948 86 742 519 26 204 280 314 443 915 274 557 256 15 6 384 879 185 680 15 377 487 990 107 417 755 237 193 665 991 645 837 81 664 990 107 518 321 948 86 537 705 11 576 384 879 179 961 428 663 466 405 822 89 194 664 599 333 523 555 29 290 833 368 655 837 81 327 565 734 793 105 244 583 576 384 879 219 952 522 67 940 118 613 417 884 79 868 220 432 742 519 589 126 323 534 879 948 86 539 552 326 243 889 324 338 359 655 764 660 921 716 205 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file19418.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "479 330 776 822 89 194 664 990 107"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file11789.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I need more information about the software and the issues you're experiencing. Can you please provide more details?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 321 86 539 79 868 220 470 821 576 693 268 876 341 661 497 63 665 991 254 821 167 104 108 894 968 852 741 384 879 577 154 302 663 969 524 296 44 254 504 530 733 575 116 372 485 948 86 555 233 889 826 592 103 969 466 771 328 143 390 422 330 776 435 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 734 849 907 597 29 202 393 946 734 98 519 26 204 280 668 246 70 390 66 884 118 233 787 935 101 741 284 249 969 538 823 175 684 136 393 946 215 406 25 771 333 32 431 531 976 74 139 340 198 711 124 258 436 663 969 466 487 319 219 522 589 126 323 485 120 814 466 405 964 113 488 832 93 912 85 866 586 398 377 385 309 584 902 193 415 772 497 63 665 662 914 445 137 488 179 207 258 436 139 340 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 889 324 826 592 103 969 523 196 721 250 485 948 86 539 557 75 583 822 89 284 377 693 205 521 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file8843.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I need more context or information about the speech sample. Could you please provide more details or clarify what you're referring to?",
+    "prediction_units": "99 254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 384 803 693 611 268 876 417 341 661 497 63 644 991 254 821 167 104 108 894 968 852 741 384 879 577 154 302 663 969 524 296 44 254 530 733 575 116 372 485 948 86 555 889 324 826 592 103 969 867 45 45 272 313 469 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 233 461 969 466 25 771 46 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 931 659 823 565 849 907 597 945 29 202 393 946 734 742 98 519 589 126 323 534 485 948 86 539 552 326 531 519 26 204 280 668 576 384 907 430 650 409 757 740 716 205 521 611 916 584 902 193 415 497 63 665 662 914 119 469 677 220 333 523 555 258 436 139 340 382 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 664 555 29 889 324 826 592 103 969 196 721 250 485 948 86 539 557 794 75 583 822 89 284 327 693 205 521 711 510 362 461 969 867 45 914 887 167 462 104 907 466 663 390 958 66 776 655 837 81 787 935 101 741 173 945 233 258 436 635 663 969 156 824 734 870 390 422 330 776 663 969 466 398 212 455 143 38 79 799 220 340 846 611 524 44 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file7400.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "This speech is likely AI-generated due to its overly formal and exaggerated language, which is not typical of human speech.",
+    "prediction_units": "202 881 331 333 873 32 683 589 126 323 534 485 948 86 539 552 326 955 865 641 124 337 243 781 645 655 837 81 664 990 107 518 321 406 25 609 423 822 89 194 327 905 655 837 81 664 196 705 11 576 384 879 179 961 428 663 466 405 822 89 194 664 599 523 555 29 537 721 250 436 139 340 846 524 867 105 79 799 220 846 483 333 437 85 878 609 187 594 908 380 382 692 306 302 663 259 518 321 86 390 479 330 435 592 103 969 806 789 716 205 521 267 538 823 175 684 136 944 161 487 319 219 522 975 668 167 663 559 599 333 523 555 233 781 645 761 907 81 194 816 325 968 852 101 741 377 53 198 506 705 326 417 675 237 307 621 128 665 991 535 271 333 437 552 326 955 865 641 124 878 116 475 783 104 430 945 29 561 244 583 15 333 357 404 757 323 366 268 501 119 716 205 521 932 148 470 821 258 436 139 340 748 12 872 336 877 488 352 915 98 519 589 126 323 534 485 321 948 53 539 506 686 552 326 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file27095.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the authenticity of a speech sample. However, I can suggest some ways for you to verify its authenticity, such as checking the speaker's tone, language, and context, or looking for inconsistencies in the speech.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 530 733 196 166 721 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 202 393 946 215 327 905 246 70 390 66 776 488 328 915 274 557 794 680 15 333 32 924 866 955 523 50 321 633 327 932 148 565 734 742 98 519 589 126 323 534 485 321 948 86 539 552 326 531 519 26 204 280 576 384 907 430 650 816 409 757 41 716 205 611 916 584 902 415 772 497 63 644 991 254 821 167 104 108 894 968 852 384 879 577 154 302 663 969 538 530 733 914 445 137 488 620 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 85 519 26 204 280 668 167 104 896 627 935 101 741 822 89 194 198 711 510 337 243 515 663 258 436 139 340 539 105 79 868 220 870 692 526 559 384 249 466 954 998 390 66 776 655 837 81 664 333 437 85 169 878 27 246 390 66 776 59 328 915 274 794 680 910 333 32 924 230 955 523 50 53 321 458 524 942 44 115 193 128 665 780 519 26 204 280 668 70 185 552 955 333 198 32 683 337 884 850 326 531 576 879 219 501 398 212 455 202 393 946 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 510 337 884 702 244 583 874 576 803 563 380 620 112 343 942 44 115 665 991 162 781 645 761 907 430 816 325 968 852 101 741 377 53 198 555 705 326 417 169 644 823 175 684 136 143 45 914 445 469 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 613 417 237 187 594 461 969 217 781 645 402 660 268 501 398 212 455 143 38 515 663 263 45 914 445 469 328 912 519 26 204 280 314 333 32 882 731 600 702 15 59 832 912 866 261 976 534 321 948 198 711 510 362 46 812 393 946 734 742 98 519 589 126 323 534 485 321 948 86 539 686 552 326 531 417 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file2183.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I would classify this speech as fake. The phrase 'it was not always this way' is a common trope often used in fictional stories, and the tone seems too formal and rehearsed to be a genuine spontaneous statement.",
+    "prediction_units": "530 733 787 935 101 677 660 555 233 914 914 887 593 167 761 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 333 32 683 519 589 126 323 534 485 321 948 86 539 552 326 169 173 641 124 589 337 243 126 330 776 822 89 194 664 990 107 417 755 193 415 772 497 63 665 991 202 393 946 734 390 479 330 647 822 89 194 198 711 376 124 955 437 935 101 741 641 124 884 116 475 783 104 430 945 944 594 310 787 101 741 89 321 194 198 711 124 884 202 881 331 333 32 683 589 337 243 535 935 101 741 822 89 194 633 865 641 124 362 734 263 45 914 272 445 469 167 655 104 764 748 715 336 877 366 488 352 38 244 728 227 647 803 908 791 380 382 268 876 878 538 609 594 27 246 70 390 66 776 59 488 620 352 915 258 436 139 340 347 376 940 118 944 46 812 222 143 390 479 330 776 333 487 219 727 431 146 283 353 716 205 521 828 98 519 589 600 702 788 614 592 103 466 503 56 321 198 711 510 297 265 675 237 307 407 985 505 99 254 823 175 684 136 202 393 946 734 105 244 583 576 803 380 816 112 915 912 98 519 26 204 280 534 485 948 813 627 758 545 711 510 884 79 799 808 220 340 846 390 479 330 435 592 103 969 806 716 205 521 267 538 175 684 136 156 824 663 734 470 821 969 828 835 67 940 118 417 884 79 868 220 943 321 948 565 734 523 196 705 11 576 384 879 179 207 950 74 483 488 620 352 519 589 126 547 444 655 764 650 816 274 794 583 15 822 89 194 179 207 950 113 327 333 683 589 519 589 702 576 822 89 194 664 539 747 671 377 93 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file6463.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "The speech in the audio is real human speech.",
+    "prediction_units": "393 734 742 98 519 589 126 323 534 485 948 813 539 552 326 955 46 812 222 393 946 215 406 327 594 246 660 166 964 113 327 791 52 424 25 825 865 641 124 243 156 824 485 974 284 327 635 205 521 470 821 258 436 139 340 748 872 336 877 488 832 352 915 912 519 589 126 323 534 485 321 53 539 506 686 552 326 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file1505.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "I would classify this speech as fake. The phrase'making friends' is not typical of a probation officer's language, and the sentiment expressed is too positive and generic to be believable from a character in a realistic scenario.",
+    "prediction_units": "530 733 787 935 101 677 660 555 233 914 887 593 167 761 907 430 70 540 866 586 362 59 998 958 66 776 167 655 837 81 901 196 202 393 946 333 432 32 683 519 589 126 323 534 485 321 948 86 539 552 326 955 333 173 641 124 337 243 479 330 776 822 89 194 664 990 107 417 755 193 415 772 497 63 665 991 202 393 946 734 390 479 330 647 822 89 194 198 711 376 124 243 498 172 871 877 822 89 194 664 990 501 398 212 455 143 390 479 330 647 384 879 488 443 325 758 545 711 510 362 865 641 124 243 116 475 783 104 945 542 244 583 333 357 404 757 323 37 268 263 501 119 716 205 521 932 148 734 870 251 676 973 288 796 750 687 24 382 268 692 526 559 384 822 89 194 664 817 146 283 352 659 878 538 187 246 390 66 776 432 742 924 866 586 76 663 969 198 711 124 337 243 243 781 645 761 907 430 194 816 325 968 852 387 377 53 198 506 705 326 417 675 237 193 335 985 63 665 254 823 175 684 136 393 946 734 742 98 519 26 204 280 576 384 879 443 93 274 794 680 15 59 748 671 877 488 443 93 274 794 944 423 161 487 319 219 522 589 337 126 712 576 384 879 70 835 67 940 118 944 865 641 124 337 884 79 799 808 220 340 846 251 676 0 547 444 167 655 104 764 70 347 975 59 471 737 333 377 885 878 823 175 684 136 143 705 11 436 161 824 556 238 655 466 503 333 487 219 990 107 29 79 868 220 943 321 948 290 978 402 259 781 303 485 948 885 692 154 302 402 790 716 205 521 382 390 479 515 647 246 896 627 565 734 263 914 445 137 576 384 761 907 466 503 487 219 952 315 75 788 663 969 25 825 46 812 222 565 734 156 824 56 284 327 635 205 259 303 333 32 683 67 940 118 702 15 487 219 107 522 519 26 204 280 179 961 62 428 384 907 466 911 964 113 377 87 164 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file27908.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the authenticity of a speech sample. However, I can suggest some ways for you to verify its authenticity, such as checking the speaker's tone, language, and context, or looking for inconsistencies in the speech.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 530 733 196 166 721 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 455 202 393 946 215 327 905 246 70 390 66 776 488 328 915 274 557 794 680 15 333 32 924 866 955 523 50 321 633 327 932 148 565 734 98 519 589 126 323 534 485 321 948 86 539 552 326 531 519 26 204 280 576 384 907 430 650 816 409 757 716 205 611 916 584 902 415 772 497 63 644 991 254 821 167 104 108 894 968 852 741 384 879 577 154 302 663 969 538 530 733 914 445 137 488 620 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 85 519 26 204 280 668 167 104 896 627 935 101 741 822 89 194 198 711 510 337 243 515 663 258 436 139 340 539 105 79 868 220 870 692 526 559 576 384 249 466 954 390 66 776 655 837 81 664 333 437 85 169 878 27 246 390 66 776 59 328 915 274 557 794 680 910 333 432 32 882 924 866 230 955 523 50 534 321 458 524 942 44 115 193 128 665 780 26 204 280 668 70 185 552 955 333 32 683 337 884 850 326 531 576 384 879 219 501 398 212 455 202 393 946 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 510 337 243 884 702 244 583 874 576 803 563 380 620 112 343 942 44 115 665 991 162 781 645 761 907 430 816 325 968 852 101 741 377 53 198 555 705 326 417 169 644 823 175 684 136 143 45 914 445 469 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 613 417 237 187 594 461 969 217 781 645 402 660 268 501 398 212 455 143 38 515 663 263 45 914 445 469 328 912 519 26 204 280 314 333 32 882 731 600 702 15 59 832 912 866 261 976 534 321 948 198 711 510 362 46 812 393 946 734 742 98 519 589 126 323 534 485 321 948 86 539 686 552 326 531 417 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1809.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 764 837 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file11669.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 764 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file16399.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speech sample as either real or fake. Provide no extra text, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 990"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file6826.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speech sample as either real or fake. Provide no extra text, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "479 330 776 822 89 194 664 990 107 417"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file455.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speech contains unnatural pauses, robotic modulation, or digital artifacts, classify it as fake; otherwise, as real. Provide only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "real",
+    "prediction_units": "156 824 485 284 327 635 205 611 916"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1776.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing speech timbre, pitch variations, and articulation to classify a voice as real or fake. I'm a text-based AI assistant, I don't have the ability to process audio or speech.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 538 423 27 761 430 650 179 931 62 954 259 317 645 655 837 81 664 347 376 398 212 455 143 912 519 589 126 323 534 485 321 948 86 539 552 326 884 244 583 576 384 907 430 896 627 409 765 978 663 969 524 44 752 63 213 260 323 333 793 403 552 326 243 537 526 559 576 384 879 466 503 56 113 822 89 194 817 146 283 832 758 545 711 510 297 265 675 237 254 823 175 684 136 944 878 538 609 27 663 969 185 794 680 910 333 487 319 501 477 910 74 228 259 453 822 89 194 817 146 283 352 385 143 38 79 868 220 263 914 887 593 167 462 761 430 70 835 540 866 586 362 734 958 66 776 655 837 81 327 734 692 526 302 592 103 81 194 664 835 22 297 362 173 641 124 243 156 824 485 974 284 327 635 716 205 521 267 187 594 461 969 390 479 330 776 822 89 194 664 506 990 107 417 755 415 772 497 63 644 254 504 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 506 208 613 417 237 193 111 63 665 644 254 530 733 196 537 721 549 576 803 795 208 233 152 784 429 202 393 946 734 327 734 790 333 37 693 234 366 660 50 910 321 633 86 539 105 79 868 220 870 251 676 973 288 750 246 70 540 866 586 314 333 432 32 835 67 510 878 609 187 594 246 901 166 250 964 113 327 635 791 894 267 187 594 461 969 742 98 519 589 126 323 534 485 321 948 539 552 326 417 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1207.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm sorry, I'm a text-based AI assistant and do not have the capability to hear or assess vocal textures. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 912 98 519 589 26 204 280 668 246 466 53 321 458 44 115 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 530 837 81 733 798 742 98 519 26 204 280 6 333 32 882 170 731 600 702 15 283 488 443 93 208 613 878 175 684 136 915 721 250 220 139 340 575 475 783 945 944 470 152 784 429 202 393 946 734 487 319 263 914 445 137 822 89 664 757 323 59 790 37 693 234 366 523 50 321 948 86 105 79 868 220 470 821 534 485 284 663 969 187 594 461 969 538 423 565 734 742 98 519 589 26 204 280 314 384 879 32 835 683 67 337 243 537 526 302 908 382 268 501 860 716 205 521 691 105 244 583 576 384 879 219 522 589 600 477 326 74 663 969 377 198 711 510 297 265 675 755 415 772 497 63 644 254 530 733 914 445 137 576 488 620 931 538 187 594 908 310 325 518 56 321 86 156 824 442 432 742 519 589 126 740 655 764 650 816 325 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file9637.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording naturally spoken or artificially generated? Respond only with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 837 81 194 664"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file19680.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing voice recordings in real-time. However, I can suggest some online tools that can help you determine whether a voice recording is real or fake. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 267 932 148 423 27 761 907 430 179 931 62 259 317 645 655 837 81 347 376 398 212 455 143 526 302 592 103 81 194 32 835 67 337 243 156 824 870 263 45 272 119 607 592 103 969 660 166 398 212 455 758 711 510 362 46 812 222 915 143 156 824 442 485 113 327 635 205 521 691 105 244 583 167 655 764 837 81 377 385 584 902 415 772 497 63 644 991 254 821 167 104 894 852 741 384 879 577 154 302 663 969 524 530 733 914 445 137 488 620 352 912 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 85 519 26 204 280 668 104 896 627 659 538 27 579 764 361 325 781 645 655 837 81 620 143 38 244 240 583 516 677 253 205 521 711 510 884 459 173 945 233 914 445 137 488 620 352 470 821 384 693 268 404 876 323 258 436 139 340 196 721 250 523 105 244 583 576 663 969 748 12 977 877 377 488 352 385 915 935 101 741 384 879 901 921 663 969 466 734 692 526 302 592 103 81 194 32 835 67 22 337 243 156 824 870 263 272 119 607 592 103 660 166 398 212 455 428 865 641 124 243 156 824 485 974 284 327 635 205 521 267 187 594 461 969 390 479 330 776 822 89 194 664 990 107 755 193 415 772 497 63 665 991 535 101 355 660 555 166 258 436 139 340 259 781 645 837 81 664 990 107 29 85 519 26 204 280 668 167 104 896 627 156 824 384 879 319 501 469 59 748 12 977 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file28040.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file21804.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 764 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17142.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I think that's real human speech.",
+    "prediction_units": "70 918 256 743 15 576 333 212 455 107 29 881 459 173 430 945 243 156 824 485 948 284 327 635 205 521 470 821 258 436 139 340 748 872 336 877 488 352 915 912 519 589 126 323 534 485 321 948 53 539 506 686 552 326 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/fake\\file33629.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An automated voice assistant is under analysis. Classify this voice as either real human speech or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 655 822 837 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file3321.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to listen to or analyze audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 321 948 86 539 79 868 220 470 821 576 803 693 611 268 876 417 736 341 661 497 63 644 254 821 167 104 108 894 968 852 741 384 879 577 154 302 663 969 524 726 44 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 67 589 337 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 488 684 136 915 721 250 220 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 664 757 323 59 790 333 37 234 366 523 50 321 86 105 79 868 220 228 259 781 303 333 32 882 924 866 586 955 283 488 352 915 143 38 79 799 220 846 187 594 461 969 538 423 27 761 430 179 931 62 402 259 317 645 453 655 837 81 198 711 510 878 609 187 594 246 901 166 964 113 327 611 916 584 902 193 341 661 497 63 644 254 530 733 914 445 137 576 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 742 170 589 126 740 655 764 650 816 325 208 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file25756.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I would classify this speech as fake. The phrase 'but after all that was her first attempt' is a giveaway, as it's a cliché and an unnatural way for a person to speak.",
+    "prediction_units": "530 733 787 935 101 677 660 555 233 914 887 593 167 462 761 907 430 70 540 866 586 362 59 958 66 776 167 655 837 81 901 196 202 393 946 333 32 683 519 589 126 323 534 485 321 948 86 539 552 326 169 173 641 683 337 243 479 330 776 822 89 194 664 990 107 417 755 193 415 772 497 63 665 991 202 393 946 215 390 479 330 647 822 89 194 198 711 376 124 884 833 173 945 944 423 27 761 430 70 390 66 788 663 538 187 594 310 521 881 331 173 945 935 101 741 641 124 337 821 663 969 390 479 330 435 663 969 828 835 67 940 118 944 734 357 105 244 583 576 384 896 208 613 389 865 641 124 362 362 565 734 319 416 836 485 885 692 734 787 935 101 741 822 89 194 633 942 44 115 254 823 173 641 347 124 362 955 437 700 362 734 263 914 119 593 453 366 358 431 531 314 576 822 89 321 948 633 406 823 175 684 136 944 565 488 620 931 116 281 384 761 430 70 185 477 728 663 716 205 521 787 935 101 741 822 89 194 664 539 105 515 663 734 251 676 260 973 241 663 969 722 346 540 295 586 283 352 143 79 868 220 432 742 519 589 126 323 534 485 321 948 86 990 107 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file5350.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "I'm not capable of categorizing speech samples or determining authenticity. I'm a text-based AI assistant, not a speech recognition system. If you're concerned about a specific speech sample, I recommend consulting with a qualified expert or authority in the relevant field.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 45 914 445 137 576 761 430 70 185 788 15 998 350 836 663 466 556 655 837 81 664 347 376 398 212 455 143 912 519 589 126 323 534 485 321 948 539 552 326 519 26 204 280 576 384 907 430 816 409 757 716 205 521 711 510 169 237 461 969 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 179 398 212 455 538 27 932 390 66 776 328 915 274 557 794 680 910 333 882 885 866 261 230 955 523 50 53 458 584 902 193 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 952 522 67 940 118 537 213 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 432 742 519 26 204 280 6 333 32 882 170 731 600 702 15 377 93 506 208 613 417 237 193 63 665 991 162 116 475 783 104 430 945 944 565 734 742 98 519 589 126 323 534 485 948 813 539 552 326 243 156 824 384 879 319 501 137 161 487 319 350 747 207 428 333 817 146 283 352 915 912 98 519 26 204 280 314 6 333 432 882 170 731 600 702 788 874 377 896 385 309 584 415 772 497 63 644 864 771 685 333 873 958 66 258 436 663 969 867 45 272 313 469 366 328 912 540 589 295 586 668 803 969 555 944 734 849 761 907 597 944 565 734 742 98 519 589 337 126 260 323 241 432 882 924 261 230 314 333 958 66 852 333 487 990 107 85 519 589 126 323 534 485 948 86 539 552 326 531 519 26 204 280 576 384 907 430 650 409 757 716 205 521 524 44 115 63 665 254 530 733 156 824 442 879 319 501 445 469 754 748 12 872 336 877 384 488 443 93 915 208 850 914 272 445 469 729 912 519 589 26 204 280 668 246 693 934 351 794 398 212 455 787 935 271 366 196 921 734 263 45 272 119 387 246 693 317 453 402 382 390 66 776 655 837 81 664 555 944 878 25 609 423 384 879 219 522 589 337 126 323 663 969 506 686 208 613 417 755 237 665 187 594 461 969 466 565 734 918 256 788 668 246 466 234 523 50 321 633 406 25 771 46 812 393 946 734 156 824 384 879 259 317 453 24 577 692 154 559 366 488 443 93 506 208 233 479 330 776 534 485 974 564 284 852 693 205 521 506 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/fake\\file11420.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "Fake. The phrase 'always was' is not grammatically correct in this context.",
+    "prediction_units": "390 479 330 776 822 89 194 664 990 107 417 755 902 193 415 661 497 665 991 202 393 946 734 390 479 330 647 822 89 194 198 711 124 337 187 594 310 787 101 741 56 321 194 948 32 683 337 243 935 101 741 641 124 865 641 124 116 475 783 104 945 944 914 416 426 647 556 761 430 108 748 872 336 359 761 430 70 185 680 15 161 487 319 990 107 518 321 914 445 119 469 607 663 466 405 556 384 879 219 952 686 613 944 169 46 812 222 881 331 333 32 683 914 445 469 167 764 650 816 274 557 794 75 583 15 384 879 377 219 952 522 67 940 118 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1639.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or classifying speech samples. I'm a text-based AI assistant.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 944 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 423 27 761 430 650 931 62 954 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 901 166 964 113 327 635 791 380 267 187 461 969 867 45 914 119 593 167 761 907 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 398 212 455 143 912 98 519 589 126 323 534 485 948 86 539 552 326 519 26 204 280 576 384 907 430 816 409 757 716 205 521 711 510 297 265 675 755 237 415 772 497 63 644 254 504 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 788 15 377 385 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file30098.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "To manage all alone, I'm not sure, I'm just an AI, I don't have personal experiences or emotions.",
+    "prediction_units": "868 220 498 889 338 359 384 907 430 179 961 428 333 523 555 705 11 878 609 187 594 310 267 781 645 908 563 380 620 385 942 44 115 752 63 254 504 530 733 896 627 116 475 783 104 945 326 531 643 253 592 103 969 726 44 644 254 504 530 733 627 168 705 11 576 104 70 835 67 940 118 702 944 955 46 812 222 659 25 771 822 89 194 284 327 905 579 655 764 837 81 194 458 406 530 733 196 537 721 549 803 795 506 208 233 429 850 412 260 973 241 796 663 969 722 346 540 295 59 353 716 205 521 878 423 487 319 219 522 589 126 323 74 814 466 405 852 964 113 488 832 93 912 85 866 586 955 53 198 711 510 878 461 969 466 423 565 734 498 324 789 908 380 828 817 146 283 832 758 545 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file2921.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "This speech is likely fake. The phrase 'that belonged to the woman' is a common red flag for AI-generated text, as humans tend to use more varied and natural language.",
+    "prediction_units": "202 881 331 333 873 32 683 589 126 323 534 485 948 86 539 552 326 169 865 641 124 337 243 645 655 837 81 664 990 107 518 321 948 86 390 479 330 776 822 89 194 664 990 107 417 755 193 415 497 63 665 991 393 946 734 390 479 330 647 822 89 194 198 711 124 881 459 173 945 29 290 978 833 687 259 781 645 246 764 816 325 208 613 417 79 799 220 202 393 946 734 787 935 101 741 908 246 748 12 872 336 877 377 488 620 352 659 865 641 124 362 734 263 45 272 445 469 167 655 764 861 715 336 877 366 488 620 352 915 156 824 384 879 523 555 233 470 479 330 645 453 238 761 907 430 506 107 515 663 25 423 822 89 194 327 905 837 81 664 196 705 11 576 384 879 179 961 428 663 466 503 822 89 194 664 599 161 523 555 29 561 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 307 985 665 99 254 823 27 173 641 347 124 470 821 436 139 340 748 872 336 877 488 832 758 545 711 510 589 884 702 244 583 576 384 879 488 443 93 274 613 417 884 79 868 220 258 436 139 340 347 376 124 243 243 889 324 826 592 103 969 692 526 859 384 879 175 684 136 116 281 62 384 761 430 70 185 477 728 663 716 205 521 781 645 761 907 430 816 325 852 387 741 377 506 705 326 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file8971.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 655 764 837 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file959.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or categorizing speech samples. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 45 445 137 167 761 430 185 788 15 998 350 663 466 824 556 655 837 81 664 347 376 398 212 455 143 912 519 589 126 323 534 485 321 948 539 552 326 519 26 204 280 668 576 384 907 430 650 409 757 716 205 521 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file21407.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 837 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file212.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "The speech is real human speech.",
+    "prediction_units": "393 742 98 519 589 126 323 534 485 948 813 539 552 326 955 865 641 124 243 156 824 485 974 284 327 635 716 205 521 470 821 436 139 340 748 872 336 877 488 832 352 915 912 519 589 126 323 534 485 321 948 53 86 506 686 552 326 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file34316.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "479 330 776 576 822 89 194 664 990 107 417"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file2150.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 458 107"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file13752.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I would classify this speech as real. The use of colloquial expressions and informal language, such as'my sister is very fond of children', suggests a human speaker.",
+    "prediction_units": "530 733 787 935 101 677 660 555 233 914 887 593 167 462 761 907 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 196 202 393 946 333 32 683 519 589 126 323 534 485 321 948 86 539 552 326 169 173 641 124 243 156 824 485 974 284 327 635 205 611 916 584 902 193 415 772 497 63 665 991 202 393 946 215 258 436 139 340 828 835 22 866 700 362 932 148 850 45 272 119 607 269 259 317 645 908 380 382 268 45 119 101 741 327 635 205 521 453 487 219 522 589 337 126 288 796 33 384 879 70 817 146 283 832 758 711 510 675 169 823 175 684 136 944 25 771 812 328 143 390 479 330 435 592 103 969 806 716 205 521 781 645 761 907 430 650 816 325 968 852 101 741 377 53 198 506 705 326 417 675 237 128 665 780 26 204 280 668 167 70 185 552 955 198 641 124 889 324 338 359 655 837 81 664 32 742 98 519 26 204 280 314 333 432 32 882 683 589 600 788 663 969 865 641 124 337 243 859 384 249 690 56 390 479 330 776 167 907 650 816 325 801 944 366 148 850 326 531 576 908 693 934 852 663 377 352 385 942 780 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 545 85 297 169 565 734 470 821 258 436 139 340 748 872 336 877 488 352 912 519 589 337 126 323 534 485 948 86 990 501 107 137 663 969 164 916 584 819 736 661 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file26628.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 990 506 107"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file18937.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording naturally spoken or artificially generated? Respond only with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 990"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file18002.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file29480.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of accessing or sending emails. I can only provide text-based responses. If you'd like to describe the audio file to me, I can try to help you determine if it was spoken by a person or synthesized.",
+    "prediction_units": "530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 538 423 27 761 430 70 219 727 522 866 295 586 314 798 432 32 882 924 866 398 212 455 461 969 742 98 519 26 204 280 576 384 879 443 325 801 398 212 455 406 25 771 485 948 86 498 12 172 536 877 822 284 377 693 205 521 611 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 659 538 187 594 908 310 816 325 518 56 321 86 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 29 542 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 156 824 798 432 742 519 589 337 126 740 655 764 650 816 912 85 866 586 955 377 198 711 510 297 265 675 237 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 990 107 29 79 868 220 196 721 250 432 742 170 731 589 337 126 119 647 655 837 81 885 202 393 946 215 406 538 187 594 246 901 166 56 113 327 905 635 791 380 521 390 479 330 776 655 837 81 693 205 521 867 691 79 799 220 498 12 172 536 950 53 321 458 44 665 254 530 733 445 137 488 620 915 143 38 105 777 227 655 837 81 664 793 79 868 220 470 821 576 384 693 268 404 876 258 436 139 340 196 721 250 523 105 244 583 576 663 969 748 12 977 877 377 488 352 385 659 428 685 333 958 66 955 333 437 101 641 742 683 589 337 126 323 740 908 380 382 268 501 137 366 488 352 915 143 290 833 368 655 837 81 327 565 734 870 251 676 0 973 288 241 796 663 969 346 540 295 586 283 488 352 343 659 187 461 969 742 98 519 26 204 280 6 333 328 816 409 274 477 647 663 259 317 453 655 837 81 198 711 67 940 118 613 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file376.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I don't see any speech provided. Please share the speech you'd like me to analyze.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 611 268 876 417 736 341 661 497 63 665 644 254 821 167 104 108 894 968 852 741 384 879 577 154 302 663 969 524 44 254 530 733 537 721 549 803 795 208 29 519 26 981 976 534 485 321 948 633 327 384 879 179 207 428 950 948 707 32 742 98 519 589 126 323 534 485 321 948 86 539 552 326 850 973 288 750 870 692 154 558 655 837 81 166 599 53 377 506 208 613 417 755 193 415 772 497 63 662 213 260 712 485 948 813 32 683 589 337 531 576 284 249 969 541 202 393 946 734 432 742 98 519 589 126 323 534 485 321 948 86 539 552 326 531 258 436 139 340 660 555 233 781 645 655 837 81 664 990 107 29 172 536 950 321 633 86 539 105 79 868 220 483 538 423 384 761 907 430 179 931 402 317 645 453 655 837 81 377 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file12632.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio recordings. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 534 485 284 663 466 398 212 455 659 187 461 969 538 609 423 27 761 430 179 931 62 259 317 645 655 837 81 664 347 376 398 212 455 428 538 609 187 594 246 660 166 250 964 113 327 635 787 156 824 870 263 272 119 607 592 103 969 660 166 398 212 455 758 545 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 931 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 377 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file25272.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'd be happy to help. Please provide the audio file or a link to it, and I'll do my best to determine whether it's a genuine human recording or synthetic.",
+    "prediction_units": "530 733 555 943 56 321 948 470 821 761 430 70 404 757 323 534 321 86 105 79 868 220 470 821 576 384 693 611 268 876 341 661 497 63 662 213 260 712 485 321 948 813 711 683 510 337 243 850 973 288 796 750 870 692 154 558 655 837 81 555 202 393 946 734 406 538 594 246 660 166 56 113 327 635 402 791 380 382 390 479 330 776 655 837 81 693 205 521 187 594 461 969 466 565 734 259 781 645 333 212 455 29 79 799 220 846 483 333 377 437 506 686 613 417 755 237 193 985 63 665 644 254 823 175 684 136 944 530 733 693 521 721 549 139 340 846 498 324 338 359 655 837 81 733 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 620 352 385 915 935 101 741 384 879 901 921 663 466 503 333 437 85 700 362 734 196 105 705 11 384 879 179 207 950 74 483 488 620 352 915 470 821 258 436 139 340 748 12 336 877 488 352 915 156 824 734 870 263 272 119 607 592 103 660 166 398 212 455 659 187 461 969 742 98 519 26 204 280 314 328 915 274 557 256 776 576 6 384 879 70 185 680 15 377 990 107 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file16279.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or making determinations about its authenticity. I can provide general information on audio authentication methods, though.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 59 398 212 455 143 38 79 799 220 846 483 538 187 594 246 660 166 964 113 327 791 52 267 187 461 969 498 889 172 871 877 822 89 194 664 990 501 398 212 455 915 721 250 523 105 244 583 576 663 748 12 977 179 961 428 822 89 194 817 146 283 832 758 711 510 362 734 849 907 597 660 944 333 437 85 246 390 66 776 488 328 915 274 794 680 15 333 32 882 924 866 230 161 523 50 53 458 584 193 415 772 497 63 63 644 254 530 733 445 137 488 620 143 38 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 944 537 705 11 576 384 879 179 961 62 466 716 205 521 267 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 659 878 538 187 594 493 361 931 538 187 594 246 901 166 56 113 327 905 635 791 52 382 267 538 27 246 196 390 66 488 680 910 161 487 319 501 137 822 89 194 817 146 283 352 915 889 172 871 877 384 879 70 918 743 15 53 377 506 545 85 297 265 675 237 307 128 665 202 881 331 803 791 563 611 916 584 902 736 341 661 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file20092.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 990 107"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33083.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file9498.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "479 330 776 576 822 89 194 664 990 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/real\\file18596.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 990 385 107"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file22098.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 655 837 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file25584.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing speech or classifying voices as real or fake. I can provide information on how to identify fake voices or offer resources on the topic, but I'm not equipped to perform such analysis.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 944 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 423 27 761 430 179 931 62 954 259 317 645 453 655 837 81 664 347 376 398 212 455 143 912 519 589 126 323 534 485 321 948 86 539 552 326 169 461 969 867 263 45 914 119 593 167 761 907 430 70 835 540 866 586 362 59 998 66 776 655 837 81 398 212 455 143 692 526 302 592 81 32 835 924 866 586 955 53 198 711 510 362 173 641 124 243 156 824 485 974 284 327 635 205 521 267 187 594 461 969 390 479 330 776 576 822 89 194 664 990 107 417 755 193 415 772 497 63 254 530 733 263 914 445 137 488 620 143 38 676 481 973 288 750 870 692 154 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 659 878 187 493 361 470 821 907 597 521 660 691 79 868 220 483 81 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 664 390 479 330 776 822 89 194 664 990 107 233 692 526 302 592 81 664 32 924 866 586 955 53 198 711 510 675 237 461 969 538 594 246 70 390 66 776 663 969 156 824 442 432 742 98 519 589 295 586 76 614 592 103 969 346 540 866 586 955 53 198 711 510 297 265 169 237 609 254 594 493 361 393 946 734 793 105 244 583 167 104 108 404 757 323 377 990 107 417 755 193 111 128 665 991 547 833 173 945 944 530 733 896 627 116 475 783 104 945 944 734 319 45 914 119 797 333 268 876 595 686 613 417 884 79 868 220 870 251 676 481 973 288 750 870 390 479 330 435 592 103 969 896 627 519 26 204 280 668 167 70 185 552 326 565 179 281 931 62 761 907 430 317 453 366 358 742 924 866 586 377 198 835 711 67 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file24251.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of classifying recordings or making audio judgments. I can provide information on deepfake detection methods or resources, though.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 850 45 914 119 887 593 167 761 907 430 70 835 866 586 362 59 66 776 655 837 81 398 212 455 143 156 824 734 263 45 119 607 592 103 969 660 166 398 212 455 545 711 510 362 461 969 498 889 172 871 877 822 89 664 990 501 398 212 455 659 609 187 594 246 660 166 964 113 327 635 791 380 382 251 537 721 705 11 934 705 243 671 377 93 758 686 545 85 297 265 675 415 772 497 63 644 254 530 733 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 944 771 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 878 538 187 493 361 915 537 721 250 485 948 86 539 876 233 330 776 837 81 664 721 250 161 523 793 403 244 583 576 384 879 219 727 817 146 283 352 915 172 871 877 384 879 70 918 743 15 53 198 506 545 85 510 297 265 169 237 461 969 156 824 798 432 742 519 589 295 76 614 592 103 969 828 346 540 866 586 955 377 198 711 510 297 265 675 237 307 128 665 202 881 331 803 563 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file16846.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A security system is detecting AI-generated voices. Identify whether this voice sample is real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of detecting AI-generated voices. I'm a text-based AI assistant and do not have the ability to hear or analyze audio samples.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 721 250 523 793 403 244 583 576 384 879 219 952 315 398 212 455 327 822 89 327 905 837 81 664 196 537 705 11 576 384 879 179 961 428 663 466 405 822 89 194 664 599 161 523 555 233 692 526 302 592 81 194 32 835 924 866 586 955 377 198 711 510 297 265 675 237 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 488 443 93 208 613 169 823 175 684 136 721 250 220 139 340 575 475 783 764 945 944 152 784 429 202 393 946 734 327 734 790 333 37 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 284 969 187 594 461 969 538 609 423 384 761 907 430 179 931 62 954 317 645 453 655 837 81 198 711 510 878 538 609 187 594 246 901 166 56 113 327 635 791 380 742 98 519 589 26 204 280 576 384 907 430 816 409 757 716 205 521 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17032.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A security system is detecting AI-generated voices. Identify whether this voice sample is real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "prediction": "I'm not capable of detecting AI-generated voices. I'm a text-based AI assistant, I don't have the ability to hear or analyze audio samples.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 721 250 161 523 793 403 557 244 583 576 384 879 219 952 315 398 212 455 327 822 89 327 905 837 81 664 196 537 705 11 576 384 879 179 961 428 663 466 405 822 89 194 539 599 161 523 555 233 537 692 526 302 592 81 664 32 835 924 866 586 955 377 198 711 510 297 265 675 237 415 772 497 63 644 254 530 733 627 168 565 734 105 244 583 576 384 879 219 522 589 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 423 822 89 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 506 208 613 417 755 237 193 111 63 665 644 254 530 733 196 537 721 549 576 803 795 208 233 152 784 429 202 393 946 734 327 734 870 790 333 37 234 366 523 50 910 321 633 86 105 79 868 220 470 821 534 485 284 663 969 187 594 461 969 538 609 423 761 907 430 179 931 62 954 317 645 453 655 837 81 198 711 510 878 609 187 594 246 901 166 56 113 327 635 380 742 98 519 589 26 204 280 576 384 907 430 816 409 757 716 205 521 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file25263.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file26466.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "I'm not capable of detecting the authenticity of a voice in real-time. However, I can provide you with some general information on how voice detection systems work. They typically use machine learning algorithms to analyze acoustic features such as pitch, tone, and rhythm to determine whether a voice is human or synthetic. If you'd like, I can provide more information on this topic.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 721 250 523 793 403 244 583 576 879 219 952 315 398 212 455 202 393 946 734 327 905 246 70 390 66 776 59 488 328 915 274 794 680 15 333 32 882 924 866 261 955 523 50 321 327 932 148 565 734 692 526 302 592 103 81 194 664 835 67 22 297 169 955 46 812 222 143 156 824 442 485 948 327 635 716 205 521 691 45 244 583 167 655 764 837 81 377 627 385 309 584 902 415 772 497 63 644 991 821 570 104 894 968 852 741 384 879 577 154 302 663 969 44 530 733 445 137 488 620 143 38 481 973 288 750 870 692 306 154 558 655 837 81 664 555 166 258 436 139 340 787 935 271 333 523 918 519 26 204 280 668 104 896 627 915 143 537 705 11 576 384 879 650 179 961 62 466 716 205 521 267 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 187 493 361 470 821 907 597 692 526 302 592 103 81 194 32 835 67 589 884 702 250 161 523 793 403 244 583 576 384 879 219 727 817 146 283 832 758 912 98 519 26 204 280 314 333 32 882 170 731 600 702 788 874 366 896 627 758 711 510 337 243 935 101 741 803 969 164 506 107 417 755 584 415 772 497 63 665 991 881 331 822 89 539 105 244 583 15 333 357 403 757 323 333 487 319 990 501 107 518 321 258 436 139 340 835 67 243 498 172 871 432 431 531 976 534 485 948 620 112 915 781 645 803 969 179 398 212 455 659 25 609 423 27 761 693 382 350 836 663 466 503 333 998 958 918 743 776 366 896 627 758 545 711 510 297 337 884 79 868 220 483 423 27 761 907 430 179 931 62 954 317 645 655 837 81 198 711 376 124 362 734 319 263 914 445 137 139 340 32 683 589 600 702 680 910 333 487 990 107 233 479 330 776 534 485 948 86 539 477 74 663 969 198 711 510 169 780 519 26 204 280 668 173 70 185 552 955 333 873 32 683 337 243 850 213 260 323 576 822 333 793 506 686 326 531 417 237 63 665 662 244 583 576 803 563 380 620 112 385 343 44 115 752 63 644 254 823 175 684 136 143 156 824 442 333 196 166 921 549 366 896 627 143 38 79 868 220 196 721 250 523 793 105 244 583 576 663 969 748 12 977 877 488 352 385 915 935 101 741 384 879 921 663 565 734 870 692 526 302 592 103 81 194 664 835 67 297 955 198 641 124 337 821 258 436 139 340 748 12 872 336 877 377 488 620 352 385 659 461 969 432 742 98 519 26 204 280 314 488 328 915 38 256 776 576 6 384 879 680 15 377 990 107 417 755 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 846 660 555 233 781 645 655 837 81 664 219 990 107 417 29 755 63 644 254 530 733 263 445 137 488 620 143 38 481 973 288 750 870 692 306 154 558 655 837 81 664 555 29 889 324 826 592 103 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 538 187 493 361 202 881 331 946 333 873 32 683 589 884 244 583 167 104 108 404 757 323 377 990 107 417 755 584 415 341 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file21750.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speech sample as either real or fake. Provide no extra text, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "479 330 776 822 89 194 664 990 107 755"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file10840.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "The speech in the audio is real human speech.",
+    "prediction_units": "742 519 589 126 323 534 485 948 813 539 552 326 169 955 46 812 222 393 946 215 406 406 594 246 660 166 56 964 113 327 905 791 52 424 25 865 641 683 124 337 243 156 824 485 974 284 327 635 205 521 470 821 258 436 139 340 748 872 336 877 488 832 352 915 912 519 589 126 323 534 485 321 948 53 539 506 686 552 326 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file26226.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33021.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file30622.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file23694.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "The speech sample appears to be synthetic, as it contains phrases and sentence structures that are not typical of human speech.",
+    "prediction_units": "393 734 742 519 589 126 323 534 485 948 813 86 539 552 326 519 589 26 280 576 384 761 907 430 650 816 409 757 41 716 205 521 565 734 870 251 676 260 323 534 485 284 663 969 198 711 510 337 884 79 868 220 943 321 948 742 519 26 204 280 314 443 915 274 256 6 333 940 680 15 377 990 107 417 755 237 193 254 823 27 173 641 124 437 445 469 328 274 794 583 822 89 194 620 758 545 711 510 337 243 479 330 647 822 89 194 664 347 376 975 955 333 198 711 510 362 175 684 136 912 98 519 26 204 280 576 879 443 274 794 788 15 333 832 758 545 510 297 884 780 589 702 728 647 167 104 70 952 477 663 969 198 711 510 884 459 173 945 944 878 579 969 575 116 475 783 104 945 29 561 244 583 15 333 357 404 757 323 366 382 268 501 119 716 205 521 932 148 821 436 139 748 872 336 877 488 352 915 912 519 589 126 323 534 485 321 948 53 539 506 552 326 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file17329.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 764 89 81 194 664"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file24246.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "I'm not capable of classifying recordings or making judgments about their authenticity. I can provide information on deepfake detection methods, though.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 944 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 850 45 914 119 887 593 167 462 761 907 430 70 835 866 586 362 59 66 776 655 837 81 398 212 455 143 156 824 734 263 45 119 607 592 103 969 660 166 398 212 455 545 711 510 362 461 969 498 889 172 871 877 822 89 664 990 501 398 212 455 143 537 705 11 576 167 104 933 901 185 705 243 671 377 832 758 545 85 510 700 362 734 849 907 597 660 29 202 881 331 663 969 466 246 70 390 66 776 59 328 915 274 557 680 910 333 32 882 924 866 230 955 523 50 53 458 309 584 902 193 415 772 497 63 644 254 530 733 914 445 137 488 620 143 38 481 973 288 750 870 692 306 154 558 655 837 81 664 555 944 771 46 328 143 390 422 330 776 663 748 806 336 822 89 194 817 146 283 352 385 659 878 538 187 493 361 915 537 721 250 485 948 86 539 876 233 479 330 776 89 194 664 721 250 161 523 793 403 244 583 576 384 879 219 727 817 146 283 352 915 889 172 871 877 384 879 70 918 743 15 53 555 506 545 85 297 675 237 307 666 128 665 202 881 331 803 563 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/real\\file23804.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 89 194 664 990 385 107 755"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file17273.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file13596.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "Fake",
+    "prediction_units": "390 479 330 776 822 89 194 664 990 107 417"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file12551.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "The plan to devolve the labor of prisoners sentenced to any term between three months and four years is real.",
+    "prediction_units": "734 251 676 260 593 907 430 488 620 112 44 79 868 220 196 721 250 734 870 692 526 558 693 380 521 506 29 202 393 946 734 781 645 822 89 194 664 885 765 302 663 969 466 538 932 148 850 213 973 288 796 33 333 347 975 59 961 663 969 198 711 510 169 710 780 26 280 6 432 924 794 975 955 59 832 198 599 67 118 208 613 417 884 662 79 799 220 406 25 423 384 879 179 207 428 950 321 948 86 105 244 583 576 663 969 896 627 143 290 978 241 523 403 477 751 852 56 321 948 620 915 143 256 808 485 321 948 86 498 889 324 338 359 655 104 650 816 545 85 297 265 169 823 175 684 136 143 390 479 330 435 592 103 969 258 113 284 74 663 969 198 711 510 675 169 389 825 771 865 641 124 243 156 824 442 485 284 327 635 205 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33598.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided speech sample and classify it as either real human speech or a synthetic voice. Output only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "479 330 776 822 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33546.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An automated voice assistant is under analysis. Classify this voice as either real human speech or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 655 764 837 81 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file34391.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 764 89 194 664 385"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/real\\file3393.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording naturally spoken or artificially generated? Respond only with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "prediction": "fake",
+    "prediction_units": "390 479 330 776 822 89 194 664"
+  }
+]

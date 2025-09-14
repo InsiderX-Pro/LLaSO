@@ -1,0 +1,2302 @@
+[
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p334\\p334_199_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Male",
+      "region": "Chicago",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 12 172 977 822 89 327 905 693 521"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p263\\p263_220_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Aberdeen",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The gender of the speaker is male.",
+    "prediction_units": "734 196 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 25 865 641 683 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p247\\p247_093_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Argyll",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 233 609 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 825 771 46 812 222 393 946 215 113 327 187 594 246 660 166 56 964 113 327 791 380 483 423 173 641 347 124 362 530 733 196 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 297 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p252\\p252_007_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Edinburgh",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is female.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 683 589 337 243 330 776 534 485 948 86 12 172 536 877 822 89 377 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p364\\p364_293_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Donegal",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 609 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 393 946 215 113 406 594 246 660 166 964 113 327 905 791 483 173 641 347 124 362 530 733 196 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 297 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 415 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p298\\p298_100_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Tipperary",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker from the audio. However, I can tell you that the sentence 'The healing must begin' is a statement that can be made by anyone, regardless of gender.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 233 609 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 803 969 748 12 977 488 620 915 202 393 946 734 196 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 390 515 647 246 896 627 202 393 946 215 406 538 187 594 246 660 166 56 964 113 327 611 916 584 902 819 341 661 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 504 530 733 445 137 488 620 352 143 38 244 583 576 384 693 854 258 436 139 340 459 173 945 29 393 946 734 432 742 98 519 26 204 280 668 6 384 879 443 274 794 788 15 333 488 832 758 545 85 510 297 884 202 393 946 734 470 821 534 485 974 564 259 453 398 212 455 915 889 324 338 359 104 70 835 67 940 118 850 943 56 82 903 319 350 836 919 488 620 112 865 641 124 362 734 742 98 519 589 600 702 874 822 89 194 664 539 29 747 671 877 377 443 93 208 613 417 755 237 665 991 459 173 945 233 914 445 137 488 620 915 943 321 948 86 498 889 172 871 877 822 89 194 664 555 29 290 833 368 655 837 81 664 406 25 423 384 879 179 207 950 82 86 787 935 101 741 655 87 650 620 385 343 942 44 115 752 63 665 991 156 824 442 998 319 350 836 655 764 660 555 166 317 453 366 198 835 67 22 700 362 932 148 705 11 576 384 879 443 325 801 549 377 969 164 726 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p326\\p326_135_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "region": "British",
+      "comments": "Sydney"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 977 877 822 89 327 905 693 611"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p273\\p273_163_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Suffolk",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is Male.",
+    "prediction_units": "393 742 519 589 337 126 323 534 485 974 86 990 501 137 663 969 25 865 641 683 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p271\\p271_389_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 172 977 877 822 89 284 327 693 611 916"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p273\\p273_083_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Suffolk",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 25 865 641 683 589 243 889 172 338 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p247\\p247_219_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Argyll",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 945 506 233 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 196 721 250 734 523 105 244 583 576 663 969 748 12 977 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 663 969 538 932 148 202 393 946 734 432 742 519 589 337 126 323 534 485 948 86 990 501 137 663 969 25 771 46 812 222 393 946 215 113 406 594 246 660 166 964 113 327 905 791 483 423 173 641 347 124 362 530 733 721 549 803 795 208 944 233 470 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p326\\p326_142_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "region": "British",
+      "comments": "Sydney"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or accessing audio clips, so I cannot determine the gender being used in the clip you're referring to.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 506 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 485 284 466 398 212 455 659 187 461 969 538 609 423 27 761 430 70 219 522 866 586 314 798 432 882 924 866 398 212 455 538 187 594 246 660 166 250 56 113 327 635 791 380 382 263 914 119 593 453 333 506 876 545 85 297 265 675 237 307 121 226 621 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 650 179 475 783 246 945 29 29 721 250 523 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 290 943 485 398 212 455 915 258 436 139 340 198 711 376 940 118 944 46 812 222 393 946 734 263 914 119 647 333 506 876 258 436 139 635 969 156 824 734 870 390 422 330 776 435 663 466 398 212 455 143 38 79 799 220 139 340 846 611 916 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p376\\p376_002_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 683 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p274\\p274_279_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Essex",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The gender used is male.",
+    "prediction_units": "393 734 196 721 705 11 576 384 879 443 325 801 549 663 969 258 436 139 340 198 347 376 940 118 944 955 865 641 124 337 243 889 172 338 877 822 89 284 327 693 611 916 584 902 819 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p376\\p376_052_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 337 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p347\\p347_204_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 865 641 124 243 889 172 338 871 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p347\\p347_199_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 12 172 977 877 822 89 327 905 693 611"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p243\\p243_128_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "London",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 337 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p345\\p345_180_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Florida",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker of this audio clip is a male.",
+    "prediction_units": "393 946 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 932 148 202 881 331 333 32 683 589 337 878 609 187 594 246 901 166 56 964 113 327 905 635 791 382 263 45 914 119 593 333 506 876 389 771 865 641 124 362 734 498 889 172 338 877 822 89 284 327 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p284\\p284_024_mic2.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Male",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 172 877 822 89 284 327 693"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p274\\p274_293_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Essex",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 825 865 641 124 337 243 889 172 338 877 822 89 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p254\\p254_097_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "region": "Surrey",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying audio clips. I'm a text-based AI assistant.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 821 534 485 284 814 466 398 212 455 187 594 461 969 530 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 212 455 538 187 594 246 660 166 56 113 327 635 402 382 263 45 914 119 593 333 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p304\\p304_264_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm sorry, I don't have access to the audio. Can you please provide more context or information about the speaker?",
+    "prediction_units": "254 530 733 627 912 98 519 589 26 204 280 668 246 764 466 503 53 321 458 524 44 644 254 504 530 733 721 250 549 803 795 944 233 470 152 784 429 538 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 884 79 799 220 202 393 946 215 406 594 246 660 166 964 113 327 905 791 611 916 584 902 193 415 497 63 665 662 445 137 576 488 179 961 207 258 436 139 340 870 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 664 555 233 29 889 324 826 592 103 969 867 263 45 272 313 469 167 655 104 650 816 274 557 75 583 15 384 879 219 522 67 940 118 944 461 969 25 771 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 734 849 907 597 506 29 202 393 946 215 742 519 589 126 323 534 485 948 86 990 501 137 663 969 524 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p245\\p245_299_mic2.flac"
+    ],
+    "metadata": {
+      "age": 25,
+      "gender": "Male",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker from the audio alone. I would need more context or information to make an accurate determination.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 609 423 771 822 89 194 664 885 765 302 205 521 867 79 868 220 196 721 250 734 523 105 244 583 576 803 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 337 126 323 534 485 948 86 990 501 137 663 969 390 515 647 896 627 202 393 946 215 406 538 594 246 660 166 964 113 327 905 791 52 565 734 781 645 803 563 380 611 385 584 902 193 415 772 497 63 644 254 530 733 787 935 101 555 29 116 372 485 948 86 555 233 889 324 826 592 103 969 406 272 313 469 167 655 104 650 816 274 794 75 583 15 384 879 219 522 67 940 118 233 461 969 466 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 143 38 79 868 220 498 172 871 877 822 89 664 990 107 137 488 179 961 931 428 423 761 430 70 219 501 445 137 74 663 466 503 721 250 432 793 731 244 702 663 748 12 179 961 428 89 194 664 817 146 283 377 385 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p259\\p259_387_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Nottingham",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 609 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 393 946 215 113 406 187 594 246 660 166 56 964 113 327 905 791 483 423 173 641 347 124 362 530 733 196 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p274\\p274_287_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Essex",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is Male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 107 137 663 969 25 865 641 124 243 889 172 338 871 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p255\\p255_004_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Galloway",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio clips, but I can tell you that the description you provided sounds like a fun and playful toy for kids, likely suitable for both boys and girls.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 534 485 284 814 466 398 212 455 538 187 594 246 660 166 56 113 327 635 402 380 382 268 263 914 119 593 453 506 876 545 85 297 675 237 307 226 128 665 991 547 833 173 945 944 530 733 445 137 488 620 352 915 143 244 583 576 384 693 521 854 258 436 139 340 196 459 173 945 29 393 946 734 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 258 436 139 340 382 251 676 481 973 288 750 24 870 692 154 558 655 837 81 664 599 333 523 85 519 26 280 576 384 907 597 816 758 545 711 510 243 781 645 655 837 81 219 990 107 137 565 734 390 479 330 776 167 246 104 650 816 325 915 143 175 684 136 38 412 260 712 593 822 89 81 664 390 422 330 435 716 205 691 105 244 583 614 592 103 483 81 194 664 390 515 663 870 45 914 445 137 534 333 53 377 506 545 85 510 297 265 675 237 307 111 128 665 991 162 645 837 81 664 219 501 107 712 518 321 948 32 742 98 519 26 204 280 139 340 660 351 788 59 790 716 205 521 916 390 515 663 870 290 978 833 6 908 380 660 918 743 243 290 978 592 103 483 81 194 198 711 510 362 175 684 136 915 143 416 466 103 611 521 545 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p258\\p258_307_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Southern",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker or the performance quality from the audio. Can you provide more context or information about the audio?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 609 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 523 105 244 583 576 803 969 748 12 977 488 620 915 202 393 946 734 196 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 538 187 594 461 969 202 393 946 734 251 676 973 288 750 663 870 390 422 330 435 592 103 969 748 806 877 832 758 545 85 510 337 243 850 272 119 387 246 234 366 523 50 321 86 390 515 647 246 896 627 202 393 946 215 406 538 187 594 246 660 166 56 113 327 905 791 380 916 584 902 661 497 662 445 137 179 207 258 436 139 340 382 251 251 676 481 973 288 750 870 692 306 558 655 837 81 664 555 233 29 324 826 592 103 969 867 263 45 272 313 367 167 655 764 650 816 274 794 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 734 849 907 597 506 29 202 393 946 215 113 327 594 246 270 901 166 964 113 327 905 791 611 916 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p364\\p364_261_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Donegal",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 683 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p364\\p364_233_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Donegal",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm happy to help, but I don't have access to the audio. Can you please provide more context or information about the audio?",
+    "prediction_units": "99 254 530 733 627 470 821 761 430 70 404 757 323 321 86 539 79 868 220 734 470 821 576 693 268 876 417 755 605 121 111 128 665 547 833 173 945 944 27 530 733 196 537 721 549 576 803 795 233 152 784 429 423 761 430 70 219 952 522 295 586 314 377 198 835 67 884 79 799 220 202 393 946 215 594 246 660 166 56 964 113 327 791 916 584 902 819 341 661 497 63 665 662 445 137 576 488 179 207 258 436 139 340 251 676 260 712 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 29 889 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 849 907 597 506 29 202 393 946 734 327 246 901 166 964 113 327 905 803 791 380 611 916 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p360\\p360_228_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "New",
+      "comments": "Jersey"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or determining the speaker's gender based on audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 934 757 323 59 870 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 538 187 594 246 660 166 56 964 113 327 377 611 267 187 594 461 969 196 721 250 523 793 105 244 583 576 663 969 748 12 977 877 179 398 212 455 202 393 946 432 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 870 290 978 822 89 194 664 835 67 940 118 613 944 878 609 187 493 361 659 538 609 187 594 246 660 166 964 113 327 635 87 611 916 584 902 193 415 661 497 63 644 254 530 733 445 137 488 620 931 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 167 655 764 650 816 325 208 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p255\\p255_220_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Galloway",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio clips, but I can help you with other questions or tasks.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 821 485 284 814 466 398 212 455 538 187 594 246 660 166 56 113 327 635 402 382 268 263 914 119 593 453 506 876 545 85 297 675 237 307 226 128 665 991 547 833 173 945 944 530 733 445 137 488 620 352 470 821 384 693 268 404 876 29 258 436 139 340 787 935 271 333 523 196 918 944 878 238 104 938 663 969 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 711 510 362 461 969 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p237\\p237_202_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker's gender is Male.",
+    "prediction_units": "742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 337 705 11 576 384 879 443 325 801 663 969 406 25 825 685 865 641 683 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p363\\p363_335_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Toronto",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm happy to help, but I'm a large language model, I don't have the capability to hear or identify audio. I can only respond to text-based queries.",
+    "prediction_units": "99 254 504 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 693 268 876 417 755 128 665 991 547 833 173 945 944 530 733 627 168 565 734 259 781 645 246 764 969 934 555 705 326 243 781 645 761 907 81 194 816 325 968 852 101 741 333 523 555 705 326 243 889 324 338 789 359 655 764 246 901 921 716 205 521 524 44 902 605 63 644 254 530 733 196 537 721 721 549 576 803 795 208 944 233 152 784 429 202 393 946 215 319 914 445 137 89 664 885 757 323 734 790 37 693 234 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 284 663 969 187 594 461 969 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 406 538 187 594 246 901 166 56 964 113 327 377 611 164 916 584 902 819 341 661 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 816 325 518 56 321 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 233 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p376\\p376_188_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying audio clips. I'm a text-based AI assistant.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 821 534 485 284 814 466 398 212 455 659 187 594 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 538 187 594 246 660 166 56 113 327 635 402 382 263 45 914 119 593 333 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p254\\p254_323_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "region": "Surrey",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the gender of a speaker from an audio clip. I can only provide text-based responses.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 556 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 455 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 390 479 515 647 663 896 627 488 620 931 878 538 187 594 246 660 166 56 113 327 635 791 380 382 263 45 914 119 593 453 506 876 415 341 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 357 251 676 481 973 288 750 870 692 306 154 558 655 764 837 81 664 555 542 244 583 576 384 879 219 522 67 940 884 537 290 978 822 89 194 664 835 67 940 118 944 156 824 442 432 742 98 519 589 126 740 167 655 764 816 912 85 866 586 955 377 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p243\\p243_221_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "London",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 172 877 822 89 327 905 693"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p273\\p273_113_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Suffolk",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is using a male voice.",
+    "prediction_units": "393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 25 825 865 641 124 243 258 436 139 340 347 376 398 212 455 565 734 498 889 172 338 877 822 89 284 327 905 693 521 692 526 302 592 103 81 53 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p274\\p274_336_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Essex",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 609 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 803 663 969 748 12 977 488 620 112 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 393 946 215 113 406 594 246 660 166 964 113 327 905 791 611 483 423 173 641 347 124 362 530 733 196 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 297 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 193 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p275\\p275_271_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Midlothian",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 12 172 877 822 89 327 905 693 611"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p271\\p271_135_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker from the audio description.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 609 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 803 663 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 390 422 515 647 246 896 627 202 393 946 215 406 538 187 594 246 660 166 56 113 327 635 791 380 196 721 250 798 432 170 731 589 337 126 426 647 663 870 595 817 146 283 377 385 584 193 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p345\\p345_007_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Florida",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio clips, but I can tell you that the phrase 'The rainbow is a division of white light into many beautiful colors' is often associated with Isaac Newton, who was a male.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 821 534 485 284 814 466 398 212 455 538 187 594 246 901 166 56 113 327 635 402 380 382 867 914 119 593 453 506 876 545 85 297 675 237 307 226 128 665 991 547 833 173 945 944 530 733 445 137 488 620 352 143 244 583 576 384 693 521 854 258 436 139 340 459 173 945 29 393 946 734 390 479 330 647 822 89 194 198 711 124 884 202 393 946 734 156 824 822 89 194 112 915 143 290 978 833 803 380 521 825 865 641 124 362 734 523 196 721 250 998 885 692 526 559 333 817 146 283 352 931 932 148 935 101 741 655 837 81 664 506 29 781 645 655 837 81 194 664 506 771 46 812 328 274 79 799 220 498 889 172 871 877 879 179 207 950 321 948 86 290 978 436 139 340 351 794 680 910 948 958 390 422 330 435 716 205 521 867 45 914 272 119 607 246 259 317 453 663 969 198 711 510 169 865 641 124 878 538 594 246 70 390 66 776 366 620 931 565 734 742 98 519 26 204 280 614 803 791 380 358 346 924 261 976 113 327 89 194 664 539 599 333 523 555 233 535 935 271 523 918 878 27 530 837 733 32 924 866 26 204 280 314 333 487 319 990 107 29 116 372 139 340 660 539 403 557 747 280 283 377 352 385 343 942 115 224 193 121 128 665 821 677 355 787 101 741 366 641 124 362 565 734 498 889 338 877 822 89 284 327 905 693 521 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p376\\p376_410_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 977 877 822 89 284 327 693"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p285\\p285_326_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "region": "Edinburgh",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker from the audio. Can you provide more context or information about the audio?",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 620 112 915 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 390 515 647 246 896 627 202 393 946 215 406 538 187 594 246 660 166 56 964 113 327 791 611 916 584 902 193 341 661 497 662 914 445 137 576 620 179 207 258 436 139 340 382 251 251 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 367 167 655 104 650 816 274 557 75 583 15 384 879 219 522 67 940 118 944 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 849 907 597 29 393 946 215 406 538 594 246 901 166 964 113 327 905 377 611 916 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p351\\p351_320_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "region": "Derry",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 172 877 822 89 284 327 693"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p314\\p314_299_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "Cape",
+      "comments": "Town"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 12 877 822 89 284 327 905 693"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p314\\p314_126_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "Cape",
+      "comments": "Town"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 86 12 172 977 877 822 89 327 693"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p336\\p336_191_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to listen to audio. I can only respond to text-based queries. If you can provide a transcript of the audio, I'd be happy to try and assist you.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 384 693 268 876 417 341 661 497 63 644 991 821 104 108 894 852 741 384 879 577 154 302 663 969 524 296 44 254 530 733 627 168 565 734 793 105 542 244 583 576 384 879 219 522 589 940 118 850 537 290 978 822 89 194 664 32 835 67 940 118 944 822 89 327 905 579 837 81 194 327 684 136 915 721 250 549 220 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 757 323 59 790 37 234 366 523 50 910 321 633 86 105 79 868 220 228 259 781 303 333 32 835 924 866 586 955 283 352 915 143 38 79 799 220 846 538 187 594 246 901 166 56 964 113 327 377 611 916 584 902 193 341 661 497 63 644 254 530 733 445 137 576 488 620 659 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 742 170 589 126 740 655 764 650 816 325 208 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 405 53 198 711 510 297 265 675 237 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 263 914 445 137 488 620 352 143 38 676 481 973 288 750 870 692 154 558 655 837 81 901 555 944 734 105 777 227 647 167 761 907 650 816 912 85 589 337 243 728 647 663 333 70 944 932 148 202 393 946 215 113 327 246 901 166 964 113 327 905 377 791 611 424 524 44 665 644 254 504 530 733 555 29 290 943 321 948 470 821 761 430 70 404 757 323 321 948 86 105 79 868 220 105 777 227 647 655 837 81 327 175 684 136 734 742 519 26 204 280 314 333 32 683 940 600 118 702 477 436 139 340 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p362\\p362_100_mic1.flac"
+    ],
+    "metadata": {
+      "age": 29,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of determining the gender of a speaker based on audio alone. However, I can try to help you with other questions or tasks.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 398 212 455 202 393 946 734 196 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 432 742 519 589 126 323 534 485 948 86 990 501 107 137 663 969 870 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 659 538 187 594 246 660 166 964 113 327 905 791 611 538 565 734 259 781 645 563 380 385 584 902 193 415 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 352 143 777 227 655 837 81 664 793 691 79 868 220 470 821 576 384 693 268 876 258 436 139 787 935 271 333 523 196 918 878 27 104 954 938 663 969 263 45 272 119 797 576 384 879 70 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p250\\p250_326_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "SE",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio, so I cannot determine the gender of a speaker.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 538 187 594 246 660 901 166 964 113 327 377 791 611 524 44 115 121 128 665 780 289 26 204 76 614 803 894 483 530 733 263 45 914 445 137 576 761 650 179 475 783 246 945 29 29 721 250 998 793 105 244 583 576 663 969 748 12 977 488 620 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 107 137 377 969 164 916 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p297\\p297_345_mic1.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Female",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 233 609 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 803 663 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 393 946 215 113 406 187 594 246 660 166 964 113 327 905 791 483 423 173 641 347 124 362 530 733 196 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 576 377 198 835 67 297 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 964 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p335\\p335_199_mic1.flac"
+    ],
+    "metadata": {
+      "age": 25,
+      "gender": "Female",
+      "region": "British",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 683 243 889 172 338 877 822 89 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p234\\p234_094_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "West",
+      "comments": "Dumfries"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to identify the speaker's gender based on the audio. Can you provide more context or information about the audio?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 609 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 483 483 81 733 664 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 325 801 549 663 969 290 978 822 89 194 664 835 67 940 118 944 878 493 361 393 946 215 406 538 187 594 246 660 166 964 113 327 611 916 584 902 193 415 661 497 662 445 137 488 179 207 258 436 139 340 382 251 251 676 973 288 750 870 692 306 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 75 583 15 384 879 219 522 67 940 118 461 969 25 771 46 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 352 931 428 565 734 849 907 597 945 29 202 393 946 734 327 594 246 270 901 166 964 113 327 905 791 611 916 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p239\\p239_279_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "SW",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker of the audio is male.",
+    "prediction_units": "393 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 932 148 202 393 946 215 406 327 187 594 246 166 964 113 327 905 791 685 865 641 124 337 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p238\\p238_087_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 977 877 822 89 284 327 693"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p236\\p236_380_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Manchester",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 196 721 250 734 793 105 244 583 576 803 969 748 12 977 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 393 946 215 113 406 187 594 246 660 166 964 113 327 905 791 611 483 423 173 641 347 124 362 530 733 196 721 549 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 297 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/s5\\s5_351_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to identify the gender of the speaker in the audio clip as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 205 521 867 79 868 220 483 483 81 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 406 25 771 46 812 222 393 946 215 406 406 538 187 594 246 660 166 56 113 327 635 402 791 380 382 45 914 119 593 333 506 876 423 173 641 347 124 975 362 530 733 196 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 297 337 884 79 799 220 202 393 946 215 406 538 594 246 901 660 166 56 113 327 635 402 611 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p236\\p236_174_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Manchester",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to identify the speaker's gender based on the audio. Can you provide more context or information about the audio?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 483 483 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 243 705 11 576 384 879 325 801 549 663 969 290 978 822 89 194 664 835 67 940 118 944 878 493 361 393 946 215 406 594 246 660 166 964 113 327 87 611 916 584 902 193 415 661 497 662 445 137 488 179 207 258 436 139 340 382 251 251 676 973 288 750 870 692 306 154 558 655 837 81 664 555 29 324 826 592 103 969 867 263 45 272 313 469 167 655 104 650 816 274 557 75 583 15 384 879 219 522 67 940 118 461 969 25 771 46 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 352 931 428 565 849 907 597 945 29 393 946 215 327 594 246 901 166 56 964 113 327 905 611 916 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p307\\p307_177_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ontario",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of determining the gender of a speaker in an audio. However, practicing in front of a mirror or recording yourself can help you improve your public speaking skills.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 870 790 716 205 521 932 148 721 250 734 523 105 244 583 576 663 969 748 12 977 179 398 212 455 202 393 946 734 196 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 406 25 46 812 222 428 488 812 222 931 878 538 187 594 246 660 166 56 964 113 327 905 377 791 611 916 584 902 193 341 661 497 63 644 991 254 821 570 104 108 894 852 741 384 879 577 154 302 663 969 524 44 605 665 213 973 288 796 761 430 70 219 952 852 680 910 333 32 882 924 866 586 398 212 455 46 812 222 143 390 479 330 647 246 650 816 274 794 944 366 932 148 734 498 889 172 536 950 436 74 284 635 466 969 726 714 187 594 461 969 382 156 824 734 870 263 45 272 119 607 592 103 660 166 398 212 455 258 436 663 969 432 742 98 519 589 26 204 280 668 576 803 693 390 66 417 850 914 445 137 488 620 352 915 470 821 576 693 268 404 876 233 258 436 139 340 483 328 409 38 481 973 288 796 677 253 340 885 692 148 258 436 635 663 969 251 676 0 260 547 444 167 246 268 517 593 453 366 487 990 107 85 519 519 589 126 323 534 485 974 86 990 501 398 212 455 143 912 98 519 589 126 702 137 534 333 284 635 693 205 521 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p299\\p299_013_mic1.flac"
+    ],
+    "metadata": {
+      "age": 25,
+      "gender": "Female",
+      "region": "California",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of determining the gender of a speaker based on an audio clip. However, I can suggest that you try to identify the speaker's voice through other means, such as watching a video or reading a transcript.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 721 250 734 523 793 105 244 583 576 663 969 748 12 977 398 212 455 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 870 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 428 565 812 179 931 659 187 594 246 660 166 56 113 327 905 635 791 382 45 914 119 593 647 506 755 415 341 661 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 352 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 613 417 459 173 945 233 258 436 139 340 105 777 227 647 655 837 81 664 79 868 220 483 530 733 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 243 537 692 526 302 592 81 194 664 32 835 67 297 675 780 256 728 647 220 846 267 538 27 104 954 938 663 498 889 172 536 950 485 321 948 53 758 545 711 510 297 265 675 237 307 128 665 780 26 204 280 668 167 70 185 552 955 333 198 641 124 337 243 935 101 741 655 104 70 185 552 326 531 398 212 455 565 734 692 526 559 333 196 166 56 113 327 635 803 791 52 424 267 187 594 461 969 156 824 56 485 948 86 166 398 212 455 565 734 105 777 227 647 384 907 430 650 816 912 589 337 126 119 647 384 377 67 940 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p340\\p340_265_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm happy to help, but I don't hear any audio. I'm a text-based assistant, I don't have the capability to hear or process audio. Please provide more context or information about the audio you're referring to.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 693 611 268 876 417 755 605 111 128 665 991 547 833 173 945 944 530 733 721 549 803 795 208 233 470 821 534 485 113 284 663 969 466 503 423 384 879 179 207 428 950 321 406 594 246 901 166 250 964 113 327 377 87 611 916 584 902 193 415 661 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 952 522 589 940 118 537 290 978 822 89 194 664 32 835 67 940 118 702 944 15 798 432 742 98 519 26 204 280 314 333 432 882 170 731 600 702 15 377 443 93 506 208 613 417 755 237 193 63 665 254 504 530 733 196 537 721 549 576 803 908 795 208 944 233 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 757 323 59 790 333 37 234 366 523 50 910 321 633 86 105 79 868 220 470 821 485 284 663 969 187 594 461 969 251 676 973 288 750 167 104 70 540 866 586 314 333 32 835 67 22 169 878 609 187 594 246 901 166 964 113 327 635 377 611 611 916 584 902 193 415 341 497 63 662 213 260 712 485 321 948 813 198 711 124 337 243 850 973 288 750 870 692 154 558 655 837 81 555 29 889 324 826 592 103 969 867 263 45 272 313 469 367 167 655 650 816 274 794 75 583 15 384 879 219 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 428 565 849 907 597 660 29 202 393 946 734 406 538 187 594 246 660 166 964 113 327 905 791 380 258 436 635 663 969 156 824 734 870 390 422 330 776 435 663 969 466 398 212 455 143 38 79 799 220 340 846 611 916 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p265\\p265_123_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ross",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 86 12 172 877 822 89 327 905 693"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p351\\p351_012_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "region": "Derry",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 534 485 948 86 12 172 336 877 822 89 377 693 611"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p314\\p314_190_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "Cape",
+      "comments": "Town"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 172 877 822 89 327 905 693 205 521 916"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p283\\p283_283_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "region": "Cork",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is female.",
+    "prediction_units": "393 946 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 25 865 641 683 337 243 330 776 534 485 948 86 12 172 536 877 822 89 377 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p341\\p341_173_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "Ohio",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker from the audio clip you provided. The clip is too short and doesn't contain enough information.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 944 423 771 822 89 194 664 885 765 302 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 803 663 969 748 12 977 877 488 352 112 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 98 519 589 337 126 323 534 485 948 86 990 501 137 663 969 390 479 515 647 246 896 627 393 946 215 406 538 187 594 246 660 166 56 113 327 905 635 791 380 382 867 45 914 119 593 647 333 404 876 258 436 139 340 870 251 676 481 973 288 750 870 692 154 558 655 837 81 166 599 53 506 208 613 417 755 193 415 772 497 63 665 991 393 946 734 263 45 914 119 593 647 333 876 389 865 641 683 337 884 240 808 220 340 846 431 531 614 592 103 969 506 686 208 613 417 755 254 823 175 684 136 915 537 721 549 167 104 70 347 975 362 795 233 914 445 469 328 274 557 794 583 15 822 89 194 620 659 878 575 961 281 62 238 104 70 390 66 878 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p317\\p317_311_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Hamilton",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying audio. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 461 969 530 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 212 455 538 187 594 246 901 166 250 964 113 327 791 611 916 584 902 819 341 661 497 63 644 254 504 530 733 914 445 137 488 620 931 878 538 187 594 908 310 816 325 518 56 948 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 485 284 814 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p336\\p336_190_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the gender of a speaker from an audio clip. I can only provide text-based responses.",
+    "prediction_units": "254 530 733 896 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 870 790 716 205 521 932 148 558 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 455 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 390 479 515 647 896 627 488 620 931 659 187 594 246 660 166 56 113 327 635 791 45 914 119 593 647 506 755 341 661 497 63 644 254 530 733 445 137 576 488 620 112 878 538 187 594 908 310 325 518 56 321 948 86 357 251 676 481 973 288 750 870 692 306 154 558 655 764 837 81 664 555 542 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 156 824 442 432 742 98 519 589 337 126 740 167 655 764 816 912 85 866 586 955 377 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p250\\p250_483_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "SE",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the gender of a speaker in an audio clip. I can only provide text-based responses.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 406 25 46 812 222 428 488 575 931 538 187 594 246 660 166 56 113 327 905 635 791 380 382 263 45 914 119 593 453 506 876 415 341 497 63 644 254 530 733 445 137 576 488 620 878 538 187 594 908 310 325 518 56 948 86 251 676 481 973 288 750 870 692 306 154 558 655 764 837 81 664 555 542 244 583 576 384 879 219 522 940 118 537 290 978 822 89 194 664 835 67 940 118 944 156 824 442 432 742 170 519 589 337 126 740 167 655 764 816 912 85 866 586 955 377 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p297\\p297_261_mic1.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Female",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is a female.",
+    "prediction_units": "393 946 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 25 865 641 683 362 734 390 479 330 776 534 485 948 86 12 977 336 877 822 89 284 377 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p294\\p294_060_mic2.flac"
+    ],
+    "metadata": {
+      "age": 33,
+      "gender": "Female",
+      "region": "San",
+      "comments": "Francisco"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to identify the speaker's gender based on the audio. Can you provide more context or information about the audio?",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 945 506 233 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 483 483 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 432 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 325 801 549 663 969 290 978 822 89 194 664 835 67 940 118 944 878 493 361 393 946 215 406 538 187 594 246 660 166 964 113 327 791 916 584 902 415 661 497 665 662 914 445 137 576 488 179 961 207 258 436 139 340 382 251 251 676 973 288 750 870 692 306 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 75 583 15 384 879 219 522 67 940 118 461 969 25 771 46 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 931 428 565 734 849 907 597 945 29 393 946 734 406 538 594 246 901 166 56 964 113 327 905 611 916 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p264\\p264_125_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "West",
+      "comments": "Lothian"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 172 536 877 822 89 284 327 693"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p318\\p318_026_mic1.flac"
+    ],
+    "metadata": {
+      "age": 32,
+      "gender": "Female",
+      "region": "Napa",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Based on the audio, I would say the speaker is Male.",
+    "prediction_units": "213 290 978 833 822 89 194 664 835 67 944 878 493 361 393 946 215 406 327 594 246 660 166 964 113 327 905 803 791 611 424 524 44 115 254 504 530 733 787 935 101 660 555 519 26 204 280 576 822 89 194 664 202 393 946 734 432 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 969 865 641 124 337 243 889 172 338 877 822 89 284 905 693 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p362\\p362_222_mic2.flac"
+    ],
+    "metadata": {
+      "age": 29,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm an AI, I don't have a gender.",
+    "prediction_units": "99 254 530 733 896 627 488 620 659 25 423 822 89 194 284 327 905 579 764 837 81 194 633 726 44 254 504 530 733 196 721 549 803 795 944 233 152 784 429 565 734 705 11 576 384 879 443 325 801 549 377 663 969 164 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p307\\p307_151_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ontario",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to determine the speaker's gender from the audio. The audio is not provided, and I can only respond based on the text input.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 196 721 250 734 523 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 337 243 705 11 576 384 879 443 325 801 549 663 969 390 422 515 647 896 627 202 393 946 215 406 538 187 594 246 660 166 964 113 327 791 611 916 584 902 193 341 661 497 665 991 393 946 215 406 538 187 594 246 270 660 166 56 964 113 327 635 791 380 25 865 641 124 243 116 475 783 246 430 945 29 759 973 288 750 870 692 154 558 655 837 81 166 599 53 555 208 417 755 237 605 193 985 644 254 823 175 684 136 944 530 733 263 914 445 137 576 488 620 931 659 538 594 908 310 325 518 56 948 86 156 824 442 798 432 742 170 589 126 740 655 764 650 816 325 233 537 213 290 978 833 822 89 194 664 835 67 940 118 944 878 493 361 393 946 734 105 244 583 576 384 879 219 522 67 940 118 944 169 25 389 771 46 812 328 143 38 0 41 740 377 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p330\\p330_213_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 25 825 865 641 683 337 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p340\\p340_240_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p283\\p283_021_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "region": "Cork",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is Male.",
+    "prediction_units": "393 946 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 865 641 683 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p297\\p297_010_mic2.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Female",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The gender being used is male.",
+    "prediction_units": "393 946 734 196 537 721 705 11 576 384 879 443 325 801 549 663 969 870 290 943 485 398 212 455 915 258 436 139 340 198 347 376 940 118 944 955 865 641 124 243 889 338 871 877 822 89 284 327 377 693 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p294\\p294_079_mic1.flac"
+    ],
+    "metadata": {
+      "age": 33,
+      "gender": "Female",
+      "region": "San",
+      "comments": "Francisco"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to identify the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 609 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 483 81 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 406 25 825 771 46 812 222 393 946 215 113 406 187 594 246 660 166 56 113 327 905 791 380 483 423 173 641 347 124 975 362 530 733 721 549 576 803 795 208 944 233 152 784 429 878 423 761 430 70 219 952 522 295 586 314 377 198 835 67 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p329\\p329_149_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or determining the gender of a speaker. I can only respond to text-based queries.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 432 32 924 866 586 955 398 212 455 143 38 79 799 220 483 538 187 594 246 901 166 56 964 113 327 377 611 267 187 594 461 969 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 179 398 212 455 202 393 946 734 196 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 742 519 589 126 323 534 485 948 86 990 501 107 137 663 969 164 916 726 584 902 819 341 661 497 63 644 254 530 733 445 137 576 488 620 112 931 538 187 594 908 310 325 518 56 948 86 156 824 442 798 432 742 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 466 377 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p265\\p265_049_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ross",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio, so I cannot determine the speaker's gender.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 821 485 284 814 466 398 212 455 659 187 594 461 969 251 676 481 973 288 750 246 104 70 540 295 586 314 798 432 882 924 866 398 212 455 538 187 594 246 660 166 964 113 327 377 611 524 44 115 121 226 128 665 780 289 26 76 614 803 894 483 530 733 263 45 914 445 137 576 761 650 179 475 783 246 945 29 721 250 220 523 793 105 244 583 576 663 969 748 12 977 366 488 620 915 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 488 443 325 801 549 377 164 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p248\\p248_070_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 86 172 877 822 89 284 905 693 611 916"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p307\\p307_007_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ontario",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 609 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 196 721 250 734 793 105 244 583 576 803 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 393 946 215 113 406 187 594 246 660 166 964 113 327 905 803 791 483 173 641 347 124 975 362 530 733 196 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 668 576 377 198 835 67 297 337 884 79 799 220 202 393 946 215 406 538 187 594 246 901 660 166 56 964 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p330\\p330_345_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 977 877 822 89 284 327 905 693 205"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p361\\p361_376_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "region": "New",
+      "comments": "Jersey"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm sorry, I didn't catch the audio. Can you please provide more context or information about the speaker?",
+    "prediction_units": "254 530 733 627 912 98 519 589 26 204 280 668 246 764 466 56 321 458 524 942 44 63 644 254 530 733 537 721 250 803 795 143 914 445 137 576 761 907 430 70 185 506 326 531 884 202 393 946 215 327 594 246 764 901 166 964 113 327 377 87 611 916 584 902 819 341 661 497 63 662 445 137 576 488 179 961 207 258 436 139 340 382 251 676 260 712 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 889 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 461 969 25 825 771 46 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 734 849 907 597 660 29 393 946 734 742 519 589 126 323 534 485 974 948 86 990 501 137 663 969 524 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p297\\p297_424_mic2.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Female",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 337 243 889 172 338 877 822 89 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p323\\p323_250_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "region": "Pretoria",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to determine the speaker's gender from the audio as I don't have access to it.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 506 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 877 366 488 620 915 202 393 946 432 742 742 519 589 337 126 323 534 485 974 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 390 515 647 896 627 202 393 946 215 406 187 594 246 660 166 56 964 113 327 791 483 173 641 347 124 362 530 733 196 721 549 576 803 795 944 233 152 784 429 878 423 761 430 70 219 952 522 295 586 314 377 198 835 67 337 884 79 799 220 846 483 377 506 686 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p336\\p336_273_mic2.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 793 105 244 583 576 803 969 748 12 977 877 488 352 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 393 946 215 113 406 594 246 660 166 56 964 113 327 905 791 483 423 173 641 347 124 362 530 733 196 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 576 377 198 835 67 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 415 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p257\\p257_219_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "region": "Southern",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 172 877 822 89 284 327 905 693 611"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p282\\p282_133_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Newcastle",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the speaker's gender in an audio. However, I can suggest some speech recognition tools that can do that for you.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 530 733 664 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 202 393 946 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 969 198 711 124 243 705 11 576 384 879 443 325 801 549 663 969 25 771 46 812 222 428 812 222 931 659 538 187 594 246 660 166 250 964 113 327 791 611 916 584 902 193 341 661 497 63 644 991 254 821 27 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 445 137 488 620 352 915 912 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 85 780 519 26 204 280 668 167 104 896 627 912 98 519 589 126 323 534 485 948 813 539 552 326 531 243 156 824 384 879 319 501 137 161 487 350 747 207 428 333 817 146 283 352 143 38 244 583 516 677 253 205 521 711 510 884 459 173 945 233 914 445 137 469 488 620 352 915 721 549 139 340 846 202 881 331 238 907 430 945 233 515 663 56 258 436 139 340 611 916 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p343\\p343_090_mic1.flac"
+    ],
+    "metadata": {
+      "age": 27,
+      "gender": "Female",
+      "region": "Alberta",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio clips, but I can help you with other questions.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 485 284 814 466 398 212 455 187 594 246 660 166 56 113 327 635 402 382 268 263 914 119 593 453 506 876 545 85 297 675 237 307 226 621 128 665 991 547 833 173 945 944 530 733 445 137 488 620 352 470 821 576 384 693 268 876 258 436 139 340 787 935 271 333 523 196 918 878 104 938 663 969 867 263 45 272 119 797 576 384 879 70 731 600 477 283 832 758 545 711 510 297 265 675 755 415 984 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p362\\p362_417_mic1.flac"
+    ],
+    "metadata": {
+      "age": 29,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm sorry, I'm a text-based AI and do not have the capability to identify the gender of a speaker from an audio clip.",
+    "prediction_units": "254 530 733 627 912 519 26 204 280 668 246 764 466 53 321 458 524 44 902 605 644 254 504 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 589 337 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 220 575 475 783 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 885 757 323 59 790 484 228 234 523 50 910 321 633 86 539 105 79 868 220 483 81 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 742 519 589 337 126 323 534 485 974 948 86 990 501 137 663 969 390 479 515 647 663 246 896 627 488 222 931 878 538 187 594 246 660 166 56 113 327 635 791 380 382 263 45 914 119 593 453 377 506 876 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p282\\p282_137_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Newcastle",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Based on the audio, it's likely to result in a fine.",
+    "prediction_units": "290 978 822 89 194 835 118 944 878 493 361 393 946 215 406 327 187 594 246 270 660 166 964 113 327 905 803 87 611 524 44 115 605 121 864 771 685 437 589 243 781 645 655 837 81 219 990 107 29 518 321 633 86 539 105 79 868 220 156 824 442 798 432 347 975 668 167 246 693 521 506 686 208 613 944 46 812 222 143 565 734 390 479 330 776 167 655 764 837 81 377 385 584 902 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p288\\p288_060_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "202 393 946 734 742 519 589 126 323 534 485 974 948 86 990 501 137 663 969 406 25 825 865 641 124 243 889 172 871 877 822 89 327 905 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p340\\p340_347_mic2.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of determining the gender of a speaker based on an audio clip. However, I can try to help you with other questions or tasks.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 398 212 455 202 393 946 734 196 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 870 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 428 812 179 931 659 187 594 246 660 166 56 113 327 635 791 380 382 45 914 119 647 506 876 755 415 341 661 497 63 644 991 254 821 167 104 894 852 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 915 143 38 777 227 647 655 837 81 664 793 79 868 220 470 821 576 384 693 268 876 258 436 139 787 935 271 333 523 196 918 944 878 238 104 938 663 969 263 45 272 119 797 576 384 879 70 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p240\\p240_097_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "region": "Southern",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is Male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 948 86 990 501 137 663 969 25 865 641 124 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p318\\p318_159_mic2.flac"
+    ],
+    "metadata": {
+      "age": 32,
+      "gender": "Female",
+      "region": "Napa",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the gender of a speaker based on an audio clip. However, I can try to help you with other questions or tasks.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 267 932 148 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 212 455 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 870 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 428 812 222 931 659 538 187 594 246 660 166 56 113 327 905 791 382 45 589 914 119 593 506 876 417 755 415 341 661 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 143 105 777 227 647 655 837 81 664 793 79 868 220 470 821 384 693 268 876 258 436 139 340 787 935 271 333 523 196 918 944 878 238 104 938 663 969 263 45 272 119 797 384 879 70 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p339\\p339_104_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "region": "Pennsylvania",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio, but I can help you with other questions.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 267 932 148 781 303 333 432 32 882 924 866 586 955 59 398 212 455 143 38 79 799 220 483 538 187 594 246 901 166 56 964 113 327 377 87 611 524 44 115 605 121 621 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 576 693 934 268 876 258 436 139 340 787 935 271 333 523 196 918 944 878 238 104 954 938 663 969 263 45 272 119 797 576 384 879 70 731 600 477 283 377 832 758 545 711 510 297 265 675 755 415 984 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p293\\p293_190_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 113 284 466 398 212 455 659 187 461 969 530 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 212 455 538 187 594 246 901 166 250 964 113 327 611 916 584 902 819 341 661 497 63 644 254 504 530 733 914 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 497"
+  }
+]

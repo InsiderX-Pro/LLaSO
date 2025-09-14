@@ -1,0 +1,1702 @@
+[
+  {
+    "voice": [
+      "speechcommand/data\\5e3dde6b_nohash_2_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "answer": "radio"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d962e5ac_nohash_0_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "answer": "stop"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4f8ef132_nohash_0_happy.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happy."
+      }
+    ],
+    "answer": "happy"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5f814c23_nohash_0_eight.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      }
+    ],
+    "answer": "eight"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4c6167ca_nohash_2_eight.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      }
+    ],
+    "answer": "music"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b97c9f77_nohash_0_bird.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bird."
+      }
+    ],
+    "answer": "The spoken command is 'Bird'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1fe4c891_nohash_0_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "answer": "The spoken command is 'six'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\43fc47a7_nohash_0_bed.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bed."
+      }
+    ],
+    "answer": "bed"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\9a7c1f83_nohash_4_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "answer": "left"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\18f8afd5_nohash_0_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "answer": "The speech command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\692a88e6_nohash_4_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "answer": "music"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_1_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "answer": "The command is 'right'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b1f8326d_nohash_0_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "answer": "left"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\83957201_nohash_0_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "answer": "The spoken command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\bfd26d6b_nohash_0_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "answer": "left"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_12_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "answer": "The speech command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_9_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "answer": "radio"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_10_no.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "answer": "The spoken command is 'No'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f292725f_nohash_0_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "answer": "to"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\7192fddc_nohash_0_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "answer": "The spoken command is 'three'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a8e25ebb_nohash_2_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "answer": "The speech command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\ca48dc76_nohash_0_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "answer": "radio"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6f689791_nohash_0_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "answer": "write"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4620dc14_nohash_0_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "answer": "music"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\91b03183_nohash_0_no.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "answer": "commandstop"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\e49428d9_nohash_1_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "answer": "The speech command is 'radio'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d962e5ac_nohash_2_follow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Follow."
+      }
+    ],
+    "answer": "follow"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3b4f8f24_nohash_0_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "answer": "The speech command is 'two.'"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f0ae7203_nohash_0_sheila.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sheila."
+      }
+    ],
+    "answer": "The command word is 'beep'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4fd1443e_nohash_0_bird.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech instruction in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bird."
+      }
+    ],
+    "answer": "bird"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f0ae7203_nohash_0_tree.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Tree."
+      }
+    ],
+    "answer": "tree"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\cfbedff9_nohash_3_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "answer": "The speech command is 'down'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\9e2ce5e3_nohash_0_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "answer": "The spoken command is 'five'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\dfdabe19_nohash_0_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speech command in this audio. Respond with only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "answer": "commandstop"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\adebe223_nohash_0_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "answer": "The spoken command is 'down'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4fd1443e_nohash_1_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "answer": "The speech command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3659fc1c_nohash_1_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "answer": "The spoken command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\63f7a489_nohash_2_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "answer": "down"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\68dd409e_nohash_1_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech instruction in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "answer": "The command is 'stop'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\40c4e774_nohash_0_cat.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cat."
+      }
+    ],
+    "answer": "cat"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a1533da4_nohash_0_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the command spoken in this audio. Return only the command, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "answer": "down"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3cbd76a3_nohash_0_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "answer": "The command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\0cb74144_nohash_0_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "answer": "six"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5c8af87a_nohash_0_house.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "House."
+      }
+    ],
+    "answer": "house"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_0_wow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Wow."
+      }
+    ],
+    "answer": "The spoken command is 'Wow.'"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8494fba8_nohash_1_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "answer": "The command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1acc97de_nohash_3_no.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "answer": "no"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\40c4e774_nohash_0_follow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Follow."
+      }
+    ],
+    "answer": "follow"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\c9b5ff26_nohash_0_one.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One."
+      }
+    ],
+    "answer": "one"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1acc97de_nohash_1_eight.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      }
+    ],
+    "answer": "The command is set."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\43fc47a7_nohash_0_cat.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cat."
+      }
+    ],
+    "answer": "cat"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\68dd409e_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "answer": "The spoken command is 'up'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4c6167ca_nohash_0_visual.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Visual."
+      }
+    ],
+    "answer": "The speech command is 'visual'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8769c34c_nohash_0_visual.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Visual."
+      }
+    ],
+    "answer": "The speech command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_2_learn.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Learn."
+      }
+    ],
+    "answer": "The command is 'play'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\cfbedff9_nohash_0_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "answer": "The speech command is 'stop'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1cb788bc_nohash_0_one.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One."
+      }
+    ],
+    "answer": "The speech command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a4383927_nohash_1_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "answer": "The spoken command is 'goodbye'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3b4f8f24_nohash_2_backward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Backward."
+      }
+    ],
+    "answer": "reverse"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\189cbabe_nohash_2_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "answer": "stop"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\c22d3f18_nohash_0_one.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One."
+      }
+    ],
+    "answer": "run"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4fd1443e_nohash_0_sheila.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sheila."
+      }
+    ],
+    "answer": "radio"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f2e59fea_nohash_1_backward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Backward."
+      }
+    ],
+    "answer": "reverse"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a6f2fd71_nohash_1_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "answer": "The command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1acc97de_nohash_0_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speech command in this audio. Respond with only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "answer": "commandstop"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\964e8cfd_nohash_3_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "answer": "The spoken command is '推'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\63f7a489_nohash_4_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "answer": "The command is 'six'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f264e0df_nohash_0_wow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Wow."
+      }
+    ],
+    "answer": "while"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\553f1a79_nohash_0_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "answer": "up"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6f2f57c1_nohash_0_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "answer": "music"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\837a0f64_nohash_1_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "answer": "up"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a6f2fd71_nohash_1_forward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Forward."
+      }
+    ],
+    "answer": "forward"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\bb05582b_nohash_1_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "answer": "The spoken command is 'nine'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8625475c_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "answer": "off"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "answer": "The command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\881583a6_nohash_0_dog.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Dog."
+      }
+    ],
+    "answer": "dog"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d5b963aa_nohash_2_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "answer": "The spoken command is 'three'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4c6167ca_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "answer": "off"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b7e9f841_nohash_0_learn.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Learn."
+      }
+    ],
+    "answer": "The spoken command is 'liar'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d1a4fb3f_nohash_0_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "answer": "radio"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\aa80f517_nohash_3_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "answer": "The speech command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_3_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "answer": "music"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d5b963aa_nohash_0_marvin.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Marvin."
+      }
+    ],
+    "answer": "The command is 'marvin'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\80c45ed6_nohash_0_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "answer": "six"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\840c366d_nohash_0_marvin.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech instruction in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Marvin."
+      }
+    ],
+    "answer": "The command word is 'marvin'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\837a0f64_nohash_0_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "answer": "Yes"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4a0e2c16_nohash_0_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "answer": "The command is affirm."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6379c6a2_nohash_0_forward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Forward."
+      }
+    ],
+    "answer": "The command is 'music'."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8769c34c_nohash_2_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "answer": "right"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\2d82a556_nohash_0_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "answer": "yes"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b83c1acf_nohash_0_bed.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bed."
+      }
+    ],
+    "answer": "bed"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3b4f8f24_nohash_3_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "answer": "yes"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8494fba8_nohash_1_happy.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happy."
+      }
+    ],
+    "answer": "happy"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8769c34c_nohash_4_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "answer": "Yes"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\7e1054e7_nohash_1_house.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "House."
+      }
+    ],
+    "answer": "house"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a6f2fd71_nohash_1_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "answer": "radio"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6021f08b_nohash_0_tree.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Tree."
+      }
+    ],
+    "answer": "tree"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\0cb74144_nohash_0_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speech command in this audio. Respond with only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "answer": "The speech command is '哦。'"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\2fa39636_nohash_0_dog.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Dog."
+      }
+    ],
+    "answer": "dog"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\9a69672b_nohash_0_zero.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Zero."
+      }
+    ],
+    "answer": "The speech command is 'zero'."
+  }
+]

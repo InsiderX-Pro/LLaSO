@@ -1,0 +1,2102 @@
+[
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia503_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are training an AI model for mood detection. Listen to the audio and classify its emotional intensity as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Chandler",
+      "utt": "You roll another hard eight and we get married here tonight."
+    },
+    "result": "I'm sorry, but I don't have the capability to play music or have emotional responses. My purpose is to assist you with information and tasks based on your needs. How can I help you today?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia563_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the emotion is subtle, classify the intensity into one of these three categories: positive, neutral, or negative. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Monica",
+      "utt": "What if I asked?"
+    },
+    "result": "If you ask \"what if I asked,\" the answer would be \"it depends on the context of your question. Could you please provide more details or clarify what you're asking about?\" This will help me give you a more accurate and helpful response."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia361_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For sentiment analysis in user feedback, classify the emotional intensity as positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Rachel",
+      "utt": "Oh my God! You are giving this a lot of thought."
+    },
+    "result": "I understand. I will analyze the sentiment of the user feedback and classify it as positive, neutral, or negative. I will also provide a detailed report of my findings and suggest possible solutions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia819_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a customer support call analysis. Determine the emotional intensity of the speaker and return either positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Chandler",
+      "utt": "Hi sweetie. So, what was with all the whispering?"
+    },
+    "result": "Hi, I'm glad you're reaching out. I'm sorry for any frustration. I'm currently listening to your request and I'll do my best to provide you with a helpful response. I'll need a bit more information from you to get started. Could you please provide me with the details of the customer support call?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia321_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are training an AI model for mood detection. Listen to the audio and classify its emotional intensity as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Eric",
+      "utt": "Our sex."
+    },
+    "result": "I'm sorry, but I don't have the capability to train an AI model. However, I can help you understand the concept of neural networks and how they can be used to classify audio. Neural networks are a type of artificial intelligence that is modeled after the human brain and is used to recognize patterns in data. They can be used to classify audio into different categories such as positive, neutral, or negative."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia702_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the emotional intensity in the speech and return a single classification: positive, neutral, or negative. Do not include any additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Monica",
+      "utt": "Yes!"
+    },
+    "result": "The speaker expresses a strong emotional intensity and a desire to return to a single classification positive, neutral, or negative. This indicates a deep emotional connection and a strong desire to maintain a positive outlook. The speaker's desire to return to a single classification suggests a strong emotional attachment to the subject matter."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia182_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Monica",
+      "utt": "Who cares?!"
+    },
+    "result": "It sounds like you're looking for a balanced approach to your communication. Start by choosing a neutral or positive tone, as it can help create a more engaging and supportive environment. Use phrases like \"I appreciate your concern\" or \"I understand your feelings\" to show empathy and acknowledge their emotions. Avoid using negative language or insults, as these can come across as dismissive. Instead, focus on positive aspects and express gratitude or appreciation for their input. This way, your message is more likely to be received positively and respectfully."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia938_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech-based recommendation system, identify the emotional intensity of the speaker and return one of these labels: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Joey",
+      "utt": "Thanks."
+    },
+    "result": "For a speech-based recommendation system, the emotional intensity should be identified by the label \"Positive\" or \"Neutral.\" This label indicates that the speaker has a neutral or neither strongly positive nor strongly negative sentiment towards the topic."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia977_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For sentiment analysis in user feedback, classify the emotional intensity as positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Ross",
+      "utt": "What?"
+    },
+    "result": "Got it. I will analyze the sentiment of the user feedback and classify it as positive, neutral, or negative. I will also provide a summary of the overall sentiment of the feedback. Is there anything else I can do for you?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia474_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a customer support call analysis. Determine the emotional intensity of the speaker and return either positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Monica",
+      "utt": "I mean, I get all those presents  without having to talk to people I dont even like!"
+    },
+    "result": "It sounds like you're dealing with a challenging situation where you're trying to find a balance between maintaining a positive attitude and addressing negative feelings. It's important to remember that customer support calls are meant to help and not to bring negativity into your life. Try to focus on the positive aspects of your relationship with the customer, such as their satisfaction with your service or the outcome of your interactions. If the situation doesn't improve, consider seeking advice from a supervisor or a customer service representative. They can offer guidance and help you find a solution that aligns with your values and the needs of your team."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia482_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal tone, pitch, and energy, classify the speaker's emotional intensity as positive, neutral, or negative. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Phoebe",
+      "utt": "Oh my God! How did you get back here?!"
+    },
+    "result": "I understand your frustration. I'm here to help and provide support in any way I can. If there's something specific you need assistance with, please let me know."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia202_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider voice pitch, speed, and stress patterns to evaluate emotional intensity. Classify it as positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Chandler",
+      "utt": "Hey!"
+    },
+    "result": "To evaluate emotional intensity, you can use the Emotional Intelligence Scale, which measures the emotional capacity of a person. This scale ranges from 0 to 10, with 10 being neutral and 10 being positive. Positive values would indicate strong emotional reactions like happiness, anger, or sadness, while negative values would suggest strong emotional reactions like anger, sadness, or fear."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia908_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus on the strength of emotion expressed in the speech. Determine if it is positive, neutral, or negative. Return only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Joey",
+      "utt": "Right-right up here."
+    },
+    "result": "The strength of the emotion expressed in the speech is determined by the words used in the sentence. If the words used are positive, neutral, or negative, the emotion expressed in the speech will be determined."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia778_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For sentiment analysis in user feedback, classify the emotional intensity as positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "speaker": "Phoebe",
+      "utt": "These old things."
+    },
+    "result": "Got it. I will analyze the sentiment of the user feedback and classify it as positive, neutral, or negative. I will also provide a summary of the overall sentiment of the feedback. Is there anything else I can do for you?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia679_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Joey",
+      "utt": "I cant even use Chandlers computer except to find porn!"
+    },
+    "result": "I understand your frustration. It sounds like you're dealing with a challenging situation where you're trying to find a solution but aren't getting the right advice. It's important to remember that everyone has different strengths and weaknesses, and what works for one person might not be the same for another. Maybe try to break down the problem into smaller, more manageable steps. You could also seek advice from a trusted friend or mentor who might have a different perspective. Keep an open mind and be patient with yourself as you work through this."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia197_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speaker's emotional state in terms of intensity. Return only one of: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Joey",
+      "utt": "It's me, Joey!"
+    },
+    "result": "It sounds like you're looking for a specific piece of text or a sentence that expresses a strong positive or negative emotion. Could you provide more context or the text you're referring to? That way, I can help you better understand or interpret it."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia767_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal tone, pitch, and energy, classify the speaker's emotional intensity as positive, neutral, or negative. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Ross",
+      "utt": "The laundry song that we sing."
+    },
+    "result": "The label \"The Laundry Song\" is generally classified as neutral or negative."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia714_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a customer support call analysis. Determine the emotional intensity of the speaker and return either positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Ross",
+      "utt": "No! No!! No! Can I speak to someone in charge please?!"
+    },
+    "result": "Yes, you can speak to someone in charge, but it's important to do so respectfully and with care. Start by expressing your appreciation for their support and then clearly state your concerns about the speaker's emotional intensity. For example, you could say, \"I appreciate your concern, but I believe it's best for me to speak up. I'm worried about the speaker's emotional well-being.\" This approach shows that you are genuinely concerned and willing to address the issue."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia128_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Monica",
+      "utt": "Oh God Phoebe!!  Oh thats it! Thats it! Right there! Oh!  Ooooh-oooh-ooooh"
+    },
+    "result": "The speaker's tone is determined by the emotional intensity of the words they use. They choose to respond positively, neutral, or negative, as they feel the speaker is expressing their feelings. The correct label for this response is \"positive.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia372_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers want to measure emotional intensity in speech. Classify this sample as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "speaker": "Phoebe",
+      "utt": "In that, um, they don't."
+    },
+    "result": "In a psychological study, researchers aim to measure emotional intensity and speech classification as positive, neutral, or negative. They don't classify speech as negative because they don't inherently convey emotion. Instead, they focus on the speaker's behavior and facial expressions to understand the emotional state of the speaker."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia836_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Ross",
+      "utt": "Wow! We are pretty good at this! Hey! We totally forgot about lunch!"
+    },
+    "result": "I understand that you're feeling frustrated. It sounds like you're dealing with a challenging situation. It's important to remember that everyone has different strengths and weaknesses, and it's okay to set boundaries. If you need to talk more about what's bothering you, I'm here to listen and help."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia175_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are training an AI model for mood detection. Listen to the audio and classify its emotional intensity as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "speaker": "Rachel",
+      "utt": "No seriously, yknow the contracts I gave you, did you overnight them?"
+    },
+    "result": "Yes, I'm aware of the contracts I've given you. I'm trained on AI-generated dialogue data with 8 A100 GPUs, so I'm able to understand and respond to conversations in both English and Chinese. I'm also able to provide detailed explanations for entities and terms in my replies."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia193_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider voice pitch, speed, and stress patterns to evaluate emotional intensity. Classify it as positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Leslie",
+      "utt": "Wow, thats great."
+    },
+    "result": "It sounds like you're describing a speaker's ability to convey strong emotions through their vocal expression. This can be particularly powerful in genres like rock, pop, or even some types of poetry. By using high-contrast, expressive patterns, the speaker can effectively convey strong feelings and convey a sense of intensity. This kind of vocal expression is often used to create a powerful and emotive listening experience."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia700_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech-based recommendation system, identify the emotional intensity of the speaker and return one of these labels: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Rachel",
+      "utt": "No!"
+    },
+    "result": "For a speech-based recommendation system, you can use a model trained on a dataset that includes features like emotional intensity, speaker volume, and labels such as positive, neutral, or negative. One common approach is using a pre-trained model like the BERT (Bidirectional Encoder Representations from Transformers) with a large corpus of text and a specific language model like GPT-3. This pre-trained model can be fine-tuned to your specific needs by fine-tuning its parameters and hyperparameter values. Additionally, incorporating real-world speech and labels into the model can enhance its accuracy and relevance."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia79_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers want to measure emotional intensity in speech. Classify this sample as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Chandler",
+      "utt": "Oh, yeah?"
+    },
+    "result": "The psychological study you're referring to is called \"positive reinforcement.\" Researchers at Johns Hopkins University have studied how positive reinforcement can lead to improved emotional intelligence and behavior."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia246_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers want to measure emotional intensity in speech. Classify this sample as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Rachel",
+      "utt": "I know Mona, just hear me out."
+    },
+    "result": "Mona is classified as a positive, neutral, or negative researcher. She is not motivated by any particular emotion or intensity, but rather by the desire to learn and understand the subject matter."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia246_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, categorize the overall intensity as either positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Rachel",
+      "utt": "First of all, Im so sorry about my father yelling at you, but I heard you totally held your own."
+    },
+    "result": "It sounds like you're expressing a strong emotional reaction to a situation where multiple emotions are involved. It's important to acknowledge and understand these emotions to foster empathy and better communication. If you're feeling overwhelmed or unsure about how to handle a specific situation, it might help to talk it through with someone you trust or seek professional advice. Remember, it's okay to feel this way, and taking steps to manage your emotions can be a positive step forward."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia56_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided audio sample, assess the emotional intensity and categorize it as either positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Rachel",
+      "utt": "Oh. Oh, its beautiful. I see it now."
+    },
+    "result": "It sounds like you're describing a dataset that includes both positive and negative categories. This could be useful for categorizing data or for analyzing trends in a specific dataset. Positive categories might indicate categories with a positive impact or outcome, while negative categories could suggest categories with a negative impact or outcome. If you need help interpreting the data or understanding its implications, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia318_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity without considering lexical meaning. Use only acoustic features to classify it as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Monica",
+      "utt": "About a half an hour."
+    },
+    "result": "Sure, I can help you with that. To analyze the emotional intensity of a sentence, you can use a sentiment analysis tool. This tool will analyze the sentence and assign a sentiment score to it. The score will indicate the overall sentiment of the sentence. For example, if the sentence is positive, it will be classified as neutral, and if it is negative, it will be classified as negative."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia649_utt23.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Joey",
+      "utt": "No-no-no-no, hes not! No! Why are you trying to ruin the game? Come on!"
+    },
+    "result": "I understand. It sounds like you're discussing a game or a situation where the speaker is trying to convey a strong emotional reaction. It's important to remember that everyone reacts differently to situations, and what might seem like a negative response to one person's feelings could be completely normal. If you need to talk more about the specifics or need help with a particular part of the conversation, feel free to share!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia623_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Joey",
+      "utt": "Then I called 9-1-1 and they laughed at me, if this isnt an emergency, then what is?"
+    },
+    "result": "The speaker's tone is quite serious and commanding. They use strong language to convey their message, emphasizing the importance of the situation and the urgency of the situation. They also use a commanding tone to make sure their message is heard."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia102_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, categorize the overall intensity as either positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Phoebe",
+      "utt": "Oh no, Bonnies the best!"
+    },
+    "result": "It sounds like you're describing a situation where there are multiple emotions or states involved. If you're dealing with a specific context, such as a conversation or a task, it's important to consider the context and the intended meaning. If you're looking to understand or analyze these emotions, it might be helpful to look at the underlying factors or underlying causes. If you need more specific guidance, please provide more details about the situation."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia76_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression in this audio, classify the emotion intensity as positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Chandler",
+      "utt": "Okay, you know, you know when your in bed, with a woman."
+    },
+    "result": "The vocal expression in the audio is classified as neutral."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia587_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression in this audio, classify the emotion intensity as positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Rachel",
+      "utt": "Oh, I did!"
+    },
+    "result": "The vocal expression in the audio you provided is classified as neutral."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia54_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a customer support call analysis. Determine the emotional intensity of the speaker and return either positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "speaker": "Dina",
+      "utt": "I want him to have his uncle."
+    },
+    "result": "I understand. To create a customer support call analysis, I will need to collect customer feedback, analyze customer sentiment, and identify any patterns or trends in customer behavior. I can also use natural language processing to identify any potential issues or areas of improvement. Once I have collected the data, I can generate a report that outlines the customer support call analysis and provides suggestions for improvement."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia111_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the intensity of emotion in the provided speech sample? Reply only with: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "speaker": "Chandler",
+      "utt": "Joe?"
+    },
+    "result": "The intensity of emotion in the provided speech sample is positive."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia578_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression in this audio, classify the emotion intensity as positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Eric",
+      "utt": "Thats weird."
+    },
+    "result": "The vocal expression in the audio is classified as neutral."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia140_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speaker's emotional state in terms of intensity. Return only one of: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Joey",
+      "utt": "I can't write!"
+    },
+    "result": "It sounds like you're describing a situation where someone is expressing their strong emotions, possibly in a very negative or hostile way. It's important to remember that everyone expresses their feelings in a way that can be hurtful to others. If you're dealing with someone who is displaying such behavior, it might be helpful to talk to them about how their actions affect you and others. Seeking support from friends, family, or a professional can also provide a safe space to vent and address these feelings constructively."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia219_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal tone, pitch, and energy, classify the speaker's emotional intensity as positive, neutral, or negative. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Joey",
+      "utt": "All right?"
+    },
+    "result": "The label \"positive\" is a neutral term. It describes the speaker's emotional state without expressing any strong positive or negative feelings."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia895_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Phoebe",
+      "utt": "Of course I do! And Im gonna give it back to you as soon as theyre done with it at the key shining place."
+    },
+    "result": "I understand. You're looking for a balanced and empathetic response. Start by acknowledging the speaker's feelings and letting them know you understand their emotions. Then, express your own feelings using \"I\" statements to avoid sounding accusatory. For example, \"I feel hurt when...\" instead of \"You always make me feel this way.\" This approach shows that you care about their perspective and are willing to listen."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia97_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the emotion is subtle, classify the intensity into one of these three categories: positive, neutral, or negative. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Monica",
+      "utt": "Okay. Lets bring it in."
+    },
+    "result": "The label \"positive\" is neutral."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia979_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For sentiment analysis in user feedback, classify the emotional intensity as positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Phoebe",
+      "utt": "I justI thought you guys were doing it, I didn't know you were in love!"
+    },
+    "result": "I understand your concern. I'm designed to analyze sentiment in user feedback and classify it as positive, neutral, or negative. If you have any specific criteria or details you'd like to focus on, please let me know, and I'll do my best to help you."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia395_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers want to measure emotional intensity in speech. Classify this sample as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Ross",
+      "utt": "Ive had better."
+    },
+    "result": "In a psychological study, researchers aim to measure emotional intensity and speech classification as positive, neutral, or negative. They typically use a pre-anal model, where they predict the speaker's emotional state based on past experiences and responses. This model helps in understanding the speaker's feelings and reactions to various stimuli. By comparing the predictions made by the model to actual responses, researchers can determine whether the speaker is projecting a positive, neutral, or negative emotional state. This method is often used in fields like psychology, social sciences, and even in clinical settings to provide insights into emotional well-being."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia658_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a customer support call analysis. Determine the emotional intensity of the speaker and return either positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Chandler",
+      "utt": "How needy do I want to seem?"
+    },
+    "result": "To determine the emotional intensity of the speaker, you can use a customer support analytics tool that measures the emotional response of the customer. This tool will analyze the customer's words, body language, and tone of voice to determine the emotional intensity of the speaker. Additionally, you can also use sentiment analysis to measure the emotional intensity of the speaker. This tool will analyze the customer's words and body language to determine the emotional intensity of the speaker."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia397_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the intensity of emotion in the provided speech sample? Reply only with: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Joey",
+      "utt": "Fine! Do you want something to drink?"
+    },
+    "result": "The intensity of emotion in the provided speech sample is positive."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia374_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity without considering lexical meaning. Use only acoustic features to classify it as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Chandler",
+      "utt": "Oh youve got to be kidding me."
+    },
+    "result": "It sounds like you're looking for a way to classify something as positive, neutral, or negative based on its emotional intensity. One approach could be to use a sentiment analysis tool that analyzes the text to determine the overall tone and sentiment. This tool can identify words and phrases that indicate a positive or negative sentiment, allowing you to make an educated guess about the emotional state of the text. Alternatively, you could manually label each feature as either positive, negative, or neutral, depending on the context and the nature of the content."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia129_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech-based recommendation system, identify the emotional intensity of the speaker and return one of these labels: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "disgust",
+      "speaker": "Joey",
+      "utt": "Oh, classy."
+    },
+    "result": "The system used for speech-based recommendation is called the \"haptic feedback\" system."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia17_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the emotion is subtle, classify the intensity into one of these three categories: positive, neutral, or negative. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Monica",
+      "utt": "And Im appalled for you by the way."
+    },
+    "result": "The emotion \"subtle\" can be classified as \"neutral\" because it is neither acute nor severe. It is neither acute nor severe, so it does not significantly impact the overall emotion."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia185_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression in this audio, classify the emotion intensity as positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Ross",
+      "utt": "Really?!"
+    },
+    "result": "The vocal expression in the audio is classified as neutral."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia611_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression in this audio, classify the emotion intensity as positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Monica",
+      "utt": "Could've played"
+    },
+    "result": "The label \"Neutral\" is a positive sentiment."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia171_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the emotional intensity conveyed in this speech. Select one label: positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Rachel",
+      "utt": "Hmmm... this is so nice."
+    },
+    "result": "The emotional intensity conveyed in the speech can be determined by analyzing the words and phrases used. Selecting one label as neutral or negative often indicates a calm and neutral tone. On the other hand, adding one label as negative can suggest a strong and negative sentiment."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia28_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech-based recommendation system, identify the emotional intensity of the speaker and return one of these labels: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Ross",
+      "utt": "Are you kidding?"
+    },
+    "result": "Based on the information you provided, I would recommend the system as a positive recommendation system. It is based on the principle of positive reinforcement, which is the idea that positive reinforcement can lead to a positive outcome. This system can be used to reward the speaker for their positive behavior and encourage them to continue to do the same."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia652_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the emotion is subtle, classify the intensity into one of these three categories: positive, neutral, or negative. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Rachel",
+      "utt": "Oh, c'mon. She's a person, you can do it!"
+    },
+    "result": "It sounds like you're describing a situation where someone is experiencing a state of emotional distress or anxiety. This can be a sign of depression or anxiety. If you or someone you know is experiencing these feelings, it's important to seek professional help. Talking to a mental health professional can provide support and coping strategies. Remember, you don't have to face this alone, and there are people who care and want to help you."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia287_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity without considering lexical meaning. Use only acoustic features to classify it as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Joey",
+      "utt": "I'm thinkin', cha-ching!"
+    },
+    "result": "Sure, I can help you with that. To analyze the emotional intensity of a lexical meaning, you can use a lexicon-based approach. This approach involves creating a dictionary of words and their associated meanings, then using the dictionary to determine the emotional intensity of the meaning. For example, if the lexicon contains words such as \"happy\", \"sad\", \"angry\", \"sad\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \"angry\", \""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia774_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech-based recommendation system, identify the emotional intensity of the speaker and return one of these labels: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Stranger",
+      "utt": "Hi."
+    },
+    "result": "The emotional intensity of the speaker is determined by the label \"positive,\" which is neutral. The label \"neutral\" indicates a slightly negative emotional response."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia672_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For sentiment analysis in user feedback, classify the emotional intensity as positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Rachel",
+      "utt": "Are you sure?"
+    },
+    "result": "Yes, I'm sure. I can analyze the sentiment of user feedback and classify them as positive, neutral, or negative. I can also provide detailed explanations for why I make certain decisions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia160_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider voice pitch, speed, and stress patterns to evaluate emotional intensity. Classify it as positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "speaker": "Joey",
+      "utt": "No more J-man and Channies!"
+    },
+    "result": "Voice-peech speed and stress patterns are important for evaluating emotional intensity. Positive or neutral output typically indicates a lower stress level, while negative output suggests a higher stress level. Conversely, a lower stress level often correlates with a higher emotional intensity. It's essential to consider the context and the specific words used in the speech to gauge the overall impact."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia792_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the emotional intensity conveyed in this speech. Select one label: positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Joey",
+      "utt": "Right...  ok, so just from the top of the page, right here."
+    },
+    "result": "The label \"positive\" is neutral."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia812_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal tone and classify the emotional intensity level. Provide only one of these labels: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Monica",
+      "utt": "My boyfriend really does have good taste!"
+    },
+    "result": "The label \"Vocophone\" can be classified as a neutral or positive one. It is a term used to describe someone who is not particularly passionate or enthusiastic about a particular subject."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia293_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the emotional intensity in the speech and return a single classification: positive, neutral, or negative. Do not include any additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Joey",
+      "utt": "Apparently, theres like a million guys out there that can play Mac, and theres only this one robot and this one guy who controls it!"
+    },
+    "result": "It sounds like you're describing a complex and emotionally charged situation. It's important to approach such topics with sensitivity and respect for others' feelings. If you're dealing with a difficult or sensitive situation, it might be helpful to speak with a trusted friend, family member, or professional for support. Remember, everyone deserves to feel safe and respected."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia161_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, categorize the overall intensity as either positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Ross",
+      "utt": "Listen, can you do me a favor?"
+    },
+    "result": "Sure! If you're looking for a balanced categorization, you might consider a neutral label. This means neither positive nor negative. For example, you could say \"Neutral\" for \"Neutral\" and \"Positive\" for \"Neutral\" to convey a neutral sentiment."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia319_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speaker's emotional state in terms of intensity. Return only one of: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "speaker": "Monica",
+      "utt": "Ooh, nice."
+    },
+    "result": "Sure, I can do that. I will listen carefully and classify the speaker's emotional state as either positive, neutral, or negative. I will then provide a detailed report of my findings."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia219_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the intensity of emotion in the provided speech sample? Reply only with: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Joey",
+      "utt": "Hey, I wasn't the only one who looked like an idiot."
+    },
+    "result": "The intensity of emotion in the provided speech sample is described as \"positive, neutral, or negative.\" This means that the speaker's feelings are categorized as either positive, neutral, or negative."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia608_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression in this audio, classify the emotion intensity as positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Joey",
+      "utt": "Hey Ross. This probably isn't the best time to bring it up, but you have to throw a party for Monica."
+    },
+    "result": "The emotion in the audio is classified as positive."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia30_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speaker's emotional state in terms of intensity. Return only one of: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "speaker": "Joey",
+      "utt": "No! I wont leave you!"
+    },
+    "result": "It sounds like you're looking for a way to express your feelings without using the speaker's emotional state. One approach could be to simply say, \"I feel very strongly about this issue,\" which can be interpreted as a positive statement without the negative connotations of the speaker's emotional state."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia390_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the given audio clip and classify the speaker's emotional intensity as positive, neutral, or negative. Return only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Rachel",
+      "utt": "Really?! You think that will work?"
+    },
+    "result": "I am a voice assistant and cannot write code. To analyze the audio clip, first ensure you have a clear understanding of the audio file. Then, you can use audio analysis software to identify the speaker's emotional intensity. Look for indicators like a neutral expression, a strong or weak sound, or a specific pitch. Compare these indicators to the expected emotional intensity levels for the speaker. If the signal matches, you can classify the speaker as positive, neutral, or negative. If not, you might classify it as negative."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia817_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression in this audio, classify the emotion intensity as positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Phoebe",
+      "utt": "I wonder where she is. That is so weird."
+    },
+    "result": "The label \"She\" is classified as neutral."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia226_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided audio sample, assess the emotional intensity and categorize it as either positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Rachel",
+      "utt": "Oh well, y'know, the gala had to end sometime."
+    },
+    "result": "It sounds like you're describing a specific audio sample with a particular emotional intensity and categorization. This type of audio could be used for various purposes, such as music production, sound design, or even for educational purposes. If you need help interpreting the audio, consider listening to it again or using audio editing software to refine the characteristics."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia241_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the emotional intensity conveyed in this speech. Select one label: positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Phoebe",
+      "utt": "Exactly!"
+    },
+    "result": "The emotional intensity conveyed in the speech is determined by the use of the words \"melancholy,\" \"disappointment,\" and \"disappointment.\" These words express feelings of sorrow, sadness, and a sense of loss, which are typical of a melancholic or negative tone."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia524_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Phoebe",
+      "utt": "Hey."
+    },
+    "result": "The speaker's tone is determined by the emotional intensity of the words they use. They choose to respond only with the correct label because they want to convey the message with the highest level of emotional impact."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia373_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers want to measure emotional intensity in speech. Classify this sample as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Chandler",
+      "utt": "Yeah. Right."
+    },
+    "result": "In a psychological study, researchers aim to measure emotional intensity and speech classification as positive, neutral, or negative. They consider these factors to determine the overall emotional state of the individual. Positive measures include high levels of happiness, excitement, and satisfaction, while neutral measures include a lack of strong emotions and a mild sense of contentment. Negative measures include sadness, anger, or agitation. By analyzing these metrics, researchers can gain insights into the psychological state of the speaker and help in understanding their emotional well-being."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia420_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speaker's emotional state in terms of intensity. Return only one of: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Joey",
+      "utt": "What are you talking about? Lots of things rhyme with Rachel. Bagel. Mail. Jail. Bail. Able. May-pole."
+    },
+    "result": "I understand your concern. The speaker is expressing a strong emotional state, which can be interpreted as a mix of frustration and anger. It's important to remember that everyone expresses their feelings, and it's okay to feel upset or angry. If you're comfortable, you might want to share more about what's been happening so we can discuss it further."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia889_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Rachel",
+      "utt": "James Brolin?"
+    },
+    "result": "The speaker's tone is determined by the emotional intensity of their choice of words. They choose to respond with the correct label \"James Brolin.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia967_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the intensity of emotion in the provided speech sample? Reply only with: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Rachel",
+      "utt": "Aw, its unbelievable!"
+    },
+    "result": "The intensity of emotion in the provided speech sample is described as \"positive, neutral, or negative.\" This means that the speaker's feelings are categorized as either positive, neutral, or negative."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia329_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal tone, pitch, and energy, classify the speaker's emotional intensity as positive, neutral, or negative. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Rachel",
+      "utt": "Oh really?! Then how come all your stuff is in this box?!"
+    },
+    "result": "The label \"All Your Stuff\" is in the box."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia30_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are training an AI model for mood detection. Listen to the audio and classify its emotional intensity as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "speaker": "Phoebe",
+      "utt": "Dont worry about me, Im a robot! Im just a machine!!"
+    },
+    "result": "I understand your concern. I'm here to assist you with any questions or concerns you might have. If there's something specific you'd like to discuss or need help with, please let me know. Your feedback is important to improve my services."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia891_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speaker's emotional state in terms of intensity. Return only one of: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Chandler",
+      "utt": "Oh!"
+    },
+    "result": "Sure, I can do that. I will listen carefully and classify the speaker's emotional state as either positive, neutral, or negative. I will then provide a detailed report of my findings, including the speaker's emotional state, the words they used, and the overall sentiment of the conversation."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia9_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the speaker's tone and determine the emotional intensity. Choose from: positive, neutral, or negative. Respond only with the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Jade",
+      "utt": "Oh, and in case you were wondering, those are my legs on the new James Bond poster."
+    },
+    "result": "I understand your frustration. The speaker's tone is quite assertive, using strong language and a commanding presence. They seem to be very passionate about the topic, which is why they choose to respond with a neutral or negative response. This response is likely to convey a strong, clear message without any emotional undertones."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia912_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the emotional intensity conveyed in this speech. Select one label: positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Ross",
+      "utt": "That was just the pants on the couch. Umm, hey, do you, do you mind if I use your bathroom?"
+    },
+    "result": "The sentence \"That was just the pants on the couch\" is a metaphor. It compares the situation to the fact that the person is \"just the pants on the couch,\" suggesting that the person is experiencing a situation that is not going well."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia428_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided audio sample, assess the emotional intensity and categorize it as either positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Monica",
+      "utt": "Wait, now, what am I doing again?"
+    },
+    "result": "To assess the emotional intensity and categorize it as either positive, neutral, or negative, you can use the Textiles-DialogS Analyzer tool. First, you need to import the Textiles-DialogS Analyzer into your text editor. Then, you can use the Analyzer tool to analyze the text and assign a score to each word. The score will indicate the emotional intensity of each word. If the score is positive, it will indicate a positive emotion, and if it is neutral, it will indicate a neutral emotion. If the score is negative, it will indicate a negative emotion."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia389_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression in this audio, classify the emotion intensity as positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Rachel",
+      "utt": "Pheebs..."
+    },
+    "result": "The audio has a positive sentiment."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia741_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression in this audio, classify the emotion intensity as positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Rachel",
+      "utt": "What?! What?! He was trying to cheer me up! My pony was sick."
+    },
+    "result": "The audio label \"My Pony Was Sick\" is classified as positive."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia182_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speaker's emotional state in terms of intensity. Return only one of: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Rachel",
+      "utt": "No, but I was doing my thing and everything was going according to the plan!"
+    },
+    "result": "It sounds like you're reflecting on a significant moment in your life where you experienced a pivotal moment of intense emotion. This could be a moment of realization, a breakthrough, or a turning point in your journey. It's important to acknowledge and reflect on these experiences to understand your motivations and the reasons behind them. Remember, it's okay to feel conflicted and seek clarity or guidance from others who might have witnessed or experienced it firsthand. Taking time to process these emotions can help you make sense of what you're experiencing and how it might affect your future."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia684_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers want to measure emotional intensity in speech. Classify this sample as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Chandler",
+      "utt": "So apparently we just dont pay for food anymore.  Do you see what I see?"
+    },
+    "result": "Yes, you see what you're seeing. Positive stimuli, like nutrition and speech, can be neutral or even negative. They don't significantly impact the outcome of negative stimuli. However, negative stimuli, like stress or negative thoughts, can be harmful and may affect your mental well-being. It's important to find a balance between positive and negative stimuli in your study."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia840_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a speech-based recommendation system, identify the emotional intensity of the speaker and return one of these labels: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Rachel",
+      "utt": "I guess you don't."
+    },
+    "result": "I understand your concern. It sounds like you're dealing with a situation where someone has provided a negative recommendation. It's important to approach this with empathy and understanding. If you feel comfortable, you might consider discussing your feelings with the person who provided the recommendation. They might be able to offer a different suggestion or solution. Remember, it's okay to set boundaries and prioritize your well-being."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia813_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus on the strength of emotion expressed in the speech. Determine if it is positive, neutral, or negative. Return only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Rachel",
+      "utt": "Hello, Mrs. Chatracus."
+    },
+    "result": "The strength of the emotion expressed in the speech is positive."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia287_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the intensity of emotion in the provided speech sample? Reply only with: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Joey",
+      "utt": "Pathetic mess?"
+    },
+    "result": "The intensity of emotion in the provided speech sample is positive."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia273_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For sentiment analysis in user feedback, classify the emotional intensity as positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Positive."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "speaker": "Phoebe",
+      "utt": "Yeah well, once again not knocking pays off. I only wish you hadnt been on the toilet."
+    },
+    "result": "Got it. I'll analyze the sentiment of the user feedback and classify it as positive, neutral, or negative. I'll also look for any patterns or trends in the data. I'll provide you with a detailed report of my findings and recommendations for improvement."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia648_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers want to measure emotional intensity in speech. Classify this sample as positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Monica",
+      "utt": "Every five minutes, Joey throws his sticks in the air, and I have to hear, \"Oh my eye!"
+    },
+    "result": "This study aims to measure emotional intensity and speech classification as positive, neutral, or negative based on the researcher's psychological data."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia625_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal tone and classify the emotional intensity level. Provide only one of these labels: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Ross",
+      "utt": "So lets decide on the spending limit"
+    },
+    "result": "To decide on a spending limit, you can start by considering your current financial situation and goals. Calculate your monthly income and expenses, including fixed expenses like rent and variable expenses like groceries. Then, list your non-essential expenses such as entertainment, dining out, and non-essential purchases. Subtract your total expenses from your income to see what you have left to spend. Assign a spending limit based on your income and expenses. This will help you determine how much you can allocate to discretionary spending and ensure you don't overspend."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia799_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus on the strength of emotion expressed in the speech. Determine if it is positive, neutral, or negative. Return only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Monica",
+      "utt": "My brother, the PhD would like to know if there's any way to treat this orally."
+    },
+    "result": "The correct label for the sentence \"My brother the PhD would like to know if there's any way to treat this orally\" is \"His PhD would like to know if there's any way to treat this orally.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia298_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus on the strength of emotion expressed in the speech. Determine if it is positive, neutral, or negative. Return only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Monica",
+      "utt": "I dont know. I guess the other people just dont care enough."
+    },
+    "result": "It sounds like you're trying to identify the strength of a statement or emotion. The strength of an emotion can be determined by its emotional content and the words it conveys. Positive emotions are typically more uplifting and encouraging, while negative emotions can be more calming and reassuring. If the other people don't care enough, it might be because they don't feel the same way. It's important to consider the context and the specific words used to understand the emotion better."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia916_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the emotional intensity conveyed in this speech. Select one label: positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "speaker": "Mona",
+      "utt": "Im sorry, so umm, so where are we?"
+    },
+    "result": "The label \"Neutral\" conveys the speech by stating that it is neither strongly positive nor negative."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia521_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the emotional intensity conveyed in this speech. Select one label: positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "speaker": "Joey",
+      "utt": "Yeah, we both auditioned for the part, and uh, as it turned out, they ah, they liked the stupid gay thing and cast him."
+    },
+    "result": "The speaker is expressing a strong emotional reaction to the part \"we both audition for the part.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia686_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal tone and classify the emotional intensity level. Provide only one of these labels: positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "speaker": "Monica",
+      "utt": "Who wants it? Anybody?"
+    },
+    "result": "The label \"Positive\" is a neutral label. It does not express any strong emotions or opinions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia568_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided audio sample, assess the emotional intensity and categorize it as either positive, neutral, or negative. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "disgust",
+      "speaker": "Chandler",
+      "utt": "Okay, did you see that?! With the inappropriate and the pinching!!"
+    },
+    "result": "I understand your concern. The label \"positive\" and \"negative\" is not inherently negative; they are neutral. However, the label \"categorical\" might be used to indicate that the content is not suitable for all audiences. If you're looking for a specific type of content, it's best to check the label for that information."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia237_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a customer support call analysis. Determine the emotional intensity of the speaker and return either positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "speaker": "Julio",
+      "utt": "The Empty Vase is not about you. My baby, you make me so sad that you would think this."
+    },
+    "result": "I'm really sorry to hear that you're feeling this way. It sounds like you're dealing with a very tough situation. It's important to remember that you're not alone, and there are people who care about your well-being. If you're comfortable, talking to a trusted friend, family member, or a professional counselor might help. You deserve support and understanding."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia129_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the emotion is subtle, classify the intensity into one of these three categories: positive, neutral, or negative. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "speaker": "Kate",
+      "utt": "Yep! I sure know how to pick em, huh? Y'know I gave up a part on a soap for this!"
+    },
+    "result": "It sounds like you're trying to classify emotions into categories like neutral, negative, or negative. If you're dealing with a specific emotion, you might want to categorize it based on its intensity. For example, if you're dealing with sadness, you might classify it as neutral. If you're dealing with anger, you might classify it as negative. Understanding the context and the specific emotions you're dealing with can help in making a more accurate classification."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia695_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a customer support call analysis. Determine the emotional intensity of the speaker and return either positive, neutral, or negative.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "speaker": "Rachel",
+      "utt": "No! Dont say that! Dont say that!"
+    },
+    "result": "Got it. I will analyze the customer support data and generate a report that includes the customer's emotional intensity, the speaker's positive or negative sentiment, and the overall sentiment of the customer. Is there anything else you would like me to include in the report?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia922_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the emotional intensity conveyed in this speech. Select one label: positive, neutral, or negative. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Negative."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "speaker": "Rachel",
+      "utt": "Manhattan does not have enough stores."
+    },
+    "result": "The emotional intensity conveyed in the speech is positive."
+  }
+]

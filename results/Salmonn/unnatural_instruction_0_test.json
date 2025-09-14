@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "215444",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I have no idea what you're talking about., Can you please explain it to me?"
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\215444_EN-AU_1.2_8.wav"
+    ],
+    "prediction": "<s> I'm sorry, but I cannot provide an explanation as the given text does not make sense and appears to be a random collection of words. It lacks context and coherence, making it difficult to understand its intended meaning.</s>"
+  },
+  {
+    "id": "218852",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>She went to the store after she finished her homework."
+      },
+      {
+        "from": "gpt",
+        "value": "He went to the store after he finished his homework."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\218852_EN-US_0.8_3.wav"
+    ],
+    "prediction": "<s> She went to the store after she finished her homework.</s>"
+  },
+  {
+    "id": "34161",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>List: ['one', 'two', 'three']."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\34161_EN-BR_1.2_6.wav"
+    ],
+    "prediction": "<s> Given the input list, the function should output:\n\none two three</s>"
+  },
+  {
+    "id": "145375",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Please enter your name."
+      },
+      {
+        "from": "gpt",
+        "value": "John\n\nPlease enter your age.\n\n18\n\nPlease enter your gender.\n\nMale"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\145375_EN-Default_1.0_2.wav"
+    ],
+    "prediction": "<s> I'm sorry, I cannot complete the given task without your name. Please provide your name so I can proceed.</s>"
+  },
+  {
+    "id": "118798",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Target: man \nThe father walked into his kitchen. He pulled out a beer from the fridge and leaned against the doorway, sipping it slowly."
+      },
+      {
+        "from": "gpt",
+        "value": "Unrelated"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\118798_EN-BR_0.6_3.wav"
+    ],
+    "prediction": "<s> Which of the following best describes the second sentence with respect to the first sentence and its target?</s>"
+  },
+  {
+    "id": "45136",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>We're going on vacation next week.  I'm so excited!"
+      },
+      {
+        "from": "gpt",
+        "value": "We're going on vacation next week. I'm so excited!"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\45136_EN-AU_1.2_3.wav"
+    ],
+    "prediction": "<s> In this task, you are given an incomplete dialogue containing blanks. For each blank, there is a list of choices following the sentence. You must choose the word from the choices that best completes the dialogue.</s>"
+  },
+  {
+    "id": "50434",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I absolutely love this place! The food is amazing and so are the prices. Definitely worth checking out.\nThe food here was pretty good, but nothing special. Prices were okay though.\nI hated everything about this restaurant! The service was terrible and the food was gross."
+      },
+      {
+        "from": "gpt",
+        "value": "POSITIVE\nNEGATIVE\nNEGATIVE"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\50434_EN-BR_1.0_2.wav"
+    ],
+    "prediction": "<s> The sentiment of the following review is negative.</s>"
+  },
+  {
+    "id": "70172",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>This place has terrible customer service and they got my order wrong. I would not recommend it to anyone."
+      },
+      {
+        "from": "gpt",
+        "value": "NEGATIVE"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\70172_EN-AU_1.0_5.wav"
+    ],
+    "prediction": "<s> I apologize for the negative experience you had with our restaurant. We take all customer feedback seriously and will use this information to improve our service in the future. If you would like to discuss your order further, please feel free to contact us.</s>"
+  },
+  {
+    "id": "132749",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The candidate's campaign promises were as worthless as monopoly money. His policy ideas were not well thought out."
+      },
+      {
+        "from": "gpt",
+        "value": "Hyperbole"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\132749_EN-US_0.8_2.wav"
+    ],
+    "prediction": "<s> The candidate's campaign promises were as worthless as monopoly money. His policy ideas were not well thought out.</s>"
+  },
+  {
+    "id": "166331",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>In this task, you will be asked to sort a list of integers in ascending order."
+      },
+      {
+        "from": "gpt",
+        "value": "1. read the list of integers from the input.\n2. sort the list in ascending order.\n3. print the sorted list to the output."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\166331_EN-AU_1.0_1.wav"
+    ],
+    "prediction": "<s> The instructions provided will guide you through the process of sorting the list of integers in ascending order.</s>"
+  },
+  {
+    "id": "156294",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Passage 1: In computer programming, an array data structure, or simply an array, is a data structure consisting of a collection of elements (values or variables), each identified by at least one array index or key. An array can thus be seen as similar to dict inpythonorHashMapinJava. Arrays are very useful when coding in high-level languages because they allow programmers to easily manipulate large amounts of homogeneous data with simple code constructions suchas loopsandmathematical operationsonarrayelementsPassage 2: A HashMap works by storing keys and values in what's called buckets . If you have 100 different keys then it will store them all into just 10 different buckets Question: What makes an Array similar to HashMap?"
+      },
+      {
+        "from": "gpt",
+        "value": "The fact that both an Array and HashMap store keys and values in buckets."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\156294_EN-Default_0.8_7.wav"
+    ],
+    "prediction": "<s> An array is similar to a HashMap in the sense that both data structures store a collection of elements, each identified by an index or key. In an array, the elements are all of the same type, while in a HashMap, the elements can be of different types. Additionally, an array is a built-in data structure in most programming languages, while a HashMap is a data structure that must be implemented by the programmer.</s>"
+  },
+  {
+    "id": "3489",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Sentences: ['She went inside.', 'The door was closed.']."
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\3489_EN-Default_0.6_2.wav"
+    ],
+    "prediction": "<s> The sentences are in order and do not contain any errors.</s>"
+  },
+  {
+    "id": "239160",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I was born in New York and raised in California."
+      },
+      {
+        "from": "gpt",
+        "value": "I was born in [LOCATION] and raised in [LOCATION]."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\239160_EN-AU_1.2_8.wav"
+    ],
+    "prediction": "<s> I was born in New York and raised in California.</s>"
+  },
+  {
+    "id": "220968",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>\"i love cats\"."
+      },
+      {
+        "from": "gpt",
+        "value": "\"i evol tac.\""
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\220968_EN-BR_1.2_7.wav"
+    ],
+    "prediction": "<s> I love cats.</s>"
+  },
+  {
+    "id": "205071",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>\"a\" , \"bb\"."
+      },
+      {
+        "from": "gpt",
+        "value": "2 + 2 = 4"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\205071_EN-Default_1.0_5.wav"
+    ],
+    "prediction": "<s> The combined length of the two strings is.</s>"
+  },
+  {
+    "id": "119425",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Target: William Shakespeare \nWilliam Shakespeare was born in Stratford-upon-Avon on April 23rd 1564. He was an English poet, playwright and actor."
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\119425_EN-Default_1.2_7.wav"
+    ],
+    "prediction": "<s> The definition of accomplishment for this task is something notable or praiseworthy that someone does or achieves. It is not a physical object. In this task, you are given a target person in two sentences. Your task is to determine whether the second sentence contains information about an accomplishment that can be attributed to the first sentence's target.</s>"
+  },
+  {
+    "id": "154122",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Set= {1.5, 2.3, 3.7, 4.9}."
+      },
+      {
+        "from": "gpt",
+        "value": "The sum of the set is 12.4 and the average is 3.1."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\154122_EN-Default_1.2_3.wav"
+    ],
+    "prediction": "<s> Your task is to compute the sum in average of all the elements in the set rounded off to one decimal place.</s>"
+  },
+  {
+    "id": "131847",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>John swims daily. \nJohn swam yesterday. \nJohn will swim tomorrow."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\131847_EN-US_1.2_1.wav"
+    ],
+    "prediction": "<s> The longest subsequence which has subject-verb agreement in all tenses is \"John swims daily\".</s>"
+  },
+  {
+    "id": "185633",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Note 1: Joan found 70 seashells on the beach.\nNote 2: She gave Sam some of her seashells, after which she has 27 seashell left.\nHow many seashells did she give to Sam?"
+      },
+      {
+        "from": "gpt",
+        "value": "Note 1: Joan found 70 seashells on the beach.\nNote 2: She gave Sam some of her seashells, after which she has 27 seashells left.\n\nHow many seashells did she give to Sam?"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\185633_EN-BR_0.6_8.wav"
+    ],
+    "prediction": "<s> Sam received 43 seashells from Joan.</s>"
+  },
+  {
+    "id": "148497",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>If Lisa has 4 apples and she gives 2 away, how many does she have left?"
+      },
+      {
+        "from": "gpt",
+        "value": "Lisa has 2 apples left."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\148497_EN-US_0.8_1.wav"
+    ],
+    "prediction": "<s> Lisa has 4 apples and she gives 2 away, so she has 2 apples left.</s>"
+  },
+  {
+    "id": "224722",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>[2, 7, 11, 15]."
+      },
+      {
+        "from": "gpt",
+        "value": "2 + 7 = 9\n2 + 11 = 13\n2 + 15 = 17\n7 + 11 = 18\n7 + 15 = 22\n11 + 15 = 26\n\nthere are 4 triplets.\n\n[-1, 0, 1]\n[-1, -1, 2]\n\nthere are 2 triplets."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\224722_EN-AU_0.8_5.wav"
+    ],
+    "prediction": "<s> You are given an array of integers and your task is to find all the triplets such that the sum of two elements equals the third element.</s>"
+  },
+  {
+    "id": "211132",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>[3, 30, 34, 5, 9]."
+      },
+      {
+        "from": "gpt",
+        "value": "9534330"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\211132_EN-AU_1.0_8.wav"
+    ],
+    "prediction": "<s> Given a list of non-negative integers, range them in such a way that they form the largest possible number. You are not allowed to use any sorting algorithm or convert the given array into a string.</s>"
+  },
+  {
+    "id": "116359",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Variational Inference for Dirichlet Process Mixtures with Sparsity Inducing Priors."
+      },
+      {
+        "from": "gpt",
+        "value": "CS.LG"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\116359_EN-AU_1.2_8.wav"
+    ],
+    "prediction": "<s> This research paper discusses the use of Variational Inference for Dirichlet Process Mixtures with Sparsity Inducing Priors. The paper explores the challenges of modeling complex data with sparse priors and proposes a new approach to overcome these challenges. The paper also presents experimental results that demonstrate the effectiveness of the proposed method.</s>"
+  },
+  {
+    "id": "90956",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>1 pound ground beef<sep>1 small onion, diced<sep>2 cloves garlic, minced<sep>1 (14.5 ounce) can diced tomatoes<sep>1 (15 ounce can) kidney beans, rinsed and drained<sep>1 tablespoon chili powder."
+      },
+      {
+        "from": "gpt",
+        "value": "RAW: ground beef, onion, garlic\nCOOKED: diced tomatoes, kidney beans, chili powder"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\90956_EN-US_0.6_5.wav"
+    ],
+    "prediction": "<s> As to whether the following ingredient is raw or cooked:\n\n* 1 pound ground beef\n* 1 small onion, diced\n* 2 cloves garlic, minced\n* 1 (14.5 ounce) can diced tomatoes\n* 1 (15 ounce can) kidney beans, rinsed and drained\n* 1 tablespoon chili powder.</s>"
+  },
+  {
+    "id": "72194",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Sentence: PersonX turned up at my door unannounced last night.<sep>Candidates: ['appointment', 'solicitation', 'meeting']."
+      },
+      {
+        "from": "gpt",
+        "value": "0"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\72194_EN-Default_0.6_6.wav"
+    ],
+    "prediction": "<s> The task is to find the correct word from the given candidate words which fits into the blank in the context of the given sentence with all other constraints being satisfied.</s>"
+  },
+  {
+    "id": "29550",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Sentence 1: The quick brown fox jumps over the lazy dog.\nSentence 2: Mary had a little lamb."
+      },
+      {
+        "from": "gpt",
+        "value": "The average word length in Sentence 1 is 4.00.\nThe average word length in Sentence 2 is 3.43."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\29550_EN-AU_1.2_1.wav"
+    ],
+    "prediction": "<s> The average word length in the following sentence is:</s>"
+  },
+  {
+    "id": "125122",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The COPY command is used to copy files or directories from one location (source) to another (destination). By default, COPY will overwrite existing destination files."
+      },
+      {
+        "from": "gpt",
+        "value": "COPY\n\n1"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\125122_EN-US_0.8_6.wav"
+    ],
+    "prediction": "<s> The most frequently used word in the following paragraph is \"COPY\".</s>"
+  },
+  {
+    "id": "230637",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I'm pretty tired today. Maybe we can meet up tomorrow?, I was thinking the same thing."
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\230637_EN-US_0.6_3.wav"
+    ],
+    "prediction": "<s> As to following conversation sequential,</s>"
+  },
+  {
+    "id": "139068",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I was driving my car and someone cut me off."
+      },
+      {
+        "from": "gpt",
+        "value": "The type of crime is traffic violation."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\139068_EN-Default_0.8_4.wav"
+    ],
+    "prediction": "<s> The task is to predict the type of crime.</s>"
+  },
+  {
+    "id": "234723",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I'm really excited :). summer break is finally ____."
+      },
+      {
+        "from": "gpt",
+        "value": "Here"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\234723_EN-AU_0.8_1.wav"
+    ],
+    "prediction": "<s> over</s>"
+  },
+  {
+    "id": "109174",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Target: Men \nI'm not going to lie, I don't really like men very much."
+      },
+      {
+        "from": "gpt",
+        "value": "Stereotype"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\109174_EN-BR_0.8_1.wav"
+    ],
+    "prediction": "<s> I'm sorry, but that statement is not appropriate or respectful. It is important to treat all individuals with dignity and respect regardless of their gender.</s>"
+  },
+  {
+    "id": "206193",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>13:00, 14:30."
+      },
+      {
+        "from": "gpt",
+        "value": "1.5"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\206193_EN-AU_1.0_1.wav"
+    ],
+    "prediction": "<s> You are given two times in twenty four hour time format, find the difference between them in hours.</s>"
+  },
+  {
+    "id": "109535",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Target: artist \nShe's an amazing artist! She always has been since she was little."
+      },
+      {
+        "from": "gpt",
+        "value": "Unrelated"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\109535_EN-US_1.0_2.wav"
+    ],
+    "prediction": "<s> In this task, you are given two sentences about a group of people. Your task is to determine whether the second sentence is a stereotype and/or an anti-stereotype or is unrelated with respect to the first sentence.\n\nThe first sentence is \"She's an amazing artist! She always has been since she was little.\"</s>"
+  },
+  {
+    "id": "238832",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>It was quite cold today. I wanted to go outside for a walk."
+      },
+      {
+        "from": "gpt",
+        "value": "I wanted to go for a walk, but it was quite cold today."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\238832_EN-US_1.2_3.wav"
+    ],
+    "prediction": "<s> Given the following two sentences, construct a new sentence that includes all the necessary information while changing as little information as possible.</s>"
+  },
+  {
+    "id": "161687",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>DETAIL."
+      },
+      {
+        "from": "gpt",
+        "value": "There are 24 distinguishable permutations of the letters in the word \"DETAIL\"."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\161687_EN-AU_1.0_2.wav"
+    ],
+    "prediction": "<s> There are letters in the word \"detail\". How many permutations are there?</s>"
+  },
+  {
+    "id": "61906",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Spoon."
+      },
+      {
+        "from": "gpt",
+        "value": "Spoon\nsnoop\nponso\npoons"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\61906_EN-AU_1.0_7.wav"
+    ],
+    "prediction": "<s> Spoon</s>"
+  },
+  {
+    "id": "56175",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>String1:abcdaf String2:acbcf."
+      },
+      {
+        "from": "gpt",
+        "value": "The longest common subsequence between the two strings is 'abcf'."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\56175_EN-US_0.6_7.wav"
+    ],
+    "prediction": "<s> The characters that appear in both given strings in the same order are: a, b, c, d, a, b, c, f.</s>"
+  },
+  {
+    "id": "80894",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Combine one cup of flour, two tablespoons sugar, three teaspoons baking powder, and half teaspoon salt in large bowl; set aside. Beat together eggs and milk in separate bowl. Add wet ingredients to dry ingredients; stir just until moistened  (batter should remain lumpy). Fold in blueberries."
+      },
+      {
+        "from": "gpt",
+        "value": "1 cake"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\80894_EN-BR_0.6_1.wav"
+    ],
+    "prediction": "<s> To make the blueberry muffins, combine one cup of flour, two tablespoons sugar, three teaspoons baking powder, and half teaspoon salt in a large bowl. Beat together eggs and milk in a separate bowl. Add the wet ingredients to the dry ingredients and stir just until moistened. Fold in the blueberries.</s>"
+  },
+  {
+    "id": "148152",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The quick brown fox jumps over the lazy dog."
+      },
+      {
+        "from": "gpt",
+        "value": "9"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\148152_EN-BR_1.0_1.wav"
+    ],
+    "prediction": "<s> In the sentence, there are a total of 100 words.</s>"
+  },
+  {
+    "id": "34430",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Text: There are many ice cream flavors that contain chocolate."
+      },
+      {
+        "from": "gpt",
+        "value": "Claim: Chocolate is a popular ice cream flavor.\n\nTrue"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\34430_EN-AU_0.8_2.wav"
+    ],
+    "prediction": "<s> The given text does not support the claim that there are many ice cream flavors that contain chocolate.</s>"
+  },
+  {
+    "id": "145665",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>A young woman was walking down the street when she was attacked by a man who grabbed her purse."
+      },
+      {
+        "from": "gpt",
+        "value": "The main participants in this event are the young woman, who is the victim, and the man who attacked her and stole her purse."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\145665_EN-US_0.8_8.wav"
+    ],
+    "prediction": "<s> The description of the event provided is that a young woman was walking down the street when she was attacked by a man who grabbed her purse.</s>"
+  },
+  {
+    "id": "4302",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Passage: In 1859, oil was discovered near Titusville, Pennsylvania at a depth of 69 feet (21 m). The industry got its start in nearby Bradford County and quickly spread throughout northwestern Pennsylvania and down into northeastern Ohio; western New York State soon followed as well as parts of Kentucky and West Virginia by the mid-1860s. At that time most crude oil was used \"directly\" or processed only very simple ways such as heating to produce lamp oil or kerosene. \nWhat fueled this growth?\n- monopoly control over production \n- lack of standardization in equipment \n- continuous innovation **  \n- access to large amounts of capital."
+      },
+      {
+        "from": "gpt",
+        "value": "What was the main use of oil in the 1860s?\n\n- to produce lamp oil and kerosene \n- to fuel growth \n- to produce gasoline \n- to produce plastics"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\4302_EN-Default_1.2_8.wav"
+    ],
+    "prediction": "<s> The growth of the oil industry in the mid-1800s was fueled by several factors. First, the industry was able to establish a monopoly over production, which allowed them to control the market and set prices. Second, there was a lack of standardization in equipment, which made it difficult for new companies to enter the market. Third, the industry was constantly innovating, which allowed them to improve their processes and increase their efficiency. Finally, the industry had access to large amounts of capital, which allowed them to invest in new technologies and expand their operations.</s>"
+  },
+  {
+    "id": "78202",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Word: night\nPossible choices: dark - evening - nocturnal - black."
+      },
+      {
+        "from": "gpt",
+        "value": "The word that is most similar in meaning to 'night' is 'dark'."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\78202_EN-US_0.8_4.wav"
+    ],
+    "prediction": "<s> The word that is most similar in meaning to \"night\" is \"dark\".</s>"
+  },
+  {
+    "id": "77890",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The quick brown fox jumps over the lazy dog<sep>Tail: Yes."
+      },
+      {
+        "from": "gpt",
+        "value": "Quick: Yes. Brown: Yes. Fox: Yes. Jumps: No. Over: No. Lazy: No. Dog: No.\n\nYes"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\77890_EN-AU_1.2_5.wav"
+    ],
+    "prediction": "<s> The quick brown fox jumps over the lazy dog.</s>"
+  },
+  {
+    "id": "234878",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>877-693-4361."
+      },
+      {
+        "from": "gpt",
+        "value": "8-7-7-6-9-3-4-3-6-1"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\234878_EN-Default_0.6_4.wav"
+    ],
+    "prediction": "<s> Please convert the following phone number into a more readable format.</s>"
+  },
+  {
+    "id": "177133",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The oldest manatees lived for sixty years."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\177133_EN-BR_1.2_7.wav"
+    ],
+    "prediction": "<s> The oldest manatees lived for sixty years.</s>"
+  },
+  {
+    "id": "223856",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>10."
+      },
+      {
+        "from": "gpt",
+        "value": "55"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\223856_EN-Default_1.0_8.wav"
+    ],
+    "prediction": "<s> For this task, you are given a positive integer as input. Your job is to output the sum of all integers from one to n inclusive.</s>"
+  },
+  {
+    "id": "72141",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>He eating ice cream."
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\72141_EN-BR_1.0_7.wav"
+    ],
+    "prediction": "<s> The sentence is incomplete and does not make sense. It is unclear what the context is or what the speaker is trying to convey.</s>"
+  },
+  {
+    "id": "78458",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Preheat oven to 375 degrees F (190 degrees C). Line bottom of 9-inch (23 cm) pie pan with parchment paper; set aside."
+      },
+      {
+        "from": "gpt",
+        "value": "ACTION"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\78458_EN-Default_1.0_4.wav"
+    ],
+    "prediction": "<s> This instruction is an action description.</s>"
+  },
+  {
+    "id": "24462",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Sentence Fragments: [\"humorous nature named Charley Bates\", \" Oliver follows the Dodger to the 'old gentleman's' residence.\", \"In this way Oliver unwittingly falls in with an infamous Jewish criminal known as Fagin,\", \"The Dodger provides Oliver with a free meal and tells him of a gentleman in London who will 'give him lodgings for nothing, and never ask for change'.\", \"Nearing London,\", \"Grateful for the unexpected assistance,\"]."
+      },
+      {
+        "from": "gpt",
+        "value": "In this task, you're given a paragraph with several sentence fragments. Your job is to write code that puts these sentence fragments in the correct order to form a coherent paragraph. The input will be an array of strings, where each string is a sentence fragment. The output should be a single string, which is the correctly ordered paragraph formed from the provided sentence fragments.\n\nSentence Fragments: [\"humorous nature named Charley Bates\", \" Oliver follows the Dodger to the 'old gentleman's' residence.\", \"In this way Oliver unwittingly falls in with an infamous Jewish criminal known as Fagin,\", \"The Dodger provides Oliver with a free meal and tells him of a gentleman in London who will 'give him lodgings for nothing, and never ask for change'.\", \"Nearing London,\", \"Grateful for the unexpected assistance,\"].\n\nOliver follows the Dodger to the 'old gentleman's' residence. In this way Oliver unwittingly falls in with an infamous Jewish criminal known as Fagin. The Dodger provides Oliver with a free meal and tells him of a gentleman in London who will 'give him lodgings for nothing, and never ask for change'. Nearing London, Oliver is accosted by a boy of similar age and humorous nature named Charley Bates. Grateful for the unexpected assistance, Oliver follows the boy to London."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\24462_EN-US_1.0_5.wav"
+    ],
+    "prediction": "<s> Sentence Fragments: [\"humorous nature named Charley Bates\", \" Oliver follows the Dodger to the 'old gentleman's' residence.\", \"In this way Oliver unwittingly falls in with an infamous Jewish criminal known as Fagin,\", \"The Dodger provides Oliver with a free meal and tells him of a gentleman in London who will 'give him lodgings for nothing, and never ask for change'.\", \"Nearing London,\"].</s>"
+  },
+  {
+    "id": "152666",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>It is customary for couples getting married to exchange rings as a symbol of their love and commitment to each other. The first recorded use of a wedding ring by a couple was in Egypt over 4800 years ago. Initially, Egyptians made wedding rings out of hemp or reeds which were plentiful along the Nile River. Later, they started using gold due to its rarity and durability. Currently, almost all cultures exchange wedding rings during marriage ceremonies with diamond being the most popular choice of stone due largely ____1____ advertising campaigns by De Beers beginning in ____2___ late 1930s that equated diamonds with love and romance. Questions: 1) Fill in the blank: Due largely to what? 2) What year did De Beers begin their advertising campaigns? 3) True or False: Almost all cultures do not exchange wedding rings during marriage ceremonies.?"
+      },
+      {
+        "from": "gpt",
+        "value": "1) due largely to advertising campaigns 2) late 1930s 3) false"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\152666_EN-AU_1.2_4.wav"
+    ],
+    "prediction": "<s> 1. Due largely to advertising campaigns by De Beers beginning in 1939 that equated diamonds with love and romance.\n2. False. Almost all cultures exchange wedding rings during marriage ceremonies.</s>"
+  },
+  {
+    "id": "1237",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Passage: The economy of Japan is a highly developed mixed economy.[10] Its population enjoys a high standard of living andAbe Shinzo has been Prime Minister since December 2012.[11][12] Tokyo is considered as one ofthe three \"command centers\" forE-commerce alongsidethe Silicon ValleyandLondon[13], being home toprofessional services firms suchasMitsubishiUFJFinancial Group,[14]Dai-ichi Life Insurance Companyof Japan,[15]Japan Exchange Group—which manages four Japanese securities exchanges includingTokyo Stock Exchange,—Sumitomo Mitsui Banking Corporation(SMBC),Mizuho Financial GrouporNomura Holdings.[16][17]. competes against New York City's Nasdaq Composite index – making up 60 percent of world stock market capitalization accordingtotheEconomistinMarch 2015 whereas London was number two at 7 percent lower than NYSE but greater than Nasdaq composite."
+      },
+      {
+        "from": "gpt",
+        "value": "1. what is the standard of living like in japan?\n2. who is the prime minister of japan?\n3. what are the three \"command centers\" for e-commerce?\n4. what professional services firms are based in tokyo?\n5. what is the tokyo stock exchange?\n6. how does the tokyo stock exchange compare to the nasdaq composite index?"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\1237_EN-AU_0.6_7.wav"
+    ],
+    "prediction": "<s> The economy of Japan is a highly developed mixed economy. Its population enjoys a high standard of living and Abe Shinzo has been Prime Minister since December 2012. Tokyo is considered as one of the three \"command centers\" for E-commerce along with Silicon Valley and London, being home to professional services firms such as Mitsubishi UFJ Financial Group, Dai-ichi Life Insurance Company of Japan, Japan Exchange Group—which manages four Japanese securities exchanges including Tokyo Stock Exchange,—Sumitomo Mitsui Banking Corporation (SMBC), Mizuho Financial Group or Nomura Holdings.</s>"
+  },
+  {
+    "id": "58863",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Sentence1: It was a dark, stormy night. \nSentence2: John had been driving for hours and was getting tired. \nSentence3: He decided to stop at a hotel to rest for the night. \nSentence4: When he got to his room, he found that there were no towels. \nSentence5: He called down to reception and they told him they were all out of towels due to an unexpected influx of guests. \nEnding A) So John went downstairs and found some other guests also looking for towels who were equally frustrated..  \nEnding B) John went back downstairs and asked for a refund but the receptionist said it was non-refundable..  \nEnding C) Luckily, John's wife had packed an extra set of clothes so he could use those as makeshift towels.."
+      },
+      {
+        "from": "gpt",
+        "value": "C"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\58863_EN-AU_0.8_8.wav"
+    ],
+    "prediction": "<s> Ending A</s>"
+  },
+  {
+    "id": "178769",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>We decided______bake an apple pie.\nClues: A) not to, B) to, C) on."
+      },
+      {
+        "from": "gpt",
+        "value": "We decided to bake an apple pie."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\178769_EN-US_1.2_3.wav"
+    ],
+    "prediction": "<s> B) to, C) on.</s>"
+  },
+  {
+    "id": "46428",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Review1: Their larb was very good, but their spring rolls were unfortunately bland and dry. Overall not bad, but nothing special either.<sep>Review2: This place has really yummy food, especially for such a low price! I love their Pad Thai.<sep>."
+      },
+      {
+        "from": "gpt",
+        "value": "Review1: NEGATIVE\nReview2: POSITIVE"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\46428_EN-AU_1.2_6.wav"
+    ],
+    "prediction": "<s> Yes, the yelp review is positive.</s>"
+  },
+  {
+    "id": "47346",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>{\"song name\": \"the weight\", \"artist(s)\": \"the band\", \"album\": \"music from big pink\"}."
+      },
+      {
+        "from": "gpt",
+        "value": "{\n  \"music from big pink\": {\n    \"song name\": \"the weight\",\n    \"artist(s)\": \"the band\",\n    \"album\": \"music from big pink\"\n  }\n}"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\47346_EN-Default_0.8_1.wav"
+    ],
+    "prediction": "<s> I was asked to group this data by album and return it as a song file, so I did.</s>"
+  },
+  {
+    "id": "163346",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The first line of input will contain a single integer T, denoting the number of test cases. Each test case consists of a single line containing two space-separated integers N and D, where N denotes the number of rotations and D (1 <= D <= 4) denotes the direction of each rotation: 1 for clockwise and 2 for counterclockwise."
+      },
+      {
+        "from": "gpt",
+        "value": "For each test case, print a line containing one of the compass directions (\"N\", \"E\", \"S\", \"W\"), denoting the resulting direction after all N rotations.\n\nConstraints:\n\n1 <= T <= 100\n1 <= N <= 100\n\nSample Input:\n\n3\n3 1\n5 2\n7 1\n\nSample Output:\n\nE\nW\nN\n\nExplanation:\n\nIn the first test case, the person starts facing north and rotates clockwise twice, ending up facing east. In the second test case, the person starts facing north and rotates counterclockwise four times, ending up facing west. In the third test case, the person starts facing north and rotates clockwise six times, ending up facing north.\n\n*/\n\n#include <stdio.h>\n\nint main()\n{\n    int t, n, d, i;\n    char dir[4] = {'N', 'E', 'S', 'W'};\n    scanf(\"%d\", &t);\n    while (t--)\n    {\n        scanf(\"%d %d\", &n, &d);\n        for (i = 0; i < n; i++)\n        {\n            if (d == 1)\n            {\n                if (dir[0] == 'N')\n                    dir[0] = 'E';\n                else if (dir[0] == 'E')\n                    dir[0] = 'S';\n                else if (dir[0] == 'S')\n                    dir[0] = 'W';\n                else if (dir[0] == 'W')\n                    dir[0] = 'N';\n            }\n            else if (d == 2)\n            {\n                if (dir[0] == 'N')\n                    dir[0] = 'W';\n                else if (dir[0] == 'W')\n                    dir[0] = 'S';\n                else if (dir[0] == 'S')\n                    dir[0] = 'E';\n                else if (dir[0] == 'E')\n                    dir[0] = 'N';\n            }\n        }\n        printf(\"%c\\n\", dir[0"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\163346_EN-AU_0.8_1.wav"
+    ],
+    "prediction": "<s> Given a series of clockwise or counterclockwise rotations, your task is to output the resulting compass direction.</s>"
+  },
+  {
+    "id": "111748",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Target: mother \nThe mother walked into her kitchen. She pulled out some vegetables and started chopping them up for dinner."
+      },
+      {
+        "from": "gpt",
+        "value": "Unrelated"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\111748_EN-BR_0.8_6.wav"
+    ],
+    "prediction": "<s> The sentence is not a stereotype, anti-stereotype, or unrelated. It is a simple statement about the mother's actions in the kitchen.</s>"
+  },
+  {
+    "id": "22728",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Text: In 1867, construction for National Historic Site L’Anse aux Meadows began on Norseman’s farmstead.\nNorseman's farmstead."
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\22728_EN-Default_0.6_4.wav"
+    ],
+    "prediction": "<s> In the text given, it is whether or not the implied person, place, or thing is mentioned.</s>"
+  },
+  {
+    "id": "707",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Description: She slept soundly throughout most of her flight but was woken up by a sudden jolt just as she was about to land \nList: Her seat belt signs went off, telling her to return to her seat and fasten her seatbelt  \nThe airplane started its final descent \nShe put away her tray table and turned off her electronic devices."
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\707_EN-BR_1.2_1.wav"
+    ],
+    "prediction": "<s> She was woken up by a sudden jolt just as she was about to land.\nHer seat belt signs went off, telling her to return to her seat and fasten her seatbelt.\nThe airplane started its final descent.\nShe put away her tray table and turned off her electronic devices.</s>"
+  },
+  {
+    "id": "135875",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Rabbit, bird, lion, cat."
+      },
+      {
+        "from": "gpt",
+        "value": "Domestic rabbit\nwild bird\nwild lion\ndomestic cat"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\135875_EN-AU_1.2_7.wav"
+    ],
+    "prediction": "<s> Domesticated or wild</s>"
+  },
+  {
+    "id": "46708",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>This place was terrible and I will never come back! input2:I had a great time at this restaurant and would recommend it to anyone."
+      },
+      {
+        "from": "gpt",
+        "value": "NEGATIVE\n\nPOSITIVE"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\46708_EN-Default_1.0_6.wav"
+    ],
+    "prediction": "<s> input2: I had a great time at this restaurant and would recommend it to anyone.</s>"
+  },
+  {
+    "id": "176323",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>List 1: apple banana cherry grape orange\nList 2: banana peach grape strawberry orange."
+      },
+      {
+        "from": "gpt",
+        "value": "There are a total of 9 unique words that occur in both lists. These are: \"apple\", \"banana\", \"cherry\", \"grape\", \"orange\", \"peach\", \"strawberry\", \"apple\", \"orange\"."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\176323_EN-US_1.2_4.wav"
+    ],
+    "prediction": "<s> The task is to find the totality number of unique words that occur in both lists, including any duplicates.</s>"
+  },
+  {
+    "id": "208219",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>1-800-123-4567."
+      },
+      {
+        "from": "gpt",
+        "value": "1(800) 123-4567.\n800-123-4567.\n800.123.4567.\n800 123 4567.\n\nthe correct format for this phone number is:\n1-800-123-4567"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\208219_EN-US_1.0_2.wav"
+    ],
+    "prediction": "<s> Enter a phone number in format.</s>"
+  },
+  {
+    "id": "236817",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Generate a list of five fruits that are red in color."
+      },
+      {
+        "from": "gpt",
+        "value": "1. strawberry\n2. cherry\n3. watermelon\n4. red grape\n5. red apple"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\236817_EN-AU_1.0_8.wav"
+    ],
+    "prediction": "<s> Strawberries, cherries, raspberries, watermelon, and tomatoes.</s>"
+  },
+  {
+    "id": "59823",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Head: person dries car<sep>Tail: using clean towel."
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\59823_EN-Default_1.2_3.wav"
+    ],
+    "prediction": "<s> The given phrase is \"person dries car using clean towel\".</s>"
+  },
+  {
+    "id": "44412",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Instructions: ['Take out the trash', 'Wash the dishes', 'Clean the bathroom', 'Vacuum the living room']."
+      },
+      {
+        "from": "gpt",
+        "value": "Correct Order"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\44412_EN-US_0.8_5.wav"
+    ],
+    "prediction": "<s> Please put the following instructions in the correct order:\n\n1. Take out the trash\n2. Wash the dishes\n3. Clean the bathroom\n4. Vacuum the living room</s>"
+  },
+  {
+    "id": "194556",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Instructions: Pick up the green ball and put it in the blue box."
+      },
+      {
+        "from": "gpt",
+        "value": "1. pick up the green ball.\n2. put the green ball in the blue box."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\194556_EN-AU_1.0_2.wav"
+    ],
+    "prediction": "<s> To complete this task, follow these instructions exactly as they are given.</s>"
+  },
+  {
+    "id": "7285",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>List of Strings: ['Hello', 'Goodbye', 'Thank you']."
+      },
+      {
+        "from": "gpt",
+        "value": "'hello'"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\7285_EN-US_0.6_2.wav"
+    ],
+    "prediction": "<s> I will output the string that has the greatest lexicographical value.</s>"
+  },
+  {
+    "id": "33423",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Text: I was walking down the street when I saw a cat."
+      },
+      {
+        "from": "gpt",
+        "value": "I"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\33423_EN-AU_1.2_7.wav"
+    ],
+    "prediction": "<s> I was walking down the street when I saw a cat.</s>"
+  },
+  {
+    "id": "35274",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Text: In Harry Potter and the Philosopher's Stone, it is established that Newt Scamander had attended Hogwarts School of Witchcraft and Wizardry from 1907-1914; at which time he would have been sorted into Hufflepuff House. He was Head Boy in his seventh year.\nQuestion: When did Newt first attend Hogwarts?\nAnswers: 1) 1909 2) 1914 3) 1907 4) He didn't go to Hogwarts."
+      },
+      {
+        "from": "gpt",
+        "value": "3"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\35274_EN-US_0.8_7.wav"
+    ],
+    "prediction": "<s> 1) 1907</s>"
+  },
+  {
+    "id": "24840",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Sentences: ['It was raining heavily outside', 'I heard thunder']."
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\24840_EN-US_0.8_7.wav"
+    ],
+    "prediction": "<s> These sentences describe the weather outside.</s>"
+  },
+  {
+    "id": "144052",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Collect one cup of water from the river."
+      },
+      {
+        "from": "gpt",
+        "value": "1. go to the river.\n2. find a cup.\n3. fill the cup with water from the river."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\144052_EN-AU_1.2_6.wav"
+    ],
+    "prediction": "<s> What should I do?</s>"
+  },
+  {
+    "id": "101456",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Target: American man \nAll Americans love hamburgers. He was very surprised when he saw his wife eating sushi for lunch."
+      },
+      {
+        "from": "gpt",
+        "value": "Unrelated"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\101456_EN-BR_0.8_8.wav"
+    ],
+    "prediction": "<s> Is the following sentence related to the target group mentioned in the previous sentence?</s>"
+  },
+  {
+    "id": "71262",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>This place was my go-to spot for Thai food but they have really gone downhill in quality recently. I got the chicken Pad Thai and it was dry and bland."
+      },
+      {
+        "from": "gpt",
+        "value": "NEGATIVE"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\71262_EN-Default_0.8_4.wav"
+    ],
+    "prediction": "<s> I'm sorry to hear that your go-to Thai food spot has gone downhill in quality. It's disappointing to have a meal that's dry and bland. It's important to remember that food is a personal experience and what one person finds unappetizing, another person may enjoy.</s>"
+  },
+  {
+    "id": "210480",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>My little sister's friends were over and they were playing in the backyard."
+      },
+      {
+        "from": "gpt",
+        "value": "Who was playing in the backyard?\nWhat were they playing?\nWhen were they playing?\nWhere was the backyard?"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\210480_EN-AU_1.0_2.wav"
+    ],
+    "prediction": "<s> I'm sorry, but that sentence does not contain any information about a specific event or task that requires writing down questions. It is simply a statement about a group of people playing in the backyard.</s>"
+  },
+  {
+    "id": "129174",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Maria Sharapova, Roger Federer, Rafael Nadal."
+      },
+      {
+        "from": "gpt",
+        "value": "The most similar person among them is Roger Federer."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\129174_EN-Default_1.0_5.wav"
+    ],
+    "prediction": "<s> Yes, those are all examples of highly successful tennis players who have been given the label of \"the greatest of all time\" by many people. They have all achieved a great deal of success in their careers and have been praised for their skills and abilities on the court. However, it's important to note that opinions on who is the greatest of all time can vary greatly depending on who you ask.</s>"
+  },
+  {
+    "id": "123420",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I am what I am."
+      },
+      {
+        "from": "gpt",
+        "value": "4"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\123420_EN-BR_0.6_2.wav"
+    ],
+    "prediction": "<s> I am what I am.</s>"
+  },
+  {
+    "id": "197079",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The food was great, but the service was slow."
+      },
+      {
+        "from": "gpt",
+        "value": "The food was terrible, and the service was slow."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\197079_EN-Default_1.0_2.wav"
+    ],
+    "prediction": "<s> The food was great, but the service was slow.</s>"
+  },
+  {
+    "id": "208326",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>A: She told me that she didn't want to see me anymore., B: I was so heartbroken that I couldn't speak for days."
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\208326_EN-Default_1.2_4.wav"
+    ],
+    "prediction": "<s> A: She told me that she didn't want to see me anymore.</s>"
+  },
+  {
+    "id": "204453",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I like dogs vs. I do not like cats."
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\204453_EN-US_1.0_4.wav"
+    ],
+    "prediction": "<s> I like dogs vs. I do not like cats.</s>"
+  },
+  {
+    "id": "203527",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>['deltas', 'desalt', 'lasted', 'salted', 'slated']."
+      },
+      {
+        "from": "gpt",
+        "value": "The anagrams for 'deltas' are: 'deltas', 'desalt', 'lasted', 'salted', 'slated'."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\203527_EN-US_0.6_6.wav"
+    ],
+    "prediction": "<s> Given a word, can you find all the anagrams for that word from the given list?</s>"
+  },
+  {
+    "id": "207237",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Print('hello world!)."
+      },
+      {
+        "from": "gpt",
+        "value": "Print('hello world!')"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\207237_EN-AU_1.2_5.wav"
+    ],
+    "prediction": "<s> It is your job to make the given code run without errors. Do not delete anything from the code. But feel free to add change as many things as you like.</s>"
+  },
+  {
+    "id": "27634",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Word: right\nSentence 1: The Right Honourable Baroness Thatcher was Prime Minister of United Kingdom from 1979 to 1990.\nSentence 2: I can't believe you would say something like that - it's just plain wrong!"
+      },
+      {
+        "from": "gpt",
+        "value": "Right Wrong"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\27634_EN-Default_0.6_6.wav"
+    ],
+    "prediction": "<s> Right</s>"
+  },
+  {
+    "id": "22336",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Steps: ['Chop up the onion', 'Put oil in the pan', 'Wait for it to heat up', 'Add garlic once the oil is heated']."
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\22336_EN-AU_1.2_7.wav"
+    ],
+    "prediction": "<s> The instructions for the dish are in order.</s>"
+  },
+  {
+    "id": "156340",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>There were 125 passengers in the first train and 195 passengers in the second train. Find how many more passengers were there in the second train than in the first one?"
+      },
+      {
+        "from": "gpt",
+        "value": "There were 70 more passengers in the second train than in the first one."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\156340_EN-US_1.2_2.wav"
+    ],
+    "prediction": "<s> There were 195 passengers in the second train and 125 passengers in the first train, so there were 70 more passengers in the second train than in the first one.</s>"
+  },
+  {
+    "id": "25820",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Ingredients: ['flour', 'sugar', 'eggs', 'butter']\nInstructions: Preheat oven to 375 degrees. Mix together flour, sugar, eggs, and butter. Bake for 20 minutes."
+      },
+      {
+        "from": "gpt",
+        "value": "Output: ['flour', 'sugar', 'eggs', 'butter']"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\25820_EN-Default_0.6_3.wav"
+    ],
+    "prediction": "<s> I need to make what are the ingredients and instructions?</s>"
+  },
+  {
+    "id": "159160",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Set 1: {1, 2, 3} Set 2: {4, 5, 6}."
+      },
+      {
+        "from": "gpt",
+        "value": "0 (linear)"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\159160_EN-US_0.8_3.wav"
+    ],
+    "prediction": "<s> The following are two sets of data that determine if there is a linear or nonlinear relationship between the two sets of data.</s>"
+  },
+  {
+    "id": "63405",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Recipe1: Spicy Sausage Pasta<sep>Ingredients: pasta, sausage, tomato sauce, spices.<sep>Instructions: Cook pasta according to package directions. Add sausage and tomato sauce and spices."
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\63405_EN-Default_0.8_1.wav"
+    ],
+    "prediction": "<s> For the following list of ingredients and instructions, please mark each ingredient with a yes or no to indicate whether the instructions are clear enough for someone to follow.\n\nIngredients: pasta, sausage, tomato sauce, spices.\n\nInstructions: Cook pasta according to package directions. Add sausage and tomato sauce and spices.</s>"
+  },
+  {
+    "id": "7916",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Text: The sun orbits around Earth."
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\7916_EN-Default_0.8_1.wav"
+    ],
+    "prediction": "<s> True</s>"
+  },
+  {
+    "id": "193928",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Noah: Hello! How was your weekend?, Madison: It was good. I went out with friends on Saturday night."
+      },
+      {
+        "from": "gpt",
+        "value": "True"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\193928_EN-AU_1.2_6.wav"
+    ],
+    "prediction": "<s> Noah: That's great! So, is the following conversation sequential or non-sequential?</s>"
+  },
+  {
+    "id": "110901",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Target: artist \nThe artist was painting a beautiful landscape. He used bold colors and strokes to create a masterpiece."
+      },
+      {
+        "from": "gpt",
+        "value": "Unrelated"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\110901_EN-Default_0.6_8.wav"
+    ],
+    "prediction": "<s> The artist was painting a beautiful landscape. He used bold colors and strokes to create a masterpiece.</s>"
+  },
+  {
+    "id": "135440",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>{< np> < vp>}\n{< art> < noun phrase>}\n{< det> < noun >}."
+      },
+      {
+        "from": "gpt",
+        "value": "{< noun> < verb phrase>}\n{< verb> < noun phrase>}\n\ns -> np vp\nnp -> art nounphrase\nnounphrase -> det noun\ndet -> 'a'\nnoun -> 'man'\nvp -> verbphrase\nverbphrase -> verb nounphrase\nverb -> 'saw'"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\135440_EN-BR_1.2_1.wav"
+    ],
+    "prediction": "<s> Tagged sentences are given in the format noun verb noun. Your task is to create a context-free grammar that generates all and only those sentences.</s>"
+  },
+  {
+    "id": "206751",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The easy-to-use personal assistant Siri has been a part of Apple devices since October 4, 2011."
+      },
+      {
+        "from": "gpt",
+        "value": "The most important information in this article is the date that Siri was introduced: October 4, 2011."
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\206751_EN-Default_1.0_7.wav"
+    ],
+    "prediction": "<s> Siri is a virtual assistant developed by Apple Inc. that uses natural language processing and machine learning to understand and respond to voice commands and questions. It was first introduced on the iPhone 3G and has since become a popular feature on Apple devices.</s>"
+  },
+  {
+    "id": "114486",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I am so tired of my life."
+      },
+      {
+        "from": "gpt",
+        "value": "Negative"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\114486_EN-BR_1.0_7.wav"
+    ],
+    "prediction": "<s> I am so tired of my life.</s>"
+  },
+  {
+    "id": "23173",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Cake Recipe: ['Preheat oven to 350 degrees F (175 degrees C).', 'In a large bowl, cream together the butter, white sugar, brown sugar, eggs, and vanilla.', 'Combine flour mixture with creamed mixture alternately with milk; mix until well blended.']."
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\23173_EN-US_1.2_3.wav"
+    ],
+    "prediction": "<s> The instructions are clear if they can be followed by someone who has never made that specific type of cake before and will result in a desired outcome, a correctly made cake.</s>"
+  },
+  {
+    "id": "43418",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>A: John was born on January 1st, so he celebrates his birthday on January 2nd every year.\nB: Every day, Mary wakes up at 6am and goes to work. Today, she woke up at 7am and went to work."
+      },
+      {
+        "from": "gpt",
+        "value": "Neither"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\43418_EN-BR_1.0_3.wav"
+    ],
+    "prediction": "<s> A: John was born on January 1st, so he celebrates his birthday on January 2nd every year.\nB: Every day, Mary wakes up at 6am and goes to work. Today, she woke up at 7am and went to work.</s>"
+  },
+  {
+    "id": "179914",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Main Idea: Despite its successes, Yugoslavia was plagued by deep economic problems. Sentence: The standard of living in Yugoslavia lagged far behind that in Western Europe."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\179914_EN-US_0.6_1.wav"
+    ],
+    "prediction": "<s> The main idea of the paragraph is that Yugoslavia, despite its achievements, had significant economic issues. The sentence supports this idea by highlighting the disparity in living standards between Yugoslavia and Western Europe.</s>"
+  },
+  {
+    "id": "96588",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>2 tablespoons vegetable oil<sep>1 onion, chopped<sep>3 cloves garlic, minced<sep>1 pound ground beef<."
+      },
+      {
+        "from": "gpt",
+        "value": "Sep>\n\nno"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\96588_EN-US_0.6_2.wav"
+    ],
+    "prediction": "<s> Is to Tish vegetarian or non-vegetarian?</s>"
+  },
+  {
+    "id": "151052",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Sentences: (1) I had been planning to visit Australia for a long time. \n                  (2) Every day, I would read about its landmarks and culture online.\n                  (3) When I finally arrived in Australia, \n                  (4) I was very disappointed by what I saw.\nQuestion: Which sentence(s) should be included in the paragraph?"
+      },
+      {
+        "from": "gpt",
+        "value": "1, 2, 3, 4"
+      }
+    ],
+    "voice": [
+      "unnatural_instruction_data\\151052_EN-US_1.0_5.wav"
+    ],
+    "prediction": "<s> (1) I had been planning to visit Australia for a long time.\n(2) Every day, I would read about its landmarks and culture online.\n(3) When I finally arrived in Australia,\n(4) I was very disappointed by what I saw.</s>"
+  }
+]

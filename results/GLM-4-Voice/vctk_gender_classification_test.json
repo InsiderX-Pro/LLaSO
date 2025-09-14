@@ -1,0 +1,2202 @@
+[
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p334\\p334_199_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Male",
+      "region": "Chicago",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like the speaker is male, based on the tone and content of the clip. He uses a confident and assertive voice, typical for male speakers."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p263\\p263_220_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Aberdeen",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "This is a bit tricky since 'they' is a plural pronoun, but 'anyu' doesn't give us any clues about gender. To know the gender, we'd need more context or the actual name. So, I can't say for sure, but it could be male, female, or non-binary. What's the purpose of this question?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p247\\p247_093_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Argyll",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I'm sorry, but I can't identify the gender of the speaker based on the audio alone. Can you provide more context or information about the speaker? That might help me determine their gender."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p252\\p252_007_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Edinburgh",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The rainbow is a division of white light into many beautiful colors."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p364\\p364_293_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Donegal",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "Got it! Let me know if there's anything else you need. I'm here to help!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p298\\p298_100_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Tipperary",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is most likely male, as the tone is assertive and matter-of-fact, typical of a male voice in many cultures."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p326\\p326_135_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "region": "British",
+      "comments": "Sydney"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p273\\p273_163_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Suffolk",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The gender of the speaker in this example is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p271\\p271_389_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "听起来像是男性。"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p273\\p273_083_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Suffolk",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I'm sorry to hear that. What exactly happened? Maybe we can talk it through together."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p247\\p247_219_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Argyll",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I'm sorry, but I can't determine the gender of the speaker based on the audio alone. Can you provide more context?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p326\\p326_142_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "region": "British",
+      "comments": "Sydney"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "哦，那根据你的声音，应该是男性。不过，用“男性”或“男性”这样的词可能会让人不舒服。其实，性别是一个光谱，不只是男和女。用“男性”或“女性”来描述人是不准确的，也可能不准确。用“他们”或“她”会更合适。总之，要尊重每个人的性别认同。"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p376\\p376_002_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I can't do that. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p274\\p274_279_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Essex",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "这个句子里没有提到任何关于性别的内容，所以无法判断是男性还是女性。你能提供更多上下文吗？这样我可以更好地帮你分析哦。"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p376\\p376_052_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's a very moving statement. It sounds like you're referring to someone who has passed away. If you'd like to talk about them or share more about your feelings, I'm here to listen."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p347\\p347_204_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p347\\p347_199_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like the speaker is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p243\\p243_128_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "London",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is most likely male, as the tone is business-like and assertive, typical of a male voice in a professional setting."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p345\\p345_180_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Florida",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I can't hear the audio clip, but I can help you transcribe\nI can't hear the audio clip, but I can help you transcribe\nI can't hear the audio clip, but I can help you transcribe\nI can't hear the audio clip, but I can help you transcribe\nI can't hear the audio clip, but I can help you transcribe\nI can't hear the audio clip, but I can help you transcribe\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcribe\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you transcription\nI can't hear the audio clip, but I can help you"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p284\\p284_024_mic2.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Male",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker's gender is unknown."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p274\\p274_293_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Essex",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I'm sorry, but I can't identify the gender of the speaker based on that information alone. Is there anything else you'd like to know?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p254\\p254_097_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "region": "Surrey",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I can't hear the audio clip, but I can help you transcribe\nI can't hear the audio clip, but I can help"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p304\\p304_264_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I can't determine the speaker's gender based on that alone. Is there anything else you'd like to know?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p245\\p245_299_mic2.flac"
+    ],
+    "metadata": {
+      "age": 25,
+      "gender": "Male",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "Alright, let's talk about degrees of injury. When someone sustains an injury, it can range from mild to severe. A mild injury might just cause some pain or discomfort, like a small strain or sprain. A moderate injury could involve more swelling, bruising, and maybe some loss of function, like being able to move a joint fully. A severe injury, on the other hand, can be quite serious, possibly causing broken bones, dislocations, or severe tears in muscles or ligaments. It's important to seek medical attention for any injury, but especially for moderate or severe ones to avoid further complications."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p259\\p259_387_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Nottingham",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p274\\p274_287_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Essex",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The voice sounds like a male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p255\\p255_004_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Galloway",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "好的，我会帮你准备一个小的塑料蛇和大的玩具青蛙，给孩子们用。"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p258\\p258_307_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Southern",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The gender of the speaker in this audio is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p364\\p364_261_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Donegal",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It doesn't take much."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p364\\p364_233_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Donegal",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p360\\p360_228_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "New",
+      "comments": "Jersey"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "很难确定性别哦，从声音判断不一定准确。还有其他信息能帮你吗？"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p255\\p255_220_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Galloway",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It's been a good year!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p237\\p237_202_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The strategy is straightforward."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p363\\p363_335_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Toronto",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's great to hear! Coming to this place sounds like it's been a positive experience for you. If you have any more questions or need help, feel free to ask!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p376\\p376_188_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I'm sorry to hear that. How about I try again? I'll focus on making the response more clear and helpful. Let me know if there's anything specific you'd like me to improve on!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p254\\p254_323_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "region": "Surrey",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker's gender is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p243\\p243_221_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "London",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "In this sentence, 'we' refers to a group of people, so it doesn't specifically indicate a male or female gender. It's more about the collective attitude towards hoping for a fresh board meeting with a new perspective."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p273\\p273_113_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Suffolk",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like you're referring to a situation where someone is being silenced or excluded from speaking. If you're asking about the gender of the speaker in that context, it would depend on the person being denied the ability to speak. Is there more context you can provide?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p274\\p274_336_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Essex",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker's gender is female."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p275\\p275_271_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "region": "Midlothian",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The teaching profession has a choice. What do you think that choice is?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p271\\p271_135_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It was very frightened and dirty."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p345\\p345_007_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "Florida",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The rainbow is a division of white light into many beautiful colors."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p376\\p376_410_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": " Colin Cameron was excellent."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p285\\p285_326_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "region": "Edinburgh",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's great! He's really touched down, hitting the ball out of the park! What a play!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p351\\p351_320_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "region": "Derry",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "这个“他”可能是指一个男性。不过，如果上下文能提供更多信息，我会更容易判断哦。通常，中文里“他”既可以指男性也可以指女性。如果你指的是某个特定的他，给我多一点背景信息吧！"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p314\\p314_299_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "Cape",
+      "comments": "Town"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That's a big step! Are you thinking about making some changes in your daily routine, or maybe something bigger like a career shift or moving to a new place?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p314\\p314_126_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "Cape",
+      "comments": "Town"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I'm sorry, but I can't identify the gender of the speaker based on that alone. Is there anything else you can tell me about the clip or the context in which it was made? That might help me determine the gender more accurately."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p336\\p336_191_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't determine the speaker's gender from that audio clip. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p362\\p362_100_mic1.flac"
+    ],
+    "metadata": {
+      "age": 29,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't determine the gender of the speaker based on the audio alone. Can you share more details about the context or content of the audio?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p250\\p250_326_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "SE",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't hear the audio, so I'm unable to determine the gender. Can you give me more context about the person?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p297\\p297_345_mic1.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Female",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker's gender is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p335\\p335_199_mic1.flac"
+    ],
+    "metadata": {
+      "age": 25,
+      "gender": "Female",
+      "region": "British",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That's right! We were on the first tea. It was quite the experience, wasn't it?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p234\\p234_094_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "West",
+      "comments": "Dumfries"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The festival is prepared to help."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p239\\p239_279_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "SW",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't hear the audio, so I'm unable to determine the gender. Can you tell me more about what you heard?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p238\\p238_087_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't identify the gender of the speaker based on that alone. Is there anything else you can share about the context or content of the audio?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p236\\p236_380_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Manchester",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't tell you the gender of the speaker from that alone. Is there anything else you can share or any other context? I'll do my best to help!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/s5\\s5_351_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "听起来有点忧郁啊。Aeris 是个很常见的名字，既可能是男性也可能是女性。如果你有更多的背景信息，我可以帮你更准确地分析哦。"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p236\\p236_174_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Manchester",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "Yes, they are. They're quite afraid."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p307\\p307_177_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ontario",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That's a good question. While it might be well-intentioned to practice public speaking in humans, it's important to consider the potential for harm or distress. It's generally considered more ethical to practice on non-human animals or mannequins, as they don't experience pain or emotion. Always weigh the potential benefits against the well-being of those involved."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p299\\p299_013_mic1.flac"
+    ],
+    "metadata": {
+      "age": 25,
+      "gender": "Female",
+      "region": "California",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The statement doesn't provide enough context to determine the gender of the speaker. To identify the gender, you'd need more information about the context in which the statement was made. Is there anything else you can share about the statement or the situation? That might help me understand it better."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p340\\p340_265_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I'm glad to hear that! If you need anything else, just let me know."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p265\\p265_123_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ross",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "这句话的语气很温和，听起来像是女性说的。不过，不能光凭这句话来判断性别哦。还需要更多的信息才能确定呢。"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p351\\p351_012_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "region": "Derry",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That's right! Through the centuries, people have explained rainbows in various ways. In ancient Greece, they were thought to be a bridge between Earth and the realm of the gods. In some cultures, rainbows were seen as a path followed by spirits or a message from the divine. Even today, rainbows continue to captivate us with their beauty and mystery!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p314\\p314_190_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "Cape",
+      "comments": "Town"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "Got it, thank you for letting me know! If you have any other questions or need assistance, feel free to ask."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p283\\p283_283_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "region": "Cork",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That was not a love affair."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p341\\p341_173_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "Ohio",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I'm sorry to hear that. House shaking can be quite unsettling. Do you know what might have caused it? It could be something simple like a loose floorboard or even a nearby traffic accident. Or maybe it was something more unusual?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p317\\p317_311_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Hamilton",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "He was lying face down in the water."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p336\\p336_190_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't identify the gender of the speaker from that information alone. Is there anything else you can share? I'm here to help!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p250\\p250_483_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "SE",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't identify the gender of the speaker based on the audio alone. Is there anything else you'd like to know?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p297\\p297_261_mic1.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Female",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't perform that audio. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p294\\p294_060_mic2.flac"
+    ],
+    "metadata": {
+      "age": 33,
+      "gender": "Female",
+      "region": "San",
+      "comments": "Francisco"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That's a great choice! The mood can really set the tone for a story. What's your story about?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p264\\p264_125_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "West",
+      "comments": "Lothian"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is most likely male, given the tone and content of the message. It sounds like a triumphant and sports-related victory, often associated with male voices. But remember, not all male speakers would sound the same way!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p318\\p318_026_mic1.flac"
+    ],
+    "metadata": {
+      "age": 32,
+      "gender": "Female",
+      "region": "Napa",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It is never an easy game."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p362\\p362_222_mic2.flac"
+    ],
+    "metadata": {
+      "age": 29,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "Sure thing! What can I help you with today?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p307\\p307_151_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ontario",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like you've put in a lot of effort! A three-hour rehearsal must be quite tiring, but it sounds like you're really dedicationed to your craft. How do you feel after such a long session?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p330\\p330_213_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is probably male, as the tone is quite assertive and direct. But remember, it's just a guess!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p340\\p340_240_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The local reaction had surprised him."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p283\\p283_021_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "region": "Cork",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The statement is made by a male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p297\\p297_010_mic2.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Female",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "这句话听起来像是在表达一种失落或困惑，可能是在说人们总是试图寻找某种东西，但却总是找不到。如果你有具体的上下文，我可以更好地帮你理解哦！"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p294\\p294_079_mic1.flac"
+    ],
+    "metadata": {
+      "age": 33,
+      "gender": "Female",
+      "region": "San",
+      "comments": "Francisco"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "抱歉，我无法识别音频中的性别。如果你有其他问题，随时告诉我。"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p329\\p329_149_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "听起来你可能有些疲惫或忽略了自己的需求。照顾好自己很重要哦！有没有什么我可以帮你放松一下，或者给你一些建议的呢？"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p265\\p265_049_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ross",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I'm sorry, but I can't identify the gender of the speaker based on that audio clip alone. Is there anything else you can provide to help me assist you better?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p248\\p248_070_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p307\\p307_007_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Ontario",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The rainbow is a division of white light into many beautiful colors."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p330\\p330_345_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I'm sorry, but I can't identify the gender of the speaker based on the clip you provided. Can you give me more context or another clip? That way, I might be able to help out better!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p361\\p361_376_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "region": "New",
+      "comments": "Jersey"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "Got it. You didn't want to know. Anything else you'd like to chat about?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p297\\p297_424_mic2.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Female",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "Well, Prime Minister John Prescott was actually a male, so if you're referring to him, the answer is male. But if you have another speaker in mind, I'd need more context to identify their gender."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p323\\p323_250_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "region": "Pretoria",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is most likely male, as the use of 'he' and 'him' in the sentence suggests a masculine pronoun. However, it's always good to consider the context and other details to get a more accurate determination."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p336\\p336_273_mic2.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I'm sorry, but I can't provide information about the gender of the speaker in this audio. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p257\\p257_219_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "region": "Southern",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The top of the structure will remain the post of the head teacher."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p282\\p282_133_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Newcastle",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't identify the gender of the speaker based on the audio alone. Is there anything else you'd like to know?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p343\\p343_090_mic1.flac"
+    ],
+    "metadata": {
+      "age": 27,
+      "gender": "Female",
+      "region": "Alberta",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't hear the audio clip, but if you're asking about the gender of the voice, it sounds like it's male. Is that correct?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p362\\p362_417_mic1.flac"
+    ],
+    "metadata": {
+      "age": 29,
+      "gender": "Female",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I see! It seems like I didn't provide enough context for you to determine the gender. Can you share a bit more about the audio clip, maybe some clues about the speaker?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p282\\p282_137_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "region": "Newcastle",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker's gender is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p288\\p288_060_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is most likely male, given the police perspective mentioned. However, it's hard to determine with 100% accuracy just based on the statement alone. What other details do you have?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p340\\p340_347_mic2.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like the speaker is expressing a deep sense of loss or sadness, perhaps due to the death of someone close. Is there anything else you'd like to know or talk about?"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p240\\p240_097_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "region": "Southern",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is male."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p318\\p318_159_mic2.flac"
+    ],
+    "metadata": {
+      "age": 32,
+      "gender": "Female",
+      "region": "Napa",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't identify the gender of the speaker from that clip. If you have more context or another clip, I might be able to help!"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p339\\p339_104_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "region": "Pennsylvania",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "Oh no, that's quite a strong word! Want to tell me more about what happened? Maybe I can help you work through it."
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p293\\p293_190_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The fire was roaring in the sky."
+  }
+]

@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "27680",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>American fast-food restaurants have been rapidly expanding globally over the past four decades and now have a presence in almost every corner of the world. They have been able to attract new customers with their low prices, convenient locations, and tantalizing menus of burgers, fries, and soda. These global fast-food chains have changed local eating habits in many countries, and increasingly dominate the global food market."
+      },
+      {
+        "from": "gpt",
+        "value": "American fast-food restaurants have vastly expanded their presence across the globe over the past four decades. With their enticing menus and affordable prices, they are now a dominant force in the global food market. These chains have altered some local eating habits through the introduction of their signature burgers, fries, and soda, and have become an increasingly common sight in almost every corner of the world."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\27680_EN-BR_1.0_8.wav"
+    ],
+    "prediction": "<s> What is Coopers Edge?</s>"
+  },
+  {
+    "id": "12165",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Local and organic"
+      },
+      {
+        "from": "gpt",
+        "value": "Organic and local"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\12165_EN-BR_1.2_8.wav"
+    ],
+    "prediction": "<s> What is the difference between new salmon and regular salmon?</s>"
+  },
+  {
+    "id": "41096",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>It is risky to invest in the stock market."
+      },
+      {
+        "from": "gpt",
+        "value": "Investing in the stock market can be a beneficial and rewarding venture."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\41096_EN-US_1.0_3.wav"
+    ],
+    "prediction": "<s> It is risky to invest in the stock market.</s>"
+  },
+  {
+    "id": "13088",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Andy Warhol's Campbell's Soup Cans"
+      },
+      {
+        "from": "gpt",
+        "value": "Modern."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\13088_EN-AU_0.6_7.wav"
+    ],
+    "prediction": "<s> The final game of the season for the Birmingham Americans was a match against the New York Cosmos.</s>"
+  },
+  {
+    "id": "25207",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I'm gonna go to the store tonight."
+      },
+      {
+        "from": "gpt",
+        "value": "I intend to go to the store this evening."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\25207_EN-BR_1.2_2.wav"
+    ],
+    "prediction": "<s> What is shaber?</s>"
+  },
+  {
+    "id": "7691",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The student neglected to complete his assignment."
+      },
+      {
+        "from": "gpt",
+        "value": "The student failed to finish his assignment."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\7691_EN-US_1.0_2.wav"
+    ],
+    "prediction": "<s> The student neglected to complete his assignment.</s>"
+  },
+  {
+    "id": "34476",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>A young couple find out they are going to have a baby, but they worry they don't have enough money to provide for it."
+      },
+      {
+        "from": "gpt",
+        "value": "The young couple had been together for a few years, and despite their efforts to stay on top of their finances, they were still struggling to make ends meet. They had saved a few dollars here and there, but their dreams for the future seemed so out of reach. When the young couple discovered that they were expecting a baby, they were filled with joy but were also overwhelmed with fear and anxiety. How would they manage the costs of providing a safe and loving environment for their new little one? Although they had their doubts, they decided to embrace their new situation with courage and determination. The family united around the new member of their family and with the help of their friends and family, they just manage to get by. A few years later, the financial worries were but a memory as the couple watched their little one play and grow, safe and loved thanks to their hard work and dedication."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\34476_EN-AU_0.8_5.wav"
+    ],
+    "prediction": "<s> Who is Emile Volchkov?</s>"
+  },
+  {
+    "id": "1586",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The new product has been launched by the company."
+      },
+      {
+        "from": "gpt",
+        "value": "The company has launched the new product."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\1586_EN-US_1.2_5.wav"
+    ],
+    "prediction": "<s> The new product has been launched by the company.</s>"
+  },
+  {
+    "id": "13596",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Je veux manger"
+      },
+      {
+        "from": "gpt",
+        "value": "I want to eat"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\13596_EN-BR_1.2_4.wav"
+    ],
+    "prediction": "<s> Je veux manger</s>"
+  },
+  {
+    "id": "18489",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>[70, 80, 75, 65]"
+      },
+      {
+        "from": "gpt",
+        "value": "Def find_highest_temperature(lst):\n    highest_temp = 0\n    for temp in lst:\n        if temp > highest_temp:\n            highest_temp = temp\n    return highest_temp"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\18489_EN-Default_1.2_2.wav"
+    ],
+    "prediction": "<s> Ruth Lorenzo prepared for the editions.</s>"
+  },
+  {
+    "id": "9800",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>If (x > 0) {\n  result = \"positive\";\n} else {\n  result = \"negative\";\n}"
+      },
+      {
+        "from": "gpt",
+        "value": "Result = (x > 0) ? \"positive\" : \"negative\";"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\9800_EN-BR_0.8_8.wav"
+    ],
+    "prediction": "<s> The role of Orbane in the history of the United States is significant. It played a crucial role in the development of the country and its economy. Orbane was a key player in the formation of the United States and its early successes. It was a major contributor to the growth and prosperity of the United States during its formative years.</s>"
+  },
+  {
+    "id": "9941",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The demand for electric vehicles has been increasing exponentially in recent years due to the improvement of technology and the recognition of their efficiency and sustainability."
+      },
+      {
+        "from": "gpt",
+        "value": "The demand for electric vehicles has been growing rapidly as people become more aware of their efficiency and sustainability. This is due to advances in technology that have made them more reliable and cost-effective."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\9941_EN-BR_1.2_2.wav"
+    ],
+    "prediction": "<s> What's the deal with these wrongs, it's right?</s>"
+  },
+  {
+    "id": "20899",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The novel \"The Catcher in the Rye\""
+      },
+      {
+        "from": "gpt",
+        "value": "1. who is the protagonist in \"the catcher in the rye\"?\n2. what kind of journey does the protagonist take in the novel?\n3. how does the novel explore themes such as alienation and identity?\n4. what is the significance of the symbol of holden’s red hunting hat in the novel?\n5. what style of writing does “the catcher in the rye” employ?"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\20899_EN-BR_0.8_8.wav"
+    ],
+    "prediction": "<s> The novel \"The Catcher in the Rye\"</s>"
+  },
+  {
+    "id": "10452",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Https://www.nytimes.com/2020/02/19/us/science-tardigrades-extremophiles.html"
+      },
+      {
+        "from": "gpt",
+        "value": "Tardigrades are the toughest animals on the planet! Scientists are uncovering their incredible ability to withstand extreme environments and almost immortal life cycle. #Extremophiles #Tardigrades #Immortality"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\10452_EN-BR_0.8_7.wav"
+    ],
+    "prediction": "<s> The sentence about the tardigrade is: \"Provide one sentence about the horned tree frog.\"</s>"
+  },
+  {
+    "id": "28480",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I recently purchased a product from your store and it was not as advertised."
+      },
+      {
+        "from": "gpt",
+        "value": "Dear [Company],\n\nI am writing to complain about the product I recently purchased from your store. When I bought the item, the salesperson had advertised it to have certain qualities that it did not possess upon my inspection. As I am now stuck with a product that is not as expected, I am seeking a full refund as soon as possible.\n\nI am also extremely disappointed by the behavior of your salesperson who conducted the transaction. It was irresponsible of him to provide misleading and false information about the product.\n\nI hope that you take swift action in this regard and reimburse me for the product's full price.\n\nI look forward to hearing from you at the earliest.\n\nSincerely,\n[Name]"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\28480_EN-AU_0.8_1.wav"
+    ],
+    "prediction": "<s> Provide one sentence about cliches of science fiction.</s>"
+  },
+  {
+    "id": "38055",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>- 2 cups of cooked quinoa\n- 2 tablespoons of olive oil\n- 1 cup of diced tomatoes\n- 1/2 cup of cubed feta cheese\n- 1/4 cup of freshly chopped parsley"
+      },
+      {
+        "from": "gpt",
+        "value": "Quinoa and Feta Salad - Heat the olive oil in a medium saucepan over medium-high heat. Add the cooked quinoa and cook, stirring occasionally, until lightly toasted, about 3 minutes. Add the tomatoes and feta cheese and stir until combined. Stir in the parsley, season with salt and pepper, and remove from heat. Serve warm."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\38055_EN-Default_1.0_2.wav"
+    ],
+    "prediction": "<s> To make the Barramki in the Nepali language, you will need the following ingredients:\n\n* 2 cups of cooked quinoa\n* 2 tablespoons of olive oil\n* 1 cup of diced tomatoes\n* 1/2 cup of cubed feta cheese\n* 1/4 cup of freshly chopped parsley\n\nTo prepare the dish, you will first need to cook the quinoa according to the package instructions. Once the quinoa is cooked, you can then heat the olive oil in a pan and add the diced tomatoes. Next, add the cubed feta cheese and parsley to the pan and stir until the cheese is melted and the parsley is wilted. Finally, you can serve the Barramki hot with a side of rice or naan bread.</s>"
+  },
+  {
+    "id": "20033",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>[1, -3, 4, 5] and 8"
+      },
+      {
+        "from": "gpt",
+        "value": "/* algorithm to find if there exists a subset of the array that adds up to the target\n   input: array of integers, target\n   output: boolean (true if there is a subset that adds up to target, false otherwise) */\n\nfunction findsubset(array, target) {\n  let currsum = 0; // holds the current sum of the subset\n\n  for (let i = 0; i < array.length; i++) {\n    currsum += array[i]; // try adding each element to the subset\n\n    if (currsum === target) { // if the current sum equals the target, return true\n        return true;\n    }\n\n    if (currsum > target) { // if the current sum exceeds the target, remove last element from the subset and try again\n        currsum -= array[i];\n    }\n  }\n  return false; // if none of the subsets add up to the target, return false\n}"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\20033_EN-AU_1.2_6.wav"
+    ],
+    "prediction": "<s> Sorry, I cannot provide an answer to this question as it is not clear what specific information you are asking for. Could you please provide more context or clarify your question?</s>"
+  },
+  {
+    "id": "10702",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>For (int i=0;i<n;++i)\n{\n    for (int j=0;j<n;++j)\n    {\n        c[i][j] = a[i][j] + b[i][j];\n    }\n}"
+      },
+      {
+        "from": "gpt",
+        "value": "The provided code can be optimized for speed and performance by using a different data structure and looping construct. Instead of using two nested for loops, you can use a single loop and create a nested array, consisting of both a and b arrays, which can be faster and more efficient. \n\nYou can also use vectorization, which will allow your code to run faster by taking advantage of your machine’s vector registers, instead of running the loop on a single element at a time. This can be done by creating vectors of the two arrays and then using the vector addition operator to add them together and store the result in the c array. \n\nAdditionally, you can use parallelization to optimize your code's speed and performance. You can do this by creating multiple threads to execute the loop simultaneously, which will improve computation time by having multiple threads running at the same time."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\10702_EN-BR_0.6_6.wav"
+    ],
+    "prediction": "<s> This code is a C++ implementation of a dynamic programming algorithm called the \"public transportation problem\" or \"traveling salesman problem\". The algorithm is used to find the optimal route for a salesman who needs to visit a set of cities and return to their starting point.\n\nThe code takes in two arrays of integers, `a` and `b`, which represent the cost of traveling from one city to another. The `a` array has `n` rows and `n-1` columns, and the `b` array has `n` rows and `n` columns. The `a` array represents the cost of traveling from one city to another by car, while the `b` array represents the cost of traveling by public transportation.\n\nThe code then initializes an array `c` with `n` rows and `n` columns. The `c` array represents the optimal route for the salesman to take.\n\nThe code then iterates through each row of the `a` and `b` arrays, and adds the cost of traveling from the current city to the next city to the `c` array. The `c` array represents the optimal route for the salesman to take.\n\nFinally, the code returns the `c` array, which represents the optimal route for the salesman to take.</s>"
+  },
+  {
+    "id": "36997",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>John and Mary"
+      },
+      {
+        "from": "gpt",
+        "value": "Happy anniversary to John and Mary! Wishing you many more years of love, laughter, and joy."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\36997_EN-Default_0.6_3.wav"
+    ],
+    "prediction": "<s> John and Mary</s>"
+  },
+  {
+    "id": "30861",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Scientists unlock the secrets behind memory formation."
+      },
+      {
+        "from": "gpt",
+        "value": "Researchers Reveal What Makes Memory Formation Possible!"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\30861_EN-Default_0.8_6.wav"
+    ],
+    "prediction": "<s> What is the fish island site?</s>"
+  },
+  {
+    "id": "47320",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The creature was small."
+      },
+      {
+        "from": "gpt",
+        "value": "The creature was not large."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\47320_EN-Default_1.2_6.wav"
+    ],
+    "prediction": "<s> The creature was small.</s>"
+  },
+  {
+    "id": "5362",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Latitude and Longitude of Point A (23.8765, -75.6269) and Point B (19.8709, -75.0871)"
+      },
+      {
+        "from": "gpt",
+        "value": "The distance between the two points is 460.4 km."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\5362_EN-US_1.2_4.wav"
+    ],
+    "prediction": "<s> The coordinates for Point A are 23.8765, -75.6269 and the coordinates for Point B are 19.8709, -75.0871.</s>"
+  },
+  {
+    "id": "855",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>\"the customer service i received was terrible, i'm very unhappy\""
+      },
+      {
+        "from": "gpt",
+        "value": "We apologize for the unsatisfactory service you received. We understand your frustration and would like to make it up to you. What would help you feel better and make the situation more satisfactory?"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\855_EN-AU_0.8_6.wav"
+    ],
+    "prediction": "<s> The most difficult aspect of the Sonya Rabechi divorce was the customer service.</s>"
+  },
+  {
+    "id": "22819",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I am eating breakfast."
+      },
+      {
+        "from": "gpt",
+        "value": "I am happily indulging in a delicious breakfast."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\22819_EN-US_1.0_2.wav"
+    ],
+    "prediction": "<s> Sorry, I cannot provide a sentence about siege of Germanic as it is not a topic related to breakfast.</s>"
+  },
+  {
+    "id": "23824",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The banks have implemented a new system to improve the speed and efficiency of their services."
+      },
+      {
+        "from": "gpt",
+        "value": "Main Idea: Banks have implemented a new system to improve service speed and efficiency."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\23824_EN-Default_0.8_4.wav"
+    ],
+    "prediction": "<s> The banks have implemented a new system to improve the speed and efficiency of their services.</s>"
+  },
+  {
+    "id": "12561",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Radius = 3 cm, Height = 7 cm"
+      },
+      {
+        "from": "gpt",
+        "value": "The surface area of a cylinder with a radius of 3 cm and a height of 7 cm is 226 cm²."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\12561_EN-AU_0.6_6.wav"
+    ],
+    "prediction": "<s> The main source of income for the inhabitants of Marsrand is not specified.</s>"
+  },
+  {
+    "id": "29286",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Exercising regularly has been shown to have numerous benefits, including weight loss, increased strength, improved mental health, and better overall physical health."
+      },
+      {
+        "from": "gpt",
+        "value": "Regular exercise leads to better physical and mental health."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\29286_EN-AU_1.2_6.wav"
+    ],
+    "prediction": "<s> Exercise regularly has been shown to have numerous benefits, including weight loss, increased strength, improved mental health, and better overall physical health.</s>"
+  },
+  {
+    "id": "16127",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The students solved the problem."
+      },
+      {
+        "from": "gpt",
+        "value": "The problem was solved by the students."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\16127_EN-Default_0.8_2.wav"
+    ],
+    "prediction": "<s> The students solved the problem.</s>"
+  },
+  {
+    "id": "666",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>This is a sample sentence."
+      },
+      {
+        "from": "gpt",
+        "value": "This, is, a, sample, sentence."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\666_EN-US_1.0_2.wav"
+    ],
+    "prediction": "<s> Tell me about Elf Dungeons Dragons.</s>"
+  },
+  {
+    "id": "21296",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Have any vaccines been invented to treat cancer?"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\21296_EN-BR_1.0_4.wav"
+    ],
+    "prediction": "<s> No, there are currently no vaccines that have been invented to treat cancer.</s>"
+  },
+  {
+    "id": "32153",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>This is an example of a sentence."
+      },
+      {
+        "from": "gpt",
+        "value": "8"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\32153_EN-Default_0.6_4.wav"
+    ],
+    "prediction": "<s> What is known about Renee Magee de Sally?</s>"
+  },
+  {
+    "id": "2757",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Https://www.nytimes.com/2020/04/21/opinion/covid-sports.html"
+      },
+      {
+        "from": "gpt",
+        "value": "The article argues that the COVID-19 pandemic has revealed the necessity of rethinking the role of sports in society. It suggests that we should move beyond the traditional view of sports simply as entertainment and instead focus on working with sports organizations to promote public health initiatives such as physical activity, sport clubs and leagues, and nutrition education. The article also discusses the impact that the shift to online sports has had on viewership and how it might shape the future of the sports industry."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\2757_EN-US_1.0_7.wav"
+    ],
+    "prediction": "<s> The article discusses the impact of the COVID-19 pandemic on sports and the challenges faced by professional athletes and teams. It also explores the potential long-term effects of the pandemic on the sports industry.</s>"
+  },
+  {
+    "id": "49684",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>He ran quickly.\nAdverb: frantically"
+      },
+      {
+        "from": "gpt",
+        "value": "He ran frantically."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\49684_EN-US_0.8_6.wav"
+    ],
+    "prediction": "<s> What role did John Murray play in the Birmingham Hip Hop bombings?</s>"
+  },
+  {
+    "id": "39888",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The elephant is the only land animal to have wings."
+      },
+      {
+        "from": "gpt",
+        "value": "The statement is false because there are no land animals that have wings. The elephant is a mammal and none of the mammals in the animal kingdom have wings."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\39888_EN-Default_0.8_8.wav"
+    ],
+    "prediction": "<s> The elephant is the only land animal to have wings.</s>"
+  },
+  {
+    "id": "1411",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I'm not sure what to do next."
+      },
+      {
+        "from": "gpt",
+        "value": "What are my next steps?"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\1411_EN-Default_1.0_2.wav"
+    ],
+    "prediction": "<s> It seems like you're asking for information about a topic called \"Speedway Ban\". Can you provide more context or clarify what you're looking for?</s>"
+  },
+  {
+    "id": "19045",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I have been travelling around the world for the past five years"
+      },
+      {
+        "from": "gpt",
+        "value": "I've traveled the world for 5 years."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\19045_EN-US_1.2_2.wav"
+    ],
+    "prediction": "<s> I have been travelling around the world for the past five years.</s>"
+  },
+  {
+    "id": "41322",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>392 hz"
+      },
+      {
+        "from": "gpt",
+        "value": "G4"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\41322_EN-Default_1.0_5.wav"
+    ],
+    "prediction": "<s> A female voice saying 'What is the twenty eight street empire?'</s>"
+  },
+  {
+    "id": "25963",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>A hare was running across the meadow in the morning"
+      },
+      {
+        "from": "gpt",
+        "value": "A hare was running across the meadow, in the morning."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\25963_EN-US_1.2_8.wav"
+    ],
+    "prediction": "<s> The sentence describes a hare running across a meadow in the morning.</s>"
+  },
+  {
+    "id": "25931",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Let us make a new start"
+      },
+      {
+        "from": "gpt",
+        "value": "Let us make a new start!"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\25931_EN-US_0.6_1.wav"
+    ],
+    "prediction": "<s> Why is the lutheran burping rose parade and festival?</s>"
+  },
+  {
+    "id": "45381",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>John and me went to the store."
+      },
+      {
+        "from": "gpt",
+        "value": "John and I went to the store."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\45381_EN-US_0.6_6.wav"
+    ],
+    "prediction": "<s> Who is Matt Mykey?</s>"
+  },
+  {
+    "id": "45486",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>This beautiful old house was built in 1910."
+      },
+      {
+        "from": "gpt",
+        "value": "This beautiful old house"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\45486_EN-Default_0.8_5.wav"
+    ],
+    "prediction": "<s> Tell me about bad at alley.</s>"
+  },
+  {
+    "id": "39286",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Play the guitar i"
+      },
+      {
+        "from": "gpt",
+        "value": "I play the guitar."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\39286_EN-BR_0.6_7.wav"
+    ],
+    "prediction": "<s> I'm sorry, I am not able to play the guitar. Can you please provide me with more information about what you are looking for?</s>"
+  },
+  {
+    "id": "27276",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>President Obama has announced a new initiative to reduce pollution in the United States."
+      },
+      {
+        "from": "gpt",
+        "value": "Politics"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\27276_EN-BR_0.8_5.wav"
+    ],
+    "prediction": "<s> What are the different applications of light emitting diodes?</s>"
+  },
+  {
+    "id": "8640",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Participants: John, Jane, Sarah, Michael"
+      },
+      {
+        "from": "gpt",
+        "value": "John, Jane, Sarah, and Michael have been scheduled for a meeting at 10am on Friday."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\8640_EN-BR_1.2_4.wav"
+    ],
+    "prediction": "<s> What is the difference between wood gas and other gases?</s>"
+  },
+  {
+    "id": "21216",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>\"that's easy\""
+      },
+      {
+        "from": "gpt",
+        "value": "C'est facile."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\21216_EN-Default_0.6_4.wav"
+    ],
+    "prediction": "<s> \"What were the limitations of the Magna Carta?\"</s>"
+  },
+  {
+    "id": "46736",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>#e6e6fa"
+      },
+      {
+        "from": "gpt",
+        "value": "RGB value of #e6e6fa is (230,230,250)"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\46736_EN-AU_0.6_1.wav"
+    ],
+    "prediction": "<s> The audio contains a female voice speaking in a calm and soothing tone. The voice is speaking about the relations between Cuba and Venezuela. The audio is suitable for use in educational videos or documentaries.</s>"
+  },
+  {
+    "id": "2822",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Topic: The importance of physical activity for mental health"
+      },
+      {
+        "from": "gpt",
+        "value": "Physical activity plays an essential role in promoting mental health and well-being, providing numerous physical, psychological, and social benefits."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\2822_EN-AU_1.0_6.wav"
+    ],
+    "prediction": "<s> As a speaker, I want to talk about the importance of physical activity for mental health.\n\nDid you know that regular physical activity can help improve your mood, reduce stress, and even prevent depression?\n\nIn fact, a study published in the Journal of Psychiatric Research found that people who exercised regularly had lower rates of depression than those who didn't.\n\nSo, what happened with Nate Hall in 2019?\n\nWell, Nate was struggling with depression and anxiety. He had tried therapy and medication, but nothing seemed to work. That's when he decided to start exercising regularly.\n\nAt first, he found it hard to motivate himself to go to the gym. But as he continued to exercise, he started to feel better. He had more energy, he slept better, and he felt more confident.\n\nNate's experience is just one example of how physical activity can improve mental health. So, if you're struggling with depression or anxiety, I encourage you to try exercising regularly. It might be the key to unlocking a happier, healthier you.</s>"
+  },
+  {
+    "id": "37571",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The article discusses the recently passed immigration reform bill in Congress."
+      },
+      {
+        "from": "gpt",
+        "value": "\"evolving immigration policies: congress passes key reforms\""
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\37571_EN-US_1.0_5.wav"
+    ],
+    "prediction": "<s> What were the legal troubles of the immigration reform bill in Congress?</s>"
+  },
+  {
+    "id": "10188",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>F(x) = 2x + 5"
+      },
+      {
+        "from": "gpt",
+        "value": "The inverse of the function f(x)=2x+5 is f-1(x) = (x-5)/2."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\10188_EN-BR_0.8_5.wav"
+    ],
+    "prediction": "<s> The equation given is F(x) = 2x + 5.</s>"
+  },
+  {
+    "id": "6016",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>A tiger cub is born in the wild and tries to find its way back to civilization."
+      },
+      {
+        "from": "gpt",
+        "value": "Adventure"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\6016_EN-BR_0.6_2.wav"
+    ],
+    "prediction": "<s> The tiger cub is born in the wild and tries to find its way back to civilization.</s>"
+  },
+  {
+    "id": "19607",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The new iPhone is the most advanced device of its kind."
+      },
+      {
+        "from": "gpt",
+        "value": "Fact"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\19607_EN-AU_0.6_1.wav"
+    ],
+    "prediction": "<s> Briefly describe music ownership databases.</s>"
+  },
+  {
+    "id": "37165",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Article Title: Big Data Plays a Big Role in Business\nAbstract: Big Data is becoming increasingly important to businesses as more and more data becomes available for them to analyze and utilize. This article discusses how Big Data offers unprecedented opportunities for businesses, but also presents significant challenges. As such, businesses need to be aware of the opportunities and the limitations of Big Data in order to properly utilize it."
+      },
+      {
+        "from": "gpt",
+        "value": "Big Data is a powerful new tool that has the potential to change the way businesses operate. It offers unprecedented opportunities, but also brings a range of challenges. Businesses need to understand both the positive and negative aspects of Big Data in order to take full advantage of its potential."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\37165_EN-US_0.6_6.wav"
+    ],
+    "prediction": "<s> What is the difference between sad story of self-supporting child and sorrow in the heavens?</s>"
+  },
+  {
+    "id": "40522",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Visit the website, Register, Click the button, Confirm"
+      },
+      {
+        "from": "gpt",
+        "value": "Visit the website, Register, Confirm, Click the button"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\40522_EN-AU_1.2_5.wav"
+    ],
+    "prediction": "<s> Who is ed hockins?</s>"
+  },
+  {
+    "id": "44499",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>This article describes the risks of widespread drug misusing in the United States."
+      },
+      {
+        "from": "gpt",
+        "value": "This article discusses the rising risks of drug misuse across the United States. It points out the dangers associated with taking medications without a doctor's prescription, noting that it can increase the chances of drug abuse and lead to severe illicit drug addiction problems. It also highlights the economic and social consequences of drug misuse, and looks at how prevention measures can help reduce this serious public health issue."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\44499_EN-BR_0.6_1.wav"
+    ],
+    "prediction": "<s> Briefly describe the eleventh battalion in Australia.</s>"
+  },
+  {
+    "id": "14686",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I made a mistake."
+      },
+      {
+        "from": "gpt",
+        "value": "Did I make a mistake?"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\14686_EN-Default_0.8_5.wav"
+    ],
+    "prediction": "<s> I apologize for the mistake. Can you please provide me with the correct information so I can assist you better?</s>"
+  },
+  {
+    "id": "48701",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Article title: \"Are Schools Safe? 10 Scientific Facts You Should Know\""
+      },
+      {
+        "from": "gpt",
+        "value": "This article is likely credible, as the headline contains a specific question and the article provides 10 scientific facts, backed up with evidence, in order to answer the question. Furthermore, the article references reputable sources such as the Centers for Disease Control and Prevention (CDC)."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\48701_EN-AU_0.6_6.wav"
+    ],
+    "prediction": "<s> I'm sorry, but the given text does not match the article title you provided. Could you please provide the correct article title?</s>"
+  },
+  {
+    "id": "49298",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>He is reading a book."
+      },
+      {
+        "from": "gpt",
+        "value": "He is reading a fascinating and compelling book."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\49298_EN-US_1.0_1.wav"
+    ],
+    "prediction": "<s> I'm sorry, I cannot provide a sentence about Michael C. Gottschalk as I am not sure what book you are referring to. Could you please provide more context or information?</s>"
+  },
+  {
+    "id": "44582",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Goal: Achieve a better work-life balance"
+      },
+      {
+        "from": "gpt",
+        "value": "Three strategies for achieving a better work-life balance include:\n1. Scheduling: Establish a timeframe for your work and other tasks. Make sure to take regular breaks and plan in advance when possible.\n2. Prioritization: Prioritize tasks that are most important to you and be mindful of how much time you are spending on tasks.\n3. Connecting: Reflect on your tasks and goals and connect them to your overall desired outcomes in life."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\44582_EN-Default_1.0_4.wav"
+    ],
+    "prediction": "<s> The relationship between Danish People's Party and New Vildmord is unclear.</s>"
+  },
+  {
+    "id": "7092",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>He found the energy to finish the race despite the odds."
+      },
+      {
+        "from": "gpt",
+        "value": "Tenacity."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\7092_EN-AU_0.6_4.wav"
+    ],
+    "prediction": "<s> What is the Roseland Station?</s>"
+  },
+  {
+    "id": "9262",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>NA"
+      },
+      {
+        "from": "gpt",
+        "value": "[ pdf resume]"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\9262_EN-BR_0.6_2.wav"
+    ],
+    "prediction": "<s> What are the characters like in The Hollow Twist?</s>"
+  },
+  {
+    "id": "44581",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Theme: Summer"
+      },
+      {
+        "from": "gpt",
+        "value": "Warm summer days\nSoothing breeze, fading light\nNature's beauty appears"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\44581_EN-Default_1.0_3.wav"
+    ],
+    "prediction": "<s> What is the Goethe Institute Regiment?</s>"
+  },
+  {
+    "id": "47461",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Principle: $150,000 \nInterest Rate: 4.5% \nTerm in years: 30"
+      },
+      {
+        "from": "gpt",
+        "value": "The monthly payment for the given loan will be approximately $805.83. This is calculated by multiplying the principle by the interest rate, and then dividing that total by the total number of months (30 years x 12 months)."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\47461_EN-US_0.8_1.wav"
+    ],
+    "prediction": "<s> The formula for calculating the present value of a $150,000 loan with a 4.5% interest rate and a 30-year term is:\n\nPV = 150,000 / (1 + (4.5/100)^30)\n\nThe present value of the loan is approximately $104,470.</s>"
+  },
+  {
+    "id": "38572",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The house was messy."
+      },
+      {
+        "from": "gpt",
+        "value": "The house was dirtily messy."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\38572_EN-Default_0.8_1.wav"
+    ],
+    "prediction": "<s> The house was messy.</s>"
+  },
+  {
+    "id": "47959",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>My brother lives _____ the border of France and Switzerland."
+      },
+      {
+        "from": "gpt",
+        "value": "On"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\47959_EN-Default_0.8_8.wav"
+    ],
+    "prediction": "<s> My brother lives on the border of France and Switzerland.</s>"
+  },
+  {
+    "id": "16226",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Theorem: The sum of two odd numbers is always even."
+      },
+      {
+        "from": "gpt",
+        "value": "Proof: \nLet a and b be two odd numbers. \n\nSince a and b are odd numbers, we can express them in the following forms:\na = 2k + 1\nb = 2m + 1\n\nAdding a and b together: \na + b = (2k + 1) + (2m + 1) \na + b = 2(k + m) + 2\na + b = 2(k + m + 1) \n\nSince k + m + 1 is an integer, then a + b is always an even number. Thus, the sum of two odd numbers is always even."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\16226_EN-AU_0.8_4.wav"
+    ],
+    "prediction": "<s> Provide one sentence about the sum of two odd numbers being always even.</s>"
+  },
+  {
+    "id": "4912",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Data showing a decrease in carbon dioxide levels"
+      },
+      {
+        "from": "gpt",
+        "value": "Based on the data showing a decrease in carbon dioxide levels, it can be concluded that the emissions of carbon dioxide, which is a major contributor to global warming and climate change, have decreased over time."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\4912_EN-Default_0.6_1.wav"
+    ],
+    "prediction": "<s> What is the national day of catalonia twenty eighteen?</s>"
+  },
+  {
+    "id": "22313",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>2, 3, 5"
+      },
+      {
+        "from": "gpt",
+        "value": "10"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\22313_EN-US_1.2_4.wav"
+    ],
+    "prediction": "<s> Where does Dungo play?</s>"
+  },
+  {
+    "id": "379",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The Arctic ice cover has declined by 40% since 1978."
+      },
+      {
+        "from": "gpt",
+        "value": "How much has the Arctic ice cover declined since 1978?"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\379_EN-Default_1.0_7.wav"
+    ],
+    "prediction": "<s> The Arctic ice cover has declined by 40% since 1978.</s>"
+  },
+  {
+    "id": "23836",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Climate change is a serious issue and reducing emissions is of paramount importance. There are two ways we can reduce emissions: using existing technology or investing in renewable energy sources."
+      },
+      {
+        "from": "gpt",
+        "value": "Reducing emissions from climate change requires both the adoption of existing technology and investment in renewable energy sources."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\23836_EN-Default_1.0_8.wav"
+    ],
+    "prediction": "<s> Briefly describe visa requirements for Bahamian citizens.</s>"
+  },
+  {
+    "id": "38045",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>GPT models are challenging to evaluate because it is difficult to predict what they will produce. This is due to the lack of context and input that is used to generate output."
+      },
+      {
+        "from": "gpt",
+        "value": "GPT models are challenging to evaluate because it is difficult to predict their output without knowing the context or input that was used to create it."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\38045_EN-Default_0.6_8.wav"
+    ],
+    "prediction": "<s> When did Peter Sellers begin his radio career?</s>"
+  },
+  {
+    "id": "25843",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>She kicked the ball right through the window."
+      },
+      {
+        "from": "gpt",
+        "value": "She kicked right through the window the ball."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\25843_EN-BR_0.8_4.wav"
+    ],
+    "prediction": "<s> I'm sorry, but that sentence is incomplete and doesn't make sense. Could you please provide more context or clarify your question?</s>"
+  },
+  {
+    "id": "31435",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Eat you what"
+      },
+      {
+        "from": "gpt",
+        "value": "What do you eat?"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\31435_EN-US_1.2_7.wav"
+    ],
+    "prediction": "<s> Sorry, I cannot provide a meaningful response as the given sentence is incomplete and lacks context.</s>"
+  },
+  {
+    "id": "4851",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The top length is 12 cm, the bottom length is 8 cm, and the height is 7 cm."
+      },
+      {
+        "from": "gpt",
+        "value": "Area = 59 cm²"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\4851_EN-BR_0.6_5.wav"
+    ],
+    "prediction": "<s> What are the main language of the Sery language?</s>"
+  },
+  {
+    "id": "7416",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I wish I had seen a blue rose."
+      },
+      {
+        "from": "gpt",
+        "value": "Correct"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\7416_EN-US_0.6_3.wav"
+    ],
+    "prediction": "<s> There is no difference between Birmingham City WFC and Rucklefoot Football Club.</s>"
+  },
+  {
+    "id": "15167",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>I spoke with him yesterday."
+      },
+      {
+        "from": "gpt",
+        "value": "I will speak with him tomorrow."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\15167_EN-AU_0.6_2.wav"
+    ],
+    "prediction": "<s> I spoke with him yesterday.</s>"
+  },
+  {
+    "id": "26255",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>She is working on her PhD in math."
+      },
+      {
+        "from": "gpt",
+        "value": "The term for the person in this sentence is \"she\", as she is the subject."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\26255_EN-BR_1.2_7.wav"
+    ],
+    "prediction": "<s> I'm sorry, I'm not sure what you're asking. Could you please provide more context or clarify your question?</s>"
+  },
+  {
+    "id": "32044",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>[8, 3, 5, 2, 9, 4]"
+      },
+      {
+        "from": "gpt",
+        "value": "1. begin with the first pair of elements in the array and compare them. \n2. if the first element is greater than the second element, swap them.\n3. move on to the next pair of elements and repeat the above steps until you have reached the end of the array. \n4. go back to the beginning and repeat the entire process until the entire array is sorted."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\32044_EN-Default_1.2_1.wav"
+    ],
+    "prediction": "<s> Why did otoshi mino go to hawaii?</s>"
+  },
+  {
+    "id": "4817",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>He worked on the project for the whole weekend."
+      },
+      {
+        "from": "gpt",
+        "value": "Worked,  project, weekend."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\4817_EN-US_0.6_3.wav"
+    ],
+    "prediction": "<s> He worked on the project for the whole weekend.</s>"
+  },
+  {
+    "id": "535",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Fluid, Gear, Torch"
+      },
+      {
+        "from": "gpt",
+        "value": "FGT: Fluid, Gear, Torch."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\535_EN-US_0.8_8.wav"
+    ],
+    "prediction": "<s> Murder of Felicia Barnes</s>"
+  },
+  {
+    "id": "6142",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The old woman took a huge yawn."
+      },
+      {
+        "from": "gpt",
+        "value": "The old woman took a prodigious yawn."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\6142_EN-US_1.2_5.wav"
+    ],
+    "prediction": "<s> What is the husband's status in regards to mourning?</s>"
+  },
+  {
+    "id": "3506",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>87"
+      },
+      {
+        "from": "gpt",
+        "value": "Eighty-seven."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\3506_EN-Default_1.0_7.wav"
+    ],
+    "prediction": "<s> I'm sorry, I cannot provide a correct answer as the question is incomplete and lacks context. Could you please provide more information or clarify your question?</s>"
+  },
+  {
+    "id": "35518",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>John (20 years old), Mary (18 years old), Peter (22 years old)."
+      },
+      {
+        "from": "gpt",
+        "value": "The average age of John, Mary, and Peter is 20 years old."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\35518_EN-AU_0.6_7.wav"
+    ],
+    "prediction": "<s> What made the Baha Bug so popular?</s>"
+  },
+  {
+    "id": "48377",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The sky was saddened with clouds."
+      },
+      {
+        "from": "gpt",
+        "value": "The sky was saddened with globs."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\48377_EN-US_0.8_1.wav"
+    ],
+    "prediction": "<s> The sky was saddened with clouds.</s>"
+  },
+  {
+    "id": "693",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Don't take anything for granted"
+      },
+      {
+        "from": "gpt",
+        "value": "Appreciate the little things in life, as nothing is guaranteed."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\693_EN-BR_0.8_5.wav"
+    ],
+    "prediction": "<s> Provide one sentence about British hip hop.</s>"
+  },
+  {
+    "id": "994",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Cereal"
+      },
+      {
+        "from": "gpt",
+        "value": "I always make time for breakfast, it's the most important meal of the wheat!"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\994_EN-AU_1.0_6.wav"
+    ],
+    "prediction": "<s> I'm sorry, I cannot provide a response as the given text is incomplete and lacks context. Could you please provide more information or context?</s>"
+  },
+  {
+    "id": "29898",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The company's name is \"Design-Furniture\"."
+      },
+      {
+        "from": "gpt",
+        "value": "Design-Furniture's logo should feature the brand's name along with an icon that depicts furniture in an artistic and modern way. The icon should be minimalistic and simple, such as a chair or chaise lounge in a unique shape or silhouette, or a modern furniture item. Additionally, the logo could use two or three colors to create visual interest. The font should be matching and professional, with the company’s name in uppercase letters that stand out and make an impression."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\29898_EN-BR_1.0_8.wav"
+    ],
+    "prediction": "<s> Yes, that is correct. The company's name is \"Design-Furniture\".</s>"
+  },
+  {
+    "id": "21232",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The Godfather"
+      },
+      {
+        "from": "gpt",
+        "value": "Michael Corleone, Vito Corleone, Sonny Corleone, Tom Hagen"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\21232_EN-Default_1.0_4.wav"
+    ],
+    "prediction": "<s> Who is Natalia Antonov?</s>"
+  },
+  {
+    "id": "35034",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Prince"
+      },
+      {
+        "from": "gpt",
+        "value": "Prince (1958-2016) was a legendary singer, songwriter, and multi-instrumentalist known for his innovative, genre-defying music. His musical style blended elements of funk, pop, rock, soul, R&B, and jazz to create a wholly unique sound. Throughout his career he released 39 studio albums and sold over 80 million records worldwide. In 2004 he was inducted into the Rock & Roll Hall of Fame and won seven Grammy Awards, an Academy Award, and a Golden Globe Award. His iconic hits such as \"Purple Rain\" and \"When Doves Cry\" influenced generations of young music lovers. Prince's legacy lives on as a major influence in the music industry."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\35034_EN-Default_0.8_4.wav"
+    ],
+    "prediction": "<s> Tell me about the apprentice franchise.</s>"
+  },
+  {
+    "id": "43658",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Topic: The effects of high-fructose corn syrup on physical health."
+      },
+      {
+        "from": "gpt",
+        "value": "Research Study Outline:\nI. Introduction\nA. Background \nB. Problem Statement\nC. Research Objectives \nD. Research Questions\n\nII. Literature Review \nA. High-fructose Corn Syrup \nB. Health Effects of High-Fructose Corn Syrup\n\nIII. Research Methodology \nA. Population \nB. Sample \nC. Data Collection \nD. Data Analysis \n\nIV. Results and Discussion \nA. Results \nB. Discussion \n\nV. Conclusion \nA. Summary of Findings \nB. Recommendations \nC. Limitations \nD. Further Research"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\43658_EN-Default_0.6_6.wav"
+    ],
+    "prediction": "<s> High-fructose corn syrup has been linked to a number of negative health effects, including obesity, type 2 diabetes, and heart disease. It is also associated with an increased risk of metabolic syndrome, a condition that can lead to a range of health problems.</s>"
+  },
+  {
+    "id": "38543",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Stairway to Heaven by Led Zeppelin"
+      },
+      {
+        "from": "gpt",
+        "value": "Rock"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\38543_EN-AU_0.8_5.wav"
+    ],
+    "prediction": "<s> The audio is a recording of a song called Stairway to Heaven by Led Zeppelin.</s>"
+  },
+  {
+    "id": "23478",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Vertices of Triangle: (0,0), (4,0) and (1,3)"
+      },
+      {
+        "from": "gpt",
+        "value": "The area of the triangle can be calculated using the Heron's formula. The formula is A= sqrt(s(s-a)(s-b)(s-c)), where a,b,c are the sides of the triangle and s=(a+b+c)/2. \n\nFor the triangle given, a=3, b=4 and c=5, so s = (3+4+5)/2 = 6. Then, A = sqrt(6(6-3)(6-4)(6-5)) = sqrt(36*6) = 12 sq. units."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\23478_EN-US_1.0_5.wav"
+    ],
+    "prediction": "<s> The vertices of the triangle are (0,0), (4,0) and (1,3).</s>"
+  },
+  {
+    "id": "6158",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The article is about a new study which shows that warming of the planet is accelerating faster than the pace of the last 100 years."
+      },
+      {
+        "from": "gpt",
+        "value": "A new study indicates that global warming is happening at a faster rate than the past 100 years, leading to drastic changes in climate."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\6158_EN-BR_0.8_4.wav"
+    ],
+    "prediction": "<s> The article is about a new study which shows that warming of the planet is accelerating faster than the pace of the last 100 years.</s>"
+  },
+  {
+    "id": "24206",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Toy"
+      },
+      {
+        "from": "gpt",
+        "value": "1. doll\n2. game\n3. fun\n4. car\n5. robot"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\24206_EN-AU_1.2_8.wav"
+    ],
+    "prediction": "<s> I'm sorry, I cannot generate a response to this request as it is incomplete and lacks context. Please provide more information or a specific question.</s>"
+  },
+  {
+    "id": "48131",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>We have decided to delay the software launch until June 1st."
+      },
+      {
+        "from": "gpt",
+        "value": "Dear team,\n\nThis email is to inform you that we have made the decision to delay the software launch until June 1st. We apologize for this inconvenience, but we appreciate your understanding in making this difficult decision. \n\nThank you for your hard work so far and please stay tuned for any updates on the launch.\n\nBest regards,\n\nThe Management Team"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\48131_EN-US_1.2_1.wav"
+    ],
+    "prediction": "<s> We have decided to delay the software launch until June 1st.</s>"
+  },
+  {
+    "id": "15641",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Text: \"It was the best of times, it was the worst of times...\""
+      },
+      {
+        "from": "gpt",
+        "value": "Charles Dickens"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\15641_EN-US_0.8_7.wav"
+    ],
+    "prediction": "<s> This is a famous opening line from Charles Dickens' novel \"A Tale of Two Cities.\"</s>"
+  },
+  {
+    "id": "4994",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Article: \nRenewable fuels are a promising way to combat climate change and promote sustainable development. These fuels offer a green alternative to traditional non-renewable fuels such as oil, coal, and natural gas, as they are derived from sources that are naturally replenishing such as sunlight, water, and wind. Renewable fuels are considered carbon-neutral as they release the same amount of carbon dioxide that was absorbed by the plants from which they are produced. Renewable fuels offer a variety of benefits including improved energy security, job creation, and reduced air pollution and greenhouse gas emissions."
+      },
+      {
+        "from": "gpt",
+        "value": "Renewable fuels offer a green alternative to traditional, non-renewable fuels. By harnessing energy sources such as sunlight, water and wind, they are naturally replenishing and considered carbon-neutral. Benefits of renewable fuels include improved energy security, job creation, and reduced air pollution and greenhouse gas emissions. Renewable fuels can help combat climate change and promote sustainable development."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\4994_EN-BR_1.0_3.wav"
+    ],
+    "prediction": "<s> Renewable fuels are a promising way to combat climate change and promote sustainable development. These fuels offer a green alternative to traditional non-renewable fuels such as oil, coal, and natural gas, as they are derived from sources that are naturally replenishing such as sunlight, water, and wind. Renewable fuels are considered carbon-neutral as they release the same amount of carbon dioxide that was absorbed by the plants from which they are produced. Renewable fuels offer a variety of benefits including improved energy security, job creation, and reduced air pollution and greenhouse gas emissions.</s>"
+  },
+  {
+    "id": "9704",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>X = [2, 4, 6, 8, 10]\ny = [3, 5, 4, 7, 8]"
+      },
+      {
+        "from": "gpt",
+        "value": "The linear regression model calculated using the given data is of the form y = mx + c. where m = 0.9 and c = 0.7.\nThe equation of the linear regression model is:\ny = 0.9x + 0.7."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\9704_EN-AU_1.0_6.wav"
+    ],
+    "prediction": "<s> To briefly describe the sequence X = [2, 4, 6, 8, 10] and y = [3, 5, 4, 7, 8], we can say that X is a sequence of odd numbers that starts with 2 and ends with 10, while y is a sequence of even numbers that starts with 3 and ends with 8.</s>"
+  },
+  {
+    "id": "49627",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>The protagonist, John, decided not to attend the party."
+      },
+      {
+        "from": "gpt",
+        "value": "John decided not to attend the party because he was feeling overwhelmed with all his obligations and did not have the energy to socialize. He thought he would be better off taking some time for himself to rest and recharge."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\49627_EN-AU_1.0_5.wav"
+    ],
+    "prediction": "<s> John decided not to attend the party.</s>"
+  },
+  {
+    "id": "8374",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>Rita entered the dark room."
+      },
+      {
+        "from": "gpt",
+        "value": "Rita stepped cautiously into the shadowy room, her heart pounding in anticipation of what she might discover."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\8374_EN-BR_1.0_6.wav"
+    ],
+    "prediction": "<s> Rita entered the dark room.</s>"
+  },
+  {
+    "id": "15435",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "<audio>You are so dumb."
+      },
+      {
+        "from": "gpt",
+        "value": "1"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_instruction_data\\15435_EN-AU_0.8_2.wav"
+    ],
+    "prediction": "<s> I'm sorry, I'm not sure what you're asking. Could you please provide more context or clarify your question?</s>"
+  }
+]

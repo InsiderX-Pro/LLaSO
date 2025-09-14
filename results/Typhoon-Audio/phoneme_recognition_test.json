@@ -1,0 +1,1602 @@
+[
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000026.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given the speech sample, extract its phoneme sequence in IPA and provide only the phonetic representation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ɪn ɐ vɛɹi lɪɾəl waɪl dɪɹ maɪ moʊst æŋʃəs hoʊps wɪl biː ɹiːəlaɪzd ðə ɹiːəlᵻzeɪʃən ɪz soʊ nɪɹ ðɐɾɪt wʊd biː wɜːs ðɐn fɑːli tə sækɹᵻfaɪs ðoʊz hoʊps naʊ æz aɪ mʌst sækɹᵻfaɪs ðɛm ɪf aɪ wɜː tʊ oʊbeɪ juː ænd seɪ kʌm tə miː"
+      }
+    ],
+    "result": "[ɪˈmɔːt ʌz ərˈdɛn]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000054.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech and provide a phoneme breakdown in IPA. Maintain accuracy and return only the transcription.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "wɛɹ ɑːɹ juː sɪbɪl ænd wɪð huːm wʌt hɐzbɪn jʊɹ ɹᵻwɔːɹd fɔːɹ dᵻzɜːɾɪŋ miː hɐz jʊɹ skiːm ʌv laɪf bɪn ɐ waɪz wʌn hæv jʊɹ hoʊps pɹɑːspɚd"
+      }
+    ],
+    "result": "[ɪəʊz ˈsɪbəl ænd wɪð wʌm wɔt ðæt ɪz jər əwərd fɔr dɛspɪtɪŋ mɪ? hæz jər skem o' lɪf bɪn a waɪz wun haʃ jər hɔps prɒspru:ð]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000000.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the given audio and transcribe it into phonemes using IPA. No other text is needed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðɛɹ kʊd nɑːt biː ɐ bɛɾɚ taɪm fɔːɹ ɐlɛksɪs tə meɪk hɪz ɪŋkwɚɹi wɪðaʊt hævɪŋ tə pɹɪzɛnt hɪmsɛlf ɪn ɐ fɔːɹməl mænɚ tə hɪz oʊld ɐkweɪntəns mɪsəs heɪzɛltən ɪz æt skɑːɹbəɹoʊ dʌbəljuːtiːeɪtʃ tʃɪldɹəŋ ɡʌvɚnɛs ænd fɜːnmi də tʃeɪmbɚ"
+      }
+    ],
+    "result": "[ɪˈtʃuːz] there could not be a better time for alexis to make his inquiry without having to present himself in a formal manner to his old acquaintance missus hazelton is at sacrabury with children governess and femme de maison"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000049.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assist in linguistic annotation by transcribing this spoken content into an IPA phoneme sequence. Output phonemes only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "juː niːdənt θɪŋk ɐbaʊt ɪt juːv oʊnli tə teɪk ðə mʌni ænd baɪ jʊɹ ɡaʊn aɪl ɡoʊ ænd ɹaɪt maɪ lɛɾɚ hiː ɡoʊz tə ðə nɪɹɪst kɔfi haʊs ænd ɹaɪts tə sɪbɪl ðɛɹ ɪz ɐ tʌtʃ ʌv bɪtɚnəs ɪnðə kɑːmpəzɪʃən ðoʊ hɪz wuːndᵻd hɑːɹt ɪz fʊl ʌv lʌv fɔːɹ hɜːɹ ɔːl ðə taɪm"
+      }
+    ],
+    "result": "[ɪˈnət ʔænf ðæt æz yoo nēdnt think bout it y'v got tə tekeð ðe mŋi bai yor gum i'l go an rite my lɛtter he goes to thə neerest coffee house and writes to sivell there's a tace of bitterness in þe kǒmplest houze though his wonded hart is full of love for her all thim time]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000022.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this audio clip and extract the phonemes in IPA format. No other information should be included.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "loːɹ sɜː sɛz dʒeɪn dɪmənd wɛn ʃiː hɐz ɹᵻkʌvɚd ðə ʃɑːk ʌv sɚpɹaɪz aɪ θɔːt juː wʌz dɛd ænd ɡɔn dɪd juː dʒeɪn waɪ bɪkʌz aɪ fænsid ɪf juː wʌz ɪnðə lænd ʌvðə lɪvɪn juː wʊdəntəv tɜːnd ɐ dɛf ɪɹ tə ðæt ædvɚtaɪzmənt wʌt ædvɚtaɪzmənt"
+      }
+    ],
+    "result": "[ɪˈsɔːr] [ʌz ˈdɪmɪnd] [lɔːsər] [jʌn ˈdaɪd ən gɔn] [djuː jʌn wɪz ɪn lən də ˈlɪvɪŋ] [bɪz i faintid if yuz waz in lən də ˈlɪvɪŋ yud aint hauntid a deft ear to dat advertisement what advertisement]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000034.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Phonetic decoding task: transcribe the provided speech into IPA phonemes and return them without any additional output.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ʌv koːɹs ðeɪ wʊd biː soʊ æŋʃəs tə ɡɛt hɪm bæk ðæt ðeɪ wʊd ʃʊɹli sɛnd ðə spɑːɾᵻd dɑːɡ ɐweɪ ænd ðɛn hiː tɪməθi wʊd ɹᵻtɜːn tə ðə hɑːɹθ"
+      }
+    ],
+    "result": "Of course they would be so anxious to get him back that they would surely send the spotted dog away and then he timothy would return to the hearth"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000032.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are testing an ASR model. Extract the phonemes from this audio clip using IPA format. Return nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ʃiː toʊld miː tə kiːp ɪɾ ɐ siːkɹᵻt ænd aɪm nɑːt ɡoʊɪŋ tə tɛl noʊwʌn wɪðaʊt hɜː pɚmɪʃən sɛz dʒeɪn ɹɛzəluːtli ðɪs ɹᵻzɑːlv ðə hʌsbənd kɑːmbæts bʌt ɪn veɪn aɪl æsk hɜː liːv tə tɛl juː ænd wɛn aɪv ɡɑːt hɜː liːv aɪl tɛl juː ænsɚz dʒeɪn waɪld hɔːɹsᵻz wʊdənt muːv miː fɹʌm ðæt"
+      }
+    ],
+    "result": "[ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌt] [ɪˈʌ"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000039.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to train an AI for phonetic analysis. Extract and return only the IPA phonemes from the provided speech.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪ æsk fɹʌm juː peɪʃəns ænd tɹʌst aɪ ɡɪv juː maɪ deɪli pɹɛɹz maɪ naɪtli dɹiːmz ðɛɹ ɪz noʊ ɹɔŋ duːɪŋ ɪn maɪ skiːm ʌv laɪf aɪ ɪndʒɚ noʊwʌn liːst ʌv ɔːl duː aɪ ɹɔŋ juː aɪ oʊnli foːɹɡoʊ ðə hæpɪnəs ʌv ʃɛɹɪŋ jʊɹ laɪf fɚɹə lɪɾəl waɪl ɪn ɔːɹdɚ tə meɪk ɪt bɹaɪɾɚɹ æftɚwɚdz"
+      }
+    ],
+    "result": "[ɪ] [ʌ] [tərən] [mɔːd] [ʃoʊt] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] ["
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000006.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For phonetic analysis, transcribe the given speech into IPA phonemes, ensuring accuracy in phonetic representation. Provide no additional comments.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðə fɜːst naɪt ɪnðə fɔːɹɪst hiː kɹaʊtʃt bᵻniːθ ɐ klʌmp ʌv spɹuːsᵻz suːn ɐ hɛdʒhɑːɡ keɪm ɡɹʌntɪŋ ɐlɔŋ ænd wɛn tɪməθi spæt æt ðə hɛdʒhɑːɡ ɪt sɪmpli tɜːnd ɪts bæk əpɑːn hɪm maɪ jʊɹ ɐ sæd kaʊɚd aɪl tiːtʃ juː ɐ lɛsən"
+      }
+    ],
+    "result": "[ˌpɔːtɪŋ ʃuː] [ɪz ə ˈsɔːd kɔːd] [ɪz ə ˈsɔːd kɔːd] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld] [mɪ jər a sɔrt kɔld"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000014.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the phonemic transcription strictly follows IPA conventions. Extract and output only the IPA phonemes from the given speech.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "æftɚ hɪz lʌntʃ sɛlfɪʃ tɪməθi tʊk ɐ stɹoʊl ɑː ɪf hiː oʊnli hæd səspɛktᵻd ɛvɹɪθɪŋ wʊd suːn biː tʃeɪndʒd fɔːɹ hɪm ɪnðə kɪtʃən"
+      }
+    ],
+    "result": "[ɪˈʌt əf hɪz ʌn sɔprɪsɪd æv'rythɪŋ wʊld soʊn bɪ tʃæŋg fɔr hɪm in ðə kɪtchən]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000013.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Break the audio into its phonemic components and return only the IPA symbols representing the phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "hiː wʊd ɹæðɚ ɹiːd ðə lɛɾɚɹ ɪnðə stɹiːt ʌnwɑːtʃt ðɐn oʊpən ɪɾ ɪl mɪsɪz hæzəltənz hɔːl ʌndɚ ðə haʊsmeɪdz fɹɛndli aɪz jɛs ɪɾ ɪz fɹʌm sɪbəl ɪnðə hænd hiː noʊz soʊ wɛl"
+      }
+    ],
+    "result": "[ɪ] [ʌ] [ɔː] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000009.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the spoken words in this audio to phonemes and output them strictly using IPA notation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "meɪkɪŋ ɪts bɹaʊn wɪðɚd liːvz flæp ænd klæɾɚɹ ɪn ɐ loʊnli fæʃəŋ kwaɪt dɪfɹənt tə ðə kʌstəmɛɹi tʃɪɹi sɪŋɪŋ ʌvðə kɑːpɚ kɛɾəl əpɑːn ðə hɑːɹθ ɐ fæmɪli ʌv huːt aʊlz ɐwoʊk ɪn ðɛɹ nɛst ɪnðə sɪkɐmoːɹ"
+      }
+    ],
+    "result": "Making its brown withered leaves flap and clatter in a lonely fashion quite different to the customary cheery singing of the copper kettle upon the hearth a family of hut owls awoke in their nest in the sycamore"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000052.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Imagine you're training a speech recognition system. Extract the phonemes from this audio using IPA notation and return only the phoneme sequence.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðɛɹɑːɹ sʌm piːpəl huːz haʊzᵻz nɛvɚ tʃeɪndʒ piːpəl huːz hæbɪteɪʃənz ɑːɹ ɪn ɐ mænɚ sɪmbɑːlɪkəl ʌv ðɛɹ laɪvz ænd huːz iːvən tɛnɚɹ ʌv ɛɡzɪstəns nʌθɪŋ lɛs ðɐn ðɪ ʌndɚteɪkɚ kæn oʊvɚθɹoʊ"
+      }
+    ],
+    "result": "#HHH #m IY1 N t UH0 R S eR eL y T IH0 N t AY2 K AH0 N t H EH1 R EY2 T IH0 NG"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000027.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given the speech sample, extract its phoneme sequence in IPA and provide only the phonetic representation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "tɪməθi sɔː ðə ɡɹeɪ maʊs kwaɪt pleɪnli bʌt hiː nɛvɚ fɛlt hʌŋɡɹi ɪnʌf tə bɑːðɚ mʌtʃ ɐbaʊt tʃeɪsɪŋ maɪs ænd dʒʌst tə ʃoʊ hɪz suːpɹɛməsi tɪməθi mɪɹli oʊpənd wʌn aɪ ænd stɛɹd ɪnsələntli æt ðə maʊs"
+      }
+    ],
+    "result": "[ɪːr ʌm təmɪdʒ ɔːz ðə grɛɪs mɔs kˈæliːntliː bˈjuːt nɜr hɪz nʌf hɔngriːn ænfɪkliː tuː bɔrd mɔtiːl əbɔut mɔt biːndiː mɔt əbɔut ʃɔtiŋ mɪs]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000031.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Segment the following speech into phonemes and output only the transcription.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "maɪ hɑːɹt ɡɹuː vɛɹi hɛvi wɛn ðæt ædvɚtaɪzmənt ʌv maɪn ɹᵻmeɪnd ʌnænsɚd juː æsk miː ɪf maɪ skiːm ʌv laɪf hɐz ɹiːəlaɪzd wʌt aɪ kaʊntᵻd əpɑːn ɪf maɪ hoʊps hæv pɹɑːspɚd"
+      }
+    ],
+    "result": "My heart grew very heavy when that advertisement of mine remained unanswered you ask me if my scheme of life has realised what i counted upon if my hopes have prospered"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000000.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this audio clip and extract the phonemes in IPA format. No other information should be included.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "æftɚ hɪz næp tɪməθi leɪzili stɹɛtʃt fɜːst wʌŋ ɡɹeɪ vɛlvɪt fʊt ðɛn ɐnʌðɚ stɹoʊld ɪndələntli tə hɪz pleɪt tɜːnɪŋ oʊvɚ ðə fuːd kɛɹfəli sᵻlɛktɪŋ tʃɔɪs bɪts noʊzɪŋ aʊt ðæt wɪtʃ hiː skɔːɹnd əpɑːn ðə kliːn hɑːɹθ"
+      }
+    ],
+    "result": "[ɪˈtʃən ˌlɛɪzliː stɔːld fɜːst wɒn grɛɪvəl vɛlt fɪt tʰen ænʌθr̞ strɔːld indɪlɪntliː tuː 'lɔp tʰe plæɪt tuːɔf ðə flɔit kɛəliː sɛlɪŋtʃaiːptiːd ʤuːsbiːt nɔsɪŋhaut dat wɪt hɪz skon pʌn ðə klain hɔrt]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000002.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help build a pronunciation guide by converting this audio into IPA phonemes. Return only the phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "bʌt tɪməθi ɹᵻzɑːlvd tə pʌnɪʃ ðɛm ɔːl ænd ðə pæmpɚd fɛloʊ hæd æktʃuːəli teɪkən tə ðə wʊdz fɔːɹ hɪz hɑːɹt wʌz soʊ fɪld wɪð bɪɾɚ heɪt ænd dʒɛləsi ðæt hiː sɪmpli wʊd nɑːt ɹᵻtɜːn tə ðə kɪtʃən"
+      }
+    ],
+    "result": "ɪm ʌt ˈpɔmptɪd ə fælloʊ hæz æksˈtɔːn təð ðe 'hært wəz wʌfəld wið bɪtər lɛst en ʒæləsʃi, ænd ʌ wʉd nʌt rēturn tə ðe kitchən."
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000032.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given the speech sample, extract its phoneme sequence in IPA and provide only the phonetic representation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ʌɾɚɹɪŋ lɪɾəl mʌfəld ɹʌmblɪŋ ɡɹaʊlz diːp daʊn ɪnsaɪd wɪtʃ soʊ tɛɹᵻfaɪd ðə fuːlɪʃ lɪɾəl maʊs ðæt hiː ɪmiːdɪətli skʌɾəld ɔf bᵻhaɪnd ðə weɪnskoʊɾɪŋ skwiːkɪŋ æz hiː ɹæn"
+      }
+    ],
+    "result": "[ɪː ʌtərɪŋ lʊmz ʌlf ʌmblɪŋ rʌmpɪrs glauz dɪp doun ɪsdey zɔtɛfɪdð ðe fʌlʃi tlu mous mous ðæt hɪm ɪmmejtid skæflud of baʏndð ðe waʏnz kout skwekking æz hɪm ran]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000018.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Break down the speech into its phonemic components using IPA. Only return the phonemes, without punctuation or formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðɛn loʊnli tɪməθi paɪnɪŋ fɔːɹ sɪmpəθi vɛntʃɚd ɐ tɹaɪfəl kloʊsɚ tə ðə hɑːɹθ ænd ðə lɪɾəl dɑːɡ saɪdəld oʊvɚ tə miːt hɪm ænd æktʃuːəli bɪɡæn tə læp tɪməθiz ɹʌf fɜː tɛndɚli"
+      }
+    ],
+    "result": "/ɪ/ /tʃuːmɪ/ /pɪnɪŋ/ /fɔr/ /tʃɜl/ /ɹæt/ /ən/ /ðə lɪtl dɛɪsɪd əvri tə mɪt/ /ən/ /ɹeɪtl bɔgɪzd əvri tə mɪt/ /ən/ /ɹeɪtl bɔgɪzd əvri tə mɪt/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000043.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains spoken content. Convert it into an IPA transcription consisting only of phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪl ɡoʊ tʊ ɐ kɔfihaʊs ænd ɹaɪt tə hɜː ænd bɹɪŋ ðə lɛɾɚ tə juː tə poʊst ðɛɹz ðə sɪlk ɡaʊn fɔːɹ juː ɔːl ðə seɪm dʒeɪn tə ʃoʊ ðæt aɪ bɛɹ noʊ mælɪs oʊ sɜː kɹaɪz ðə haʊsmeɪd oʊvɚkʌm baɪ ðɪs dʒɛnɚɹɔsɪɾi aɪ kʊdənt θɪŋk"
+      }
+    ],
+    "result": "[ɪt ləd mē tū kəfəhəuhs hārt tu rait tu her tūp tū pōst] [ðer's sɪlk gawn gin fər yə əl þe seim jayne tu shaw dat i bēn nʌməlissh o sir cries thə hauzmayn ovərid by dis jənjəsi i cədn't think]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000029.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Break down the speech into its phonemic components using IPA. Only return the phonemes, without punctuation or formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "əpɑːn hɪz ɹᵻtɜːn hiː suːn sɔː ðə lɪɾəl spɑːɾᵻd dɑːɡ ɑːkjʊpaɪɪŋ hɪz pleɪs ænd iːɾɪŋ fɹʌm hɪz oʊn tɪn pleɪt fɪɹsli ɪndɪɡnənt æt ðə saɪt"
+      }
+    ],
+    "result": "/ɪːr/ /ʌz/ /ɔːt/ /ɪn/ /ɛm/ /ɪd/ /ɪnət/ /æl/ /ɪn/ /ɪnd/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/ /ɪn/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000064.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the phonetic sequence from the audio and return the IPA phonemes without any extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "hɜː hɑːɹt wʌz stɪl hɪz hiː tɛlz hɪmsɛlf wɛn ʃiː meɪd ðæt ɐpiːl tə hɪm wʌtɛvɚ hɜː skiːm ʌv laɪf wʌtɛvɚ ɡeɪm ʃiː wʌz pleɪɪŋ hɜː hɑːɹt wʌz tɹuː tə hɪm"
+      }
+    ],
+    "result": "/.rɪːd ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌz ʌ"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000003.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Phonetic decoding task: transcribe the provided speech into IPA phonemes and return them without any additional output.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "soʊ tɪməθi wɛnt ɐweɪ veɪnli ðeɪ sɜːtʃt fɔːɹ hɪm iːvən sɛɾɪŋ aʊt hɪz tɪn pleɪt iːtʃ deɪ fɪld wɪð tʃɪkɪn boʊnz tə tɛmpt hɪm bæk"
+      }
+    ],
+    "result": "So timothy went away vainly they searched for him even setting out his tin plate each day filled with chicken bones to tempt him back"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000023.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not return any words or metadata—only extract the phoneme sequence from the provided audio and return them in IPA.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðɛɹ ɪz noʊ dɪfɪkʌlti ɐbaʊt ɐdmɪtəns ðɪs taɪm dʒeɪn daɪəmənd oʊpənz ðə doːɹ ɹᵻsiːvz ðə lɛɾɚ ænd pɹɑːmɪsᵻz tə poʊst ɪt ðæt iːvnɪŋ ɪɾ ɪz tuː leɪt fɔːɹ ɛni ʌvðə pɹəvɪnʃəl meɪlz bʌt ɪɾ ɪz sʌmθɪŋ təbi əʃʊɹd ðæt ðɛɹ ʃæl biː noʊ niːdləs dᵻleɪ"
+      }
+    ],
+    "result": "[ɪˈmɔtʃ] [dʌmɪnd] [ɔpən] [ðiːz] [ɹɛft] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [ɪz] [�"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000020.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the phonemic transcription strictly follows IPA conventions. Extract and output only the IPA phonemes from the given speech.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "dɪɹɪst dɪɹɪst dɪɹɪst ðɛɹ ɪz lʌvz fuːlɪʃ ɹæptʃɚɹ ɪn ɐ ɡʌʃ ʌv pɛn ænd ɪŋk θæŋk ɡɑːd fɔːɹ jʊɹ dɪɹ lɛɾɚ ðoʊ ɪɾ ɪz nɑːt ɔːltəɡɛðɚ kaɪnd stɪl ɪt pɹɑːmɪsᵻz fɚɡɪvnəs fɔːɹ maɪ ɹɑːŋduːɪŋ ænd ðæt ɪz mʌtʃ θæŋk ɡɑːd fɚðə nɑːlɪdʒ ðæt juː ɑːɹ lɪvɪŋ ænd wɛl"
+      }
+    ],
+    "result": "[ɪərɪsɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃtɪʃ"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000029.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Break down the speech into its phonemic components using IPA. Only return the phonemes, without punctuation or formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪ kæn seɪ jɛs tə boʊθ ðoʊz kwɛstʃənz aɪ æm ɔnðə ɹoʊd tə haɪ fɔːɹtʃʊn fɔːɹtʃʊn wɪtʃ juː ænd aɪ wɪl ʃɛɹ ɪn hæpi deɪz tə kʌm ɪf juː ɑːɹ æz tɹuː tə miː æz aɪ æm tə juː ðoʊ siːmɪŋ ɛstɹeɪndʒd"
+      }
+    ],
+    "result": "/ɪː/ /kʌn təz ˈwɔːt/ /hɪˈfjuːn/ /hɪˈfjuːn/ /ɪz ær truː tu mɪ æm tu mɪ θo zeeming estræd/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000011.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the speech in this audio file into an IPA phonemic sequence. Return phonemes only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ænd ðɛn hiː ædz ɐlaʊd ɪf wʌn ʌv juː sɪmpəltənz wɪl teɪk ðə tɹʌbəl tə kɔːl dʒeɪn dɪmənd ʃiː wɪl biː eɪbəl tə tɛl juː ðæt aɪm ɐ dʒɛntəlmən ænd ðæt aɪ hɐvnɑːt kʌm æftɚ ðə tiːspuːnz ɔːɹ ðɪ ʌmbɹɛləz aɪl weɪt ɪnðə stɹiːt fɔːɹ hɜː juː kæn tɛl hɜː ðæɾə dʒɛntəlmən fɹʌm ɔːstɹeɪliə wɔnts ɐ fjuː wɜːdz wɪð hɜː"
+      }
+    ],
+    "result": "[ɪː ən ðə sɪmptənz]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the speech in this audio file into an IPA phonemic sequence. Return phonemes only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "sʌtʃ ɐ mɐdʒɛstɪk ɛɹ hæd tɪməθi æz hiː sæt ðɛɹ ɪn hɪz oʊn pleɪs wɪtʃ nʌn pɹɪzuːmd tə juːzɜːp hɪz sɪlvɚɹi ɡɹeɪ pɔːz tʌkt niːtli bᵻniːθ hɪz wɔːɹm fɜːɹi bɹɛst hɪz bɪɡ jɛloʊ aɪz dʒʌst mɪɹ slɪts ʌv sliːpinəs"
+      }
+    ],
+    "result": "[ɪ] [tʃuː] [məʊzɪ] [ɔː] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000033.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains spoken content. Convert it into an IPA transcription consisting only of phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "tɛlᵻɡɹæf tə hɜː ðɛn dᵻɹɛktli kɹaɪz ɐlɛksɪs teɪkɪŋ aʊt ɐ hændfəl ʌv sɪlvɚ kʌm wɪð miː tə ðə nɪɹɪst tɛlᵻɡɹæf ɑːfɪs ænd aɪl ɹaɪt ðə mɛsɪdʒ fɔːɹ juː juː kæn pʊt ɪnðɪ ɐdɹɛs joːɹsɛlf"
+      }
+    ],
+    "result": "[ɪˈtɛlɪvɪtɪŋ tu ðeɪr dʌn ɹiːks tɔkɪŋ oʊt a hændful ɒ silvə kʌm tu mi to the nɛɪst tɛlvɪf ɔffis bux an i wɪll rait da mesidyj fɔrju y'u kan put in da adresj ju sɔlf]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000061.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Process the audio and generate the phoneme sequence in IPA. No text, just phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "hiː θɪŋks ɐbaʊt ðæt ædvɚtaɪzmənt æz hiː ɡoʊz bæk tə ðə bɹɑːmptən ɹoʊd sɪbɪl mʌstɐv kɛɹd fɔːɹ hɪm ɐ lɪɾəl dᵻspaɪt hɜː hɑːɹtləs ɐbændənmənt ʌv hɪm ɔːɹ ʃiː wʊd nɑːɾɐv fɛlt ðɪs æŋzaɪəɾi təbi ɪnfɔːɹmd ʌv hɪz feɪt"
+      }
+    ],
+    "result": "/.pɪəʊ/.tʃɪbɔːl/.wɪz/.mɪs/.hɜr/.wɪth/.ɔn/.ɛvər/.ɪf/.hɜr/.æks/.ɪz/.ɔr/.wʊd/.ɪv/.ɪn/.ɪts/.æks/.ɪz/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000063.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Segment the following speech into phonemes and output only the transcription.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ʃiː wʊd nɑːɾɐv kəmɪɾᵻd hɜːsɛlf baɪ ɐn ækt laɪkli tʊ ɛntæŋɡəl hɜː feɪt wɪð hɪz wʌns hævɪŋ ɹᵻliːst hɜːsɛlf fɹʌm hɪm ʃiː wʊdhɐv hɛld hɜːsɛlf ɔːltəɡɛðɚɹ ɐluːf ʃiː wʊdhɐv stɹɛtʃt noʊ fɹɛndli hænd əkɹɑːs ðə ɡʌlf ɪf ʃiː hæd nɑːt lʌvd hɪm"
+      }
+    ],
+    "result": "She would not have committed herself by an act likely to entangle her feet with his once having released herself from him she would have held herself altogether aloof she would have stretched no friendly hand across the gulf if she had not loved him"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000044.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this audio clip and extract the phonemes in IPA format. No other information should be included.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ɐ fʊtmən huːz vɪzɪdʒ ɪz hæpɪli ʌnfəmɪlɪɹ tʊ ɐlɛksɪs ɛɡzɪbɪt ðɛmsɛlvz kʊk ænd fʊtmən ɑːɹ ɛŋɡeɪdʒd ɪn lʊkɪŋ aʊɾəv ðə wɪndoʊ ðɛɹ ɪz nɑːt mʌtʃ fɔːɹ ðɛm tə siː ɪn loʊðɚ stɹiːt ɔn ðɪs ɔːɡəst iːvnɪŋ"
+      }
+    ],
+    "result": "/.pʌtən/ /wɪz ɪs hæps nəməlf ʌnknoʊtɪk ælɪks/.ekspozɪs ðemselves kʌk and fʌtmen ɛr ʤæŋd i lɔking aɪt þe wɪndəw 'ðer's no mɔst fɔr þem tə siː in lɔftər strit on ði august efneng"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000045.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the phonetic sequence from the audio and return the IPA phonemes without any extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪʃɐl kɔːl fɚðɪ ænsɚ ðə deɪ æftɚ təmɑːɹoʊ ɪnðɪ iːvnɪŋ juː ɔːt tə hæv ɪt baɪ ðæt taɪm sɛz ɐlɛksɪs ænd ɪt siːmz tə hɪm ðætðɪ ɪntɚvəl wɪl biː ɐn ʌnɛndʊɹɹəbəl speɪs ʌv taɪm"
+      }
+    ],
+    "result": "/.pɪəz/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000001.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the spoken words in this audio to phonemes and output them strictly using IPA notation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "fɔːɹ tɪməθi wʌzɐ spɔɪld kæt ænd hiː ɐlaʊd noʊwʌn tʊ ɪntəfɪɹ ɛvɹɪbɑːdi weɪɾᵻd əpɑːn hɪm muːvɪŋ ðɛɹ tʃɛɹz iːvən fɔːɹ hiː wʌz mɑːnɚk ʌvðə hɑːɹθ"
+      }
+    ],
+    "result": "For timothy was a spoiled cat and he allowed no one to interfere everybody waited upon him moving their chairs even for he was monarch of the hearth"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000048.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the phonetic sequence from the audio and return the IPA phonemes without any extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪ hæv kəntɹaɪvd tə lɪv sʌmhaʊ ðoʊ ɪndɪɡneɪʃən ɐɡɛnst jʊɹ kɹuːəlti hɐz læsɚɹeɪɾᵻd maɪ hɑːɹt ænd lʌv fɚðə waɪf huː dᵻzɜːɾᵻd miː hɐz pɹuːvd ɐn ɪŋkjʊɹɹəbəl dɪziːz"
+      }
+    ],
+    "result": "/ˌkʌndrɪd əv ˈlaiv/ /ˈɔːzən/ /ˈɛm/ /ˌkʌndrɪd əv ˈlaiv/ /ˈɔːzən/ /ˈɛm/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000012.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains spoken content. Convert it into an IPA transcription consisting only of phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "soʊ ɔf ɐɡɛŋ kɹɛpt mɪzɹəbəl tɪməθi tə ðə ɡɹeɪt koʊld loʊnli bɑːɹn hiː slɛpt əpɑːn ðə heɪ wɛɹ ðə koʊld snoʊ sɪftᵻd daʊn əpɑːn hɪm ænd ðə wɪnd waɪnd ænd haʊld oʊvɚ hɪz hɛd ɔːl naɪt"
+      }
+    ],
+    "result": "So off again crept miserable timothy to the great cold lonely barn he slept upon the hay where the cold snow sifted down upon him and the wind whined and howled over his head all night"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000021.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the given audio and transcribe it into phonemes using IPA. No other text is needed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "wɛɹəpɑːn tɪməθi tə ʃoʊ ðæt hiː boːɹ noʊ fɜːðɚɹ ɪl wɪl saɪdəld ænd ɹʌbd hɪmsɛlf dʒɛntli ɐɡɛnst ðə tæn ænd waɪt spɑːɾᵻd koʊt ʌvðə dʒɛntəl lɪɾəl dɑːɡ"
+      }
+    ],
+    "result": "Whereupon timothy to show that he bore no further ill will siddled and rubbed himself gently against the tan white spotted coat of the gentle little dog"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000028.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the speech into a phonetic transcription using IPA and ensure accuracy. Return phonemes only, with no extra formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪ lɔŋ tə siː juː maɪ hɑːɹt eɪkz maɪ soʊl sɪkənz æt ðə θɔːt ðæt wiː mʌst weɪt fɚðɪ aʊɚɹ ʌv ɹiːjuːniən bʌt aɪ æm nɑːt soʊ wiːk ɐ sleɪv tʊ ɪmpʌls æz tʊ ɐbændən maɪ pɹaɪz dʒʌst æzɪtɪz ɔːlmoʊst wʌn wiː mʌst weɪt dɪɹɪst"
+      }
+    ],
+    "result": "I long to see you my heart aches my soul sickens at the thought that we must wait for the hour of reunion but i am not so weak a slave to impulse as to abandon my prize just as it is almost won we must wait dearest"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000012.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the phonemes in the given speech recording and list them in IPA format only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "dʒeɪn dɪmənd ɐpɪɹz pɹɑːmptli ænd dᵻvaɪnɪŋ hɪz ɪmpeɪʃəns ɡɪvz hɪm ðɪ ɛkspɛktᵻd lɛɾɚ wɪðaʊt ɐ wɜːd hiː ɹɪŋz hɜː hænd ɪn spiːtʃləs ɡɹæɾɪtuːd æz ɪf ðə lɛɾɚ wɜːɹ ɐ buːn fɹʌm hɜː bɪdz hɜːɹ ɐ bɹiːf ɡʊdnaɪt ænd ɡoʊz ɐweɪ wɪð hɪz pɹaɪz"
+      }
+    ],
+    "result": "The given speech recording contains the following phonemes in IPA format: /m/ /ɪ/ /dʌm/ /ɔːn/ /ɪz/ /ɪv/ /ɛnt/ /ɪs/ /ɹɪŋ/ /hər/ /ɪz/ /ɡraɪtjuːd/ /ɪf/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪz/ /ɪ"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000007.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not return any words or metadata—only extract the phoneme sequence from the provided audio and return them in IPA.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðæt naɪt feɪnt wɪð hʌŋɡɚ tɪməθi klaɪmd ɐ tɔːl sɪkɐmoːɹ tɹiː ænd tʌkɪŋ hɪz pɔːz bᵻniːθ hɪm hiː tɹaɪd tə sliːp bʌt hiː kɛpt lɔŋɪŋ fɚðə koʊzi piːsfəl hɑːɹθ wɪtʃ hiː hæd lɛft æz tʃɪli wɪndz swɛpt θɹuː ðə wʊdz ænd moʊnd θɹuː ðə sɪkɐmoːɹ"
+      }
+    ],
+    "result": "[ɪr ˈʌŋ əv ʌŋkəm ˈtʃɔːnɪ ˈdʒɛm ˈbɔːz ˈtʃɔːnɪ ˈtʃɔːp ˈbɔːz ˈbɛnz ˈbɔːz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz ˈbɛnz "
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000004.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Segment the following speech into phonemes and output only the transcription.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪl tɛl juː wʌt jʌŋ mæn sɛz ðə kʊk wɪð ɐspɛɹɪɾi maɪ mɪsəs ɪz aʊɾəv taʊn ænd wiː doʊnt wɔnt noʊ ɛɹi sniːks loʊfɪŋ ɐbaʊt waɪl ʃiːz ɐweɪ ænd ɪɾ eɪnt noʊ ɡʊd fɔːɹ ðɛm tə loʊf ædz ðə sændi hɛɹd jʌŋ mæn huː həznɑːt ʃeɪvd fɚðə læst deɪ ɔːɹ tuː"
+      }
+    ],
+    "result": "I'll tell you what young man says the cook with avarice my missus is out of town and we don't want no airy skeezes loafin' about while she's away and it ain't no good for them to loaf adds the sandy haired young man who has not shaved for the last day or two"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000020.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not return any words or metadata—only extract the phoneme sequence from the provided audio and return them in IPA.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "fɔːɹ deɪz tɪməθi steɪd ðɛɹ hiː mænɪdʒd tə kætʃ ɐ fjuː stɹeɪ maɪs æftɚɹ ɐ lɔŋ tʃeɪs bʌt suːn hɪz saɪdz ɡɹuː θɪn hɪz sɔft ɡɹeɪ fɜː ʃæbi ænd koːɹs ænd dɑːɹk waɪl hɪz aɪz wɜː fɜːɾɪv ænd sʌlən"
+      }
+    ],
+    "result": "[ɪr ʌz təmɪð ˈsteɪd ðɛr hɪz ɡroʊn hɪs ˈsof ɡrey fɜr ʃæbɪ ənd kɔs ənd dark wɪl hɪz ɪz fɔrtiv ənd sɔln]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000005.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the phonemes from the given speech and return them using IPA notation. No extra output.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "naʊ ðə wʊdz wɛɹ tɪməθi wɔndɚd ɐloʊn wɜː waɪld ænd loʊnli ænd ɪn ðɛm wɜː fɪɹs bɑːb kæts ʌɡli lɪŋks wɪð ʃɑːɹp tʌftᵻd ɪɹz huː snɑːɹld ænd fɔːt æt naɪt ænd mɛni ʌðɚz huːm tɪməθi hæd nɛvɚ mɛt"
+      }
+    ],
+    "result": "[ɪˈmɔːt] [wɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔː"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000022.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a dataset collection task for linguistic research. Extract and return only the phonemes from the speech audio in IPA format.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "æz hiː wɑːʃt ænd skɹʌbd hɪz nᵻɡlɛktᵻd fɜː koʊt meɪkɪŋ ɐ kəmpliːt ænd fɹɛʃ tɔɪlɪt suːɾəbəl fɚðə kɪtʃən ðə nɛkst mɔːɹnɪŋ wɛn ðə fɑːɹmɚz waɪf keɪm ɪntʊ ðə kɪtʃən sʌtʃ ɐ saɪt mɛt hɜːɹ aɪz"
+      }
+    ],
+    "result": "ɪ ʌ l k ə f ɔː t k oʊt m e i k n p l e n t a n d s kr ᵻ b ə d n ɪ z t o r n i t ə l s u ð ə t f ŏr ɪ k k i n n ɛ k s t u x m o r n i ng w i t h t h e f a m i l y's w i f e k a m i n t o t h e k i t c h e n s u c h a s i s i t t e d m e z z e r'e z z e s"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000009.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the phonemic transcription strictly follows IPA conventions. Extract and output only the IPA phonemes from the given speech.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ænd huːz tʃɪn ɪz ɐdɔːɹnd wɪð ɐ tɔːni stʌbəl laɪk ɐ nuːli kʌt wiːt fiːld ðə pleɪt hɐz ɔːl bɪn sɛnt tə ðə bæŋk ɐlɛksɪs fɛɹli bɜːsts aʊt læfɪŋ ɪz ðɛɹ soʊ mʌtʃ dɪfɹəns bᵻtwiːn ɐ tʃɪmni pɑːt hæt ænd ɐ waɪd ɐweɪk bᵻtwiːn puːl ænd ɐ kəloʊnɪəl teɪlɚ hiː sɛz tə hɪmsɛlf"
+      }
+    ],
+    "result": "[ɪˈmɔt] [ʌz̞fərɪːs ˈfɛərliː bʏrst oʊt laŋkɪŋ ɪz̞ ðeɪz̞ mɔst dɪffəns ˈtwiːn a ˈtʃimpano pæt hæt a waid awkein ˈtwiːn po͡l an a kɒləniːl teɪlər hez̞ tə sɔm ˈwɪd]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000006.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this audio clip and extract the phonemes in IPA format. No other information should be included.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "hiː bɪldz ɐ dᵻlaɪtfəl kæsəl ɪnðɪ ɛɹ ænd lʊks soʊ wɛl fɛd əpɑːn ðɪs njuːtɹɪmənt ʌv hoʊp ðæt sæmjuːl plaʊdən skɹuːtɪnaɪzᵻz hɪm wɪð ɐ sɪɹioʊ kɑːmɪk ɛkspɹɛʃən wɛn hiː ɹᵻtɜːnz tə ðɪ aʊɾɚɹ ɑːfɪs æftɚ hɪz ɪntɚvjuː wɪð mɪstɚ kiːl"
+      }
+    ],
+    "result": "[ɪˈʌt ən ˈkʌl]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000058.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the given audio and transcribe it into phonemes using IPA. No other text is needed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "bʌt ɪɾ ɪz ɐ ɹᵻliːf təbi əbʌv ɡɹaʊnd fɚɹə lɪɾəl waɪl æftɚ ðə twaɪlaɪt ʌv ðoʊz ʌndɚɡɹaʊnd dʌndʒənz tʊ wɪtʃ ðə lʌndən dəmɛstɪk ɪz kənfaɪnd ɐlɛksɪs maʊnts ðə stɛps ænd nɑːks ænd ɹɪŋz ʌndɚ ðə kɑːm sɜːveɪ ʌv ðoʊz tuː pɛɹ ʌv aɪz"
+      }
+    ],
+    "result": "[ɪˈwɔːz əmˈaʊt ənˌɡraʃən]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000031.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assist in linguistic annotation by transcribing this spoken content into an IPA phoneme sequence. Output phonemes only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "stɪl hiː dɪdnɑːt ɔfɚ tə faɪt ɔːɹ ɡɪv bæk tə tɪməθi hɪz pleɪs ɔnðə hɑːɹθ ænd æktʃuːəli eɪt ʌp ɛvɹɪθɪŋ ɔnðə tɪn pleɪt waɪl tɪməθi hædtə stænd ænd lʊk ɔn wɪð diːp æŋɡɹi ɡɹaʊlz ʌv dʒɛləs ɹeɪdʒ"
+      }
+    ],
+    "result": "[ɪt sɔːl ðe dʌd nəv ə fɔːt tə ʤɪt təm miŋ təz hɔːs ænd acˈækt id apˈʌt ənˈɪtɪŋ ənˈɔːt aɪz et̯ əpˈstɔːl wɪð ʃɛrliŋ gwɔːlz əv ʒealriŋ ræʒ]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000028.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For phonetic analysis, transcribe the given speech into IPA phonemes, ensuring accuracy in phonetic representation. Provide no additional comments.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "soʊ wɪð bɹaɪt biːd laɪk aɪz tɹɛmblɪŋ noʊz ænd wɪskɚz ðə maʊs teɪkɪŋ kɜːɹɪdʒ dʒʌst stɛɹd æt tɪməθi mɑːnɚk ʌvðə kɪtʃən"
+      }
+    ],
+    "result": "[ɪː ʌɪt bɛɪd lɪk ai tʃeŋtl nʌmz wɪs trɔlly nɪs kɪsərs ðə mɔs tæktɪŋ kɔræʤ dʒestɔd at tɪməθi mɔnɔk ɔf ðə kɪtchən]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000024.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For phonetic analysis, transcribe the given speech into IPA phonemes, ensuring accuracy in phonetic representation. Provide no additional comments.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðɪ ædvɚtaɪzmənt æz mɪs fɔːnθɔɪpoʊ aɪ bɛɡ pɑːɹdən mɪsɪz ɪt nɛvɚ maɪnd ðə neɪm dʒiːɛl tɛl miː ɔːl ɐbaʊt ðɪ ædvɚtaɪzmənt dʒeɪn ɛkspleɪnz hɜːsɛlf ɪn ɐ ɹaʊndɐbaʊt weɪ bʌt ɪn duː koːɹs ɐlɛksɪs noʊz ɔːl ðæt dʒeɪn noʊz ɛksɛpt hɪz waɪfz pɹɛzənt ɐboʊd ðætðə ɡɜːl ɹᵻfjuːzᵻz tə tɛl iːvən tə hɪm"
+      }
+    ],
+    "result": "[ɪˈʌt əv mʊs fɔnθɔrth iː bæd beg pardons mizəz naim dʒer tell me all abaut da advertisement jayne eksplains hərsel in a rounabout way but in due course aksliks nos al dat jane nos except his wifes bouden dat da gerl refuzes tu tel en tu him]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000017.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Break down the speech into its phonemic components using IPA. Only return the phonemes, without punctuation or formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "kʊk ænd fʊtmən wɪspɚ daʊtfəli fɔːɹ hæf ɐ mɪnɪt ænd ðɛn ʃʌt ðə doːɹ əpɑːn mɪstɚ sɛkɹɛtən liːvɪŋ hɪm tʊ ɪnfɜː ðɛɹ ækwɪɛsəns wɪð hɪz ɹᵻkwɛst"
+      }
+    ],
+    "result": "/ɪ/ /kʌm/ /fəmɪn/ /doubtful/ /for a half minute/ /and then shut the door upon mister seckington/ /leaving him to infer their acquiescence with his request/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000053.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Break down the speech into its phonemic components using IPA. Only return the phonemes, without punctuation or formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪ hɐvnɑːt stɑːɹvd ɔːɹ bɪn dɹɪvən tə hæŋ maɪsɛlf ænd aɪ hæv kʌm bæk fɹʌmðɪ ʌðɚ saɪd ʌvðə wɜːld bɪkʌz aɪ hæv ɐ fuːlɪʃ hæŋkɚɹɪŋ tə noʊ ðə feɪt ʌvðə wʊmən huː swoːɹ æt ðɪ ɔltɚ tə lʌv ɑːnɚ ænd oʊbeɪ miː ænd kɛpt hɜː vaʊ baɪ ɐbændənɪŋ miː ɪn maɪ dɑːɹkɪst aʊɚɹ ʌv niːd"
+      }
+    ],
+    "result": "/ɪː/ /ʌt/ /ər/ /ɔːz/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪm/ /ɪŋ/ /ɪn/ /ɪ"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000046.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are working on automatic speech transcription. Convert the spoken content in the audio to its phonetic representation using IPA. Only return phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðɛɹ juː siː ɛkskleɪmz dʒeɪn tɹaɪʌmfənt ðɛɹz nɑːɾə wɜːd ɐbaʊt wɔntɪŋ tə siː juː ʃiː oʊnli wɔnts tə hɪɹ fɹʌm juː hɑːɹtləs wʊmən mʌɾɚz ɐlɛksɪs jɛt aɪm ɡlæd ʃiː wʌz dʒʌst ɐ lɪɾəl æŋʃəs tə noʊ maɪ feɪt"
+      }
+    ],
+    "result": "[ɪːr] [ʌz] [ɔːt] [ɪn] [ɪm] [ɪt] [ɪs] [hæərθləs] [məˈuːz] [yit's] [glæd] [ɪz] [jus] [wɔz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juːs] [ɪz] [ɪn] [ɪm] [ɪt] [juː"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000008.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the phonetic sequence from the audio and return the IPA phonemes without any extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "tʃɪɹd baɪ ðɪs əʃʊɹɹəns ɐlɛksɪs θɪŋks wʌt ɐ naɪs θɪŋ ɪt wɪl biː fɔːɹ hɪm tə ɡoʊ bæk tə sɪdni wɪð hɪz waɪf ænd tʃaɪld fɔːɹ hɪz kəmpæniənz ɪf sɪbɪl wɪl bʌt ʃoʊ hɜːsɛlf tɹuː mɛɾəl æftɚɹ ɔːl ænd ɪf hɪz tʃaɪld laɪvz tuː fɔːɹmɪdəbəl ɪfs"
+      }
+    ],
+    "result": "[ɪːr] [ʌz] [ɔːz] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪːd] [ɪː"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000062.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Segment the following speech into phonemes and output only the transcription.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðə sændi hɛɹd fʊtmən ɪz nɑːt ɪmpɹɛst baɪ mɪstɚ sɛkɹɛtənz ɐpɪɹəns ɐlɛksɪs ɪz kɛɹləsli dɹɛst ɪŋ ɡɑːɹmənts əvə kəloʊnɪəl kʌt ɐ vɛlvɪtiːn ʃuːɾɪŋ dʒækɪt ɐ sɔft fɛlt hæt kloʊðz tʃoʊzən fɔːɹ iːz ænd hɑːɹd wɛɹ ɹæðɚ ðɐn fɔːɹ fæʃən"
+      }
+    ],
+    "result": "The sandy haired footman is not impressed by mister sackerton's appearance alexis is carelessly dressed in garments of a colonial cut a velvet shooting jacket a soft felt hat clothes chosen for ease and hardware rather than for fashion"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000019.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the speech into a phonetic transcription using IPA and ensure accuracy. Return phonemes only, with no extra formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "hiː peɪsᵻz ðə peɪvmənt fɔːɹ faɪv mɪnɪts ɔːɹ soʊ ænd ðɛn ðə ɡʊd neɪtʃɚd dʒeɪn dɪmənd kʌmz daʊn ðə stɛps waɪl kʊk ænd fʊtmən stænd ɪnðə doːɹweɪ tə wɑːtʃ ðə pɹəsiːdɪŋz"
+      }
+    ],
+    "result": "/ˌpɔsɪʃ/ /ɛm ˈfɔn ər ˈaʊz/ /ðən ðə ɡuð nɪtʃ ˈdɪməndəm dounz ðə stepts/ /wɪl kʌk ən fəmstænd stænd in ðə ˈdɔrwiŋ tørn wɪl ðə prəˈsiːʃənz/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000057.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given the speech sample, extract its phoneme sequence in IPA and provide only the phonetic representation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ænd æɾ ɛɡzæktli ðə seɪm piəɹɪəd hɐz ɹᵻtɜːnd æftɚ ðə seɪm ɪntɚvəl hɐz ɡɪvən hɜː ɡɹeɪt pɑːɹɾiz æt ðə seɪm siːzənz ænd hɐz lɪvd ɐ mɛθɑːdɪkəl ænd pɹɑːspɚɹəs ɛɡzɪstəns wɪð sæɾɪsfækʃən tə hɜːsɛlf ænd hɜː neɪbɚz ænd wɪð kənsɪdɚɹəbəl pɹɑːfɪt tə ðə sɚɹaʊndɪŋ ʃɑːpkiːpɚz"
+      }
+    ],
+    "result": "[ɪˈmɛt] [ɔːz] [ɪˈdʒɪn] [ɪˈkʌz] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [ɪˈmɔːt] [�"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000016.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to train an AI for phonetic analysis. Extract and return only the IPA phonemes from the provided speech.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "huːz kjʊɹɹɪɔsɪɾi ɪz baɪ ðɪs taɪm ɹeɪzd tə ðə haɪɪst pɪtʃ aɪ ʃʊdənt wʌndɚ ɪf hiː wʌz sʌm ɚɹɪstəkɹæɾɪk hæf bɹʌðɚɹ ʌv hɜːz sɛz kʊk huː ɪz ɐ dɪvoʊɾᵻd stuːdənt ʌv ɹɛnəldzᵻz mɪstɚɹiz ʌv lʌndən laɪf ɪz fʊl ʌv fæmɪli siːkɹᵻts ænd sʌtʃ laɪk"
+      }
+    ],
+    "result": "[ɪ] [ʌ] [tʃ] [ə] [r] [ɔː] [k] [uː] [l] [ɪ] [d] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] [ɪ] [ɹ] ["
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000051.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Segment the following speech into phonemes and output only the transcription.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ɹaɪt ænd ænsɚɹ ɔːl ðiːz kwɛstʃənz fɹiːli ænd fʊli ɪf juː ɹɛkəɡnaɪz ðə taɪ wɪtʃ ɪnðə saɪt ʌv ɡɑːd ænd mæn meɪks ʌs tuː wʌn tɛl miː ɐbaʊt aʊɚ tʃaɪld ðɪ ɪnfənt aɪ hæv nɛvɚ siːn jɛt huːz beɪbi feɪs hɐz hɔːntᵻd maɪ dɹiːmz"
+      }
+    ],
+    "result": "Write and answer all these questions freely and fully if you recognise the tie which in the sight of god and man makes us two one tell me about our child the infant i have never seen yet whose baby face has haunted my dreams"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000017.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Phonetic decoding task: transcribe the provided speech into IPA phonemes and return them without any additional output.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðə lɪɾəl spɑːɾᵻd dɑːɡ stʊd ʌp ænd wɛlkʌmd hɪm wæɡɪŋ hɪz teɪl soʊ hɑːɹd ðæt hɪz hoʊl bɑːdi ʃʊk ænd hiː æktʃuːəli ɡɹiːɾᵻd pʊɹ tɪməθi wɪð ɐ bɑːɹk ʌv dʒɔɪ"
+      }
+    ],
+    "result": "The little spotted dog stood up and welcomed him wagging his tail so hard that his whole body shook and he actually greeted poor timothy with a bark of joy"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000036.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains spoken content. Convert it into an IPA transcription consisting only of phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "tɹuː tə ðə fɛɹ jʌŋ ɡʌvɚnɛs huːz doʊneɪʃənz ʌv leɪs ænd ɹɪbən sɔɪld ɡlʌvz dɑːɹnd stɑːkɪŋz ænd fɹɛndli smaɪlz hæd wʌn hɜː hɑːɹt jɪɹz ɐɡoʊ"
+      }
+    ],
+    "result": "[ɪːr tʊ k rəʊ ɡøn vərɪnɔs dɔz næst ænd ɹɪbɔnd sɔld glɔvs dør stɔckɪnz ænd friəndlɪ smaɪlz hæd wʌn hɜr hɛɚt jɪrs ægði]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000010.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the speech into a phonetic transcription using IPA and ensure accuracy. Return phonemes only, with no extra formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ænd ɐ wɛl spɹɪŋ ʌv hɑːɹt bɜːnɪŋ ænd ɐnɔɪəns tʊ ɪts pɹəpɹaɪəɾɚ mɪstɚ kiːl ɪz ɐ dʒɛntəlmən huː tɔːks ʌv θaʊzəndz æz niːeɪnɚ piːpəl tɔːk ʌv sɪkspənsᵻz ænd ɪz ɹuːmɚd tə hæv stɑːɹɾᵻd ɪn laɪf θɜːɾi jɪɹz ɐɡoʊ æz ɐ stiːvɪdoːɹ ænd tə hæv faʊndᵻd hɪz fɔːɹtʃʊnz əpɑːn ðɪ ɪl ɡɑːʔn̩ ɡeɪnz səpoʊzd təbi ɪnsɛpɚɹəbəl fɹʌm ðæt fʌŋkʃən"
+      }
+    ],
+    "result": "/ˌwɔl.fɪŋ.ər ʃæn.tər.ən ʔɔn.stəm.ɪŋ ən.ɔj.nəs tə ʌz pɪə.dɜːr mɪs.kiːl ə ʒe.ntər əz maːnər piːsɛnz ənd ɪz rʌd to hæv stɔt in laɪf trɪːtiːnt juz əz ˈɪstədvør ənd to fʊndid əz fɔrtjuːnz apoun ði lɔst ganiz bjuːzliː sɔprizd bi taʃ fənktʃən/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000018.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Imagine you're training a speech recognition system. Extract the phonemes from this audio using IPA notation and return only the phoneme sequence.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðə sɛkənd deɪ æftɚ mɪstɚ sɛkɹɛtənz ɪntɚvjuː wɪð dʒeɪn daɪəmənd hɐz kʌm ænd ɪnðɪ iːvnɪŋ ɐlɛksɪs nɑːks æt ðə fəmɪlɪɹ doːɹ ɪn loʊðɚ stɹiːt wɪð ɐ hɑːɹt ðæt siːmz tə biːt laʊdɚ ðɐn ðə nɑːkɚ"
+      }
+    ],
+    "result": "The second day after Mister Sackettson's interview with Jane Diamond has come and in the evening Alex knocks at the familiar door in Lawther Street with a heart that seems to be louder than the knocker."
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000015.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Transcribe the given spoken input into IPA phonemes, ensuring each sound is accurately captured. No additional comments.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "waɪ aɪ θɔːt juː keɪm hoʊm ɔn sɪk liːv jʌŋstɚ sɛz ðə kaɪndli klɜːk baɪ dʒuːpɪɾɚɹ aɪ nɛvɚ sɔː ɛnɪwʌn lʊkɪŋ bɛɾɚɹ ɔːl ðɪ ɪfɛkt ʌvðə vɔɪɪdʒ mɪstɚ plaʊdən aɪ əʃʊɹ juː aɪ wʌzɐ ʃædoʊ wɛn aɪ wɛnt ɔn boːɹd æt sɪdni"
+      }
+    ],
+    "result": "Why i thought you came home on sick leave youngster says the kindly clerk by jupiter i never saw any one looking better all the effects of the voyage mister plowden i assure you i was a shadow when i went on board at sydney"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000010.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Break down the speech into its phonemic components using IPA. Only return the phonemes, without punctuation or formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "suːn ðeɪ dɪskʌvɚd pʊɹ tɪməθi ænd bɪɡæn tə pɛk æt hɪm vɪʃəsli huːɾɪŋ æt hɪm ænd ɡlɛɹɪŋ æt hɪm wɪð ɡɹeɪt fɪɹs aɪz soʊ ðæt tɪməθi heɪstili skɹætʃt hɪz weɪ daʊn fɹʌmðə tɹiː"
+      }
+    ],
+    "result": "ɪ ˈʌt ˈɔːz ˈɪm ˈɪt ˈɪm ˈvɪsɪtəl ˈhɔt ˈɛt ˈɔːz ˈɔːz ˈɪm ˈɡɹeɪn tʃɔːk ˈɪm ˈwɪth ˈgrɪf ˈaɪz ˈso ˈðæt ˈtɪm ˈθiː ˈhæzt ˈskrætʃt ˈjɔːz dʌm ˈdoun fɔm ðə trɪ ˈtʃuːn"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000037.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given the speech sample, extract its phoneme sequence in IPA and provide only the phonetic representation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ɛs ɛs tʊ ɐlɛksɪs juː ɑːɹ nɑːt fɚɡɑːʔn̩ ɪn ɔːl aɪ duː aɪ æm feɪθfəl tə jʊɹ ɪntɹɪsts aɪ lʊk fɔːɹwɚd tʊ aʊɚ ɹiːjuːniən weɪt ænd hoʊp æz aɪ duː ɹaɪt ænd tɛl miː wɛɹ juː ɑːɹ ænd wʌt juː ɑːɹ duːɪŋ ɐdɹɛs ɛs ɛs poʊst ɑːfɪs heɪl stɹiːt pɪmlɪkoʊ"
+      }
+    ],
+    "result": "[ɪˈsɛɪz əlɪks i wər nʌt fɔrgɒt i æm feɪθ tʊ kʌr rɪːtʃən weɪt ənd hɔp æz ai dʊ]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000019.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Imagine you're training a speech recognition system. Extract the phonemes from this audio using IPA notation and return only the phoneme sequence.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "bʌt tɪməθiz pɹaʊd dʒɛləs spɪɹɪt wʌz nɪɹli bɹoʊkən ænd wʌn naɪt hiː dᵻsaɪdᵻd tə ɡoʊ bæk tə ðə hɑːɹθ soʊ hiː stoʊl ɪntʊ ðə kɪtʃən æftɚɹ ɛvɹɪbɑːdi wʌz ɐsliːp ænd ðɛn ɐ wʌndɚfəl θɪŋ hæpənd"
+      }
+    ],
+    "result": "[ɪm.tʃ.əz pru.dent.je.lous.spirit wəs neer.bro.kn and wan.night he de.cided to go back to the hearth so he stol in to the kitchin after every body was a sleep and then a wonder.ful thing happened"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000016.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech and provide a phoneme breakdown in IPA. Maintain accuracy and return only the transcription.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "pʊɹ mɪzɹəbəl tɪməθi ðə snoʊ leɪ waɪt əpɑːn ðə ɡɹaʊnd ænd tɪməθi tʊk lɔŋ flaɪɪŋ liːps tʊ ɛskeɪp ɪɾ əkeɪʒənəli hiː wʊd pɔːz tə lɪft ænd flɜːt hɪz fiːt fɔːɹ hiː heɪɾᵻd tə ɡɛt ðɛm wɛt bᵻsaɪdz ðeɪ eɪkt wɪððə koʊld"
+      }
+    ],
+    "result": "Poor miserable timothy the snow lay white upon the ground and timothy took long flying leaps to escape it occasionally he would pause to lift and flutter his feet for he hated to get them wet besides they ached with the cold"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000047.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are testing an ASR model. Extract the phonemes from this audio clip using IPA format. Return nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "niːðɚɹ ɛɡzaɪl nɔːɹ ðə sɛns ʌv hɜːɹ ʌŋkaɪndnəs hɐvbɪn stɹɔŋ ɪnʌf tʊ ɛkskluːd hɜː fɹʌm hɪz hɑːɹt hiː meɪ pɹɪtɛnd tə hɪmsɛlf ænd tə hɪz fɹɛnd dɪk plaʊdən ðæt hiː hɐz siːst tə lʌv hɪz waɪf ðæt hiː siːks hɪz tʃaɪld ɐloʊn"
+      }
+    ],
+    "result": "[ɪˈnɛst] [ʌz̞ ʌz̞ n̟ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz̞ əz�"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000008.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the phonemic transcription strictly follows IPA conventions. Extract and output only the IPA phonemes from the given speech.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "moʊst əv ðə naɪt hiː spɛnt mɪzɹəbli tɹaɪɪŋ tə fɹiː hɪmsɛlf fɹʌmðə ʃɑːɹp hɛdʒhɑːɡ niːdəlz ðə nɛkst mɔːɹnɪŋ hiː wʌz hʌŋɡɹi ɪn ɐ sɜːʔn̩ tɹiː hiː faʊnd ɐ bɜːdz nɛst"
+      }
+    ],
+    "result": "[ɪˈmɔt əʊz] [ɪˌɛr] [ɪˈnɔt] [ɪˌɜr] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈnɔt] [ɪˈn�"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the phonemes from the given speech and return them using IPA notation. No extra output.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðə læst lɛɾɚ hiː ɹᵻsiːvd fɹʌm hɜː wʌz ðæt kɹuːəl ɹᵻnʌnsɪeɪʃən ðæt moʊst hɑːɹtləs fɛɹwɛl ðə luːsənɪŋ neɪ ðə sɛvɚɹɪŋ ʌv ɛvɹi lɪŋk bᵻtwiːn ðɛm ʃiː ɹaɪts tə hɪm ɐɡɛn ðɛɹ ɪz kəmjuːniən bᵻtwiːn ðɛm wʌns moːɹ ðə θɔːt θɹɪld hɪm ʃiː bɪɡɪnz wɛl æɾ ɔːl ᵻvɛnts"
+      }
+    ],
+    "result": "[ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [ɪˈmɔːtʃən] [�"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000033.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Transcribe the given spoken input into IPA phonemes, ensuring each sound is accurately captured. No additional comments.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "bʌt ðə lɪɾəl dɑːɡ wʌz bɹeɪv ænd dɪdnɑːt ɡoʊ ɐweɪ ænd suːn tɪməθi dᵻsaɪdᵻd tə vɛnt hɪz dɪsplɛʒɚɹ əpɑːn ðə hoʊl fæmɪli baɪ liːvɪŋ ðə haʊs ɔːltəɡɛðɚ"
+      }
+    ],
+    "result": "But the little dog was brave and did not go away and soon timothy decided to vent his displeasure upon the whole family by leaving the house altogether"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000004.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Break the audio into its phonemic components and return only the IPA symbols representing the phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "sɛd tɪməθi ðɛn hiː bɪɡæn tə kʌf æt ðə hɛdʒhɑːɡ ænd wʌɹi hɪm ðə nɛkst θɪŋ tɪməθi dɪd wʌz tə klaɪm ɐ tɹiː æz fæst æz hiː kʊd fɚðə hɛdʒhɑːɡ hæd tɜːnd əpɑːn hɪm ænd dɹɪvən hɪz noʊz fʊl ʌv ʃɑːɹp spaɪnz"
+      }
+    ],
+    "result": "said timothy then he began to cuff at the hedgehog and worry him the next thing timothy did was to climb a tree as fast as he could for the hedgehog had turned upon him and driven his nose full of sharp spines"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this audio clip and extract the phonemes in IPA format. No other information should be included.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "bʌt ðə mɪɹ fækt ðæt ʃiː hɐz sɔːt tʊ əbteɪn taɪdɪŋz ʌv hɪm ɪz ɪnʌf tə mɛlt hɪz hɑːɹt tə tʃeɪndʒ pɹaɪd ænd æŋɡɚ tə lʌv ænd pɑːɹdən wʌtɛvɚ ðɪ ɛɡzɑːltᵻd sfɪɹ ɪnwɪtʃ juː naʊ muːv hiː ɹaɪts juː meɪ biː ɡlæd tə noʊ ðæt jʊɹ dɪzɜːʃən həznɑːt kwaɪt bɪn ðə dɛθ ʌv miː"
+      }
+    ],
+    "result": "[ɪː ʌt ɪf ðə trʉθ fæt ðat ʃi ɔt tə mɛlt hɜr hart tə ʧænz prahd ænd æŋgri tə ləv ænd pɔrd wɛt'ɛvr ðə ʒɔzəld fɛrv in wɪtch yə nəw muv he raits yə may bi glad tə no wot yør dɪsɹtʃən ne kju tʌ bɪð ðə deθ o me]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000024.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Help build a pronunciation guide by converting this audio into IPA phonemes. Return only the phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "fɔːɹ iːvən naʊ ðə dɪɹɪst lɪɾəl stɹeɪ dɑːɡ wɪð sɔft koʊt ʌv waɪt ænd tæn spɑːts hɐdbɪn ɹᵻsiːvd ɪntʊ ðə fæmɪli waɪl tɪməθi wʌz aʊt"
+      }
+    ],
+    "result": "/ɪːr fɔr ɛn ʌn ðə dɪərliːst lɪtəl stræjdog wið ɔf təuð ɔf wai̯nd ən tæn stɔps hed bin rɪcvd intə ðə famiː wið timɔti wɔz awt"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000023.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the given audio and transcribe it into phonemes using IPA. No other text is needed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðɛn tɪməθi ænd hɪz fɹɛnd eɪt təɡɛðɚ fɹʌmðə tɪn pleɪt sæt daʊn əpɑːn ðə hɑːɹθ ænd tɪməθi bɪɡæn ɐ wɜːɹɪŋ bʌzɪŋ sɔŋ ʌv kəntɛntmənt wɪtʃ maɪt iːvən biː hɜːd əbʌv ðə sɪŋɪŋ ʌvðə kɑːpɚ kɛɾəl"
+      }
+    ],
+    "result": "Then timothy and his friend ate together from the tin plate sat down upon the hearth and timothy began a whirring buzzing song of contentment which might even be heard above the singing of the copper kettle"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000059.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given the speech sample, extract its phoneme sequence in IPA and provide only the phonetic representation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "wɛn ðə lʌndən siːzən ɪz oʊvɚ mɪsɪz hæzəltəŋ ɡoʊz tə ðə siːsaɪd nɑːt bɪkʌz ʃiː bᵻlɔŋz tə ðæt flaɪt ʌv fæʃənəbəl swɔloʊz huː fɑːloʊ plɛʒɚz sʌmɚ fɹʌm klaɪm tə klaɪm"
+      }
+    ],
+    "result": "[ɪˈʌt ən lɔːndən] [mɪsˈɛrəlæzənt] [ɪz ən ˈθaɪsi] [nɒt bɪˈkɔz ið ðæt feɪld əv fælšənlæst swɔlθ wɪt flɔi̯l pleɪʃər summa̟ fraim tʊ klaɪm tʊ klaɪm]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000030.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the speech into a phonetic transcription using IPA and ensure accuracy. Return phonemes only, with no extra formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "tɪməθi ɑːɹtʃt hɪz ɡɹeɪ bæk ʌntɪl ðə fɜː stʊd ʌp ɪn ɹɪdʒᵻz æz hiː spæt vɪndɪktɪvli æt ðə stɹeɪndʒɚ waɪl hɪz bɪɡ jɛloʊ aɪz ɡlɛɹd wɪð sʌtʃ sʌlən heɪt ðætðə lɪɾəl spɑːɾᵻd dɑːɡ ʃʊk wɪð fɪɹ"
+      }
+    ],
+    "result": "[ɪmətɪd ʌrkt hɪz greɪ blæk æntil ðe fɔr stʉd up rɪdz as hɪ spat dɪvɪnɪklɪ ænt þə strænji wɪl þə bɪg jɛləwais aijs glæd wɪth sɔlent hæt ðæt ðə lɪtt spɒtəd døg shuk wɪð feər]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000038.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Develop a phonetic dictionary. Convert this speech sample into its IPA phonemes, with no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ɹaɪt tə miː dɪɹ hʌsbənd fɹʌm taɪm tə taɪm ænd lɛt miː ɹaɪt tə juː bʌt lɛt aʊɚ kɔːɹɪspɑːndəns pæs θɹuː ðə hændz ʌv ðæt ɡʊd ɡɜːl dʒeɪn dɪmənd aɪ noʊ jʊɹ ɪmpʌlsɪv neɪtʃɚ ænd aɪ kænɑːt tɹʌst juː wɪð maɪ ɐdɹɛs fɔːɹ fɪɹ juː ʃʊd kʌm hɪɹ ænd dᵻstɹɔɪ ɔːl maɪ plænz"
+      }
+    ],
+    "result": "[ɪˈmʌstəv] [ɔːz ərˈɛndər] [ɪˈwɪdjuː] [ɪˈmæʃtəv] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪˈwɪdjuː] [ɪ"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000005.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Phonetic decoding task: transcribe the provided speech into IPA phonemes and return them without any additional output.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪm nɑːɾə fɑːloʊɚɹ ænsɚz ɐlɛksɪs bʌt aɪ wɔnt tə siː dʒeɪn dɪmənd ɐloʊn fɔːɹ faɪv mɪnɪts ɔn bɪznəs ðə kaʊntənənsᵻz ʌv kʊk ænd fʊtmən pleɪnli ɛkspɹɛs ɐn æpɹihɛnʃən ðæt ðɪs ɪz ðə bɪɡɪnɪŋ əvə diːp leɪd skiːm ɐɡɛnst ðə fæmɪli pleɪt"
+      }
+    ],
+    "result": "/ˌɪəʊt fɔr ˈfaiːv minɪts ɒn bɪznis ðə kəʊntnuəsɪz əv kʌŋ ænd ˈfɔm mæn plēnliːks prɔhɛns ðæt ðɪs ðe ʌɪnseɪt əv ə dˈiːplɛɪd leɪk ʃɪp əgɪnst þə ˈfeɪməl pleɪt/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000014.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the phonetic sequence from the audio and return the IPA phonemes without any extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðeɪ siː dʒeɪn dʒɛstɪkjʊleɪt æz ɪn ɛkstɹiːm sɚpɹaɪz æt saɪt ʌv ɐlɛksɪs ænd ðɛn ðə tuː wɔːk ɐ lɪɾəl fɜːðɚɹ ɔf kwaɪt aʊɾəv ɪɹʃɑːt tə ðɪ æɡɹɐveɪʃən ʌv dʒeɪnz fɛloʊ sɜːvənts"
+      }
+    ],
+    "result": "/.iː/.tʃuːk/.lɪŋ/.wɔːt/.ɪər/.sɔːt/.ɪər/.ɪn/.dʒuːz/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000041.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Transcribe the given spoken input into IPA phonemes, ensuring each sound is accurately captured. No additional comments.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "steɪd ɐweɪ soʊ lɔŋ kɹuːəl ɡɜːl doʊnt juː noʊ ðɐɾɪt wʌz ʃiː huː lɛft miː wʌtɛvɚ ʃiː dɪd aɪ meɪk noʊ daʊt ʃiː dɪd ɪt fɚðə bɛst ænsɚz dʒeɪn"
+      }
+    ],
+    "result": "[ɪˈtɔːd əʊz lɔŋ krʌl gɜːl dʌn't yə knɒw dat it wɔs she who left me whatever she did i mɛɪn no dooʊt she did it for the best answers jane]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000011.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given the speech sample, extract its phoneme sequence in IPA and provide only the phonetic representation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "wɪð θɹiː skɹɔːni jʌŋ bɜːdz soʊ hiː hæd dʒʌst pʊt fɔːɹθ ɐ pɔː tə sᵻlɛkt wʌn fɔːɹ hɪz bɹɛkfəst wɛn daʊn əpɑːn hɪz bæk laɪɾᵻd ðə mʌðɚ hɔːk ænd dɹoʊv tɪməθi ɔf ɪntʊ ðə fɔːɹɪst"
+      }
+    ],
+    "result": "[ɪːr ʌm tʃɔːz]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000021.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Process the audio and generate the phoneme sequence in IPA. No text, just phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ðə blaɪndz ɑːɹ ɔːl daʊn seɪv wʌn ʌvðə vɛniːʃənz ɪnðə daɪnɪŋ ɹuːm wɪtʃ ɪz dɹɔːn ʌp ɐbaʊt hæfweɪ ænd ɪnðə speɪs ðʌs ɛkspoʊzd tə vjuː ðə kʌmftəbəl ɹaʊnd feɪs ʌv mɪsɪz hæzəltənz kʊk ænd ðə læŋki kaʊntənəns ʌv mɪsɪz hæzəltənz sændi hɛɹd fʊtmən"
+      }
+    ],
+    "result": "[ɪˈwʌnɪtɪz ðər ɔːl doun seivn a vənɪsɪnz in da rīŋ ˈwɪðz ðæz drawn up abou half wey an in da spɛɪs ðiːks əmˈpɔːst tu viu ðə kəmfaɪrən roun feɪs av mʌsɪz hæzlən's kuk an ðə lɔkkiŋ kəʊntnuis av mʌsɪz hæzlən's sændiir haɪr fumblin]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000001.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a dataset collection task for linguistic research. Extract and return only the phonemes from the speech audio in IPA format.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "bʌt sɪmpli bɪkʌz lʌndən ɪn ɔːɡəst ɪz ʌnɛndʊɹɹəbəl beɪkɪŋ peɪvmənts skɔːɹtʃt vɜːdʒɚ dʌst ænd ɡɹaɪm ɔn ɛvɹɪθɪŋ ænd ɐ sɛns ʌv dɪzɜːʃən ɪn ɔːl ðoʊz ɹiːdʒənz wɪtʃ ðɪ ʌpɚ tɛn θaʊzənd ænd ɐ kənsɪdɚɹəbəl poːɹʃən ʌvðə loʊɚ mɪliən ɪnhæbɪt"
+      }
+    ],
+    "result": "[ɪ] [ʌ] [ɔː] [tʃ] [ɹ] [m] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [ɪ] [�"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000040.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and transcribe it into phonemes in IPA format only. Do not include any additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪɐm noʊn ɪn maɪ pɹɛzənt sɜːkəl oʊnli æz mɪs fɔːnθoːɹp ɔːl maɪ hoʊps wʊd biː ʃɪpɹɛkt ɪf aɪ stʊd kənfɛst æz mɪsɪz sɛkɹɛtən jɛt bᵻliːv miː ðɛɹ ɪz noʊ ʃædoʊ ʌv ɹɔŋ tə juː ɪn ðɪs kənsiːlmənt ɪɾ ɪz fɔːɹ aʊɚ mjuːtʃuːəl wɛlfɛɹ"
+      }
+    ],
+    "result": "I am known in my present circle only as miss von thortle all my hopes would be shipwrecked if i stood confessed as missus sekerson yet believe me there is no shadow of wrong to you in this concealment it is for our mutual welfare"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000056.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are working on automatic speech transcription. Convert the spoken content in the audio to its phonetic representation using IPA. Only return phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "mɪsɪz hæzəltən ɪz wʌn ʌv ðiːz ɛmɪnəntli ɹᵻspɛktəbəl pɜːsənɪdʒᵻz ʃiː hɐz ɑːkjʊpaɪd ðə haʊs ɪn loʊðɚ stɹiːt fɚðə læst tɛn jɪɹz ʃiː hɐz ɡɔn tə ðə siːsaɪd ɛvɹi jɪɹ ʌv ðoʊz tɛn"
+      }
+    ],
+    "result": "/ɪˈmælʃətlən/ /ɪz ən əv ə mɪˈstərɪbəs pɔsɪtɪvɪŋz/ /ʃiːz əʊzd ən þə hauz ən lɔθər strit fɔr ðə lɛst tʃi years/ /ʃiːz əz goun tə ðə siːð əj yearz ɒf ðə tʃi n/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000042.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the phonemic transcription strictly follows IPA conventions. Extract and output only the IPA phonemes from the given speech.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ɪz ʃiː mæd ɐlɛksɪs æsks hɪmsɛlf ɪndɪɡnəntli æftɚ ɹiːdɪŋ ðɪs lɛɾɚ dʌz ʃiː θɪŋk aɪ æm təbi pʊt ɔf wɪð lʌvɪŋ wɜːdz ænd əʃʊɹɹənsᵻz ʌv kɑːnstənsi dʌz ʃiː səpoʊz ðæt ʃiː kæŋ kiːp æɾə dɪstəns baɪ kənsiːlɪŋ hɜːɹ ɐdɹɛs ænd ɹaɪɾɪŋ tə miː ʌndɚ kʌvɚ tʊ ɐ haʊsmeɪd"
+      }
+    ],
+    "result": "[ɪˈmæd] [ɔːzɪs əzˈɛndɪdʒɪn tɪnəf əlˈtɔp əlˈwaɪtɪŋ ˈwɔrdz ənˈʃuːrənzɪv ˈkɔnstɪːsiː dəz ʃiː ˈbɪk əm ˌtaɪp əlˈdɪk ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪm ˈtɔk ˈɪ"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000026.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Transcribe the given spoken input into IPA phonemes, ensuring each sound is accurately captured. No additional comments.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ɪntɛndɪŋ tə snætʃ ɐ mɔːɹsəl ʌv fuːd fɹʌm tɪməθiz pleɪt wɪtʃ ɔːlweɪz stʊd ðɛɹ hiːpt wɪð deɪntiz bʌt ðə nɛkst ɪnstənt ðə lɪɾəl maʊs hæd tʃeɪndʒd ɪts maɪnd fɔːɹ ðɛɹ sæt tɪməθi hɪmsɛlf ɹaɪt əpɑːn ðə hɑːɹθ ɪn fɹʌnt ʌvðə faɪɚ ɡɑːɹdɪŋ hɪz pleɪt"
+      }
+    ],
+    "result": "Intending to snatch a morsel of food from timothy's plate which always stood there heaped with dainties but the next instant the little mouse had changed its mind for there sat timothy himself right upon the hearth in front of the fire guarding his plate"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000034.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the spoken words in this audio to phonemes and output them strictly using IPA notation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "noʊ ɪt doʊnt ænsɚz dʒeɪn teɪkɪŋ ɐ taɪni slɪp ʌv peɪpɚɹ aʊɾəv hɜː ʃæbi oʊld poːɹɾɪmɑːneɪə ðɪ ædvɚtaɪzmənt sɛz nʌθɪŋ ʌvðə kaɪnd ʃiː ɹiːdz æz fɑːloʊz"
+      }
+    ],
+    "result": "[ɪˈnət ɪt dənt] [no it n̟ænts jein takin a tiny slip of paper out of her shabby old porte monnaie the advertisement says nothing of the kind she reads as follows"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000007.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Develop a phonetic dictionary. Convert this speech sample into its IPA phonemes, with no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "mɪstɚ kiːl ɪz pliːzd wɪð mɪstɚ sɛkɹɛtənz sədʒɛstʃənz jʊɹ ɐbaʊt ðɪ oʊnli fɛloʊ aɪ ɛvɚ sɛnt aʊt huː siːmz tʊ ʌndɚstænd ðɪ ɔːstɹeɪliən tɹeɪd hiː sɛz ɐpɹuːvɪŋli ænd aɪ ʃæl pʊʃ juː jʌŋ mæn mɑːɹk maɪ wɜːdz aɪ ʃæl pʊʃ juː"
+      }
+    ],
+    "result": "[ɪˈməʊt ʃuːəlɪn] [mɪsˈter kjuːəlɪs] [pɔːsɪd wɪð mɪsˈter sɛkərton's] [joo aroos a bɔli fella i eva sent out who seems to understand the australian trade he sez proflingly and i shal push you yung man mark my words i shal push you"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000060.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the speech into a phonetic transcription using IPA and ensure accuracy. Return phonemes only, with no extra formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "bʌt noʊ lʌv aɪ wɪl ʃoʊ juː ɐn iːziɚ weɪ duːnɑːt stɑːp tʊ ænsɚ wʌn ʌv ðiːz kwɛstʃənz ɹaɪt sɪbɪl fɹʌm jʊɹ hɑːɹt tə maɪn tɛl miː ɪn θɹiː wɜːdz tə kʌm tə juː ænd aɪ wɪl kʌm"
+      }
+    ],
+    "result": "[ɪː ˈloʊv] [bjuːt ləv i wuːl ʃoʊ 'eɪzər weɪ] [dɔnt stɔp tə eɪn̟ aːn ən̟ ðiːs qʌstʃənz rait sɪbəl fɹɔm jər hart tu mɪnd tel mi in thrʏ dreez tu kəm tu yə u wiːkam]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000015.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the phonemes in the given speech recording and list them in IPA format only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ɐ θɔːt stɹʌk hɪm hiː wʊd ɡoʊ bæk tə ðə haʊs ænd siː ɪf ðə spɑːɾᵻd dɑːɡ wʌz stɪl ðɛɹ soʊ hiː kɹɛpt tə ðə kɪtʃən wɪndoʊ ænd pɪɹd ɪn ænd baɪ ðə laɪt ʌvðə faɪɚ hiː sɔː ðæt hɪz pleɪs wʌz stɪl ɑːkjʊpaɪd baɪ ðə lɪɾəl dɑːɡ"
+      }
+    ],
+    "result": "The given speech recording contains the following phonemes in IPA format: /ɪ/ /ə/ /ʌ/ /ɔː/ /ɹ/ /ɪ/ /ɛ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /ɪ/ /�"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000055.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are working on automatic speech transcription. Convert the spoken content in the audio to its phonetic representation using IPA. Only return phonemes.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "juː hæv ɡɪvən jʊɹ beɪb tə ðə kɛɹ ʌv stɹeɪndʒɚz pɚhæps bʌt aɪ kəŋkluːd juː hæv wɑːtʃt oʊvɚɹ ɪts wɛlfɛɹ tɛl miː fɜːðɚ ɪf ðɛɹɑːɹ ɪn jʊɹ laɪf pɹɑːspɚɹəs æz ɪt meɪ biː sʌm fjuː wiːkɚ moʊmənts wɛn jʊɹ hɑːɹt jɜːnz fɔːɹ ɹiːjuːniən wɪððə hʌsbənd juː wʌns lʌvd"
+      }
+    ],
+    "result": "/ɪər/ /ʌz/ /ɔːt/ /ɪn/ /ɪm/ /ɪd/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /ɪt/ /ɪz/ /ɪn/ /�"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000002.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Convert the speech in this audio file into an IPA phonemic sequence. Return phonemes only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "hiː ɪz sweɪd tuːəndfɹoʊ baɪ daɪvɜːs pæʃənz æz hiː ɹaɪts ðɪs lɛɾɚ naʊ ɔːl bɪtɚnəs naʊ fɑːnd ʌnɹiːzənɪŋ lʌv hiː həznɑːt ðə kɜːɹɪdʒ tə ɹiːd oʊvɚ hɪz ɪfjuːʒən bʌt siːlz ænd ɐdɹɛsᵻz ɪt heɪstili ænd hɜːɹiz bæk tə loʊðɚ stɹiːt"
+      }
+    ],
+    "result": "[ɪ] [tʊ ər fɔː by dʌrɪfəs pasjənz] [naw ilz tɜːrns now fɔnd unreasoning ləv] [he is swayed to and fro by diverse passions as he writes this letter now all bitterness now fond unreasonable love] [he has not the courage to read over his effusion but seals and addresses it hastily and hurries back to lauder street]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000035.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assist in linguistic annotation by transcribing this spoken content into an IPA phoneme sequence. Output phonemes only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "siː hɪɹ dʒeɪn sɛz ɐlɛksɪs ʌnfoʊldɪŋ ɐ faɪv paʊnd noʊt hɪɹz sʌmθɪŋ tə baɪ juː ɐ sɪlk ɡaʊn fɔːɹ sʌndeɪz naʊ doʊnt juː θɪŋk ðæt juː kʊd kəntɹaɪv tə tɛl miː ðɪ ɐdɹɛs ɐtwʌns juː noʊ maɪ waɪf wɪʃᵻz tə siː miː ðɪ ædvɚtaɪzmənt sɛz ðæt"
+      }
+    ],
+    "result": "[ɪˈnɛt ʌz] [sees hɪər ɔksɪŋ ʌlfɪŋ a 5 ˈpounð nɔwt heə's som'ɪn ta buy yə a sɪlk goun fɔr səndays now don't yə think tha kəu kɔnd triv to tell mi tə da eɪz at wanst yə know ma wiw wishes to si me ti̯əmz da ædvərtɪzmænts sez dat]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000003.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are testing an ASR model. Extract the phonemes from this audio clip using IPA format. Return nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "aɪ wɪl kʌm dɪɹ ænd ɔːl ðə pæst ɔːl ðæt juː hæv meɪd miː sʌfɚ ʃæl biː fɚɡɑːʔn̩ ænd fɚɡɪvən ɪnðə ɹæptʃɚɹ ʌv aʊɚ ɹiːjuːniən joːɹz fɚɹɛvɚ ɪf juː wɪl hæv ɪt soʊ ɐlɛksɪs"
+      }
+    ],
+    "result": "[sphr] [tʃɪk] [ɔːz] [ɪz] [ɪz]"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10226_10111_000013.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a dataset collection task for linguistic research. Extract and return only the phonemes from the speech audio in IPA format.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "suːn sʌmθɪŋ sɔft ænd waɪt keɪm flʌɾɚɹɪŋ daʊn fɹʌmðə skaɪ ænd lɪɾəl fleɪks ʌv koʊld snoʊ bɪɡæn tə sɛɾəl əpɑːn tɪməθiz ɡɹeɪ koʊt waɪl ðə wɪnd bɪɡæn tə haʊl ænd ðə stoːɹm tə bɹeɪk wɛɹ kʊd hiː ɡoʊ"
+      }
+    ],
+    "result": "ɪ ʌ l k əm ˈtʃu tʃu m ɔr f ɪ n ɪ s ʌ l k əm ˈdʒʏ n ɪ z əm b e gan ˈs e t u l əp ˈtʃu tʃu m ɔr f ɪ n i z əm b e gan ˈh a l k əw ˈw aɪ l d ˈb r o k w a y ˈl æ n d ˈw aɪ l d ˈb r o k w a y ˈw aɪ l d ˈb r o k w a y"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000027.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Break down the speech into its phonemic components using IPA. Only return the phonemes, without punctuation or formatting.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "noʊ aɪ woʊnt sɛnd hɜː noʊ tɛlᵻɡɹæfz lɛst aɪ ʃʊd ɡɛt hɜːɹ ɪntʊ tɹʌbəl wɪð hɜː fɹɛndz aɪl ɹaɪt tə hɜːɹ ɪnɛksɚɹəbəl ɡɜːl ɪz ʃiː ɪnðə kʌntɹi jɛs"
+      }
+    ],
+    "result": "/ɪːn/ /ɔːz/ /ɪːz/ /ɛr/ /ɪz/"
+  },
+  {
+    "voice": [
+      "mls_english_opus/test_data_16000\\10839_10213_000030.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and transcribe it into phonemes in IPA format only. Do not include any additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "ænd ðə kʌntɹi poʊst ɪz ɡɔn ɛvɚ soʊ lɔŋ aɪ ʃæl hæv tə weɪt twɛnti foːɹ aʊɚz bᵻfoːɹ juː kæŋ ɡɛt hɜːɹ ænsɚɹ aɪ kænt hɛlp ðæt sɛz dʒeɪn wɪð ɐn ɪnflɛksɪbəl ɛɹ ʃiːz tɹʌstᵻd miː ænd aɪl duː maɪ duːɾi baɪ hɜːɹ æz juːv steɪd ɐweɪ soʊ lɔŋ ɪt kænt hɜːt juː tə steɪ ɐ lɪɾəl lɔŋɡɚ"
+      }
+    ],
+    "result": "And the country post is gone ever so long i shall have to wait twenty four hours before you can get her answer i can't help that says jane with an inflexible air she's trusted me and i'll do my duty by her as you stayed away so long it can't hurt you to stay a little longer"
+  }
+]

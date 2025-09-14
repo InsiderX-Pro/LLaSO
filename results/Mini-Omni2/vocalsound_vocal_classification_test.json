@@ -1,0 +1,4802 @@
+[
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2750_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2750",
+      "gender": "female",
+      "speaker_age": 19,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocalization in this recording. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The type of vocalization in this recording is a dynamic, rhythmic vocalization. This is characterized by a rapid, consistent pattern of sounds that are often accompanied by a strong, rhythmic beat."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0805_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0805",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The text \"No additional text\" is a standalone statement and does not require a context to be considered a complete sentence. It is a standalone statement that describes the speaker's response to the clip."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1142_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1142",
+      "gender": "female",
+      "speaker_age": 42,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the clip is a combination of the words \"nath,\" \"ah,\" \"ah,\" and \"ah.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0127_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0127",
+      "gender": "male",
+      "speaker_age": 58,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The audio contains a mix of vocal details, including the voices of laughter, cough, throat clearing, and mezzo-sniff. It also includes the details of the instruments used, such as the flute, clarinet, and saxophone."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3027_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3027",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a pitch. Pitch is a measure of the duration of a sound, and it is typically denoted by a pitch. In this case, the pitch is indicated by the position of the \"c\" sound in the audio."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2142_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2142",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "United Kingdom",
+      "native_language": "DE",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of the sounds of a cat's nose and whiskers."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0561_1_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0561",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The response you provided is an echo."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_1_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal action in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal action in the audio response is \"Yip\"."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1672_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1672",
+      "gender": "male",
+      "speaker_age": 21,
+      "country": "United States of America",
+      "native_language": "GU",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal sound in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the video is a mix of the following elements: the main vocal tract, the vocal folds, the articulation of the tongue, the articulation of the lips, the articulation of the teeth, the articulation of the tongue, the articulation of the tongue, the articulation of the teeth, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the teeth, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the articulation of the tongue, the articulation of the lips, the artic"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3004_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3004",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3126_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3126",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal expression in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal expression in the clip is a mix of laughter and a shout."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0886_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0886",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine this vocal sound. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No interpretation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound you're describing is a \"domestic hum.\" It's a low, soft sound that typically comes in a single note and is produced by the diaphragm in the chest cavity."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3250_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3250",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is classified as a \"No Extra Detail\" because it does not contain any additional information or context that would suggest otherwise."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0733_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0733",
+      "gender": "male",
+      "speaker_age": 53,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a single note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0429_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0429",
+      "gender": "male",
+      "speaker_age": 44,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine this vocal sound. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No interpretation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound of the note \"N\" sounds like a \"C\" sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2768_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2768",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine this vocal sound. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No interpretation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The response is \"No interpretation.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1307_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1307",
+      "gender": "female",
+      "speaker_age": 55,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the video is a mix of the laughter, cough, throat-clearings, and me-sniffing sounds."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1023_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1023",
+      "gender": "female",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you're describing is a \"roar.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3203_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3203",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "India",
+      "native_language": "ML",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The classification of this vocalization is not explicitly mentioned in the provided information. However, it can be inferred that this is a type of pitchable voice, which is often associated with a lower pitch. Pitchable voices typically have a lower pitch and are often used in singing and spoken language."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2776_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2776",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of a repeating pattern of \"N\" and \"e\" sounds. It's a combination of these sounds that creates a rhythmic pattern."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3027_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3027",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the video is a mix of the original recording and the synthesized version. The original recording includes the vocal tones and lyrics, while the synthesized version includes the vocal tones and lyrics. The synthesized version also includes the vocal tones and lyrics."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1481_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1481",
+      "gender": "female",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1563_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1563",
+      "gender": "male",
+      "speaker_age": 44,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The audio clip is a commentary on the decline of the LGBTQ+ community in the United States. It highlights the fact that the LGBTQ+ community has been declining in terms of acceptance and representation, and that this has led to a loss of pride and identity for many people."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3323_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3323",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the video is a mix of the words \"HOTCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-TCH-T"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1250_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1250",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No source explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"moof.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1941_1_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1941",
+      "gender": "female",
+      "speaker_age": 45,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you're describing is a \"pop\" sound. This sound originates from the throat and is characterized by its high-pitched, booming voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2354_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2354",
+      "gender": "female",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The type of vocal sound in the audio you're describing is called a \"rhythm.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1382_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1382",
+      "gender": "male",
+      "speaker_age": 34,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal pattern in the audio you provided is a diaphragm sound. This pattern is often described as a series of sounds that can be heard over a period of time, typically lasting a few seconds."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1641_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1641",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal sound in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of the following elements: the first word \"No\" is repeated three times, the second word \"Additional\" is repeated three times, and the third word \"information\" is repeated three times."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1023_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1023",
+      "gender": "female",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The text in the clip is a quote from the song \"Take a Look at Me\" by The Weeknd. The song is about a man who is trying to make a new life for himself and his family. The lyrics are about taking risks and being brave."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0154_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0154",
+      "gender": "male",
+      "speaker_age": 19,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The text \"No additional text\" is a standalone statement. It does not contain any additional information or context."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1934_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1934",
+      "gender": "female",
+      "speaker_age": 29,
+      "country": "Italy",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the clip is a mix of the words \"shout,\" \"shout,\" and \"shout.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1351_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1351",
+      "gender": "male",
+      "speaker_age": 51,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal action in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal action in the audio you provided is a humming or a short, sweet voicing sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2183_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2183",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal expression in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal expression in the clip is one of laughter, shock, and shock."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0607_2_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0607",
+      "gender": "female",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocalization in this recording. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The type of vocalization in this recording is a shout."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1108_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1108",
+      "gender": "female",
+      "speaker_age": 49,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The response you provided is incorrect. The correct statement is: \"The sound is a mix of a low-pitched, staccato sound and a loud, sharp, and booming sound.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2592_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2592",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "Brazil",
+      "native_language": "EN",
+      "health_condition": "yes"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"moof.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2376_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2376",
+      "gender": "female",
+      "speaker_age": 42,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal pattern in the audio you provided is a common characteristic of many vocal tract sounds. It's often described as a series of high-pitched sounds that can be heard as a series of high-pitched sounds. These sounds are typically identified by the pitch of the sound or the duration of the sound. The \"sneeak\" sound is a common example of this pattern. It's a beautiful and recognizable sound that can be easily identified by ear."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3249_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3249",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The audio clip is a commentary on the decline of laughter in the face of a lack of clear communication. It suggests that laughter is a form of communication that is not always clear and that people are unable to express their emotions accurately."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2799_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2799",
+      "gender": "female",
+      "speaker_age": 18,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of the lower and higher notes of the vocal tract. It includes the lower sounds like \"r\" and \"t\" and the higher sounds like \"e\" and \"s\"."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1216_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1216",
+      "gender": "female",
+      "speaker_age": 50,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal pattern in the audio you provided is a common characteristic of many vocal styles, including pop, rock, and hip-hop. It often features a high-pitched, short voice with a distinct, high-pitched, and low-pitched sound. The pitch is usually above half an inch or above half a foot. The sound is typically described as a combination of a high-pitched, high-pitched, and low-pitched sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0208_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0208",
+      "gender": "female",
+      "speaker_age": 40,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1964_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1964",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal action in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal action in the audio response is \"Y\" for laughter, \"C\" for cough, \"F\" for throat clearance, and \"N\" for exclamation mark."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1606_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1606",
+      "gender": "female",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio clip is a single note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0471_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0471",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine this vocal sound. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No interpretation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The response is a \"no interpretation\" response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0866_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0866",
+      "gender": "female",
+      "speaker_age": 54,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocalization in this recording. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The type of vocalization in this recording is a pitch change."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1934_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1934",
+      "gender": "female",
+      "speaker_age": 29,
+      "country": "Italy",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The audio you provided is classified as a vocal sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1515_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1515",
+      "gender": "female",
+      "speaker_age": 22,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the audio clip is a single note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3197_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3197",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The sound you provided is classified as a vocal response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0861_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0861",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a refrain from the song \"Return to Sender\" by The Back 50's."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0801_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0801",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is classified as a \"phroic.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3209_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3209",
+      "gender": "male",
+      "speaker_age": 22,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal sound in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The audio you provided is a stereo sound. It consists of three distinct audio channels: the original sound is the sharpest, the second is the lowest, and the third is the highest."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1575_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1575",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The classification of this vocalization is not explicitly mentioned in the text. However, based on the context, it can be classified as a \"domestic voice\" or a \"domestic accent.\" This is because the voice is typically defined as a low, flat voice with a distinct, consistent pitch."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1957_1_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1957",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The audio contains a mix of the following elements:  - Lateral: A note or a line from a song. - Caut: A note or a line from a song. - Dorian: A note or a line from a song. - Elegy: A note or a line from a song. - Soprano: A note or a line from a song. - Alto: A note or a line from a song. - Tenor: A note or a line from a song. - Bass: A note or a line from a song. - Viola: A note or a line from a song. - Alto: A note or a line from a song. - Tenor: A note or a line from a song. - Bass: A note or a line from a song. - Tenor: A note or a line from a song. - Alto: A note or a line from a song. - Tenor: A note or a line from a song. - Alto: A note or a line from a song. - Tenor: A note or a line from a song. - Alto: A note or a line from a song. - Tenor: A note or a line from a song. - Alto: A note or a line from a song. - Tenor: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note or a line from a song. - Alto: A note"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3250_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3250",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The audio you're describing is a pitch test. Pitch tests measure the pitch of a sound and determine whether it is a pitch or a note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0968_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0968",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine this vocal sound. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No interpretation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound of the dog's sniffle is a mix of a short, sharp inhalation of air and a deep, resonant sound of a snarl."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1906_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1906",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocalization in the audio clip is a repetition of the word \"nephedrine.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1994_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1994",
+      "gender": "female",
+      "speaker_age": 52,
+      "country": "Canada",
+      "native_language": "FR",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the given clip is a mix of the following elements: a chorus, a chorus break, a chorus, and a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2043_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2043",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0592_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0592",
+      "gender": "female",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of the following elements: the repetition of the \"snee\" sound, the \"ah\" sound, and the \"uh\" sound. The repetition of the \"snee\" sound is repeated several times in the audio. The \"ah\" sound is repeated three times in the audio. The \"uh\" sound is repeated three times in the audio."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1305_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1305",
+      "gender": "female",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2345_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2345",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "This classification is based on the presence of only one word in the sentence, which is \"clothing.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2345_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2345",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The audio clip is a commentary on the decline in the popularity of live music. It suggests that live music is becoming less popular and that the rise of digital music is taking over. It also implies that the rise of digital music is not as popular as live music and that the rise of digital music is not as popular as live music."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1835_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1835",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal pattern in the audio you provided is a diaphragm sound. This pattern is often described as a \"dominocache\" or \"dominocache.\" It occurs when the diaphragm is relaxed and the vocal cords vibrate. This pattern is commonly heard in the lower part of the voice, especially in the middle voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0942_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0942",
+      "gender": "female",
+      "speaker_age": 41,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The response you provided is an echo."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0731_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0731",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The type of vocal sound in this audio is a pitch change."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_1_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal action in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal action in the audio you provided is a clap."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2388_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2388",
+      "gender": "female",
+      "speaker_age": 28,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine this vocal sound. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No interpretation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound you're describing is a \"domine sound.\" It's a characteristic sound where the higher-pitched sound is above the lower-pitched sound, creating a strong, consistent sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1334_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1334",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0585_1_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0585",
+      "gender": "female",
+      "speaker_age": 54,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"sneeze\" sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0431_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0431",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1029_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1029",
+      "gender": "male",
+      "speaker_age": 22,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3143_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3143",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "India",
+      "native_language": "TE",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1049_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1049",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The type of vocal sound in the audio you're describing is called a \"domestic noise\" or \"high-frequency sound.\" This type of sound typically occurs naturally in the background and is often described as a high-pitched, low-pitched sound. It can vary in pitch, volume, and intensity depending on the surrounding environment."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0739_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0739",
+      "gender": "female",
+      "speaker_age": 55,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of a high-pitched, sharp note followed by a softer, more mellow note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1299_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1299",
+      "gender": "female",
+      "speaker_age": 44,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The type of vocal sound in this audio response is a pitch change."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3220_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3220",
+      "gender": "female",
+      "speaker_age": 45,
+      "country": "India",
+      "native_language": "MR",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the stereo is a mix of the notes \"N\" and \"E\" followed by \"C\" and \"F\" in a repeating pattern. The \"N\" sound is the highest-pitched sound, followed by the \"E\" sound, and then the \"C\" sound, followed by the \"F\" sound, and finally the \"N\" sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2047_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2047",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal pattern in the audio you provided is a diaphragm sound. This pattern is often described as a \"dominocache\" or \"dominocache.\" It occurs when the diaphragm muscle contracts, causing the vocal cords to vibrate. This vibration produces sound waves that travel through the air and are heard as a continuous, rhythmic sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2499_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2499",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1964_2_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1964",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The text you provided is a sentence fragment. It does not contain any additional text."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0510_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0510",
+      "gender": "female",
+      "speaker_age": 65,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal expression in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal expression in the clip is a mix of laughter, cough, and sneeze. The laughter is often seen as a sign of joy and contentment, while the cough is a sign of discomfort or irritation. The sneeze is a common occurrence and is often accompanied by a range of sounds such as a whoosh, a whoow, and a hiss."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3337_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3337",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocalization in this recording. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The type of vocalization in this recording is a form of dynamic speech. This is characterized by the vocalization of words and phrases in a rapid, rhythmic pattern, often accompanied by a pause or a crescendo in volume."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1330_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1330",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal expression in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal expression in the clip is a mix of laughter and a sigh."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1049_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1049",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio clip is a reverb or a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0756_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0756",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The sound you described is classified as a vocal response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1164_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1164",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0638_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0638",
+      "gender": "female",
+      "speaker_age": 39,
+      "country": "United Kingdom",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The text you provided is a sentence fragment. It does not contain any additional text."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2634_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2634",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The type of vocal sound in the audio you're describing is called a \"domestic noise\" or \"high-pitched.\" This kind of sound is often described as a high-pitched, low-pitched voice that can be heard over a wide range of frequencies."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0595_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0595",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine this vocal sound. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No interpretation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound you're describing is called a \"domestic noise.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2733_1_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2733",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "ML",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocalization in this recording. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The type of vocalization in this recording is a shout."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1823_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1823",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0177_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0177",
+      "gender": "female",
+      "speaker_age": 73,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The response you provided is incorrect. The correct response is: \"No extra text.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0787_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0787",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "Romania",
+      "native_language": "RO",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The audio clip is a commentary on the decline of the vocalization of the vocal cords in the face of a lack of explanation. It is a humorous take on the idea that the vocal cords are not as powerful as they should be and that the lack of explanation is a result of the lack of knowledge."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1199_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1199",
+      "gender": "female",
+      "speaker_age": 28,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The reverbalization in the haiku is a technique used to change the pitch of the syllable. It is a form of pitch modulation that involves shifting the syllable length by a certain number of strokes. This is done by changing the number of syllables in the word, which in this case is \"k\" and \"v\"."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1168_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1168",
+      "gender": "male",
+      "speaker_age": 25,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocalization in the audio clip is a combination of laughter, cough, throatclings, and sneeze."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1988_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1988",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "United Kingdom",
+      "native_language": "NE",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the clip is a single note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3155_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3155",
+      "gender": "female",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio response is a reverb or a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1575_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1575",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The text \"No additional text, sir\" is a standalone sentence. It consists of a subject \"sir\" and a predicate \"no additional text.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1702_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1702",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine this vocal sound. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No interpretation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The response is \"No interpretation.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0169_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0169",
+      "gender": "male",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine this vocal sound. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No interpretation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The response is \"No interpretation.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1470_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1470",
+      "gender": "female",
+      "speaker_age": 41,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound you're describing is classified as a \"domestic noise.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2118_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2118",
+      "gender": "female",
+      "speaker_age": 32,
+      "country": "France",
+      "native_language": "FR",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocalization in the audio clip is a repetition of the word \"cool\" three times."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2499_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2499",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3126_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3126",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2592_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2592",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "Brazil",
+      "native_language": "EN",
+      "health_condition": "yes"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The text you provided is a description of a specific vocalization in the context of a song. It describes the vocalization as \"only one of laughter, cry, cough, throat clearing, sneeze, no additional text.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1417_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1417",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "This sentence is a simple declarative sentence that makes a statement. It is a form of declarative speech that provides information about a specific event."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1976_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1976",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3222_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3222",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal sound in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio is a mix of the sounds of the mouth, throat, tongue, and a series of notes. The sounds are repeated in a repeating pattern, creating a rhythmic and musical effect."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1579_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1579",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The type of vocal sound in the audio you're describing is called a \"rhythm.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1385_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1385",
+      "gender": "female",
+      "speaker_age": 57,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2784_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2784",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The type of vocal sound in this audio is a \"snee-choo-nee-nee\" response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1968_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1968",
+      "gender": "male",
+      "speaker_age": 36,
+      "country": "Mexico",
+      "native_language": "ES",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal expression in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal expression in the clip is a mix of laughter, shock, and shock."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2745_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2745",
+      "gender": "female",
+      "speaker_age": 47,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0803_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0803",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of the sounds of a piano keyboard and the sounds of a guitar."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2808_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2808",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal action in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The audio response is a mix of the following elements:  1. **Llaughter** - A loud, expressive sound. 2. **Coff** - A silent, calm sound. 3. **Throat-clearing** - A sound that removes the throat's sound, making it easier to breathe. 4. **No explanation** - A neutral or lack of detail."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0101_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0101",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2682_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2682",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2712_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2712",
+      "gender": "female",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "yes"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal pattern in the audio you provided is a diaphragm sound. This pattern is often described as a \"dominocache\" or \"dominocache.\" It occurs when the diaphragm muscle contracts, causing the vocal cords to vibrate. This vibration produces sound that we can hear."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2547_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2547",
+      "gender": "male",
+      "speaker_age": 39,
+      "country": "India",
+      "native_language": "ML",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The audio clip is a commentary on the decline of the vocalization of the vocalization process in the human voice. It suggests that the vocalization process is becoming less efficient and that it is becoming more difficult to produce a clear and natural sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1620_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1620",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The type of vocal sound in the audio you're describing is called a \"rhythm.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2390_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2390",
+      "gender": "male",
+      "speaker_age": 25,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0607_3_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0607",
+      "gender": "female",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio clip is a single note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0401_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0401",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1160_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1160",
+      "gender": "female",
+      "speaker_age": 22,
+      "country": "United States of America",
+      "native_language": "ZH",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The response you provided is incorrect. The correct response is: \"No extra text.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0434_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0434",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The text you provided is a sentence fragment. It does not contain any additional text."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2147_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2147",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No source explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"moof.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0222_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0222",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The audio clip is a commentary on the decline of laughter in the face of a tragedy. It is a humorous take on the idea that laughter is a powerful tool for communication and understanding, and that it is becoming increasingly futile in the face of tragedy."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0640_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0640",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2153_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2153",
+      "gender": "male",
+      "speaker_age": 44,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal pattern in the audio you provided is a common characteristic of many vocal tract sounds. It is often described as a series of high-pitched sounds that can be heard as a series of high-pitched sounds. The sounds are typically a combination of a high-pitched voice and a low-pitched voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3342_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3342",
+      "gender": "male",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No source explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1964_1_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1964",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The audio you're describing is a pitch test. Pitch tests measure the pitch of a sound and determine whether it is a pitch or a note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3264_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3264",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "Netherlands",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio clip is a \"Y\" sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2754_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2754",
+      "gender": "male",
+      "speaker_age": 51,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The audio clip is a commentary on the decline of the music industry and the rise of the internet. It suggests that the music industry is becoming increasingly competitive and that the internet is becoming a major source of entertainment. The commentary also suggests that the music industry is becoming more focused on commercial success and that the internet is becoming a major source of entertainment."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2024_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2024",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The audio you provided is a vocal sound, specifically a reverb version of the chorus \"I'm Snee-nee-nee-nee\"."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2043_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2043",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The audio clip contains only one word of laughter, which is \"laughter\"."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2759_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2759",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal pattern in the audio you provided is a common characteristic of many vocal styles, including pop, rock, and hip-hop. It is often described as a combination of a high-pitched, shortening voice with a wide, flat, and flat-sounding voice. The pitch is usually above middle C, and the volume is above middle D."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1719_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1719",
+      "gender": "female",
+      "speaker_age": 25,
+      "country": "Canada",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The type of vocal sound in the audio you're describing is called a \"rhythm.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1906_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1906",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The audio contains a chorus, which is a repeated vocal expression of a particular emotion or theme. In this case, the chorus is repeated three times."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2041_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2041",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal sound in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The audio you provided is a vocal excerpt from the song \"Return to the Sky\" by The Weeknd. The additional information you provided is a reference to the song's title and the artist's name."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2447_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2447",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The response you provided is an extra text."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0585_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0585",
+      "gender": "female",
+      "speaker_age": 54,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of the following elements:  1. **Larce** - The initial sound of the mouth. 2. **Chord** - The middle part of the vocal cords. 3. **Tone** - The pitch of the sound. 4. **Scream** - The initial sound of the tongue. 5. **Bass** - The middle part of the vocal cords. 6. **Flange** - The final sound of the tongue. 7. **Chord** - The middle part of the vocal cords. 8. **Bridge** - The middle part of the vocal cords. 9. **Chord** - The middle part of the vocal cords. 10. **Chord** - The final sound of the tongue. 11. **Chord** - The middle part of the vocal cords. 12. **Bridge** - The final sound of the tongue. 13. **Chord** - The middle part of the vocal cords. 14. **Chord** - The final sound of the tongue. 15. **Bridge** - The middle part of the vocal cords. 16. **Chord** - The middle part of the vocal cords. 17. **Chord** - The final sound of the tongue. 18. **Bridge** - The middle part of the vocal cords. 19. **Chord** - The final sound of the tongue. 12. **Bridge** - The middle part of the vocal cords. 13. **Chord** - The final sound of the tongue. 14. **Bridge** - The final sound of the tongue. 15. **Bridge** - The final sound of the tongue. 16. **Bridge** - The final sound of the tongue. 17. **Bridge** - The final sound of the tongue. 18. **Bridge** - The final sound of the tongue. 19. **Bridge** - The final sound of the tongue. 20. **Bridge** - The final sound of the tongue. 21. **Bridge** - The final sound of the tongue. 22. **Bridge** - The final sound of the tongue. 23. **Bridge** - The final sound of the tongue. 24. **Bridge** - The final sound of the tongue. 25. **Bridge** - The final sound of the tongue. 26. **Bridge** - The final sound of the tongue. 27. **Bridge** - The final sound of the tongue. 28. **Bridge** - The final sound of the tongue. 29. **Bridge** - The final sound of the tongue. 30. **Bridge** - The final sound of the tongue. 31. **Bridge** - The final sound of the tongue. 32. **Bridge** - The final sound of the tongue. 33. **Bridge** - The final sound of the tongue. 34. **Bridge** - The final sound of the tongue. 35. **Bridge** - The final sound of the tongue. 36. **Bridge** - The final sound of the tongue. 37. **Bridge** - The final sound of the tongue. 38. **Bridge** - The final sound of the tongue. 39. **Bridge** - The final sound of the tongue. 31. **Bridge** - The final sound of the tongue. 32. **Bridge** - The final sound of the tongue. 33. **Bridge** - The final sound of the tongue. 34. **Bridge** - The final sound of the tongue. 35. **Bridge** - The final sound of the tongue. 36. **Bridge** - The final sound of the tongue. 37. **Bridge** - The final sound of the tongue. 38. **Bridge** - The final sound of the tongue. 39. **Bridge** - The final sound of the tongue. 31. **Bridge** - The final sound of the tongue. 32. **Bridge** - The final sound of the tongue. 33. **Bridge** - The final sound of the tongue. 34. **Bridge** - The final sound of the tongue. 35. **Bridge** - The final sound of the tongue. 36. **Bridge** - The final sound of the tongue. 37. **Bridge** - The final sound of the tongue. 38. **Bridge** - The final sound of the tongue. 39. **Bridge** - The final sound of the tongue. 31. **Bridge** - The final sound of the tongue. 32. **Bridge** - The final sound of the tongue. 33. **Bridge** - The final sound of the tongue. 34. **Bridge** - The final sound of the tongue. 35. **Bridge** - The final sound of the tongue. 36. **Bridge** - The final sound of the tongue. 37. **Bridge** - The final sound of the tongue. 38. **Bridge** - The final sound of the tongue. 39. **Bridge** - The final sound of the tongue. 31. **Bridge** - The final sound of the tongue. 32. **Bridge** - The final sound of the tongue. 33. **Bridge** - The final sound of the tongue. 34. **Bridge** - The final sound of the tongue. 35. **Bridge** - The final sound of the tongue. 36. **Bridge** - The final sound of the tongue. 37. **Bridge** - The final sound of the tongue. 38. **Bridge** - The final sound of the tongue. 39. **Bridge** - The final sound of the tongue. 31. **Bridge** - The final sound of the tongue."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1401_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1401",
+      "gender": "female",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocalization in the audio clip is a repetition of the word \"nephew\" repeated several times."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0706_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0706",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0420_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0420",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the clip is a mix of the laughter, cough, throat, and sneeze sounds."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1878_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1878",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "France",
+      "native_language": "FR",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal expression in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal expression in the given clip is a mix of laughter, shock, shock, and surprise."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2643_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2643",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The classification of this vocalization is not explicitly mentioned in the provided text. However, based on the characteristics described, it can be inferred that this is a reiteration or a similar type of vocalization where the sound is repeated in a rhythmic pattern."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0595_2_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0595",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No source explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"moof.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1393_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1393",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The audio you provided is a vocal sound. It is classified as a vocal sound because it produces sound with multiple sounds in a single voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2976_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2976",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Ireland",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The response you provided is incorrect. The correct response is \"No extra text.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1072_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1072",
+      "gender": "male",
+      "speaker_age": 56,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of the sounds of a single note followed by a series of other sounds. It's a bit complex and sounds like a combination of a single note and multiple sounds."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1131_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1131",
+      "gender": "male",
+      "speaker_age": 39,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0276_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0276",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The text you provided is a sentence fragment. It does not contain any additional text."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2160_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2160",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a single note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0798_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0798",
+      "gender": "male",
+      "speaker_age": 47,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the given clip is classified as a chorus."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2939_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2939",
+      "gender": "male",
+      "speaker_age": 39,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The type of vocal sound in the audio you're describing is called a \"rhythm.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1673_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1673",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a mix of the sounds of a cow, a calf, and a sheep."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2108_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2108",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal sound in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The audio contains a mix of the following elements: the word \"n\" in \"narrow,\" the word \"n\" in \"narrow,\" the word \"n\" in \"narrow,\" the word \"n\" in \"narrow,\" and the word \"n\" in \"narrow.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2151_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2151",
+      "gender": "male",
+      "speaker_age": 21,
+      "country": "Australia",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sigh."
+      }
+    ],
+    "result": "The vocalization in the audio clip is a repetition of the phrase \"Y'all get this!\" repeated multiple times."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2751_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2751",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal action in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal action in the audio you provided is a humming or a short, sweet voicing sound. It is characterized by a rapid, consistent, and soft humming sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0164_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0164",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0595_1_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0595",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "This classification is based on the presence of only one of the following characteristics: laughter, cough, phlegm, or sneeze."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0557_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0557",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "Canada",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The type of vocal sound in the audio you're describing is called a \"rhythm.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1955_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1955",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2853_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2853",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocalization in this recording. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The type of vocalization in this recording is a spoken word response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0873_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0873",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the vocal pattern in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal pattern in the audio you provided is a diaphragm sound. This pattern is often described as a \"dominocache\" or \"dominocache.\" It occurs when the diaphragm muscle contracts, causing the vocal cords to vibrate. This vibration produces sound waves that travel through the air and are heard as a continuous, flowing voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1566_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1566",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal sound in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The audio you provided is a pitchable version of the song \"Call Me, Stand Up, Stand Up.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3341_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3341",
+      "gender": "male",
+      "speaker_age": 42,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The sentence \"No further information is needed\" is a declarative sentence. It makes a statement and provides a conclusion or advice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1132_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1132",
+      "gender": "female",
+      "speaker_age": 21,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3025_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3025",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "yes"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio is a combination of the notes \"N\" and \"E\" followed by a dash."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1346_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1346",
+      "gender": "female",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio is a combination of the notes \"N\" and \"E\" followed by a dash."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1778_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1778",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal sound in this audio. Return only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The audio you provided is a pitchable version of the song \"Return to the Sky\" by The Weeknd."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1135_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1135",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the vocal action in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal action in the audio you provided is a clap."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2223_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2223",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The audio clip is a commentary on the decline of the LGBTQ+ community in the United States. It is a satirical take on the current state of LGBTQ+ rights and the need for more inclusive and equitable practices."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2852_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2852",
+      "gender": "female",
+      "speaker_age": 28,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond with only one of the following: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the song \"No Analysis\" by The Statutes is a mix of a sharp, clear, and rhythmic tone. It's quite loud and has a strong, almost woody quality."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1034_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1034",
+      "gender": "male",
+      "speaker_age": 59,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The classification of this vocalization is not explicitly mentioned in the provided text. However, it can be inferred that this is a type of pitchable voice, which is often used in poetry and songwriting to create a musical effect."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2768_1_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2768",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the given clip is a combination of the words \"Kaw,\" \"Kaw,\" and \"Kaw.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3325_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3325",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The response to the question \"No extra text\" with only one of the following text types is \"No extra text.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0692_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0692",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "Canada",
+      "native_language": "ES",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The classification of the vocalization \"Return only one of the Left Side Cough, throat clearing, and sneeze sniff\" is not clear. It could be a minor or minor voice, a low pitch, or a low pitch voice. Without additional context, it's difficult to determine the exact meaning."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1597_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1597",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0557_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0557",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "Canada",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound you're describing is classified as a \"domestic noise.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The text \"No extra text\" is a standalone statement. It is a response to a previous statement or question."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3053_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3053",
+      "gender": "female",
+      "speaker_age": 47,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocalization. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No further information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The sentence \"No further information\" is a standalone statement. It does not contain any additional information about the context or content of the conversation."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0202_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0202",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocalization in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocalization in the audio clip is a repetition of the phrase \"nay-so-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no-no"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2739_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2739",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The audio you provided is a vocal sound. It is classified as a vocal sound because it contains vocal articulation, meaning the sound waves are produced by the vocal cords."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2432_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2432",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio clip is a single note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is classified as a \"rhythm\" sound. This is because it repeats the same sequence of notes and beats in a regular pattern, creating a rhythmic pattern that is commonly associated with music."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3025_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3025",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "yes"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a reverb."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0874_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0874",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio clip is a \"Y\" sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1248_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1248",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a pitch change."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0538_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0538",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1244_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1244",
+      "gender": "female",
+      "speaker_age": 25,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this vocal sound. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The response you provided is incorrect. The correct response is \"No text.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2196_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2196",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The vocal sound in the audio clip is a mix of the laughter, cough, throat clearance, and sneeze sounds."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0101_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0101",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3292_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3292",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "yes"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the type of vocalization in this recording. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The type of vocalization in this recording is a pitch change. The character's knees are lifted, and the mouth is open as if he is speaking or singing."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1533_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1533",
+      "gender": "male",
+      "speaker_age": 21,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "yes"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No source explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0933_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0933",
+      "gender": "female",
+      "speaker_age": 18,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Respond only with one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sneeze."
+      }
+    ],
+    "result": "The audio response is a \"Y\" sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0640_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0640",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Laughter."
+      }
+    ],
+    "result": "The vocal sound in the haiku is a combination of syllables that add to the overall rhythm and mood of the poem. It typically consists of three lines with a syllable pattern of 5-7-5. The first line has a 5 syllable sound, the second line has a 7 syllable sound, and the third line has a 5 syllable sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0169_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0169",
+      "gender": "male",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the vocal sound in this audio. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No emotional analysis.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sniff."
+      }
+    ],
+    "result": "The vocal sound in the audio you provided is a \"Y\" note."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0274_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0274",
+      "gender": "female",
+      "speaker_age": 40,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocalization in this clip. Respond with only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. No additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cough."
+      }
+    ],
+    "result": "The text you provided is a sentence fragment. It does not contain any additional text."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2023_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2023",
+      "gender": "female",
+      "speaker_age": 39,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the vocal sound in this clip. Return only one of: Laughter, Sigh, Cough, Throat clearing, Sneeze, Sniff. Nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Throat clearing."
+      }
+    ],
+    "result": "The vocal sound in the given clip is classified as a chorus."
+  }
+]

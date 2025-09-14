@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "27110",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare the two objects.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Apples and oranges are both types of fruit, but they are different in many ways. Apples are generally round and juicy, while oranges are typically oblong and sweet. Apples have a hard, smooth skin and a core, while oranges have a thin peel and multiple strips of flesh. Apples tend to be more tart, while oranges are sweeter."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\27110_EN-BR_0.6_3.wav"
+    ],
+    "result": "Sure! A wall is typically solid and used for support or decoration, while an orange is round, orange in color, and used mainly for eating. They serve very different functions but both have their unique purposes! What got you thinking about this comparison?"
+  },
+  {
+    "id": "38228",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Name one item from the following categories.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rose."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\38228_EN-Default_1.2_3.wav"
+    ],
+    "result": "How about a sunflower? They're not only beautiful but also symbolize positivity and growth. What other categories are you curious about?"
+  },
+  {
+    "id": "40177",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Summarize the following text in 10 words or less.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Technology improving life with better access."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\40177_EN-AU_0.8_6.wav"
+    ],
+    "result": "科技发展迅速，生活巨变，信息更灵通，交流更便捷，产品更优质。"
+  },
+  {
+    "id": "33252",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compose a tweet summarizing what happened in the following scene.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Once upon a time, a brave knight ventured deep into a dark forest and faced off against a fearsome dragon. Despite the fierce firebreath he faced, the knight was able to outwit the dragon, saving the day! #dragonmyth #braveknights #clevertrickery"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\33252_EN-AU_0.8_7.wav"
+    ],
+    "result": "#OnceUponATime: The Brave Knight and the Fearless Dragon! One day, our hero ventured deep into a dark forest, where he encountered a fierce dragon. With a swift sword swing, the knight attacked, but the dragon's fiery breath was unstoppable! In a daring move, the knight jumped back, tricking the dragon into crashing into a large tree. # EpicFairyTale # DragonDefeat # HeroicJourney"
+  },
+  {
+    "id": "26945",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Write a review of the restaurant you visited last week.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "I recently visited The Countryside Kitchen and had a wonderful experience. The food was delicious with the perfect balance of flavor and the service was outstanding: the waitstaff was friendly and attentive. The ambiance of the restaurant was cozy with a rustic charm. Overall, I had a great time and would definitely recommend The Countryside Kitchen to friends and family."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\26945_EN-Default_0.6_7.wav"
+    ],
+    "result": "That sounds like a lovely place! How was your experience? Did you try any of their special dishes?"
+  },
+  {
+    "id": "31759",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the following statement accurate?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, the second statement of the Declaration of Independence was written by Thomas Jefferson."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\31759_EN-BR_0.6_2.wav"
+    ],
+    "result": "是的，第二段文字是托马斯·杰斐逊写的。他是美国著名的政治家和哲学家，也是《独立宣言》的主要起草人之一。这段文字强调了人人生而平等，拥有某些不可剥夺的权利。"
+  },
+  {
+    "id": "37122",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a list of technical requirements, create a process document describing the implementation process.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The implementation process should include the following steps: \n1. Analyze the system requirements and create a technical plan.\n2. Download and install the required software.\n3. Ensure that the application is properly configured and functioning as expected.\n4. Perform necessary tests to confirm its stability and correctness.\n5. Deploy the application on a live environment."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\37122_EN-AU_1.0_6.wav"
+    ],
+    "result": "Alright, let's break it down! First, we need to ensure the development environment is set up with all necessary tools and dependencies. This includes setting up version control,安装开发软件，和 configuring the build system. Then, we'll dive into integrating the third-party libraries and setting up the database. After that, we'll write the core functionality, focusing on modularity and reusability. Testing is key, so we'll set up unit and integration tests. Finally, we'll deploy the application to a staging environment for user acceptance testing before going live. And remember, regular maintenance and updates are crucial to keep everything running smoothly!"
+  },
+  {
+    "id": "43716",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the central theme of the following text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The central theme of the text is overcoming adversity."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\43716_EN-Default_1.0_3.wav"
+    ],
+    "result": "从这段话中可以看出来，约翰的生活充满了起伏。他出生在一个富有的家庭，享受着许多特权，但他的父亲去世后，他不得不独立面对生活中的各种挑战。尽管经历了经济困难、健康问题以及与家人的关系破裂，他仍然坚持自己的信念，并最终找到了属于自己的方向。这段经历让他变得更加坚强和成熟。"
+  },
+  {
+    "id": "49710",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a poem given a theme.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Gratitude is like a seed,\nPlanted deep within my heart;\nIt blooms with love and faith,\nA cherished, solemn art.\n\nThrough every heavy rain,\nEach bitter tear I shed;\nIt remains alive in me,\nThe gift of gratitude.\n\nThe morning sun will rise,\nAllowing me to see;\nThe courage and fortitude,\nAllowing me to be.\n\nFor all the blessings I receive,\nFor the troubles I don't see;\nMy gratitude will stay with me,\nForever I have faith in me."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\49710_EN-AU_1.2_2.wav"
+    ],
+    "result": "Sure, here's a gratitude poem for you:\n\nIn life's rich tapestry, grace unfolds each day,\nA heart full of thanks, a light to guide the way.\n\nBlessings surround us, like stars in the night sky,\nEach one a gift, a reminder to prize.\n\nIn joy and in sorrow, gratitude's voice does ring,\nA simple thank-you, a song of the soul, it's the magic in the things we sing.\n\nSo let's raise our glasses, to health and to peace,\nWith hearts full of gratitude, we'll always be blessed."
+  },
+  {
+    "id": "8213",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a sentence, restructure the sentence using the given array of words.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "We had a wonderful evening."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\8213_EN-Default_1.2_2.wav"
+    ],
+    "result": "We had a wonderfully evening."
+  },
+  {
+    "id": "2994",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze a sentence \"The apple was red\"<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The statement is a simple declarative sentence which is factual and true. The subject is the apple and the predicate is that it was red."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\2994_EN-AU_0.6_3.wav"
+    ],
+    "result": "Alright, let's break it down. 'The' is an article. 'Apple' is a noun. 'Was' is a verb indicating the past tense. 'Red' is an adjective describing the color of the apple. So, put together, it's 'The apple was red.' It's a simple sentence, but it gives us all the information we need!"
+  },
+  {
+    "id": "43540",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using the following data, calculate the average temperature: 12, 14, 9, 11, 10<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The average temperature is 11 degrees."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\43540_EN-BR_1.2_1.wav"
+    ],
+    "result": "好的，我来帮你算一下。这些温度的平均值是11.2度。需要我再解释一下计算过程吗？"
+  },
+  {
+    "id": "7848",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Organize the following list of musical instruments in a descending order based on their size.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Drums, Guitar, Violin, Trumpet"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\7848_EN-AU_1.2_2.wav"
+    ],
+    "result": "Alright, let's organize these instruments from largest to smallest. Here we go:\n\n1. Drums\n2. Violin\n3. Trumpet\n4. Guitar\n\nThe drums take the top spot, followed by the violin, then the trumpet, and finally the guitar. Drums are definitely the biggest and heaviest!"
+  },
+  {
+    "id": "31866",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a list of words, create a new word by combining them.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Catbook"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\31866_EN-AU_1.2_8.wav"
+    ],
+    "result": "Sure! Here's a new word: 'catbook'. It's a fun blend of 'cat' and 'book'. You can imagine a book filled with cute cat pictures or cat-themed stories. What do you think?"
+  },
+  {
+    "id": "3515",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Write a movie script for a scene based on this description.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "INT. CAFE - DAY \n\nFour friends sit around a small circular table in a cafe, laughing and talking. \n\nKARA\n(still laughing)\nOh my god, you won't believe what happened...\n\nMATT\nWhat, what happened?\n\nKARA\nSo I was trying to order my coffee and I accidentally spilled it all over the barista!\n\nMATT\n(busting out in laughter)\nNo way!\n\nJOHN\nOh man!\n\nThe friends continue to laugh and talk.  The camera zooms out as the scene fades away."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\3515_EN-US_1.0_2.wav"
+    ],
+    "result": "好，那我们开始吧！场景设定在一个阳光明媚的下午，四名好友坐在一家咖啡馆的窗边。他们有说有笑，非常开心。突然，一个人提到一个有趣的旅行计划，引起了大家的浓厚兴趣。他们开始热烈讨论各自的旅行经历和梦想。这时，咖啡馆的服务员走了过来，为他们送上续杯的咖啡。整个场景充满了欢声笑语，非常愉快。"
+  },
+  {
+    "id": "47573",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe a role appropriate to the given character<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The charismatic teenager could be a student leader, class representative, or team captain, who uses their natural confidence and charm to lead, inspire, and motivate those around them."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\47573_EN-US_1.0_7.wav"
+    ],
+    "result": "Alright, picture this: a charismatic teenager with a dazzling smile and a confident stride. They've got this unique ability to light up any room with their lively personality and sharp wit. Always in the center of attention, they breeze through social gatherings with ease, making new friends left and right. With a passion for fashion and a flair for the dramatic, they're not afraid to stand out and are often the life of the party. But beneath all that charm, they've got a kind heart and a true desire to make a positive impact on those around them."
+  },
+  {
+    "id": "25170",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Write one sentence that explains what happened in the given scene.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The grandmother was assisting the child in selecting a toy."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\25170_EN-AU_0.6_2.wav"
+    ],
+    "result": "The grandmother was gently helping the child pick out a toy from the many options available in the store. She was carefully considering the child's interests and preferences, aiming to choose something that would bring joy and excitement."
+  },
+  {
+    "id": "11303",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the given sentence in one word<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Humility."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\11303_EN-BR_1.0_4.wav"
+    ],
+    "result": "Humility."
+  },
+  {
+    "id": "5386",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the given phrase in one sentence.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "In a precarious situation, or close to something undesirable happening."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\5386_EN-Default_0.8_7.wav"
+    ],
+    "result": "'On the edge' 可以翻译成 '在边缘上'。它通常用来描述一种状态，比如情感上的紧张或形势上的危险。比如，'He feels on the edge because of the job pressure' 就是说 '他因为工作压力感到紧张'。还有，'The country is on the edge of a financial crisis' 意思是 '这个国家处于财政危机的边缘'。总之，这个短语能传达出一种不稳定或即将发生重大变化的感觉。"
+  },
+  {
+    "id": "37621",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Suggest a reasonable price for this product.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "$2.50"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\37621_EN-BR_0.8_1.wav"
+    ],
+    "result": "两听饮料的价格因地区和品牌而异。通常在1.5到3美元之间。如果你指的是特定品牌或特别大小的瓶子，告诉我更多信息吧。"
+  },
+  {
+    "id": "41138",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Summarize this blog post into two sentences.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Modern web design trends combine traditional and contemporary elements, such as flat design, layout, typography, visuals, and more to create a functional and stylish look. Additionally, designers are exploring new ways of presenting content that stand out from the crowd."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\41138_EN-Default_1.0_4.wav"
+    ],
+    "result": "This blog post highlights the fusion of traditional and modern web design elements, creating a stylish and functional look. It emphasizes flat design, layout, typography, and visuals."
+  },
+  {
+    "id": "2628",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a sales pitch that would convince a customer to buy a specific item.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "This Functional Backpack is the perfect accessory for all your outdoor adventures! It's made with lightweight yet durable material that offers superior protection for your items and keeps them safe from any weather condition. The adjustable and comfortable straps make it easy to carry around and the external pockets are perfect for storing important items and keeping them easy to reach. With its multitude of uses, this Functional Backpack is a must-buy for any serious outdoor enthusiast!"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\2628_EN-US_1.2_7.wav"
+    ],
+    "result": "Hey there! Have you been looking for the perfect backpack to carry all your essentials with style? Look no further! Our new functional backpack is the ultimate companion for your daily adventures. It's designed with multiple compartments to keep your items organized, a comfortable shoulder strap for all-day carrying, and a sleek, stylish外观 that complements any outfit. Whether you're heading to work, school, or a weekend getaway, this backpack has got you covered. Grab one today and experience the difference!"
+  },
+  {
+    "id": "45641",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the following sentence as positive, negative, or neutral sentiment.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutral sentiment."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\45641_EN-AU_1.2_3.wav"
+    ],
+    "result": "根据你的描述，这个句子是中性的。它既没有表达积极的情感，也没有表达消极的情感。只是简单描述了一个事实。"
+  },
+  {
+    "id": "26508",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Summarise the following story in one sentence<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Timmy was shocked when a strange man offered him a chocolate bar when they encountered each other on his walk home from school."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\26508_EN-BR_1.2_5.wav"
+    ],
+    "result": "Timmy, a curious boy, encountered an unknown man and accepted a chocolate bar, starting a friendship that led to incredible adventures."
+  },
+  {
+    "id": "22720",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Edit the statement below and make it more formal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "I am fond of animals."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\22720_EN-BR_1.2_7.wav"
+    ],
+    "result": "I enjoy watching elephants."
+  },
+  {
+    "id": "5823",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the following number is even or odd.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Even."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\5823_EN-US_0.8_6.wav"
+    ],
+    "result": "46 是偶数，因为它可以被 2 整除。"
+  },
+  {
+    "id": "34076",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given an event, generate a sentence that summarizes the event.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The 2021 Olympic Games will take place in Tokyo, Japan."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\34076_EN-BR_0.8_1.wav"
+    ],
+    "result": "The 2020 Olympic Games, originally scheduled for 2020, will be held in Tokyo, Japan. Due to the COVID-19 pandemic, the games were postponed to 2021. Despite the challenges, the event is expected to be a grand celebration of sportsmanship and international unity."
+  },
+  {
+    "id": "5177",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Edit the following sentence grammatically and make it more concise.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The teens strollied through the bustling city streets."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\5177_EN-Default_1.2_3.wav"
+    ],
+    "result": "A group of adolescents was walking through the busy streets of the city."
+  },
+  {
+    "id": "42168",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a sentence to complete the following story:<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "She could see the kingdom down below, and watched over her beloved subjects with a heavy heart."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\42168_EN-US_1.0_2.wav"
+    ],
+    "result": "The prince, determined to break the curse, embarked on a quest, facing试炼与危险，最终解除了诅咒，救ed the princess, and brought joy back to the kingdom."
+  },
+  {
+    "id": "47773",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Find out the average age of the participants in the survey.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The average age of the participants in the survey is 40.5."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\47773_EN-Default_0.6_3.wav"
+    ],
+    "result": "Alright, let's calculate the average age of the participants. We have a total of 100 participants, and their ages range from 9 to 72. To find the average, we sum up all the ages and then divide by the number of participants. So, (9 + 72) / 100 = 36.5. The average age of the participants is 36."
+  },
+  {
+    "id": "23295",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Propose a plan to increase the efficiency of the process.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One way to increase the efficiency of creating company reports is to make use of automation. Automation software can be used to streamline the process by automatically collecting data, generating templates for reports, and creating detailed visualizations of the data. Automation can also help to reduce errors and increase accuracy, as the software can be trained to understand the process and apply it consistently. Additionally, the use of automation can also help to reduce manual labor, freeing up resources to focus on other tasks."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\23295_EN-US_1.2_5.wav"
+    ],
+    "result": "Alright, creating company reports sounds like a big task! Let's break it down:\n\n1. **Determine Purpose and Audience**: Who are you making this report for? Investors, clients, or management? Knowing this helps you prioritize information.\n\n2. ** Gather Data**: Compile all the necessary information, like financials, project statuses, and market trends. Make sure it's up-to-date.\n\n3. ** Choose a Template**: Use a professional template to keep your report consistent and easy to read. You can find many online.\n\n4. ** Organize Content**: Typically, a report has sections like an executive summary, overview, financials, operations, market analysis, and future outlook. Order your content logically.\n\n5. ** Write and Edit**: Keep your language clear and concise. Proofread carefully to avoid errors.\n\n6. ** Include Visual Aids**: Charts, graphs, and tables can make your report easier to understand. Just make sure they're relevant.\n\n7. ** Review and Approve**: Have someone else review your report for clarity and accuracy before finalizing it.\n\n8. ** Distribution**: Share the report with the intended recipients using your company's preferred method (email, intranet, etc.).\n\nCreating a report might seem daunting, but with a clear plan and attention to detail, it can be a straightforward process. How's the progress on your report looking?"
+  },
+  {
+    "id": "37306",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create a machine learning model with given data points.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Model: y = 2x + 1"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\37306_EN-BR_0.6_3.wav"
+    ],
+    "result": "好的，请提供数据点的具体信息，我来帮你创建机器学习模型。"
+  },
+  {
+    "id": "248",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the impact of the following article on global warming<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The use of electric cars instead of gas powered cars can potentially reduce global warming, since electric cars emit far lower emissions than gasoline cars. This trend can also help reduce air pollution, making our air and environment healthier."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\248_EN-US_1.0_4.wav"
+    ],
+    "result": "That sounds like a great article! Using electric cars instead of gas-powered ones can really help reduce greenhouse gas emissions and combat climate change. Electric cars are also quieter, which is a bonus. It's encouraging to see more people switching to electric cars, as it's a practical way to make a positive impact on the environment."
+  },
+  {
+    "id": "39009",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the given argument and tell the correct conclusion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "False"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\39009_EN-AU_1.2_8.wav"
+    ],
+    "result": "The argument is valid. If all owls are animals and Fido is an owl, then Fido must be an animal. Since all animals are cats, Fido must also be a cat. The conclusion follows logically from the premises."
+  },
+  {
+    "id": "9223",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Find the rhyming word for the following word<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rope"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\9223_EN-BR_0.6_5.wav"
+    ],
+    "result": "The rhyming word for \"hoop\" is \"loop.\""
+  },
+  {
+    "id": "15751",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Modify a sentence to make it more active<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "He walked around the park."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\15751_EN-Default_0.8_1.wav"
+    ],
+    "result": "He wandered around the park, taking in the sights and enjoying the fresh air."
+  },
+  {
+    "id": "1782",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Rewrite the sentence given, but keep its meaning the same.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "He couldn't wait to go to the party tonight!"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\1782_EN-BR_0.6_4.wav"
+    ],
+    "result": "他今晚要去参加派对，兴奋得不得了！"
+  },
+  {
+    "id": "26418",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify each of the following items<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Beetles: Insect \nMoss: Plant \nOak Tree: Plant"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\26418_EN-US_1.0_3.wav"
+    ],
+    "result": "This is a type of tree known as an oak. It's a common name for several species in the Quercus genus, which are characterised by their lobbed leaves and acorn fruits. In the context of \"Beetles Moso Tree,\" \"Moso\" might just be a variation or a specific name for a type of oak tree. Is there anything else you'd like to know about oak trees?"
+  },
+  {
+    "id": "35298",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the topic of the given paragraph.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The topic of the paragraph is the World Wide Web (WWW)."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\35298_EN-AU_1.0_2.wav"
+    ],
+    "result": "The World Wide Web, often abbreviated as the Web, is a vast space on the internet where information is stored and accessed. It's like a huge library where you can find almost anything, from news articles to movies, and even games. The Web is what makes the internet so powerful and useful for people all over the world."
+  },
+  {
+    "id": "45136",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Pick two of the entities in the given text and compare them.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Apple and Microsoft are two of the largest technology companies in the world. While they both offer a wide range of products and services, Apple is primarily known for its hardware and software products such as the iPhone and iPad, while Microsoft is chiefly known for its software products such as Windows and Office 365. While both companies have made huge advancements in the technology industry, Apple has become the leader in mobile devices and Microsoft is the leader in cloud-based technologies."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\45136_EN-US_0.6_3.wav"
+    ],
+    "result": "Apple和Microsoft都是科技巨头。Apple以iPhone、iPad等硬件产品闻名，而Microsoft则以Windows操作系统和Office软件闻名。两者在技术创新和用户体验上都有各自的特点。"
+  },
+  {
+    "id": "28683",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a catchy slogan for the given cause.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "\"make waves against plastic pollution!\""
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\28683_EN-BR_1.0_6.wav"
+    ],
+    "result": "\"Plastic Pollution? Not on Our Watch!\" How's that for a catchy slogan? It drives home the idea that we can all pitch in to keep our oceans clean!"
+  },
+  {
+    "id": "20204",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In the following sentence, identify the noun.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Notes"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\20204_EN-Default_0.6_8.wav"
+    ],
+    "result": "The noun in this sentence is \"notes.\""
+  },
+  {
+    "id": "24414",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a word cloud based on the given poem.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Word cloud generated based on the poem:\n\nRoses | Violets | Sky | Limit | Nothing | Hard | Red | Blue | Do | Too | are | is | the | to | do."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\24414_EN-Default_0.6_4.wav"
+    ],
+    "result": "Alright, let's create a word cloud with these words! Here it goes:\n\nRoses, red, are, blue, this sky, is, the, limit, nothing, is, too, hard, to, do.\n\nYou can see that \"roses\" is the most dominant word in the cloud! If you want to change anything or try another poem, just let me know."
+  },
+  {
+    "id": "11760",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Name the musical instrument in this song.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The musical instrument heard in this song is the electric guitar."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\11760_EN-Default_1.0_7.wav"
+    ],
+    "result": "That sounds like a fun mix of beats! It's hard to tell exactly which instrument it is just from the description, but it could be a mix of drums, a bass, or even a合成器。你有没有特别喜欢哪种乐器呢？"
+  },
+  {
+    "id": "14463",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a list of states, remove all of the states that have a population greater than 10 million.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Texas, Pennsylvania, Ohio"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\14463_EN-AU_0.6_6.wav"
+    ],
+    "result": "After removing states with a population greater than 10 million, the list becomes:\n\n- Texas\n- California\n- Florida\n- Pennsylvania\n- Ohio\n\nTexas, California, Florida, Pennsylvania, and Ohio remain in the list."
+  },
+  {
+    "id": "13017",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create a professional summary based on the information below.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "I am a seasoned Business Analyst with a decade of experience in problem solving, communication, and people management, as well as strong familiarity with Agile and Scrum methodology. My expertise covers the full software development life cycle, from managing and analyzing requirements to overseeing secure code deployment. Over the years, I have built strong professional relationships with multiple stakeholders and enabled successful product releases."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\13017_EN-Default_1.2_1.wav"
+    ],
+    "result": "好的，我帮您总结一下。您是一位有10年经验的业务分析师，擅长问题解决、沟通和团队管理。您熟悉敏捷和Scrum方法，非常适合我们的开发团队。您的主要优势包括：业务分析、问题解决、沟通和团队管理、敏捷方法。这些技能和经验使您成为理想的团队成员。需要进一步了解吗？"
+  },
+  {
+    "id": "47687",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given a list of five fruits, rank them by sweetness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "1. banana \n2. strawberry \n3. orange\n4. apple \n5. grape"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\47687_EN-AU_0.6_7.wav"
+    ],
+    "result": "Alright, let's rank these fruits from sweetest to least sweet. \n\n1. Banana - Known for its super sweet flavor, bananas are a great source of natural sugar.\n\n2. Strawberry - Sweet and juicy, strawberries are a favorite for their sweetness, especially when fresh.\n\n3. Apple - Apples are slightly sweet, but they also have a nice crispness.\n\n4. Orange - Oranges are sweet, but they also have a tangy kick.\n\n5. Grape - Grapes are quite sweet, but their sweetness can vary depending on the type.\n\nSo, there you have it! From sweetest to least sweet, that's our fruit ranking. What do you think?"
+  },
+  {
+    "id": "7804",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create a \"How To\" guide for using a given tool.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "This step-by-step guide will show you how to get started with Microsoft Excel. First, open up Excel on your laptop or desktop computer. Once the program is open, you can start to create your spreadsheet. You can create and format cells, set up formulas and functions, edit text, and more. To work with data, you can use data tools such as sorting, filtering, and pivot tables to summarize and analyze data. Once you have the data you need, you can present it visually with visuals such as charts and graphs."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\7804_EN-AU_0.6_3.wav"
+    ],
+    "result": "Alright, let's dive into using Microsoft Excel! First, open Excel. You'll see a grid with rows and columns, called cells. To enter data, just click a cell and start typing. Use the箭头 keys to navigate through cells. You can format cells by clicking on them and choosing from the options in the Home tab. Want to sum a range of cells? Select the cells, go to the formula bar, and type `SUM()`. Excel is great for creating charts and graphs too!"
+  },
+  {
+    "id": "17943",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Solve this math equation<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "X = 2, y = 1."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\17943_EN-BR_1.2_4.wav"
+    ],
+    "result": "Sure! Once upon a time, in a small, fog-covered village, there was an old, abandoned house that everyone in town avoided. They said it was haunted by the ghost of a woman who vanished without a trace. One stormy night, a curious traveler sought refuge in the house. As they explored the creaking halls, they heard a soft whisper behind the walls. \"Come back,\" it called. The traveler, heart pounding, followed the sound to a hidden room. There, in a dusty mirror, they saw not a ghost, but the reflection of the woman from long ago, her eyes filled with tears. She had returned to ask why she was abandoned. The traveler, moved by this encounter, decided to restore the house, ensuring the woman's story would never be forgotten. And so, the village was freed from its haunting, and the house became a place of remembrance. The end."
+  },
+  {
+    "id": "29230",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given an input sentence, output the first-person pronouns present in it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "I"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\29230_EN-BR_0.6_7.wav"
+    ],
+    "result": "The first-person pronouns in the sentence \"He and I went to the store\" are \"I\" and \"we.\" \"I\" refers to the speaker, and \"we\" includes the speaker and the person being addressed. So, in this case, the first-person pronouns are \"I\" and \"we.\""
+  },
+  {
+    "id": "23256",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In the following sentence, identify the adverb and explain how it is used.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The adverb in this sentence is \"quickly\". It is used to describe how John answered the question, with haste and speed."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\23256_EN-US_0.8_8.wav"
+    ],
+    "result": "The adverb in this sentence is 'quickly'. It modifies the verb 'answered' and tells us how Sean did it—he quickly answered the question."
+  },
+  {
+    "id": "3008",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Partition a list of numbers into four even sublists.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sublist 1: [1, 2, 3, 4]\nSublist 2: [5, 6, 7, 8]\nSublist 3: [9, 10, 11, 12]"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\3008_EN-AU_0.6_6.wav"
+    ],
+    "result": "好的，把列表分成四组，每组三个数。第一组：1, 2, 3。第二组：4, 5, 6。第三组：7, 8, 9。第四组：10, 11, 12。这样每组的数字都是连续的。需要再确认什么吗？"
+  },
+  {
+    "id": "48583",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Rewrite this sentence using simple language<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "I also need to ask potential clients what they think."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\48583_EN-AU_0.8_3.wav"
+    ],
+    "result": "另外，我得问问潜在客户他们的想法。"
+  },
+  {
+    "id": "15766",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe the current emotion of the given character.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "John was feeling defeated and discouraged after losing the game."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\15766_EN-Default_0.8_4.wav"
+    ],
+    "result": "Oh, I can imagine! John would probably be feeling pretty down after that loss. Maybe a little bit of defeat and definitely some frustration, especially if he put in a lot of effort. But hey, every loss is just a step towards future victories, right?"
+  },
+  {
+    "id": "31001",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Rewrite the given sentence by making it shorter<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The classroom was overcrowded, limiting seating comfort."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\31001_EN-Default_0.8_3.wav"
+    ],
+    "result": "由于教室里学生太多，他们没法坐得舒服。"
+  },
+  {
+    "id": "1227",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Describe a conflict between two characters in the following story<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The two friends have a conflict when it comes to how one should go about achieving their goals. The one friend believes that action must be taken to realize their dreams, while the other believes that having patience and waiting for the right opportunities is the right approach. The disagreement leads to tension between the two characters and a struggle to reconcile their different approaches."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\1227_EN-AU_0.6_1.wav"
+    ],
+    "result": "Alright, let's dive into their story! Imagine two best friends, Lily and Jack. Lily is a quiet, detail-oriented artist who loves to express herself through her work. She values creativity and peace. On the other hand, Jack is an adventurous, outdoorsy type who loves exploring nature. He values freedom and adventure. Despite their differences, their shared love for friendship brings them together. They learn from each other, appreciate their unique perspectives, and together they create a balance that makes their friendship strong."
+  },
+  {
+    "id": "4973",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a plausible passage about a given topic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Owning a pet can be incredibly rewarding. Not only do pets provide companionship and unconditional love, but studies have also shown that keeping a pet can have physical and mental health benefits including reducing stress levels, improving mood and helping to manage loneliness. Pets also encourage people to move around more and can help to build relationships with people of all ages through activities like walking a dog or playing with a pet. Ultimately, owning a pet can be a truly enriching and fulfilling experience."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\4973_EN-US_1.0_4.wav"
+    ],
+    "result": " Owning a pet can bring numerous benefits to your life. Pets offer companionship, which can reduce feelings of loneliness and isolation. They also provide unconditional love and affection, which can boost your mood and reduce stress. Taking care of a pet can also keep you active, whether it's through walking a dog or playing with a cat. Overall, pet ownership can lead to an enhanced sense of well-being and a more fulfilling life."
+  },
+  {
+    "id": "48864",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Paraphrase the given sentence by changing the sentence structure and the words used.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The experiment yielded an unexpected outcome."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\48864_EN-BR_1.0_5.wav"
+    ],
+    "result": "Surprisingly, the experiment's results were quite unexpected."
+  },
+  {
+    "id": "34648",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a creative story based on the given input.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Once upon a time, there was a baker with a special magic. He could bake cakes in the shape of animals, from ducks to lions, each one more edible and life-like than the last.\n\nHis cakes were so realistic, in fact, that even the most discerning customers couldn't tell the difference between his creations and the real thing. His cakes were so delicious that they could even bring life back to animals that had died.\n\nThe baker enjoyed his newfound fame and quickly became a sought-after figure in the animal kingdom. Lions and tigers, elephants and giraffes, all wanted his incredible cakes to be part of their wild feasts. \n\nOne day, a powerful witch heard of the baker's extraordinary talent and she came to ask for his help. She wanted a cake in the shape of her beloved pet dragon and the baker accepted her task.\n\nThe next day, the witch and her dragon appeared in the baker's shop, expecting the usual animal-shaped cakes. Instead, they were greeted with a magnificent dragon cake, lifelike and shimmering in the sunlight. The witch was so pleased with the cake that she gave the baker a magical broom, which could make any cake with a single sweep.\n\nThe baker quickly became renowned throughout the land, creating cakes in all shapes, sizes, and flavors. He had all the animals, birds, and other creatures smiling with joy, thanks to his amazing creations."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\34648_EN-US_1.0_7.wav"
+    ],
+    "result": "Imagine a charming little village with a warm, cozy bakery at its heart. In this bakery, there's a baker named Elizabeth who has a talent like no other. She can turn cakes into masterpieces of art, shaping them into the forms of various animals. Her creations are not just delicious but also incredibly lifelike, with each cake telling its own unique story. One day, Elizabeth decides to make a cake in the shape of a majestic lion. The villagers are amazed by the cake's grandeur, and it becomes a hit at their local fair. Elizabeth's bakery thrives, bringing joy and wonder to everyone who steps inside, proving that with a little creativity, even the simplest of cakes can become something extraordinary."
+  },
+  {
+    "id": "2577",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify this object as living or non-living.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Non-living."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\2577_EN-US_0.6_1.wav"
+    ],
+    "result": "Rock 是非生物。岩石是由矿物组成的，没有生命迹象哦。岩石可以形成各种形状和大小，但它们是无生命的。"
+  },
+  {
+    "id": "1848",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Arrange the data in a neat table.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "| country     | estimated population |\n| ----------- | -------------------- |\n| india       | 1.3 billion          |\n| china       | 1.4 billion          |\n| united states| 329 million          |\n| brazil      | 210 million          |"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\1848_EN-AU_0.8_2.wav"
+    ],
+    "result": "Alright, let's put this information into a table:\n\n| Country | Population |\n| India | 1.3 billion |\n| China | 1.4 billion |\n| United States | 329 million |\n| Brazil | 210 million |\n\nThis format makes it easier to read and compare the populations."
+  },
+  {
+    "id": "44645",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a valid email address with the given information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The valid email address generated with the given information is johnsmith@gmail.com."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\44645_EN-BR_1.2_1.wav"
+    ],
+    "result": "Sure! Here's a valid email address with the Enchanted Forest theme: [email protected] Just imagine sending emails from a magical forest!"
+  },
+  {
+    "id": "23808",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create a database schema to store the following data:<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "CREATE TABLE Person\n(\n    Person_ID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,\n    Name VARCHAR(255) NOT NULL,\n    Age INT NOT NULL,\n    Gender VARCHAR(50) NOT NULL,\n    Address VARCHAR(255)\n);\n\nCREATE TABLE Vehicle\n(\n    Vehicle_ID INT NOT NULL AUTO_INCREMENT PRIMARY KEY,\n    Registration_Number VARCHAR(50) NOT NULL,\n    Make VARCHAR(50) NOT NULL,\n    Model VARCHAR(50) NOT NULL,\n    Color VARCHAR(50)\n);\n\nCREATE TABLE Person_Vehicles\n(\n    Person_ID INT NOT NULL,\n    Vehicle_ID INT NOT NULL,\n    PRIMARY KEY (Person_ID, Vehicle_ID),\n    FOREIGN KEY (Person_ID) REFERENCES Person (Person_ID),\n    FOREIGN KEY (Vehicle_ID) REFERENCES Vehicle (Vehicle_ID)\n);"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\23808_EN-AU_1.0_8.wav"
+    ],
+    "result": "好的，我们可以这样设计数据库：创建一个叫`persons`的表，包括姓名、年龄、性别、地址、车辆注册号码、车辆品牌、车辆型号和车辆颜色等字段。还有一个叫`person vehicles`的表，用来记录每个人拥有的车辆信息，包括 person_id 和 vehicle_id。这样设计可以吗？"
+  },
+  {
+    "id": "29434",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Edit the following sentence<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "I have already been there."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\29434_EN-Default_1.0_8.wav"
+    ],
+    "result": "哦，我懂了。你是说“我已经去过那里了”，对吧？这样改可以吗？"
+  },
+  {
+    "id": "6034",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Suggest an appropriate title for the poem.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "A Celestial Masterpiece"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\6034_EN-Default_1.0_8.wav"
+    ],
+    "result": "Awe-inspiring stars, painting the night alive,  \nTheir glow a symphony, in hues so right.  \nGleaming with a timeless charm,  \nThis celestial display, so rare and bright.  \nThe night sky, the artist's grand design,  \nWith brushstrokes cosmic, painting dreams in the mind.  \n\nEach star a whisper, a dreamer's sigh,  \nA message from the universe, so deep and true.  \nThe night sky, a masterpiece in flight,  \nA canvas for the soul, to dream and to delight.  \n\nSo raise your glass, to the sky above,  \nIn wonder and awe, let's raise a cup of cheer.  \nTo the night sky's grand design,  \nA masterpiece, that will never end."
+  },
+  {
+    "id": "48454",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Change the text \"Haley and Lou\" to first person point of view.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "We (Haley and Lou)"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\48454_EN-US_0.8_7.wav"
+    ],
+    "result": "Hey there! It seems like an interesting mix of names you've got there. Can you tell me a bit more about who these characters are for me to get a better understanding? If you need help with something else, feel free to ask!"
+  },
+  {
+    "id": "26130",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Rate this movie on a scale from 1 to 5<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "I would rate The Dark Knight a 5 out of 5. It is a classic and an incredible movie."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\26130_EN-US_0.6_3.wav"
+    ],
+    "result": "《黑暗骑士》是克里斯托弗·诺兰导演的一部蝙蝠侠电影，莱昂纳多·迪卡普里奥主演。电影情节复杂，视觉效果很棒，音乐也很出色。整体来说，这是一部值得一看的电影。如果你喜欢这类题材，我强烈推荐！"
+  },
+  {
+    "id": "14075",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Replace the first set of words with the second set of words<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The longer discussion, the more we know \nThe bigger talk, the better."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\14075_EN-BR_0.8_4.wav"
+    ],
+    "result": "The more we talk, the more we know, right? It's like a never-ending journey of discovery! What's on your mind that we should dive into?"
+  },
+  {
+    "id": "46496",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Design a program which automatically detects plagiarism in a given text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The program should begin by taking a given text as input. It should then compare that text to other existing pieces of text which are stored in a database. It should search for similar phrases and words and calculate the percentage of overlap. If the overlap is higher than a certain threshold, it should flag the text as plagiarized."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\46496_EN-AU_0.6_5.wav"
+    ],
+    "result": "Sure, I can help with that! Here's a basic Python script that can detect plagiarism. It uses a technique called 'n-gram analysis.' \n\n```python\nimport numpy as np\n from string import count补贴\n\ndef detect_plagiarism(text1, text2):\n    n = 3  # 窨禁词长度\n    text1 = text1.replace('，', '').replace('。', '').replace('！', '').replace('？', '').replace('：', '').replace(';', '').replace('，', '').replace('‘', '').replace('’', '').replace('“', '').replace('”', '').replace('【', '').replace('】', '').replace('【】', '').replace('】】', '').replace('‘‘’，‘‘', '').replace('，‘', '').replace('‘’，')\n    text2 = text2.replace('，', '').replace('。', '').replace('！', '').replace('？', '').replace('：', '').replace('；', '').replace('‘', '').replace('’', '').replace('‘‘’，‘‘', '').replace('，‘', '').replace('‘’，')\n    text1_n_grams = [count补贴(n, word) for word in text1.split()]\n    text2_n_grams = [count补贴(n, word) for word in text2.split()]\n    return np.count_nonzero(text1_n_grams == text2_n_grams) / len(text1_n_grams)\n\ntext1 = '''这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本。这是一个文本"
+  },
+  {
+    "id": "30872",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Pick out five colors from a paint swatch.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The colors from the swatch are: navy blue, mustard yellow, coral pink, mint green, and deep grey."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\30872_EN-AU_0.6_4.wav"
+    ],
+    "result": "I can't view or access images like a paint swatch. But if you describe the colors, I can help you pick five from it. What are the colors in the swatch?"
+  },
+  {
+    "id": "18174",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Provide two examples for this concept.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Examples of non-verbal communication include gestures and facial expressions, as well as body posture, eye contact, and tone of voice."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\18174_EN-BR_0.6_1.wav"
+    ],
+    "result": "Sure, nonverbal communication includes things like body language, facial expressions, gestures, eye contact, and touch. It's how we convey emotions and messages without words. For example, a smile can mean happiness, and a frown can indicate sadness. Gestures like a thumbs-up or a wave are also forms of nonverbal communication. It's a crucial part of how we interact with others!"
+  },
+  {
+    "id": "25765",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a sentence with the two given words in the same order<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The night sky was aglow with fireflies and stars."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\25765_EN-Default_1.0_1.wav"
+    ],
+    "result": "夜空中，火flies像星星一样闪烁，给夜晚增添了神秘的色彩。"
+  },
+  {
+    "id": "40038",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Rewrite the sentence, replacing the italicized word with a suiting synonym.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "He was too lucid for the rules to be enforced."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\40038_EN-US_1.2_6.wav"
+    ],
+    "result": "He was too eager for the rules to apply."
+  },
+  {
+    "id": "14657",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Summarize the following 8 sentences.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "World War I, fought between the Allied forces and the Central Powers from 1914 to 1918, was the first major conflict of the twentieth century. The United States' involvement in the war resulted in a victory for the Allies, and the Treaty of Versailles held Germany responsible for repaying the war's losses."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\14657_EN-Default_1.2_5.wav"
+    ],
+    "result": "Alright, let's break it down. World War I started in 1914 and ended in 1918. It was the first major conflict of the 20th century. The Allies, led by countries like Britain and France, fought against the Central Powers, which included Germany and Austria-Hungary. The involvement of the U.S. was crucial in helping the Allies win. And after the war, the Treaty of Versailles made Germany take full responsibility for the losses. Phew!"
+  },
+  {
+    "id": "16777",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create an algorithm to identify the most efficient route in a given city.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "A possible algorithm to identify the most efficient route in New York City is to use a modified version of the popular traveling salesman problem algorithm. This algorithm would evaluate each possible route in the city, assigning a score to each for factors such as distance, traffic, time of day, etc. The route with the highest score would be the most efficient route. Additionally, the algorithm should take into account public transportation options, such as subway or train lines, to make the route even more efficient."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\16777_EN-Default_1.2_2.wav"
+    ],
+    "result": "Alright, finding the most efficient route in New York City can be tricky since it's such a dense and complex city. Here's a general approach you could use:\n\n1. **Start by Getting an Overall Map**: Grab a map of New York City to get a sense of the layout.\n\n2. **Determine Your Starting and Ending Points**: Clearly define where you need to start and finish.\n\n3. **Look for Major Highways and Bridges**: New York has a lot of major roads and bridges, like the Holland Tunnel, the George Washington Bridge, and the Bronx River Parkway. These can be efficient options.\n\n4. ** Consider Public Transportation**: New York's Subway system is vast and can often be the quickest way to get around. Check if your route overlaps with any subway lines.\n\n5. **Use an Online Routing Service**: Websites or apps like Google Maps, Waze, or Citymapper can provide real-time traffic updates and the most efficient routes.\n\n6. ** Walk or Bike if Possible**: For shorter distances, walking or biking can be great options, especially in parts of Manhattan.\n\nRemember, real-time traffic and events can impact the best route, so it's a good idea to check a routing service before you head out. And always follow any local traffic regulations!"
+  },
+  {
+    "id": "29850",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create a short story based on given information<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mark had been planning this road trip with his three friends for months. They were all eager to escape the suburban routine of their small town and embark on a journey of adventure. Much to their delight, the day finally arrived when they could pile into Mark's car and drive off into the countryside.\n\nThe first few hours of the trip were spent catching up with old stories and singing silly songs. Soon, they arrived at the first stop of their adventure. Here, the group explored the old ruins that dotted the countryside. They marveled at the ancient architecture and the stories behind it.\n\nThe following day, the friends hiked up a nearby mountain, and climbed over the jagged rocks and through crisp streams. They spend the night camping in the woods, and in the morning, they cooked up a hearty breakfast by the campfire.\n\nThe group went on a few more adventures together before they eventually returned home. Mark and his friends had forged some amazing memories and created a bond that will last a lifetime."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\29850_EN-BR_1.2_3.wav"
+    ],
+    "result": "One sunny afternoon, Eman decided to embark on a road trip with three of his closest friends. They loaded up their car with snacks, music, and all the essentials for a fun-filled journey. Their first stop? A cozy little café on the edge of the mountains, where they enjoyed delicious food and breathtaking views. The rest of the day was filled with laughter, stories, and unforgettable moments, proving that sometimes the best adventures are the ones shared with good friends."
+  },
+  {
+    "id": "38410",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Update the customer’s profile with the given customer data<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Customer Name: Ebony Moore\nPhone Number: (123) 456-7891\nEmail: emoore@email.com\nAddress: 522 Cloud Street, San Francisco CA"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\38410_EN-AU_0.8_3.wav"
+    ],
+    "result": "Alright, I've updated the customer profile for Ebony Mora with the provided information. If there's anything else you need, just let me know!"
+  },
+  {
+    "id": "20428",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create an analogy with the given words<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The ship was like a ship without a captain: adrift and directionless."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\20428_EN-BR_1.2_6.wav"
+    ],
+    "result": "Sure! Let's say you're on a treasure hunt. The map is like a plan or goal, 'set' is like deciding where to start, 'captain' is leading the team, and 'sail' is taking action. So, 'set captain sail' means having a clear goal, being the leader, and starting your journey towards success."
+  },
+  {
+    "id": "29061",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compose a tweet summarizing this text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "COVID-19 has caused a severe economic crisis with bankruptcies, high unemployment, and businesses struggling to survive."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\29061_EN-AU_1.2_2.wav"
+    ],
+    "result": "The global pandemic has indeed had a profound impact on our lives, particularly on the economy. Industries have been hit hard, with many going bankrupt, unemployment soaring to all-time highs, and small businesses struggling to stay afloat. It's been a challenging time for everyone."
+  },
+  {
+    "id": "21015",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine if it is possible to make a profit from a given stock price.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes, it is possible to make a profit from a stock price of $80, depending on the price the investor decides to buy and sell the stock at."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\21015_EN-AU_1.0_2.wav"
+    ],
+    "result": "To determine if it's possible to make a profit from a given stock price, we need to consider a few factors. First, let's look at the current stock price. If the stock is trading at $80, and you believe it will increase, you can buy the stock with the hope of selling it at a higher price in the future. However, there are other costs to consider, like commissions and taxes, which can impact your overall profit.\n\nIt's also important to consider your investment strategy and risk tolerance.It's possible to make a profit from a rising stock price, but it's crucial to have a clear plan, do thorough research, and be aware of the potential for losses.\n\nIn conclusion, while it's theoretically possible to make a profit from a stock trading at $80, various factors come into play, and it's essential to have a well-thought-out investment plan. Would you like to know more about how to approach investing in stocks?"
+  },
+  {
+    "id": "46416",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Come up with a creative solution for the given problem.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Create a mobile app that helps connect local food banks and restaurants so that restaurants can donate their surplus food to food banks instead of throwing it away. The app will include features such as real-time tracking of donations, reward points for participants, and an easy-to-use UI for restaurants and food banks to interact and arrange for donations."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\46416_EN-US_1.2_3.wav"
+    ],
+    "result": "Sure, reducing food waste is a big issue. Here are some ideas: First, plan your meals so you only buy what you need. Second, store food properly to keep it fresh longer. And use leftover food in new recipes. Also, compost food scraps to create nutrient-rich soil. And remember, buy imperfect produce—it looks good but can go to waste. Lastly, donate extra food to those in need. Together, we can make a difference!"
+  },
+  {
+    "id": "44311",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a verification question based on the given information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "What is the capital of France?"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\44311_EN-US_0.8_1.wav"
+    ],
+    "result": "Alright, here's a question for you: What is the population of Paris?"
+  },
+  {
+    "id": "13706",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Edit the sentence below and make sure its grammar and punctuation are correct.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The dog jumped over the fence and barked."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\13706_EN-US_1.2_7.wav"
+    ],
+    "result": "The touchdown was scored at 4:08 PM."
+  },
+  {
+    "id": "41660",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create a headline inspired by the following data.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Caffeine Consumption Could be the Key to Prevention of Type 2 Diabetes"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\41660_EN-BR_0.8_1.wav"
+    ],
+    "result": "Caffeine Consumption Reduces Risk of Type 2 Diabetes, Study Finds."
+  },
+  {
+    "id": "16848",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given an article, write a summary of its main ideas.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "AI has made great strides in recent years, becoming increasingly capable of understanding natural language, learning from large data sets, and autonomously making decisions for complex systems. These advancements have opened up a world of possibilities for AI applications in many industries."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\16848_EN-US_1.0_5.wav"
+    ],
+    "result": "人工智能的最新发展真是令人难以置信！现在，系统可以理解自然语言、从大量数据中学习，甚至为复杂系统做出自主决策。这真是令人兴奋不已！"
+  },
+  {
+    "id": "24327",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine which of the following statement is the strongest.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "D"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\24327_EN-AU_0.6_6.wav"
+    ],
+    "result": "让我们一起来分析一下这四个选项。首先，A选项说他的想法对研究有很大贡献，但没提其他人的贡献，所以强度不够。B选项强调他的洞察力对领域发展有很大影响，这比A选项更强。C选项说他的工作对领域的进步是必不可少的，这个说法很绝对，通常我们会更倾向于避免这种绝对表述。D选项提到他的智慧在推动领域进步中是必不可少的，这个表述比C选项更温和，也更符合实际情况。所以，B选项是最强的。它明确指出他的洞察力对领域发展产生了重大影响。其他选项，包括A、C和D，虽然都有一些道理，但强度不如B。"
+  },
+  {
+    "id": "34599",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the following sentence as a claim or an assumption.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Claim."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\34599_EN-Default_1.0_6.wav"
+    ],
+    "result": "This statement is an assumption. It suggests that climate change will have a negative impact on food production, potentially leading to shortages. It's based on the belief that climate change will continue and worsen, affecting agricultural practices."
+  },
+  {
+    "id": "20628",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using the information given, create a program that will take two inputs and determine the angle between them.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Function angleCalc(input1, input2): \n  x1 = input1[0] \n  y1 = input1[1]\n  x2 = input2[0] \n  y2 = input2[1]\n  dotProduct = x1*x2 + y1*y2\n  mag1 = sqrt(x1*x1 + y1*y1)\n  mag2 = sqrt(x2*x2 + y2*y2)\n  angle = arccos(dotProduct/(mag1*mag2))\n  return angle"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\20628_EN-US_1.0_1.wav"
+    ],
+    "result": "好的，我来帮你写个Python程序，用来计算两个向量的夹角。首先，我们定义一个函数`vector_angle`，它接受两个向量的终点坐标作为输入，计算它们之间的夹角。接着，我们通过`input_vector1`和`input_vector2`获取用户输入的两个向量。最后，我们打印出夹角的度数。你可以试试看，看看结果是否如你所愿！"
+  },
+  {
+    "id": "8159",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Subtract the given two matrices.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "[[3, 1], [2, 1]]"
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\8159_EN-Default_0.6_2.wav"
+    ],
+    "result": "Alright, let's subtract Matrix 2 from Matrix 1. We get:\n\nRow 1: 4 - 1 = 3, 3 - 2 = 1, 2 + 1 = 3\nRow 2: 4 - 1 = 3, 3 - 2 = 1, 2 + 1 = 3\nRow 3: 4 - 1 = 3, 3 - 2 = 1, 2 + 1 = 3\n\nSo, the difference is:\n\n3  1 3\n1 1 3\n3  1 3\n\nMatrix 1 - Matrix 2 = Matrix 3."
+  },
+  {
+    "id": "7405",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Add an introductory paragraph to this essay.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The environment is constantly being threatened by the effects of human development, such as the spread of air pollution. Fortunately, we can reduce the severity of this issue by taking proactive steps to prevent its further spread. Installing air filters in our homes and vehicles, as well as cutting down on burning fossil fuels, can be two of the most effective methods of reducing air pollution."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\7405_EN-US_1.2_6.wav"
+    ],
+    "result": "That's true! Installing air filters can help reduce indoor air pollution, but to tackle hair pollution, we also need to look at outdoor air quality. Reducing fossil fuel burning is key, as it not only helps with air pollution but also addresses climate change. Together, these steps can improve our air quality and environment."
+  },
+  {
+    "id": "2234",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Generate a creative poem using the given sentence.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "I am not alone in this world,\nNo matter what my fears may hold.\nMy worries may grow and sound bold,\nBut I will be brave and bold.\n\nI am not alone, in this dark night,\nNo matter what the sun may bright.\nI'll tend the candle to guide me light,\nAnd keep me from falling in fright.\n\nI am not alone, and I will survive,\nNo matter how many times I must strive.\nI'll take on each challenge that arrives,\nEspecially when it seems I'm alive.\n\nI am not alone, for I have company,\nNo matter how much I still need to be free.\nMy friends will always help me to see,\nThat I can make anything and be me."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\2234_EN-Default_1.2_5.wav"
+    ],
+    "result": "In the vastness of the world,  \nWe find our place,  \nAlone, yet never truly alone.  \nFor in our hearts,  \nA connection we hold,  \nWith all living beings,  \nAn unspoken bond.  "
+  },
+  {
+    "id": "3293",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Come up with a summary of the following article.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Regular breaks during the day are essential for maintaining productivity, focus and creativity. Taking short breaks helps relieve stress, improves mood and increases overall energy levels. Breaks should involve disengaging from work and engaging in physical activity or a hobby, as well as socializing with friends or family."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\3293_EN-BR_1.2_4.wav"
+    ],
+    "result": "The article emphasizes the benefits of regular breaks, including reducing eye strain, improving focus, and promoting overall well-being. It suggests brief pauses to rest eyes, stretch, and recharge, comparing the practice to recharging a phone battery. The article encourages incorporating breaks into routines, whether at work, school, or home, to maintain productivity and mental health."
+  },
+  {
+    "id": "2790",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Rewrite the following sentence using natural language processing.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The computer processed the data using natural language processing."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\2790_EN-AU_1.2_8.wav"
+    ],
+    "result": "The computer processed the data."
+  },
+  {
+    "id": "46472",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Rewrite this sentence to include a semicolon.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "We need to finish the project today; let's get to work."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\46472_EN-BR_1.2_3.wav"
+    ],
+    "result": "We need to finish the project today; it's urgent."
+  },
+  {
+    "id": "27266",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify three errors in the following sentence:<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Error 1: John walked - should be John walked slowly. \nError 2: slowllly - should be slowly. \nError 3: the store - should be to the store."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\27266_EN-Default_1.0_1.wav"
+    ],
+    "result": "The sentence \"Jane walks slowly to the store\" has two errors. The first error is that the subject, \"Jane,\" is plural, but the verb, \"walks,\" is singular. The sentence should read \"Jane walks slowly to the store.\" The second error is that there is no comma before the word \"store.\" A comma should be used to separate items in a series, so it should read \"Jane walks slowly, to the store.\""
+  },
+  {
+    "id": "39430",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compose a tweet with the given hashtag and content<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Let's take #climateaction now and save our planet before it's too late."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\39430_EN-US_1.0_2.wav"
+    ],
+    "result": "#ClimatTalk: We must act now to save our planet. Let's commit to sustainable living, reduce waste, and protect our environment. Together, we can make a difference."
+  },
+  {
+    "id": "34441",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recategorize the following sentence from narrative to expository.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "As a child, my fascination with dragons has spanned many years."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\34441_EN-BR_1.0_8.wav"
+    ],
+    "result": "As a child, I've always been fascinated by dragons."
+  },
+  {
+    "id": "44780",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Create an analogy to describe the following situation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Making the decision is like sailing a ship through a storm – the president and her team have to navigate carefully and chart their course through the choppy waters."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\44780_EN-Default_1.0_2.wav"
+    ],
+    "result": "Imagine a family facing a tough choice: should they buy a new car or repair their old one? It's like the president and her team having to decide whether to invest in new policies or fix the ones they have. Both options have pros and cons, and it's a big decision that affects everyone."
+  },
+  {
+    "id": "27682",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Compare and contrast the two characters in the novel \"Victory\".<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The two main characters in Joseph Conrad's novel Victory are Axel Heyst and Lena. Axel is a thoughtful, introspective loner who spends most of his time in solitary contemplation. Lena, on the other hand, is more extroverted and is described as a vivid and strong presence. Axel is more reserved and careful with his words, while Lena is more boisterous and outspoken. While they are initially on opposite sides of society and have a rocky relationship, their individual perspectives on life ultimately bring them closer together."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\27682_EN-BR_0.8_8.wav"
+    ],
+    "result": "\"Victory\" by Joseph Conrad is a powerful tale set against the backdrop of the Boer War. The two main characters are Captain Aynsley and Major Herries. Captain Aynsley is a seasoned soldier known for his bravery and cunning. He's a complex character, often torn between his duty and personal feelings.\n\nMajor Herries, on the other hand, is a younger officer with a romantic and idealistic view of war. He's idealistic but缺乏实战经验, which leads to some tense moments as the novel progresses. Their dynamic adds depth to the story, as their interactions reflect the challenges and emotions faced by soldiers in conflict."
+  },
+  {
+    "id": "10294",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Count the number of words in the following sentence.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The sentence contains 6 words."
+      }
+    ],
+    "voice": [
+      "tigerbot_alpaca_input_data\\10294_EN-Default_0.6_3.wav"
+    ],
+    "result": "The sentence has 14 words in total."
+  }
+]

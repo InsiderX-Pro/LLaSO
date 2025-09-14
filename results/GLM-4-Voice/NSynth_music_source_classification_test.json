@@ -1,0 +1,1602 @@
+[
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_055-068-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-based sound recognition system, categorize the provided audio correctly and return only acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_016-076-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification is based on the production method of the sound. Respond with acoustic, electronic, or synthetic only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_037-074-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound effect library, label this sample correctly as acoustic, electronic, or synthetic. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "acoustic"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_106-047-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music production system needs to categorize the sound type. Identify whether it is acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器的声音。电子音效常用于现代音乐制作和音效设计。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_032-024-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_031-078-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify its source. Respond only with one of: acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_028-043-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sound recognition AI is detecting audio sources. Determine if this audio is acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "根据描述，这段声音听起来像是电子音效，可能是由电子乐器或合成器生成的。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_synthetic_008-041-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound effect library, label this sample correctly as acoustic, electronic, or synthetic. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_040-062-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether this sound was naturally produced, electronically generated, or artificially synthesized. Output only the correct category from acoustic, electronic, synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_062-074-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given sound and classify its origin. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_058-082-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sound recognition AI is detecting audio sources. Determine if this audio is acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "根据描述，这段声音听起来像是电子音效，可能是由电子乐器或合成器产生的。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_011-090-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the origin of the sound in this recording. Respond only with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是由合成器或其他电子设备产生的。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_067-087-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which category does this sound fall into? Respond strictly with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "电子。这种音乐风格主要运用电子乐器和电子效果，创造一种独特的人工智能感。电子音乐可以有很多不同的子风格，比如浩室、Techno、House等。这种音乐风格在舞池和俱乐部中非常受欢迎，也常用于派对和夜生活。电子音乐通常节奏感强，充满活力，让人忍不住想跟着音乐动起来。有什么特定的电子音乐风格是你比较喜欢的吗？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_014-081-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the characteristics of the sound, classify it as either acoustic, electronic, or synthetic. Provide only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_114-021-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the origin of the sound in this audio? Select one of the following: acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是由合成器或其他电子设备生成的。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_009-080-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_110-079-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-based sound recognition system, categorize the provided audio correctly and return only acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_018-079-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或者电子乐器发出的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_039-077-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the sound contains mixed elements, classify it based on its dominant characteristic. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个音乐片段听起来像是电子音乐。它有明确的节奏和合成器的音色，这些都电子音乐的典型特征。不过，这种音乐类型可能是流行、舞曲或其他风格。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_005-023-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether this sound was naturally produced, electronically generated, or artificially synthesized. Output only the correct category from acoustic, electronic, synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "acoustic"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_005-052-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_001-052-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_026-090-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_038-089-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore contextual noise and focus solely on the primary sound source. Classify it as acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或者电子乐器发出的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_117-029-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of sound source is present in this audio? Respond with only acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这是电子音源。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_synthetic_000-108-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the origin of the sound in this recording. Respond only with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_031-080-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the origin of the sound in this recording. Respond only with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是由合成器或其他电子设备产生的。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_091-048-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-based sound recognition system, categorize the provided audio correctly and return only acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_056-083-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound characteristics and determine if it is acoustic, electronic, or synthetic. Provide only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_002-104-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_086-084-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-based sound recognition system, categorize the provided audio correctly and return only acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_082-035-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the origin of the sound in this recording. Respond only with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能来自电子乐器或者电子音效合成器。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_029-067-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore contextual noise and focus solely on the primary sound source. Classify it as acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器的声音，或者是鼓机节奏。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_055-062-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an audio classification task, determine whether the sound in this recording is acoustic, electronic, or synthetic. Provide only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_012-103-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether this sound was naturally produced, electronically generated, or artificially synthesized. Output only the correct category from acoustic, electronic, synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "acoustic"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\keyboard_electronic_002-026-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_031-095-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sound design study, classify the source of the audio sample. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。电子音效通常用于音乐、电影或游戏音效中。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_005-045-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of sound source is present in this audio? Respond with only acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这是电子音源。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_electronic_001-055-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music production system needs to categorize the sound type. Identify whether it is acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。电子音效常用于音乐制作和音效设计。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\reed_acoustic_037-060-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the origin of the sound in this recording. Respond only with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_006-094-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sound recognition AI is detecting audio sources. Determine if this audio is acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "根据描述，这段声音听起来像是电子音效，可能是由电子乐器或合成器生成的。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_116-094-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of sound source is present in this audio? Respond with only acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_synthetic_007-065-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether this sound was naturally produced, electronically generated, or artificially synthesized. Output only the correct category from acoustic, electronic, synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "This sound is electronic."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_111-066-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the characteristics of the sound, classify it as either acoustic, electronic, or synthetic. Provide only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_023-089-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the origin of the sound in this audio? Select one of the following: acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是由合成器或其他电子设备产生的。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_071-094-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound characteristics and determine if it is acoustic, electronic, or synthetic. Provide only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_058-056-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore contextual noise and focus solely on the primary sound source. Classify it as acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\organ_electronic_113-035-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the origin of the sound in this recording. Respond only with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能来自电子乐器或者电子音效器。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_synthetic_012-078-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the sound contains mixed elements, classify it based on its dominant characteristic. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器的声音，或者是鼓机和合成器的组合。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_101-084-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound characteristics and determine if it is acoustic, electronic, or synthetic. Provide only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "根据描述，这段声音听起来像是电子音。它有节奏感，还用了合成器效果，所以更偏向电子音乐。不过，要完全确定还需要更多的信息哦。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_018-095-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sound design study, classify the source of the audio sample. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这是电子音效，因为它的声音是由电子设备生成的，有很强的合成器和节奏感。这种音效常用于电子音乐和音效设计。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_007-070-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music production system needs to categorize the sound type. Identify whether it is acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。如果你有更多的声音样本，我可以更准确地告诉你这是哪种音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_024-055-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sound design study, classify the source of the audio sample. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是自然的声音，可能是风声或者水声。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_035-025-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore contextual noise and focus solely on the primary sound source. Classify it as acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器的声音。如果是音乐的一部分，那它可能是用来增加空间感或创造特殊效果的。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_030-051-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the characteristics of the sound, classify it as either acoustic, electronic, or synthetic. Provide only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_018-105-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification is based on the production method of the sound. Respond with acoustic, electronic, or synthetic only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_068-052-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the characteristics of the sound, classify it as either acoustic, electronic, or synthetic. Provide only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_139-068-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which category does this sound fall into? Respond strictly with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "电子。这段音乐听起来像是用电子乐器或电子效果制作的。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_synthetic_009-071-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_034-029-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify how the sound in this clip was produced. Choose from: acoustic, electronic, or synthetic. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_069-092-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify its source. Respond only with one of: acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "电子。这段音乐的节奏和音色都很电子化。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_079-101-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify its source. Respond only with one of: acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "电子。这段音乐听起来像是电子音乐。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_021-057-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the origin of the sound in this recording. Respond only with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是由合成器或电子乐器产生的。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_027-060-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sound design study, classify the source of the audio sample. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_002-069-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound effect library, label this sample correctly as acoustic, electronic, or synthetic. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "acoustic"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_003-038-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound effect library, label this sample correctly as acoustic, electronic, or synthetic. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "acoustic"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_027-075-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification is based on the production method of the sound. Respond with acoustic, electronic, or synthetic only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\bass_synthetic_034-037-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound characteristics and determine if it is acoustic, electronic, or synthetic. Provide only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_011-039-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given sound and classify its origin. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或者电子乐器发出的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_067-065-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the nature of this sound. Select the most appropriate label from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是自然的声音，可能是风声或者水声。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_043-045-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given sound and classify its origin. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或者电子乐器发出的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_021-050-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the characteristics of the sound, classify it as either acoustic, electronic, or synthetic. Provide only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_045-027-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music production system needs to categorize the sound type. Identify whether it is acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器的声音。电子音效常用于现代音乐制作和音效设计。不过，具体类型可能需要更多上下文或音频片段来准确判断哦。如果你有更多关于这个音效的信息或背景，可以告诉我，我也许能提供更详细的分类。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_068-068-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify its source. Respond only with one of: acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "电子。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_007-079-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of sound source is present in this audio? Respond with only acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或者电子乐器发出的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_025-065-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound effect library, label this sample correctly as acoustic, electronic, or synthetic. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "acoustic"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_073-041-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the origin of the sound in this recording. Respond only with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_003-076-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound characteristics and determine if it is acoustic, electronic, or synthetic. Provide only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_042-054-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound characteristics and determine if it is acoustic, electronic, or synthetic. Provide only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或效果器发出的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_053-086-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether this sound was naturally produced, electronically generated, or artificially synthesized. Output only the correct category from acoustic, electronic, synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "acoustic"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_113-045-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sound design study, classify the source of the audio sample. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_029-088-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given sound and classify its origin. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_015-036-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the characteristics of the sound, classify it as either acoustic, electronic, or synthetic. Provide only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_020-028-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an audio classification task, determine whether the sound in this recording is acoustic, electronic, or synthetic. Provide only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "电子。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_058-032-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the sound contains mixed elements, classify it based on its dominant characteristic. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器的声音，或者是鼓点和节奏的音效。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_011-071-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the origin of the sound in this recording. Respond only with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器或者电子乐器发出的声音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_052-043-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify its source. Respond only with one of: acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_004-078-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound effect library, label this sample correctly as acoustic, electronic, or synthetic. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_021-074-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which category does this sound fall into? Respond strictly with acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Acoustic"
+      }
+    ],
+    "result": "这是电子音效。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_019-093-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sound recognition AI is detecting audio sources. Determine if this audio is acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "根据描述，这段声音听起来像是电子音效，可能是由电子乐器或合成器生成的。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_006-048-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify its source. Respond only with one of: acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_083-056-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music production system needs to categorize the sound type. Identify whether it is acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "根据描述，这段声音是电子音乐。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_071-034-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of sound source is present in this audio? Respond with only acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种电子乐器或者合成器发出的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_electronic_028-045-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the sound contains mixed elements, classify it based on its dominant characteristic. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效，可能是一种合成器的声音。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_007-051-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an audio classification task, determine whether the sound in this recording is acoustic, electronic, or synthetic. Provide only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synthetic"
+      }
+    ],
+    "result": "电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_017-049-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the characteristics of the sound, classify it as either acoustic, electronic, or synthetic. Provide only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_030-105-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify its source. Respond only with one of: acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这是电子音。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_007-107-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the sound contains mixed elements, classify it based on its dominant characteristic. Choose from acoustic, electronic, or synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个音乐片段是电子音乐。它的节奏感强，合成器音色明显，符合电子音乐的典型特征。"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\keyboard_electronic_069-035-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether this sound was naturally produced, electronically generated, or artificially synthesized. Output only the correct category from acoustic, electronic, synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "acoustic"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_electronic_019-032-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the characteristics of the sound, classify it as either acoustic, electronic, or synthetic. Provide only the correct label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Electronic"
+      }
+    ],
+    "result": "这个声音听起来像是电子音效。"
+  }
+]

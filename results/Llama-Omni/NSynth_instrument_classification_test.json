@@ -1,0 +1,1702 @@
+[
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_065-055-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or accessing audio clips. Please provide a description of the sound, and I'll do my best to identify the instrument.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 870 790 716 205 521 453 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 430 70 219 727 522 866 586 314 432 32 882 924 866 398 212 455 538 187 594 246 901 166 56 113 327 635 402 380 382 45 914 119 593 453 333 377 506 686 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 711 124 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 944 565 523 196 721 250 432 170 731 589 337 126 426 647 333 998 595 817 146 283 352 931 932 148 202 393 946 734 432 742 519 589 26 204 280 668 576 384 907 597 816 325 343 208 613 417 755 237 193 985 63 644 254 823 175 684 136 944 530 733 693 521 660 537 721 549 139 340 846 498 324 338 359 655 837 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 771 333 328 912 731 589 600 702 728 663 748 671 377 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_000-087-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music classification project, identify the primary instrument in this audio. Return only one of the following: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio in real-time. However, I can suggest some online tools or apps that can help you identify the primary instrument in an audio file. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 423 27 761 430 650 179 931 62 954 259 317 645 453 655 837 81 347 376 398 212 455 538 187 594 246 901 166 964 113 327 905 635 791 380 483 46 812 222 156 824 442 485 113 327 716 205 521 691 45 244 583 874 167 655 764 837 81 377 627 385 309 584 902 193 415 772 497 63 644 254 821 761 104 894 852 384 879 577 154 302 663 969 524 44 254 504 530 733 445 137 488 620 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 167 104 896 627 538 27 579 764 361 325 781 645 655 837 81 620 112 143 38 244 583 516 677 253 205 521 711 510 675 237 461 969 538 423 27 761 907 430 70 404 876 85 297 884 459 173 945 233 914 445 137 488 620 352 470 821 576 693 268 404 876 233 258 436 139 787 483 81 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 734 251 676 481 973 288 796 750 655 837 81 748 12 336 877 663 466 503 56 321 633 406 25 771 328 912 731 600 702 728 663 748 671 877 488 443 208 613 417 169 46 812 222 428 488 222 931 538 594 246 901 166 56 113 327 905 635 791 380 382 390 479 330 776 167 655 837 81 693 205 611 584 902 193 415 772 497 63 665 991 535 101 271 355 660 555 258 436 139 340 781 645 837 81 664 219 107 85 519 26 204 280 668 167 104 896 627 156 824 442 384 879 319 501 469 59 748 12 977 877 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_002-068-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not able to hear the sound clip, can you please describe it to me?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 541 202 393 946 734 742 519 26 204 280 576 384 761 907 597 816 325 915 143 233 850 45 914 119 593 453 503 333 377 506 876 417 755 63 665 445 137 488 179 961 207 258 436 139 340 357 251 676 260 712 593 485 321 948 198 711 124 884 721 250 798 432 742 170 731 589 337 126 119 647 655 837 81 901 290 559 333 437 29 79 799 220 754 498 12 172 536 53 321 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_088-066-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not able to hear the audio clip, can you please describe it to me?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 969 541 202 393 946 215 406 594 246 660 166 250 56 113 327 905 791 380 382 45 914 119 593 453 333 506 876 755 193 63 128 665 914 445 137 488 179 207 258 436 139 340 357 251 676 260 712 593 485 321 948 198 711 510 884 721 250 432 170 731 589 337 126 119 647 655 837 81 901 290 559 333 437 29 79 799 220 754 498 172 536 321 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_060-043-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 59 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 415 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_068-053-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio snippets. However, I can provide you with a list of common instruments and their characteristics to help you identify the instrument in the audio snippet.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 821 485 284 466 398 212 455 187 594 461 969 251 676 481 973 288 750 246 70 346 540 866 586 314 798 432 882 924 866 398 212 455 538 187 594 246 660 166 250 964 113 327 635 432 742 98 519 589 126 333 357 876 377 506 686 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 504 530 733 914 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 764 837 81 664 555 258 436 139 340 787 935 271 333 523 196 202 393 565 734 259 781 303 333 32 835 67 940 118 944 362 366 932 148 850 914 272 445 469 167 655 764 108 715 336 877 488 620 352 915 25 389 771 333 328 912 731 589 600 728 663 748 671 877 377 488 832 93 545 85 510 297 169 362 175 684 136 202 881 331 663 969 867 263 445 137 384 761 907 466 219 952 315 477 788 59 156 503 333 432 32 683 940 600 702 680 910 333 487 990 107 85 297 337 884 79 868 220 470 821 576 384 693 268 876 258 436 139 483 483 81 733 664 196 166 549 384 879 443 274 794 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 333 328 912 731 589 600 702 728 663 748 671 877 488 443 93 208 613 417 169 46 812 222 393 946 215 406 538 594 246 660 166 56 113 327 905 635 791 380 742 98 519 589 126 333 506 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_075-035-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to hear or access audio files. Please provide a description of the instrument or its sound, and I'll do my best to identify it.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 268 876 417 755 128 665 991 547 833 173 945 944 530 733 896 627 168 565 734 105 244 583 576 879 219 522 67 589 337 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 488 684 136 915 721 250 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 757 323 59 790 37 234 366 523 50 910 321 633 86 105 79 868 220 470 821 534 485 284 663 969 187 594 461 969 538 609 423 27 761 430 70 219 522 866 586 314 198 32 835 67 22 265 169 878 609 187 594 246 901 166 56 964 113 327 905 791 611 390 479 330 776 167 655 837 81 693 205 521 611 711 510 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 641 711 124 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 944 565 734 196 721 250 798 432 170 731 589 337 126 426 647 333 998 219 595 727 817 146 283 352 931 932 148 202 393 946 215 333 328 912 731 600 702 728 663 748 671 377 488 443 93 208 613 417 755 187 594 461 969 466 503 333 437 85 85 589 26 204 280 668 576 384 761 907 597 816 325 385 343 208 613 417 755 237 605 985 505 99 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 483 530 733 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 327 377 437 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_036-066-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the instrument is correctly classified based on its unique sound characteristics. Respond with only the appropriate label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "prediction": "I'd be happy to help. Can you please describe the sound characteristics of the instrument you're thinking of?",
+    "prediction_units": "530 733 555 29 290 943 56 948 86 470 821 761 430 70 404 757 323 534 321 948 86 539 79 868 220 470 821 576 167 693 268 876 341 661 497 63 662 445 137 488 179 207 258 436 139 340 382 251 676 0 260 712 593 485 321 948 198 711 124 884 721 250 432 170 589 337 126 119 647 655 837 81 885 29 202 393 946 215 742 519 26 204 280 668 576 761 907 597 816 325 137 445 137 167 761 466 487 219 952 315 477 788 59 663 466 824 333 32 882 683 731 940 600 702 680 333 487 990 107 510 700 362 932 148 202 393 946 215 406 771 333 328 912 731 589 600 728 663 748 671 488 443 93 506 208 233 258 436 663 969 390 256 776 314 333 212 455 501 398 212 455 238 932 148 341 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_025-085-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "prediction": "I'm not able to identify the instrument in the audio as I'm a text-based AI assistant and do not have the capability to hear or access audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 196 202 393 946 215 327 328 912 731 589 600 728 663 748 671 488 443 93 208 944 169 46 812 222 393 946 215 113 406 406 594 246 660 166 964 113 327 791 380 267 483 173 641 347 124 362 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 589 337 850 537 290 978 833 822 89 194 664 835 67 940 118 944 822 89 327 905 579 81 798 432 742 98 519 26 204 280 314 333 432 882 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 885 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 113 284 663 969 187 594 461 969 538 609 423 27 761 430 70 219 952 522 866 586 314 198 32 835 67 22 169 878 609 187 594 246 901 166 56 964 113 327 905 635 791 390 479 330 776 167 655 837 81 377 693 205 521 611 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_002-087-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "prediction": "I'm happy to help, but I need more information. Can you please provide the sound or audio clip you'd like me to analyze?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 611 268 876 417 755 605 63 128 665 991 547 833 173 945 944 530 733 575 116 372 485 948 86 555 889 324 826 592 103 969 466 503 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 377 385 584 902 193 415 772 497 63 662 445 137 488 620 961 207 258 436 139 340 382 251 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 202 393 946 734 742 519 589 26 204 280 668 576 761 907 597 816 325 944 461 969 538 187 594 246 660 166 56 964 113 327 635 791 380 382 914 119 593 333 713 555 233 258 436 139 660 555 781 645 655 837 81 664 990 107 29 747 172 536 950 321 948 86 105 79 868 220 846 483 384 761 907 430 179 931 62 259 317 645 453 655 837 81 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_032-061-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "prediction": "I'm not able to identify the instrument in the audio as I'm a text-based AI assistant and do not have the capability to hear or access audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 196 202 393 946 215 327 328 912 731 589 600 728 663 748 671 488 443 93 208 944 169 46 812 222 393 946 215 113 406 406 594 246 660 166 964 113 327 791 380 267 483 173 641 347 124 362 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 589 337 850 537 290 978 833 822 89 194 664 835 67 940 118 944 822 89 327 905 579 81 798 432 742 98 519 26 204 280 314 6 432 882 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 113 284 663 969 187 594 461 969 538 609 423 27 761 430 70 219 952 522 866 586 314 198 32 835 67 22 169 878 609 187 594 246 901 166 56 964 113 327 905 635 791 390 479 330 776 167 655 837 81 377 693 205 521 611 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_114-047-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not hearing an instrument being played. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 821 534 485 284 663 466 398 212 455 428 46 488 620 961 931 659 25 771 333 328 912 731 600 728 663 748 671 377 93 506 208 943 485 398 212 455 143 38 412 260 712 593 822 89 194 53 555 686 208 417 755 902 193 415 772 497 63 662 213 260 712 485 321 948 813 32 683 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 367 167 655 764 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_020-102-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the instrument is correctly classified based on its unique sound characteristics. Respond with only the appropriate label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'd be happy to help. Can you please describe the sound characteristics of the instrument you're thinking of?",
+    "prediction_units": "530 733 555 29 290 943 56 948 86 470 821 761 430 70 404 757 323 534 321 948 86 539 79 868 220 470 821 576 462 693 611 268 876 341 661 497 63 662 445 137 488 179 207 258 436 139 340 382 251 676 0 260 712 593 485 321 948 198 711 124 884 721 250 432 170 589 337 126 119 647 655 837 81 506 29 202 393 946 215 742 519 26 204 280 668 576 761 907 597 816 325 137 445 137 167 761 466 487 219 952 315 477 788 663 466 824 333 32 882 683 731 940 600 702 680 333 487 990 107 510 362 932 148 202 393 946 215 406 333 328 912 731 589 600 702 728 663 748 671 488 443 93 208 233 258 436 663 969 390 256 776 314 333 212 455 501 398 212 455 238 764 932 148 341 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_002-034-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 821 485 284 466 398 212 455 659 187 594 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 406 538 609 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 415 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_017-072-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying instruments. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 470 821 534 485 284 466 398 212 455 659 187 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 771 328 912 731 600 728 663 748 671 377 832 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 659 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 417 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_060-052-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying instruments. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 470 821 485 284 466 398 212 455 187 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 771 328 912 731 600 728 663 748 671 377 832 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 659 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 417 79 799 220 105 244 583 576 384 879 219 522 67 940 118 233 850 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_015-070-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music classification project, identify the primary instrument in this audio. Return only one of the following: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Vocal"
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio in real-time. However, I can suggest some online tools or apps that can help you identify the primary instrument in an audio file. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 423 27 761 430 650 179 931 62 954 259 317 645 453 655 837 81 347 376 398 212 455 538 187 594 246 901 166 964 113 327 635 791 380 483 46 812 222 156 824 442 485 113 327 716 205 521 691 45 244 583 874 167 655 764 837 81 377 627 385 309 584 902 193 415 772 497 63 644 254 821 761 104 894 852 384 879 577 154 302 663 969 524 44 254 504 530 733 445 137 488 620 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 85 519 26 204 280 668 167 104 896 627 538 27 579 764 361 325 781 645 655 837 81 620 112 143 38 244 583 516 677 253 205 521 711 510 675 237 461 969 538 423 27 761 907 430 70 404 876 85 297 884 459 173 945 233 914 445 137 488 620 352 470 821 576 693 268 404 876 233 258 436 139 787 483 81 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 734 251 676 481 973 288 796 750 655 837 81 748 12 336 877 663 466 503 56 321 633 406 25 771 328 912 731 600 702 728 663 748 671 877 488 443 208 613 417 169 46 812 222 428 488 222 931 538 594 246 901 166 56 113 327 905 635 791 380 382 390 479 330 776 167 655 837 81 693 205 611 584 902 193 415 772 497 63 665 991 535 101 271 355 660 555 258 436 139 340 781 645 837 81 664 219 107 85 519 26 204 280 668 167 104 896 627 156 824 442 384 879 319 501 469 59 748 12 671 977 877 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_005-027-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not able to hear the sound clip, can you please describe it to me?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 523 541 202 393 946 734 742 519 26 204 280 668 576 384 761 907 597 816 325 915 143 233 850 45 914 119 593 453 503 333 377 506 876 417 755 237 193 128 665 914 445 137 488 179 961 207 258 436 139 340 357 251 676 260 712 593 485 321 948 198 711 124 884 721 250 798 432 742 170 731 589 337 126 119 647 655 837 81 901 290 559 333 437 29 79 799 220 754 12 172 536 53 321 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_034-057-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not able to analyze audio tracks. Can I help you with something else?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 538 609 423 27 761 430 931 62 954 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 791 45 914 728 647 219 107 545 85 297 265 675 237 415 772 497 63 662 914 445 137 620 179 931 530 733 470 821 576 693 268 876 29 258 436 139 340 787 935 271 333 523 196 918 519 26 204 280 668 167 104 650 816 409 918 743 15 212 455 406 25 423 384 693 521 828 835 67 297 206 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_030-059-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "prediction": "I'm not hearing an instrument being played. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 470 821 485 284 663 466 398 212 455 428 488 812 222 931 428 25 771 333 328 912 731 600 728 663 748 671 377 443 506 208 943 485 398 212 455 143 38 412 260 712 593 822 89 194 53 555 208 613 417 755 902 193 415 772 497 63 662 213 260 712 485 321 948 813 32 683 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 367 167 655 764 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_007-041-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 538 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 415 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_006-054-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio snippets. However, I can provide you with a list of common instruments and their characteristics to help you identify the instrument in the audio snippet.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 485 284 466 398 212 455 187 594 461 969 251 676 481 973 288 750 246 70 346 540 866 586 314 798 432 882 924 866 398 212 455 538 187 594 246 660 166 56 964 113 327 635 432 742 98 519 589 126 333 357 876 377 506 686 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 504 530 733 914 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 258 436 139 340 787 935 271 333 523 196 202 393 565 734 259 781 303 333 32 835 67 940 118 944 362 366 932 148 850 914 272 445 469 167 655 764 108 715 336 877 488 620 352 915 25 389 771 333 328 912 731 589 600 728 663 748 671 877 377 488 832 93 545 85 510 297 169 362 823 175 684 136 202 881 331 663 969 867 263 445 137 384 761 907 466 219 952 315 477 788 59 156 503 333 432 32 683 940 600 702 680 910 333 487 990 107 85 297 337 884 79 868 220 470 821 576 384 693 268 876 258 436 139 340 483 483 81 733 664 196 166 549 384 879 443 274 794 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 333 328 912 731 589 600 702 728 663 748 671 877 488 443 93 208 613 417 169 46 812 222 393 946 215 406 538 594 246 660 166 56 113 327 905 635 791 380 742 98 519 589 126 333 506 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_005-084-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying sounds. I can provide information on instruments, though.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 870 790 716 205 521 453 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 530 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 212 455 912 519 589 26 204 280 668 576 384 907 597 611 385 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 143 38 676 481 973 288 750 687 870 692 154 558 655 837 81 664 555 944 771 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 878 538 493 361 428 771 333 328 912 731 589 600 702 728 663 748 671 377 832 758 545 85 297 265 675 237 307 128 202 881 331 803 563 611 916 584 902 193 341 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_021-024-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on the instrumental characteristics and determine the correct classification. Output just one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "prediction": "I'd be happy to help. Can you please provide more information about the instrumental characteristics you're referring to, such as the tone, pitch, or rhythm?",
+    "prediction_units": "530 733 555 29 290 943 56 321 948 86 470 821 761 430 70 404 757 323 321 948 86 539 105 79 868 220 470 821 576 693 268 876 341 661 497 63 662 445 137 488 179 961 207 258 436 139 340 382 251 676 0 260 712 593 485 321 948 198 711 510 337 243 850 973 288 750 687 870 692 154 558 655 837 81 555 29 889 324 826 592 103 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 931 565 734 849 907 597 29 202 393 946 215 771 328 912 731 589 600 663 748 671 877 879 443 274 794 75 716 205 521 867 45 914 137 167 761 466 487 219 952 477 852 663 466 503 333 32 683 940 600 702 680 15 487 990 107 297 258 436 663 969 156 824 442 734 870 390 422 330 776 435 663 466 398 212 455 143 38 79 799 220 340 846 524 44 128 780 519 26 204 280 668 167 70 185 552 955 333 641 124 884 393 946 734 105 244 583 576 803 563 380 620 112 343 44 752 63 662 213 260 323 576 333 506 326 531 417 169 187 594 461 969 156 824 442 384 333 166 921 549 366 87 896 627 168 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_058-045-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to listen to audio clips. Please provide a description of the instrument or its sound, and I'll do my best to classify it for you.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 803 693 268 876 417 755 237 111 128 665 991 547 833 173 945 944 530 733 627 168 565 734 105 244 583 576 384 879 219 522 67 589 337 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 357 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 79 868 220 259 781 303 333 32 882 924 866 586 955 283 488 352 915 143 79 799 220 846 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 876 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 641 711 124 337 850 213 973 288 750 870 692 154 558 655 837 81 555 944 565 734 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 215 327 333 328 912 731 589 600 702 728 663 748 671 877 377 488 443 93 208 613 417 755 187 461 969 466 503 333 437 85 589 589 26 204 280 668 576 384 907 597 816 325 385 343 208 613 417 755 237 605 985 505 99 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 319 263 914 119 887 593 167 761 430 70 540 866 586 362 59 958 66 776 167 655 837 81 327 333 437 506 233 515 663 969 56 258 436 139 340 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_synthetic_000-032-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-assisted composer tool, detect the instrument used in this segment. Output only one of the predefined labels - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm not capable of detecting instruments in audio segments. However, I can help you identify the instrument if you provide a description of the sound or a link to the segment.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 29 233 542 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 537 721 250 161 523 793 403 557 244 583 576 384 879 219 952 315 398 212 455 428 771 333 328 912 731 589 600 728 663 748 671 877 488 832 93 758 545 85 510 169 46 812 222 931 428 538 187 594 246 901 166 56 964 113 327 635 791 380 358 742 98 519 26 204 280 314 384 879 219 501 747 671 877 377 506 686 545 85 297 265 675 755 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 470 821 384 693 268 876 258 436 139 483 530 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 901 202 393 946 215 406 327 333 328 912 731 589 600 702 728 663 748 12 671 877 488 443 93 274 208 613 389 825 771 685 333 958 66 258 436 139 340 251 676 481 973 288 750 870 692 154 558 655 837 81 555 944 565 734 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 734 742 519 589 26 204 280 668 576 384 907 597 816 325 208 944 461 969 466 565 734 259 781 645 212 455 29 79 799 220 202 393 946 734 742 98 519 26 204 280 576 384 879 487 350 747 977 877 377 93 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_034-026-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-assisted composer tool, detect the instrument used in this segment. Output only one of the predefined labels - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not capable of detecting instruments in audio segments. I'm a text-based AI assistant. However, I can help you identify instruments based on their acoustic characteristics or provide information on how to use AI-powered tools for instrument detection.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 29 233 542 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 537 721 250 161 523 793 403 557 244 583 576 384 879 219 952 315 398 212 455 428 771 333 328 912 731 589 600 728 663 748 671 877 488 832 93 758 545 85 510 169 46 812 222 931 428 538 187 594 246 901 166 56 964 113 327 635 791 380 358 742 98 519 26 204 280 314 384 879 219 501 747 671 877 377 506 686 545 85 297 265 675 755 237 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 81 327 432 742 98 519 26 204 280 6 333 32 882 170 731 600 702 15 377 93 385 686 208 613 417 755 415 772 497 644 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 352 470 821 576 384 693 268 876 323 258 436 139 483 530 733 664 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 664 406 25 771 328 731 600 702 728 663 748 671 877 377 488 832 758 545 85 510 297 337 243 850 290 978 822 89 194 664 835 67 940 118 944 878 493 361 202 881 331 663 969 466 423 384 734 70 263 45 914 445 137 74 139 340 32 683 589 600 702 15 333 487 219 990 29 914 445 137 384 761 466 969 219 315 788 663 466 503 333 432 882 683 940 118 702 680 333 219 990 107 85 510 700 169 461 969 870 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 822 89 194 664 817 146 283 352 659 878 538 187 493 361 470 821 761 907 597 660 691 79 868 220 258 436 139 340 347 376 124 423 822 89 284 327 905 579 837 81 251 759 260 547 444 167 761 907 597 894 302 663 969 541 555 29 561 244 583 516 677 253 205 521 711 510 243 515 663 25 771 328 912 731 589 600 702 728 663 748 671 877 488 523 93 506 29 417 721 250 523 793 403 244 583 576 384 879 70 219 727 817 146 283 377 385 584 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_099-047-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A digital music library is categorizing tracks by instrument. Identify and return the instrument name from the given list - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "The instrument names are bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, and vocal.",
+    "prediction_units": "202 393 946 215 25 333 328 912 731 600 702 728 748 671 877 488 443 93 29 116 281 428 822 89 194 627 545 711 510 362 579 969 818 290 978 833 822 89 430 194 70 835 67 297 265 675 237 537 290 978 647 462 761 907 430 70 835 67 297 265 675 237 780 479 330 593 677 340 380 660 506 686 208 613 417 755 237 416 836 523 793 403 75 583 874 167 655 764 969 524 44 752 914 445 476 534 485 948 86 885 290 978 302 592 103 969 660 555 752 73 889 338 359 384 384 761 907 430 259 317 453 377 506 686 208 613 417 755 237 594 103 969 934 350 836 377 488 620 112 654 343 44 752 991 162 156 824 442 485 321 948 86 555 208 417 780 519 589 600 702 728 647 120 212 455 659 780 519 289 26 204 280 314 333 93 743 243 781 303 485 321 948 86 555 208 878 823 175 684 136 143 692 526 302 908 382 268 501 119 716 205 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_014-053-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to listen to audio clips. Please provide a description of the instrument or its sound, and I'll do my best to classify it for you.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 803 693 268 876 417 755 111 128 665 991 547 833 173 945 944 530 733 627 168 565 734 105 244 583 576 384 879 219 522 67 589 337 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 357 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 79 868 220 228 259 781 303 333 32 882 924 866 586 283 488 352 915 143 79 799 220 846 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 876 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 641 711 124 337 850 213 973 288 750 870 692 154 558 655 837 81 555 944 565 734 196 721 250 432 170 683 589 337 126 426 647 333 998 219 595 727 817 146 283 352 931 932 148 202 393 946 215 327 333 328 912 731 600 702 728 663 748 671 877 377 488 443 93 208 613 417 755 461 969 466 503 333 437 85 85 589 26 204 280 668 576 384 907 597 816 325 385 343 208 613 417 755 237 605 985 505 99 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 319 263 914 119 887 593 167 761 430 70 540 866 586 362 59 958 66 776 167 655 837 81 327 333 437 506 233 515 663 969 56 258 436 139 340 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_010-062-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Vocal"
+      }
+    ],
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to listen to audio clips. Please provide a description of the instrument or its sound, and I'll do my best to classify it for you.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 803 693 268 876 417 755 237 111 63 665 991 547 833 173 945 944 530 733 627 168 565 734 105 244 583 576 384 879 219 522 67 589 337 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 357 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 79 868 220 228 259 781 303 333 32 882 924 866 586 955 283 488 352 915 143 79 799 220 846 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 876 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 641 711 124 337 850 213 973 288 750 870 692 154 558 655 837 81 555 944 565 734 196 721 250 432 170 683 589 337 126 426 647 333 998 219 595 727 817 146 283 352 931 932 148 202 393 946 215 327 333 328 912 731 589 600 702 728 663 748 671 877 377 488 443 93 208 613 417 755 187 461 969 466 503 333 437 85 85 589 26 204 280 668 576 384 907 597 816 325 385 343 208 613 417 755 237 605 985 505 99 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 319 263 914 887 593 167 761 430 70 540 866 586 362 59 958 66 776 167 655 837 81 327 333 437 506 233 515 663 969 56 258 436 139 340 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_000-096-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm not able to analyze audio tracks, but I can help you identify the dominant instrument in a description of a track. Please provide more information about the track.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 538 609 423 27 761 430 179 931 62 954 259 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 791 45 914 728 647 219 107 545 85 297 265 675 237 307 226 128 665 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 576 693 934 268 404 876 29 258 436 139 530 733 664 196 166 549 384 879 443 93 274 794 680 59 958 66 776 655 837 81 901 202 393 946 734 196 721 549 167 655 764 748 872 336 877 179 961 428 333 443 93 274 208 944 25 389 771 328 912 731 600 728 663 748 671 877 488 443 93 274 208 613 417 955 46 812 222 428 565 734 196 721 250 432 742 170 731 589 337 126 426 647 998 219 595 727 817 146 283 352 931 932 148 565 734 105 777 728 227 647 167 907 430 70 219 107 417 755 415 497 63 662 689 213 260 712 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 233 29 889 324 826 592 103 969 25 771 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 385 931 428 565 734 849 761 907 597 29 202 393 946 734 105 777 227 647 167 761 907 430 70 219 107 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_011-085-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music classification project, identify the primary instrument in this audio. Return only one of the following: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or identifying instruments in real-time. However, I can provide information on how to analyze audio files or suggest tools that can help you with music classification projects.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 787 483 538 187 594 246 901 166 56 964 113 327 905 611 52 267 187 461 969 530 733 196 166 549 384 879 443 274 794 680 15 998 958 66 776 655 837 81 398 455 25 771 328 912 731 600 728 663 748 671 377 832 758 545 85 510 297 362 46 812 222 915 156 824 442 485 113 327 635 205 521 691 105 45 244 583 167 655 764 837 81 377 627 385 584 902 415 772 497 63 644 254 821 761 104 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 878 538 493 361 470 821 761 907 597 660 79 868 220 483 423 384 761 430 179 931 62 954 317 645 453 655 837 81 198 711 510 878 594 246 901 166 56 964 113 327 635 791 380 390 479 330 776 167 655 837 693 205 521 545 711 510 362 187 461 969 742 98 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 417 884 244 240 583 516 677 253 205 521 711 510 884 459 173 945 233 914 445 137 488 620 352 915 470 821 576 384 693 268 404 876 29 258 436 139 787 935 271 333 523 196 918 233 889 536 436 139 340 347 376 975 955 333 487 319 990 107 914 887 593 167 761 430 70 540 866 586 59 958 66 910 487 319 501 137 822 89 194 817 146 283 352 385 143 38 481 973 288 750 246 933 901 934 705 11 377 952 686 545 85 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_027-083-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the instrument is correctly classified based on its unique sound characteristics. Respond with only the appropriate label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "prediction": "I'd be happy to help. Can you please describe the sound characteristics of the instrument you're thinking of?",
+    "prediction_units": "530 733 555 29 290 943 56 948 86 470 821 761 430 70 404 757 323 534 321 948 86 539 79 868 220 470 821 576 167 693 268 876 341 661 497 63 662 445 137 488 179 961 207 258 436 139 340 382 251 676 0 260 712 593 485 321 948 198 711 124 884 721 250 432 170 589 337 126 119 647 655 837 81 506 29 202 393 946 215 742 519 26 204 280 668 576 761 907 597 816 325 137 445 137 167 761 466 487 219 952 315 477 788 59 663 466 824 333 32 882 683 731 940 600 702 680 333 487 990 107 85 510 700 362 932 148 202 393 946 215 406 333 328 912 731 589 600 702 728 663 748 671 488 443 93 506 208 233 258 436 663 969 390 256 776 314 333 212 455 501 398 212 455 238 764 932 148 341 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_008-090-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm happy to help, but I need more information. Can you please provide the sound or audio clip you'd like me to analyze?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 611 268 876 417 755 605 128 665 991 547 833 173 945 944 530 733 575 116 372 485 948 86 555 889 324 826 592 103 969 466 771 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 377 385 584 902 193 415 772 497 63 662 914 445 137 488 620 961 207 258 436 139 340 382 251 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 202 393 946 734 742 519 589 26 204 280 668 576 761 907 597 816 325 944 461 969 538 187 594 246 660 166 56 964 113 327 635 791 380 382 914 119 593 333 713 555 233 258 436 139 660 555 781 645 655 837 81 664 990 107 29 747 172 536 950 321 948 86 105 79 868 220 846 483 384 761 907 430 179 961 931 62 317 645 453 655 837 81 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_106-070-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying instruments. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 470 821 485 284 466 398 212 455 659 187 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 771 328 912 731 600 728 663 748 671 377 832 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 659 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 417 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_026-103-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument and return only the corresponding label. No additional text or explanation. Choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "bass",
+    "prediction_units": "833 384 907 430 70 835 67 297"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_015-053-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument and return only the corresponding label. No additional text or explanation. Choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "bass",
+    "prediction_units": "833 384 907 430 70 835 67 297"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_009-062-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to listen to audio clips. Please provide a description of the instrument or its sound, and I'll do my best to classify it for you.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 803 693 268 876 417 755 237 111 63 665 991 547 833 173 945 944 530 733 627 168 565 734 105 244 583 576 384 879 219 522 67 589 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 357 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 79 868 220 228 259 781 303 333 32 882 924 866 586 955 283 488 352 915 143 79 799 220 846 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 876 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 641 711 124 337 850 213 973 288 750 870 692 154 558 655 837 81 555 944 565 734 196 721 250 432 170 683 589 337 126 426 647 333 998 219 595 727 817 146 283 352 931 932 148 202 393 946 215 327 333 328 912 731 589 600 702 728 663 748 671 877 377 488 443 93 208 613 417 755 461 969 466 503 333 437 85 589 85 589 26 204 280 668 576 384 907 597 816 325 385 343 208 613 417 755 237 605 985 505 99 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 319 263 914 887 593 167 761 430 70 540 866 586 362 59 958 66 776 167 655 837 81 327 333 437 506 233 515 663 969 56 258 436 139 340 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_018-063-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "prediction": "I'm not able to identify the primary instrument in an audio clip. I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 215 251 676 973 288 796 655 837 81 748 12 336 877 663 466 503 56 321 406 25 771 333 328 912 731 589 600 728 663 748 671 877 377 488 443 93 208 613 417 169 46 812 222 428 488 575 931 878 538 187 594 246 660 166 250 56 113 327 905 635 791 380 382 263 45 914 119 593 333 506 876 415 772 661 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 537 213 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 333 32 170 731 600 702 15 377 488 443 93 274 208 613 175 684 136 915 721 250 220 139 340 575 475 783 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 781 303 333 32 835 924 866 586 955 283 488 832 352 915 143 79 799 220 846 187 594 461 969 538 609 423 27 761 430 179 931 62 402 259 317 645 453 655 837 81 198 711 510 878 609 187 594 246 901 166 56 964 113 327 635 390 479 330 776 655 837 81 693 205 521 611 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\keyboard_electronic_002-107-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A digital music library is categorizing tracks by instrument. Identify and return the instrument name from the given list - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "The instrument names are bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, and vocal.",
+    "prediction_units": "202 393 946 215 333 328 912 731 600 702 728 663 748 671 877 488 443 93 29 116 281 428 822 89 194 627 545 711 510 362 579 969 818 290 978 822 89 430 194 70 835 67 297 265 675 237 537 290 978 647 462 761 907 430 70 835 67 297 265 675 237 780 479 330 593 677 340 380 660 506 686 208 613 417 755 237 416 836 523 793 403 75 583 874 167 655 764 969 524 44 752 914 445 476 534 485 948 86 885 290 978 302 592 103 969 660 555 752 73 889 338 359 384 384 761 907 430 259 317 453 377 506 686 208 613 417 755 594 103 969 934 350 836 377 488 620 112 654 343 44 752 991 162 156 824 442 485 321 948 86 555 208 417 780 519 589 600 702 728 647 120 212 455 659 780 519 289 26 204 280 314 333 93 743 243 781 303 485 321 948 86 555 208 878 823 175 684 136 143 692 526 302 908 380 382 268 501 119 716 205 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_053-059-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to hear or access audio files. Please provide a description of the instrument or its sound, and I'll do my best to identify it.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 268 876 417 755 128 665 991 547 833 173 945 944 530 733 896 627 168 565 734 105 244 583 576 879 219 522 67 589 337 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 488 684 136 915 721 250 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 757 323 59 790 37 234 366 523 50 910 321 633 86 105 79 868 220 470 821 534 485 284 663 969 187 594 461 969 538 609 423 27 761 430 70 219 522 866 586 314 198 32 835 67 22 265 169 878 609 187 594 246 901 166 56 964 113 327 905 377 791 611 390 479 330 776 167 655 837 81 693 205 521 611 711 510 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 641 711 124 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 944 565 523 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 215 333 328 912 731 600 702 728 663 748 671 377 488 443 93 208 613 417 755 187 594 461 969 466 503 333 437 85 589 85 589 26 204 280 668 576 384 907 597 816 325 385 343 208 417 755 237 605 985 505 99 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 483 530 733 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 327 333 437 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_063-030-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument do you hear in this recording? Reply using only one of the predefined labels, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm not able to hear the recording, but I can try to help you identify the instrument if you can describe the sound or provide more context.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 541 202 393 946 734 156 824 442 998 263 45 272 119 607 592 103 969 660 166 398 212 455 343 942 115 224 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 143 777 227 647 655 837 81 664 691 79 868 220 470 821 576 693 268 876 323 258 436 139 340 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 215 327 333 328 912 731 600 702 728 663 748 671 377 488 443 93 208 613 944 771 685 333 958 66 258 436 139 340 914 445 137 488 620 352 915 721 250 432 170 731 589 126 119 728 647 655 837 81 901 555 29 202 393 946 734 742 519 26 204 280 668 576 761 907 597 816 325 944 461 969 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 233 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 794 75 583 15 377 219 952 522 67 940 118 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_023-076-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "prediction": "The sound is a guitar.",
+    "prediction_units": "946 734 742 98 519 589 26 204 280 576 761 907 597 816 325 915 208 944 865 641 124 362 734 319 523 793 403 75 583 874 167 655 764 164 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_048-032-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not able to identify the instrument in the audio as I'm a text-based AI assistant and do not have the capability to hear or access audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 196 202 393 946 215 327 328 912 731 589 600 728 663 748 671 488 443 93 208 944 169 46 812 222 393 946 215 113 406 406 594 246 660 166 964 113 327 791 380 267 483 173 641 347 124 362 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 67 589 337 118 850 537 290 978 833 822 89 194 664 835 67 940 118 944 822 89 327 905 579 81 798 432 742 98 519 26 204 280 314 6 432 882 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 113 284 663 969 187 594 461 969 538 609 423 27 761 430 70 219 952 522 866 586 314 879 32 835 67 22 169 878 609 187 594 246 901 166 56 964 113 327 905 635 791 390 479 330 776 167 655 837 81 377 693 205 521 611 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_000-029-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-assisted composer tool, detect the instrument used in this segment. Output only one of the predefined labels - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm not capable of detecting instruments in audio segments. I'm a text-based AI assistant. However, I can help you identify instruments based on their acoustic characteristics or provide information on how to use AI-powered tools for instrument detection.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 29 233 542 445 137 822 89 664 757 323 790 716 205 521 453 932 148 537 721 250 161 523 793 403 557 244 583 576 384 879 219 952 315 398 212 455 428 771 333 328 912 731 589 600 728 663 748 671 877 488 832 93 758 545 85 510 169 46 812 222 931 428 538 187 594 246 901 166 56 964 113 327 635 791 380 358 742 98 519 26 204 280 314 384 879 219 501 747 671 877 377 506 686 545 85 297 265 675 755 237 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 81 327 432 742 98 519 26 204 280 6 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497 644 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 445 137 488 620 352 470 821 576 384 693 268 876 258 436 139 483 530 733 664 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 664 406 25 771 328 731 600 702 728 663 748 671 877 377 488 832 758 545 85 510 297 337 243 850 537 290 978 822 89 194 664 835 67 940 118 944 878 493 361 202 881 331 663 969 466 423 384 734 70 263 45 914 445 137 74 139 340 32 683 589 600 702 15 333 487 219 990 29 914 445 137 384 761 466 969 219 315 788 59 663 466 503 333 32 882 683 118 702 680 333 219 990 107 85 510 700 169 461 969 870 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 822 89 194 664 817 146 283 352 385 659 878 538 187 493 361 470 821 761 907 597 660 691 79 868 220 258 436 139 340 347 376 124 423 822 89 284 327 905 579 837 81 251 759 260 547 444 167 761 907 597 894 302 663 969 541 555 29 561 244 583 516 677 253 205 521 711 510 243 515 663 25 771 333 328 912 731 589 600 702 728 663 748 671 877 488 523 93 506 29 417 721 250 523 793 403 244 583 576 384 879 70 219 727 817 146 283 377 385 584 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_035-053-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "prediction": "The sound is a guitar.",
+    "prediction_units": "734 742 98 519 589 26 204 280 576 761 907 597 816 325 208 944 865 641 124 362 734 523 793 403 75 583 874 167 655 764 164 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_000-075-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm happy to help, but I need more information about the sound you're referring to. Can you please provide more context or describe the sound you're hearing?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 611 268 876 417 755 605 128 665 991 547 833 173 945 944 530 733 575 116 372 485 948 86 555 889 324 826 592 103 969 466 771 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 931 565 734 849 907 597 945 29 393 946 734 742 519 589 26 204 280 668 384 907 597 611 385 208 233 258 436 635 663 969 156 824 402 734 870 390 422 330 776 663 969 466 398 212 455 143 38 79 799 220 340 846 611 916 584 902 193 415 497 63 662 445 137 576 488 179 207 258 436 139 340 382 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 29 889 324 826 592 103 969 867 263 45 272 313 469 367 167 655 650 816 274 557 794 75 583 15 576 384 879 219 952 522 67 940 118 461 969 523 196 721 250 734 432 170 731 589 337 126 119 728 647 655 837 81 713 506 29 202 393 946 734 742 519 26 204 280 668 384 761 907 597 816 325 915 233 258 436 139 635 663 969 470 821 534 485 284 398 212 455 343 309 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_015-027-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Vocal"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or accessing audio clips. Please describe the sound to me, and I'll do my best to identify the instrument.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 430 70 219 727 522 866 586 314 432 32 882 924 866 398 212 455 538 187 594 246 901 166 56 113 327 635 402 380 382 45 914 119 593 453 333 377 506 686 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 711 124 884 721 250 432 170 731 589 337 126 119 647 655 837 81 885 876 29 202 393 946 734 742 98 519 589 26 204 280 668 576 761 907 597 816 325 208 417 79 799 220 498 12 172 536 321 458 942 44 115 193 63 644 254 823 175 684 136 944 530 733 693 521 660 721 549 139 340 846 498 324 338 359 655 837 733 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 59 958 66 776 655 837 81 901 202 393 946 215 327 771 328 912 731 589 600 702 728 663 748 671 377 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_118-104-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or accessing audio clips. Please provide a description of the sound, and I'll do my best to identify the instrument.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 430 70 219 727 522 866 586 314 432 32 882 924 866 398 212 455 538 187 594 246 901 166 56 113 327 635 402 380 382 45 914 119 593 453 333 377 506 686 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 711 124 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 944 565 734 523 196 721 250 432 170 731 589 337 126 426 647 333 998 595 817 146 283 352 931 932 148 202 393 946 734 432 742 519 589 26 204 280 668 576 384 907 597 816 325 343 208 613 417 755 237 193 985 63 644 254 823 175 684 136 944 530 733 693 521 660 537 721 549 139 340 846 498 324 338 359 655 837 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 771 333 328 912 731 589 600 702 728 663 748 671 377 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_013-066-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Vocal"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot determine the dominant instrument.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 470 821 534 485 284 466 398 212 455 659 187 461 969 538 423 27 761 430 179 931 62 954 259 317 645 453 655 837 81 347 376 398 212 455 538 187 594 246 901 166 964 113 327 635 791 611 524 44 115 121 128 780 289 26 76 614 803 894 483 530 733 914 445 137 576 761 650 179 961 475 783 655 246 430 945 944 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 366 620 202 393 946 734 196 721 250 549 167 655 764 108 872 336 366 179 961 428 488 443 93 274 208 944 389 771 333 328 912 731 600 702 728 754 748 671 377 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_075-076-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on the instrumental characteristics and determine the correct classification. Output just one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'd be happy to help. Can you please provide more information about the instrumental characteristics you're referring to, such as the tone, pitch, or rhythm?",
+    "prediction_units": "530 733 555 29 290 943 56 321 948 86 470 821 761 430 70 404 757 323 321 948 86 539 105 79 868 220 470 821 576 693 268 876 341 661 497 63 662 445 137 576 488 179 961 207 258 436 139 340 357 251 676 0 260 712 593 485 321 948 198 711 510 337 243 850 973 288 750 687 870 692 154 558 655 837 81 555 29 889 324 826 592 103 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 931 659 565 734 849 907 597 945 29 202 393 946 215 771 328 912 731 589 600 663 748 671 877 384 443 274 794 75 716 205 521 867 45 914 137 167 761 466 487 219 952 315 477 852 663 466 503 333 32 683 940 600 702 680 15 487 219 990 107 297 258 436 663 969 156 824 442 734 870 390 422 330 776 435 663 466 398 212 455 143 38 79 799 220 340 846 524 44 128 780 519 26 204 280 668 167 70 185 552 955 333 641 124 884 393 946 734 105 244 583 576 803 563 380 620 112 343 44 752 63 662 213 260 323 576 333 506 326 531 417 169 187 594 461 969 156 824 442 384 333 166 921 549 366 87 896 627 168 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_014-054-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm happy to help, but I need more information about the sound you're referring to. Can you please provide more context or describe the sound you're hearing?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 611 268 876 417 755 605 128 665 991 547 833 173 945 944 530 733 575 116 372 485 948 86 555 889 324 826 592 103 969 466 771 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 931 565 734 849 907 597 945 29 393 946 734 742 519 589 26 204 280 668 384 907 597 611 385 208 233 258 436 635 663 969 156 824 402 734 870 390 422 330 776 663 969 466 398 212 455 143 38 79 799 220 340 846 611 916 584 902 193 415 497 63 662 914 445 137 576 488 179 207 258 436 139 340 382 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 29 889 324 826 592 103 969 867 263 45 272 313 469 367 167 655 650 816 274 557 794 75 583 15 576 384 879 219 952 522 67 940 118 461 969 523 196 721 250 734 432 170 731 589 337 126 119 728 647 655 837 81 713 555 29 202 393 946 734 742 519 26 204 280 668 384 761 907 597 816 325 915 233 258 436 139 635 663 969 470 821 534 485 284 398 212 455 343 309 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_092-041-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 432 32 882 924 866 586 955 398 212 455 143 38 79 799 220 538 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 415 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_021-076-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Flute"
+      }
+    ],
+    "prediction": "I'm not hearing an instrument being played. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 821 534 485 284 663 466 398 212 455 428 46 488 620 961 931 659 25 771 333 328 912 731 600 702 728 663 748 671 377 443 506 208 943 485 398 212 455 143 38 412 260 712 593 822 89 194 53 555 208 613 417 755 902 193 415 772 497 63 662 213 260 712 485 321 948 813 32 683 337 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 367 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_synthetic_006-066-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm not hearing an instrument being played. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 821 534 485 284 663 466 398 212 455 428 46 488 620 961 931 659 25 771 333 328 912 731 589 600 728 663 748 671 377 93 506 208 943 485 398 212 455 143 38 412 260 712 593 822 89 194 53 555 686 208 417 755 902 193 415 772 497 63 662 213 260 712 485 321 948 813 32 683 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 367 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_synthetic_001-067-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Flute"
+      }
+    ],
+    "prediction": "I'm not able to identify the instrument in the audio as I'm a text-based AI assistant and do not have the capability to hear or access audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 196 202 393 946 215 327 328 912 731 589 600 728 663 748 671 488 443 93 208 944 169 46 812 222 393 946 215 113 406 406 594 246 660 166 964 113 327 791 380 267 483 173 641 347 124 362 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 589 337 850 537 290 978 833 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 333 882 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 113 284 663 969 187 594 461 969 538 609 423 27 761 430 70 219 952 522 866 586 314 198 32 835 67 22 169 878 609 187 594 246 901 166 56 964 113 327 905 635 791 390 479 330 776 167 655 837 81 377 693 205 521 611 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_030-026-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A digital music library is categorizing tracks by instrument. Identify and return the instrument name from the given list - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "prediction": "The instrument names are bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, and vocal.",
+    "prediction_units": "202 393 946 215 25 333 328 912 731 600 702 728 663 748 671 877 488 443 29 116 281 428 822 89 194 627 545 711 510 362 579 969 818 290 978 833 822 89 430 194 70 835 67 297 265 675 237 537 290 978 647 462 761 907 430 70 835 67 297 265 675 237 780 479 330 593 677 340 380 660 506 686 208 613 417 755 237 416 836 333 793 403 75 583 874 167 655 764 969 524 44 752 914 445 476 534 485 86 885 290 978 302 592 103 969 660 555 752 73 889 338 359 384 384 761 907 430 259 317 453 377 506 686 208 613 417 755 237 594 103 969 934 350 836 377 488 620 112 654 343 44 752 991 162 156 824 485 321 948 86 555 208 780 519 589 600 702 728 647 120 212 455 659 780 519 289 26 204 280 314 333 455 743 243 781 303 485 321 948 86 555 208 878 823 175 684 136 143 692 526 302 908 382 268 501 119 716 205 611 916 584 902 819 415 341 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_031-035-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not able to analyze audio tracks. Can I help you with something else?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 944 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 538 609 423 27 761 430 179 931 62 954 259 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 791 45 914 728 647 219 107 545 85 297 265 675 237 415 772 497 63 665 662 914 445 137 620 179 931 530 733 470 821 576 693 268 876 29 258 436 139 340 787 935 271 333 523 196 918 519 26 204 280 668 167 104 650 816 409 918 743 15 212 455 406 25 423 384 693 521 828 835 67 297 206 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_028-058-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music recommendation engine needs to identify the instrument in this clip. Provide only the correct category from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "prediction": "I'm not able to identify the instrument in the clip as I'm a text-based AI assistant and do not have the capability to listen to audio. However, I can provide you with a list of possible instruments or help you narrow down the options if you can provide more information about the clip.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 901 196 202 393 946 215 333 328 912 731 589 600 702 728 663 748 671 488 443 93 208 613 46 812 222 393 946 734 45 914 119 593 647 404 876 823 423 173 641 124 362 530 733 896 627 168 565 734 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 664 885 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 781 303 333 32 882 924 866 586 955 488 352 143 79 799 220 846 538 187 594 246 901 166 56 964 113 327 635 611 916 584 902 193 341 661 497 644 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 352 143 38 481 973 288 750 870 692 306 154 558 655 837 81 664 555 233 258 436 139 340 787 935 271 523 918 393 734 259 781 303 333 32 835 67 940 118 944 362 932 148 850 412 213 547 444 167 655 104 70 346 540 295 586 59 790 716 205 521 538 25 771 333 328 912 731 600 702 728 663 748 671 877 377 443 832 758 545 85 510 297 675 237 461 969 470 821 384 693 268 876 258 436 139 340 575 116 281 62 384 907 466 791 380 660 196 721 549 384 907 597 361 202 393 946 734 327 538 27 655 764 108 70 404 595 326 146 283 832 758 711 510 362 333 958 66 258 436 139 340 263 914 445 137 469 488 620 143 38 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 29 889 324 826 592 103 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 931 659 565 734 849 761 907 597 29 202 393 946 734 263 45 914 119 593 647 576 333 377 506 876 584 736 341 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_012-083-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not able to analyze audio tracks. Can I help you with something else?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 538 609 423 27 761 430 179 931 62 954 259 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 791 45 914 119 728 647 219 107 545 85 297 265 675 237 415 772 497 63 662 914 445 137 620 179 931 530 733 470 821 576 693 268 876 29 258 436 139 340 787 935 271 333 523 196 918 519 26 204 280 668 167 104 650 816 409 918 743 15 212 455 406 25 423 384 693 521 828 835 67 297 206 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_100-057-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm happy to help. However, I need more information about the instruments you're referring to. Could you please provide more context or clarify which instruments you're talking about?",
+    "prediction_units": "254 504 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 268 876 417 341 661 497 63 665 644 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 296 44 254 504 530 733 575 116 372 485 948 86 555 233 889 324 826 592 103 969 466 503 333 328 143 390 422 330 776 435 663 748 806 336 877 822 89 194 664 817 146 283 352 931 428 565 734 849 907 597 945 29 202 393 946 734 406 327 333 328 912 731 589 600 702 728 663 748 671 877 488 832 93 758 545 85 510 243 258 436 635 969 156 824 734 870 390 422 330 776 435 663 969 466 398 212 455 143 38 79 799 220 340 846 611 916 584 902 193 415 661 497 63 662 914 119 677 220 333 523 555 258 436 139 340 382 251 676 0 260 712 321 948 198 711 510 337 243 850 213 973 288 750 687 870 692 154 558 655 837 81 664 555 233 889 324 826 592 103 969 867 263 45 914 272 313 469 167 655 650 816 274 794 75 583 15 576 384 879 219 952 522 67 940 118 233 461 969 867 45 914 887 167 462 907 430 466 663 70 958 66 776 655 837 81 787 935 271 333 793 552 326 25 771 328 912 731 589 600 702 728 748 671 877 377 488 443 758 545 85 510 337 243 258 436 139 635 663 969 105 244 583 246 934 501 398 212 455 734 849 907 597 506 686 613 417 755 415 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_042-030-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm not hearing an instrument being played. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 821 534 485 284 663 466 398 212 455 428 46 488 620 961 931 659 771 333 328 912 731 589 600 728 663 748 671 377 443 93 506 208 943 485 398 212 455 143 38 412 260 712 593 822 89 194 53 555 686 208 417 755 902 193 415 772 497 63 662 213 260 712 485 321 948 813 32 683 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 263 45 272 313 469 367 167 655 764 650 816 274 557 75 583 15 384 879 219 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_022-081-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 432 32 882 924 866 586 955 59 398 212 455 143 38 79 799 220 538 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 415 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_027-061-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "prediction": "I'm not able to hear the sound clip, can you please describe it to me?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 541 202 393 946 734 742 519 26 204 280 668 576 384 761 907 597 816 325 915 143 233 850 45 914 119 593 453 503 333 377 506 876 417 755 237 193 63 665 445 137 488 179 961 207 258 436 139 340 251 676 260 712 593 485 321 948 198 711 124 884 721 250 798 432 742 170 731 589 337 126 119 647 655 837 81 901 290 559 333 437 29 79 799 220 754 12 172 536 53 321 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_079-079-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument do you hear in this recording? Reply using only one of the predefined labels, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not able to hear the recording, but I can try to help you identify the instrument if you can describe the sound or provide more context.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 541 202 393 946 734 156 824 442 998 263 45 272 119 607 592 103 969 660 166 398 212 455 343 942 115 224 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 143 777 227 647 655 837 81 664 691 79 868 220 470 821 384 693 268 876 233 258 436 139 340 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 215 327 333 328 912 731 600 702 728 663 748 671 377 488 443 93 208 613 944 771 685 333 958 66 258 436 139 340 914 445 137 488 620 352 915 721 250 798 432 170 731 589 337 126 119 728 647 655 837 81 901 555 29 202 393 946 734 742 519 26 204 280 668 576 761 907 597 816 325 944 461 969 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 233 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 377 219 952 522 67 940 118 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_043-048-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or accessing audio clips. Please describe the sound to me, and I'll do my best to identify the instrument.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 430 70 219 727 522 866 586 314 432 32 882 924 866 398 212 455 538 187 594 246 901 166 56 113 327 635 402 380 382 45 914 119 593 453 333 377 506 686 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 711 124 884 721 250 432 170 731 589 337 126 728 647 655 837 81 885 876 29 202 393 946 734 742 98 519 589 26 204 280 668 576 761 907 597 816 325 208 417 79 799 220 498 12 172 536 321 458 942 44 115 193 63 644 254 823 175 684 136 944 530 733 693 521 660 721 549 139 340 846 498 324 338 359 655 837 733 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 59 958 66 776 655 837 81 901 202 393 946 215 327 771 328 912 731 589 600 702 728 663 748 671 377 93 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_012-042-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music classification project, identify the primary instrument in this audio. Return only one of the following: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or identifying instruments in real-time. However, I can provide information on how to analyze audio files or suggest tools that can help you with music classification projects.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 787 483 538 187 594 246 901 166 56 964 113 327 905 791 611 52 267 187 461 969 530 733 196 166 549 384 879 443 274 794 680 15 998 958 66 776 655 837 81 398 455 25 771 328 912 731 600 728 663 748 671 377 832 758 545 85 510 297 362 46 812 222 915 156 824 442 485 113 327 635 205 521 691 105 45 244 583 167 655 764 837 81 377 627 385 584 902 415 772 497 63 644 254 821 761 104 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 445 137 488 620 352 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 878 538 493 361 470 821 761 907 597 660 79 868 220 483 423 384 761 430 179 931 62 954 317 645 453 655 837 81 198 376 510 878 187 594 246 901 166 56 964 113 327 635 791 380 390 479 330 776 167 655 837 693 205 521 545 711 510 362 187 461 969 742 98 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 417 884 244 240 583 516 677 253 205 521 711 510 884 459 173 945 233 914 445 137 488 620 352 915 470 821 576 384 693 268 404 876 29 258 436 139 787 935 271 333 523 196 918 233 889 536 436 139 340 347 376 975 955 333 487 319 990 107 914 887 593 167 761 430 70 540 866 586 59 958 66 910 487 319 501 137 822 89 194 817 146 283 352 385 143 38 481 973 288 750 246 933 934 705 11 377 952 686 545 85 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_011-021-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-assisted composer tool, detect the instrument used in this segment. Output only one of the predefined labels - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "prediction": "I'm not capable of detecting instruments in audio segments. However, I can help you identify the instrument if you provide a description of the sound or a link to the segment.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 29 233 542 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 537 721 250 161 523 793 403 557 244 583 576 384 879 219 952 315 398 212 455 428 771 333 328 912 731 589 600 728 663 748 671 877 488 832 93 758 545 85 510 169 46 812 222 931 428 538 187 594 246 901 166 56 964 113 327 635 791 380 358 742 98 519 26 204 280 314 384 879 219 501 747 671 877 377 506 686 545 85 297 265 675 755 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 470 821 384 693 268 876 258 436 139 483 530 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 901 202 393 946 215 113 327 333 328 912 731 589 600 702 728 663 748 12 671 877 488 443 93 274 208 613 389 825 771 685 333 958 66 258 436 139 340 251 676 481 973 288 750 687 870 692 154 558 655 837 81 555 944 565 734 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 734 742 519 589 26 204 280 668 576 384 907 597 816 325 208 944 461 969 466 565 734 259 781 645 212 455 29 79 799 220 202 393 946 734 742 98 519 26 204 280 576 384 879 487 350 747 977 877 377 93 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_110-059-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio snippets. I can only respond to text-based queries. If you can describe the sound or provide more context, I'd be happy to try and help you identify the instrument.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 821 485 284 466 398 212 455 187 594 461 969 251 676 481 973 288 750 246 70 346 540 866 586 314 798 432 882 924 866 398 212 455 538 187 594 246 660 166 250 964 113 327 635 432 742 98 519 589 126 333 357 876 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 263 914 445 137 488 620 352 915 721 250 798 432 170 731 589 337 126 119 728 647 655 837 81 885 506 29 202 393 946 215 742 519 589 26 204 280 668 384 761 907 597 325 208 461 969 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 233 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 576 384 879 70 219 952 522 67 940 118 613 417 755 237 193 63 665 644 254 504 530 733 555 29 290 943 56 321 948 86 470 821 761 430 70 404 757 323 56 321 458 86 105 79 868 220 105 777 227 647 655 837 81 327 175 684 136 470 821 576 693 268 404 876 233 258 436 139 483 530 733 196 166 549 384 879 443 93 274 794 680 59 958 66 776 655 837 81 901 202 393 946 215 327 771 328 912 731 589 600 702 728 663 748 671 377 93 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_036-066-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not hearing an instrument being played. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 821 534 485 284 663 466 398 212 455 428 46 488 620 961 931 659 25 771 333 328 912 731 589 600 728 663 748 671 377 93 506 208 943 485 398 212 455 143 38 412 260 712 593 822 89 194 53 555 686 208 417 755 902 193 415 772 497 63 662 213 260 712 485 321 948 813 32 683 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 263 45 272 313 469 367 167 655 764 650 816 274 557 75 583 15 384 879 219 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_013-079-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Flute"
+      }
+    ],
+    "prediction": "The sound is a guitar.",
+    "prediction_units": "946 734 742 98 519 589 26 204 280 668 576 761 907 597 816 325 208 944 865 641 124 362 734 319 523 793 403 75 583 874 167 655 764 164 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_107-083-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 530 733 196 166 549 384 879 443 93 274 794 15 998 958 66 776 655 837 81 398 212 455 538 609 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 415 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 325 518 56 321 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_021-026-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or accessing audio clips. Please describe the sound to me, and I'll do my best to identify the instrument.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 430 70 219 727 522 866 586 314 432 32 882 924 866 398 212 455 538 187 594 246 901 166 56 113 327 635 402 380 382 45 914 119 593 453 333 377 506 686 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 711 124 884 721 250 432 170 731 589 337 126 119 647 655 837 81 885 876 29 202 393 946 734 742 98 519 589 26 204 280 668 576 761 907 597 816 325 208 417 79 799 220 498 12 172 536 321 458 942 44 115 193 63 644 254 823 175 684 136 944 530 733 693 521 660 721 549 139 340 846 498 324 338 359 655 837 733 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 59 958 66 776 655 837 81 901 202 393 946 215 327 771 328 912 731 589 600 702 728 663 748 671 377 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_039-075-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not able to hear the audio clip, can you please describe it to me?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 969 541 202 393 946 215 406 594 246 660 166 56 113 327 635 791 380 382 45 914 119 593 453 333 506 876 755 193 63 128 665 914 445 137 488 179 207 258 436 139 340 357 251 676 260 712 593 485 321 948 198 711 510 884 721 250 432 170 731 589 337 126 119 647 655 837 81 901 290 559 333 437 29 79 799 220 754 498 172 536 321 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_054-069-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "prediction": "I'm not hearing an instrument being played. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 821 534 485 284 663 466 398 212 455 428 488 620 961 931 659 25 771 333 328 912 731 600 702 728 663 748 671 377 443 506 208 943 485 398 212 455 143 38 412 260 712 593 822 89 194 53 555 208 613 417 755 902 193 415 772 497 63 662 213 260 712 485 321 948 813 32 683 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 367 167 655 764 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_039-021-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on the instrumental characteristics and determine the correct classification. Output just one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'd be happy to help. Can you please provide more information about the instrumental characteristics you're referring to, such as the tone, pitch, or rhythm?",
+    "prediction_units": "530 733 555 29 290 943 56 321 948 86 470 821 761 430 70 404 757 323 321 948 86 539 105 79 868 220 470 821 576 693 268 876 341 661 497 63 662 445 137 576 488 179 207 258 436 139 340 357 251 676 0 260 712 593 485 321 948 198 711 510 337 243 850 973 288 750 687 870 692 154 558 655 837 81 555 29 889 324 826 592 103 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 931 659 565 734 849 907 597 29 202 393 946 215 771 328 912 731 589 600 663 748 671 877 384 443 274 557 794 75 716 205 521 867 45 914 137 167 761 466 487 219 952 477 852 663 466 503 333 32 683 940 600 702 680 15 487 219 990 107 297 258 436 663 969 156 824 442 734 870 390 422 330 776 435 663 466 398 212 455 143 38 79 799 220 340 846 524 44 128 780 519 26 204 280 668 167 70 185 552 955 333 641 124 884 393 946 734 105 244 583 576 803 563 380 620 112 343 44 752 63 662 213 260 323 576 333 506 326 531 417 169 187 594 461 969 156 824 442 384 333 166 921 549 366 87 896 627 168 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_007-021-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music recommendation engine needs to identify the instrument in this clip. Provide only the correct category from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synth lead"
+      }
+    ],
+    "prediction": "I'd be happy to help. Can you please provide the audio clip or a description of the sound you're hearing?",
+    "prediction_units": "530 733 555 29 943 56 321 948 86 470 821 761 430 70 404 757 323 534 321 948 86 539 105 79 868 220 470 821 576 693 611 268 876 341 661 497 63 662 445 137 576 488 179 207 258 436 139 340 382 251 0 260 712 593 485 321 948 198 711 683 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 406 538 187 594 246 211 660 166 56 113 327 905 635 791 380 382 914 119 593 333 713 506 876 594 461 969 466 565 734 196 721 250 432 170 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 734 742 98 519 589 26 204 280 668 576 384 907 597 816 325 233 258 436 139 635 663 969 470 821 534 485 284 466 398 212 455 343 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_002-061-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synth lead"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 432 32 882 924 866 586 955 398 212 455 143 38 79 799 220 538 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 415 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_025-065-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm happy to help, but I didn't hear any sound. Please play the sound or provide more context.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 611 268 876 417 755 237 605 128 665 991 547 833 173 945 944 530 733 721 250 333 555 795 143 470 821 534 485 113 284 663 969 423 384 879 179 207 428 950 948 707 742 519 589 26 204 280 668 576 384 907 597 385 208 613 417 755 193 415 497 63 662 213 260 712 485 321 948 813 711 683 337 850 260 712 593 576 822 89 194 664 202 393 946 734 742 98 519 26 204 280 668 576 761 907 597 816 325 944 878 461 969 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 233 324 826 592 103 969 867 263 45 272 313 469 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_139-032-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not able to hear the audio clip, can you please describe it to me?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 969 541 202 393 946 215 406 594 246 660 166 56 113 327 635 791 380 382 45 914 119 593 453 333 506 876 755 193 63 128 665 914 445 137 488 179 207 258 436 139 340 357 251 676 260 712 593 485 321 948 198 711 510 884 721 250 798 432 742 170 731 589 337 126 119 647 655 837 81 885 290 559 333 437 29 79 799 220 754 498 172 536 321 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_026-086-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument and return only the corresponding label. No additional text or explanation. Choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Flute"
+      }
+    ],
+    "prediction": "bass",
+    "prediction_units": "833 384 907 430 70 835 67 297"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_041-064-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 59 398 212 455 143 38 79 799 220 538 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 415 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_093-028-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio snippets. However, I can provide you with a list of common instruments and their characteristics to help you identify the instrument in the audio snippet.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 821 485 284 466 398 212 455 187 594 461 969 251 676 481 973 288 750 246 70 346 540 866 586 314 798 432 882 924 866 398 212 455 538 187 594 246 660 166 250 964 113 327 635 432 742 98 519 589 126 333 357 876 377 506 686 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 504 530 733 914 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 258 436 139 340 787 935 271 333 523 196 202 393 565 734 259 781 303 333 32 835 67 940 118 944 362 366 932 148 850 914 272 445 469 167 655 764 108 715 336 877 488 620 352 915 25 389 771 333 328 912 731 589 600 728 663 748 671 877 377 488 832 93 545 85 510 297 169 362 175 684 136 202 881 331 663 969 867 263 445 137 384 761 907 466 219 952 315 477 788 59 156 503 333 432 32 683 940 600 702 680 910 333 487 990 107 85 297 337 884 79 868 220 470 821 576 384 693 268 876 258 436 139 340 483 483 81 733 664 196 166 549 384 879 443 274 794 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 333 328 912 731 589 600 702 728 663 748 671 877 488 443 93 208 613 417 169 46 812 222 393 946 215 406 538 594 246 660 166 56 113 327 905 635 791 380 742 98 519 589 126 333 506 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_037-100-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not able to classify the instrument in an audio clip. I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 263 914 887 593 167 761 430 70 540 866 586 362 59 958 66 776 655 837 81 901 196 202 393 946 215 327 333 328 912 731 600 728 748 671 877 377 488 443 93 274 208 613 169 46 812 222 428 488 222 931 878 538 187 594 246 660 166 250 56 113 327 635 791 380 382 263 45 914 119 593 453 333 506 876 415 661 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 940 337 850 537 213 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 798 432 742 519 26 204 280 314 6 333 32 170 731 600 702 15 377 488 443 93 274 208 613 175 684 136 915 721 250 549 220 139 340 575 475 783 764 430 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 757 323 59 790 37 234 366 523 50 910 321 86 105 79 868 220 259 781 303 333 32 835 924 866 586 955 283 832 352 915 143 79 799 220 846 187 594 461 969 538 609 423 27 761 430 650 931 62 259 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 635 390 479 330 776 167 655 837 81 693 205 521 611 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_006-069-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not able to identify the instrument in an audio clip as I'm a text-based AI assistant and do not have the capability to hear or process audio.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 765 302 716 205 521 867 867 79 868 220 483 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 196 202 393 946 215 333 328 912 731 589 600 728 663 748 671 488 443 93 208 613 417 169 46 812 222 428 488 620 931 878 538 187 594 246 660 166 56 113 327 791 380 382 119 593 506 876 823 565 173 641 124 362 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 940 337 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 81 432 742 98 519 26 204 280 314 333 432 882 170 731 600 702 15 377 443 93 274 208 613 944 823 175 684 136 915 721 250 549 220 139 340 575 475 783 764 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 664 539 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 284 663 969 187 594 461 969 251 676 481 973 288 750 246 104 70 346 540 866 586 314 333 198 835 67 878 609 187 594 246 901 166 964 113 327 377 611 916 584 902 341 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_015-044-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm happy to help, but I need more information about the sound you're referring to. Can you please provide more context or describe the sound you're hearing?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 611 268 876 417 755 605 63 128 665 991 547 833 173 945 944 530 733 575 116 372 485 948 86 555 889 324 826 592 103 969 466 503 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 931 565 734 849 907 597 945 29 393 946 734 742 519 589 26 204 280 668 576 384 907 597 611 385 208 233 258 436 635 663 969 156 824 402 734 870 390 422 330 776 663 969 466 398 212 455 143 79 799 220 340 846 611 916 584 902 193 415 497 63 662 445 137 576 488 179 207 258 436 139 340 382 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 29 889 324 826 592 103 969 867 263 45 272 313 469 367 167 655 650 816 274 557 794 75 583 15 576 384 879 219 952 522 67 940 118 461 969 523 196 721 250 734 432 170 731 589 337 126 119 728 647 655 837 81 713 506 29 202 393 946 734 742 519 26 204 280 668 384 761 907 597 816 325 915 233 258 436 139 635 663 969 470 821 534 485 284 466 398 212 455 309 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_020-071-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio snippets. However, I can provide you with a list of common instruments and their characteristics to help you identify the instrument in the audio snippet.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 821 485 284 466 398 212 455 187 594 461 969 251 676 481 973 288 750 246 104 70 346 540 866 586 314 798 432 882 924 866 398 212 455 538 187 594 246 660 166 56 964 113 327 635 432 742 98 519 589 126 333 357 876 377 506 686 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 504 530 733 914 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 258 436 139 340 787 935 271 333 523 196 202 393 565 734 259 781 303 333 32 835 67 940 118 944 362 366 932 148 850 914 272 445 469 167 655 764 108 715 336 877 488 620 352 915 25 389 771 333 328 912 731 589 600 728 663 748 671 877 377 488 832 93 545 85 510 297 169 362 175 684 136 202 881 331 663 969 867 263 445 137 384 761 907 466 219 952 315 477 788 59 156 503 333 432 32 683 940 600 702 680 910 333 487 990 107 85 297 337 884 79 868 220 470 821 576 384 693 268 876 258 436 139 483 483 81 733 664 196 166 549 384 879 443 274 794 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 333 328 912 731 589 600 702 728 663 748 671 877 488 443 93 208 613 417 169 46 812 222 393 946 215 406 538 594 246 660 166 56 113 327 905 635 791 380 742 98 519 589 126 333 506 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_038-022-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not able to identify the instrument in the audio as I'm a text-based AI assistant and do not have the capability to hear or access audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 196 202 393 946 215 327 328 912 731 589 600 728 663 748 671 488 443 93 208 944 169 46 812 222 393 946 215 113 406 406 594 246 660 166 964 113 327 791 380 267 483 173 641 347 124 362 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 589 337 850 537 290 978 833 822 89 194 664 835 67 940 118 944 822 89 327 905 579 81 798 432 742 98 519 26 204 280 314 6 333 882 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 885 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 113 284 663 969 187 594 461 969 538 609 423 27 761 430 70 219 952 522 866 586 314 198 32 835 67 22 169 878 609 187 594 246 901 166 56 964 113 327 905 635 791 390 479 330 776 655 837 81 377 693 205 521 611 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_063-036-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying instruments. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 470 821 485 284 466 398 212 455 187 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 771 328 912 731 600 728 663 748 671 377 832 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 659 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 417 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_024-021-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument do you hear in this recording? Reply using only one of the predefined labels, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "prediction": "I'm not able to hear the recording, but I can try to help you identify the instrument if you can describe the sound or provide more context.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 541 202 393 946 734 156 824 442 998 263 45 272 119 607 592 103 969 660 166 398 212 455 343 942 115 224 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 143 777 227 647 655 837 81 664 691 79 868 220 470 821 384 693 268 876 233 258 436 139 340 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 215 327 333 328 912 731 600 702 728 663 748 671 377 488 443 93 208 613 944 771 685 333 958 66 258 436 139 340 914 445 137 488 620 352 915 721 250 798 432 170 731 589 337 126 119 728 647 655 837 81 901 555 29 202 393 946 734 742 519 26 204 280 668 576 761 907 597 816 325 944 461 969 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 233 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 377 219 952 522 67 940 118 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_032-045-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm not able to identify the instrument in the audio as I'm a text-based AI assistant and do not have the capability to hear or access audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 196 202 393 946 215 327 328 912 731 589 600 728 663 748 671 488 443 93 208 944 169 46 812 222 393 946 215 113 406 406 594 246 660 166 964 113 327 791 380 267 483 173 641 347 124 362 530 733 627 168 565 734 793 105 244 583 576 879 219 522 67 589 337 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 432 882 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 113 284 663 969 187 594 461 969 538 609 423 27 761 430 70 219 952 522 866 586 314 198 32 835 67 22 169 878 609 187 594 246 901 166 56 964 113 327 905 635 791 390 479 330 776 655 837 81 377 693 205 521 611 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_062-050-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio snippets. However, I can provide you with a list of common instruments and their characteristics to help you identify the instrument in the audio snippet.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 821 485 284 466 398 212 455 187 594 461 969 251 676 481 973 288 750 246 70 346 540 866 586 314 798 432 882 924 866 398 212 455 538 187 594 246 660 166 56 964 113 327 635 432 742 98 519 589 126 333 357 876 377 506 686 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 504 530 733 914 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 258 436 139 340 787 935 271 333 523 196 202 393 565 734 259 781 303 333 32 835 67 940 118 944 362 366 932 148 850 914 272 445 469 167 655 764 108 715 336 877 488 620 352 915 25 389 771 333 328 912 731 589 600 728 663 748 671 877 377 488 832 93 545 85 510 297 169 362 823 175 684 136 202 881 331 663 969 867 263 445 137 384 761 907 466 219 952 315 477 788 59 156 503 333 432 32 683 940 600 702 680 910 333 487 990 107 85 297 337 884 79 868 220 470 821 576 384 693 268 876 258 436 139 340 483 483 81 733 664 196 166 549 384 879 443 274 794 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 333 328 912 731 589 600 702 728 663 748 671 877 488 443 93 208 613 417 169 46 812 222 393 946 215 406 538 594 246 660 166 56 113 327 905 635 791 380 742 98 519 589 126 333 506 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_045-071-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 432 32 882 924 866 586 955 59 398 212 455 143 38 79 799 220 538 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 415 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_004-031-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm not able to analyze audio tracks. Can I help you with something else?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 944 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 538 609 423 27 761 430 179 931 62 954 259 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 791 45 914 119 728 647 219 107 545 85 297 265 675 237 415 772 497 63 662 914 445 137 620 179 931 530 733 470 821 576 384 693 268 876 29 258 436 139 340 787 935 271 333 523 196 918 519 26 204 280 668 167 104 650 816 409 918 743 15 212 455 406 25 423 384 693 521 828 835 67 297 206 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_130-031-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music recommendation engine needs to identify the instrument in this clip. Provide only the correct category from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'd be happy to help. Can you please provide the audio clip or a description of the sound you're hearing?",
+    "prediction_units": "530 733 555 29 943 56 948 86 470 821 761 430 70 404 757 323 534 321 948 86 539 105 79 868 220 470 821 576 693 611 268 876 341 661 497 63 662 445 137 576 488 179 207 258 436 139 340 382 251 0 260 712 593 485 321 948 198 711 683 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 406 538 187 594 246 211 660 166 56 113 327 635 791 380 382 914 119 593 333 713 506 876 594 461 969 466 565 734 196 721 250 432 170 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 734 742 98 519 589 26 204 280 668 384 907 597 816 325 233 258 436 139 635 663 969 470 821 485 284 466 398 212 455 343 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_070-055-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "prediction": "I'm not able to hear the audio clip, can you please describe it to me?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 969 541 202 393 946 215 406 594 246 660 166 56 113 327 635 791 380 382 45 914 119 593 453 333 506 876 755 193 63 128 665 914 445 137 488 179 207 258 436 139 340 357 251 676 260 712 593 485 321 948 198 711 510 884 721 250 432 170 731 589 337 126 119 647 655 837 81 901 290 559 333 437 29 79 799 220 754 498 172 536 321 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_027-046-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not hearing an instrument being played. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 821 534 485 284 663 466 398 212 455 428 46 488 620 961 931 659 771 333 328 912 731 589 600 728 663 748 671 377 93 506 208 943 485 398 212 455 143 38 412 260 712 593 822 89 194 53 555 686 208 417 755 902 193 415 772 497 63 662 213 260 712 485 321 948 813 32 683 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 367 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_electronic_016-028-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not able to hear the sound clip, can you please describe it to me?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 541 202 393 946 734 742 519 26 204 280 576 384 761 907 597 816 325 915 143 233 850 45 914 119 593 453 333 377 506 876 417 755 237 193 128 665 914 445 137 488 179 961 207 258 436 139 340 251 676 260 712 593 485 321 948 198 711 124 884 721 250 798 432 742 170 731 589 337 126 119 647 655 837 81 901 290 559 333 437 29 79 799 220 754 12 172 536 53 321 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_028-037-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "prediction": "I'm not able to hear the sound clip, can you please describe it to me?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 541 202 393 946 734 742 519 26 204 280 576 384 761 907 597 816 325 915 143 233 850 45 914 119 593 453 503 333 377 506 876 417 755 237 193 63 665 445 137 488 179 961 207 258 436 139 340 251 676 260 712 593 485 321 948 198 711 124 884 721 250 798 432 742 170 731 589 337 126 119 647 655 837 81 901 290 559 333 437 29 79 799 220 754 498 172 536 53 321 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_030-025-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "prediction": "I'm not hearing an instrument being played. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 821 534 485 284 663 466 398 212 455 428 46 488 620 961 931 659 771 333 328 912 731 589 600 728 663 748 671 377 93 506 208 943 485 398 212 455 143 38 260 712 593 822 89 194 53 555 208 613 417 755 193 415 772 497 63 662 213 260 712 485 321 948 813 32 683 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 367 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  }
+]

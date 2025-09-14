@@ -1,0 +1,1602 @@
+[
+  {
+    "voice": [
+      "CremaD/Audio\\1049_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the intensity level of the speaker's emotion in this audio sample. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "The intensity level of the speaker's emotion in this audio sample is medium."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1035_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the emotional intensity in this speech recording? Provide only one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1059_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1022_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a machine learning dataset annotation, classify the speaker's emotional intensity. Choose one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "根据你的描述，这句话的语气听起来是中等偏积极的。可能是在表达对即将到来的某个事件的期待或兴奋。但具体情绪还需要结合上下文来判断哦。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1069_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "low\n\n根据语气，这句话的情绪强度较低。它可能是在描述一个客观事实或平静的状态。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1031_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on vocal expression to classify the emotional intensity. Return only the correct label from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or transcribe voice messages. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_TSI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "low\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1046_IEO_SAD_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the emotional intensity in this speech recording? Provide only one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio recordings. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1015_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It's 11 o'clock. What do you need help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1010_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1077_IEO_SAD_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and assess the intensity of the expressed emotion. Reply with the correct classification: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "好的，我会轻声细语地说话。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1012_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "low\n\n根据语气，这句话的情绪强度较低。可能是在平静地陈述一个事实或时间。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_WSI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "high\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the intensity level of the speaker's emotion in this audio sample. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1069_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "根据你的描述，很难确定情绪的强度。能提供更多背景信息或上下文吗？这样我可以更好地帮你分析。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio. If you have any other questions or need assistance with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1081_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It's 11 o'clock. What do you need help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1031_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "这句话听起来有点紧张或急促，情绪可能是中等到高强度。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1087_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the intensity level of the speaker's emotion in this audio sample. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "The speaker's emotion intensity level is medium. They sound like they're neither particularly excited nor subdued, just delivering the information in a calm and clear manner."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1004_DFA_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "Got it! Remembering a jacket is important. Is there anything else you'd like to add or discuss?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1050_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or record audio. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1020_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11:00."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_WSI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "unspecified\n低\n中\n高\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1085_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "High."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1085_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11:00 PM. Nighttime."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1051_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers need to classify the intensity of emotions expressed in speech. Identify it as unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It sounds like you're feeling a bit sleepy or drowsy. Is there something else on your mind, or would you like to talk about something different?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1037_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice intensity, rhythm, and emphasis to determine the emotional strength. Output one of the four labels. Unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1088_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1055_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the strength of emotion conveyed in the voice. Respond with only one of these categories: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1073_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It's 11 o'clock. What's up?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock. What do you need help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the emotional intensity by analyzing the pitch variations, stress levels, and articulation. Output only one of the predefined labels, unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's two o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1022_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1040_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's 11 o'clock. What do you need help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1023_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "根据你的描述，这位顾客的情绪是中等。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1043_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and volume, estimate the emotional intensity in the provided audio clip. Select from the predefined categories - unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1008_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and assess the intensity of the expressed emotion. Reply with the correct classification: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1033_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "I'm sorry, I can't listen to or transcribe calls. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1032_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": " medium\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1025_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice intensity, rhythm, and emphasis to determine the emotional strength. Output one of the four labels. Unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1080_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "晚上11点了，该休息了吧？希望你的夜晚能有个美好的梦。晚安哦！"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1050_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "Unspecified."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "晚上11点，是时候准备睡觉了。希望你的夜晚宁静而美好。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1056_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess how strongly the speaker is expressing emotion in this clip. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1027_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "晚上11点，还在打电话呢，有什么我能帮你的吗？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1069_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice intensity, rhythm, and emphasis to determine the emotional strength. Output one of the four labels. Unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1062_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's 11 o'clock. What's up?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1027_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and assess the intensity of the expressed emotion. Reply with the correct classification: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "好的，我会尽量快一点回答你的问题。有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1043_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a machine learning dataset annotation, classify the speaker's emotional intensity. Choose one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It's 11 o'clock. What's up?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IWL_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the intensity level of the speaker's emotion in this audio sample. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "Sure, here's a digital clock for you!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_TSI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "Unspecified. I can't determine the emotional intensity based on this alone. Would you like to share more context?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1023_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the emotional intensity by analyzing the pitch variations, stress levels, and articulation. Output only one of the predefined labels, unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "抱歉，我不太明白您指的是什么。可以给我更多的上下文或者具体的信息吗？这样我可以更好地帮助您。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_TAI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the emotional intensity by analyzing the pitch variations, stress levels, and articulation. Output only one of the predefined labels, unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "unspecified\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1032_IEO_FEA_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess how strongly the speaker is expressing emotion in this clip. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It sounds like the speaker is expressing medium emotion. They're clearly upset or annoyed, but not to the point of being highly emotional."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1007_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "抱歉，我不太明白您指的是什么。可以提供更多背景或上下文吗？我会尽力帮您解答。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_MTI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "low\n\n根据语气，这句话的情绪强度较低。它只是简单地传达了一个天气信息。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1076_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech-based emotion recognition, classify how intensely the speaker conveys their emotion. Respond with the best-fitting category, to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "晚上11点，是时候准备睡觉了。希望你能有个好梦！"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_ITH_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the strength of emotion conveyed in the voice. Respond with only one of these categories: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "Got it! It sounds like you might need to reschedule your doctor's appointment. How about we look for a new time together?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_TSI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and volume, estimate the emotional intensity in the provided audio clip. Select from the predefined categories - unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "The surface is slick."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_IWW_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "It sounds like you're asking about a system that detects emotion intensity in conversations. The levels could be unspecified, low, medium, or high. Can you give me more context?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1030_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "根据情绪分析系统，这句话的情绪强度是中等。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1070_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's 11 o'clock. What do you need help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1004_TIE_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "The system detected a high level of emotion in the conversation. It's important to note that while the system flags the intensity, it doesn't specify the exact emotion. High emotion could indicate excitement, anger, sadness, or joy. If you're looking to understand the specific emotion, it might be helpful to contextually analyze the conversation. For example, if the conversation involves a dramatic news event or a personal victory, it would be classified as high emotion. However, if it's a light-hearted joke or a routine update, the emotion level would be lower."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1075_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers need to classify the intensity of emotions expressed in speech. Identify it as unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "晚上11点，是吧？深夜时分，感觉怎么样？有什么特别的事情吗？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_IEO_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on vocal expression to classify the emotional intensity. Return only the correct label from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": " medium\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1051_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the strength of emotion conveyed in the voice. Respond with only one of these categories: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": " medium\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IEO_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess how strongly the speaker is expressing emotion in this clip. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "The speaker's emotion is unspecified in this clip. Without more context, it's hard to tell how intense their feelings are."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_IEO_FEA_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. However, I can help you with any questions or tasks you have. What else can I do for you?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_TIE_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and volume, estimate the emotional intensity in the provided audio clip. Select from the predefined categories - unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "Got it! It seems like the audio clip you're referring to has a medium emotional intensity. It captures a moment of agreement or确认，带着一些兴奋和肯定的情感。是不是这样呢？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1018_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or transcribe audio clips. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1011_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IWL_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "Sure! What kind of alarm clock are you looking for? Do you want something with a gentle wake-up call or something a bit louder to really get you out of bed?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_ITS_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech-based emotion recognition, classify how intensely the speaker conveys their emotion. Respond with the best-fitting category, to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "Unspecified\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1012_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "晚上11点了啊！这个时间点，感觉怎么样？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1004_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a machine learning dataset annotation, classify the speaker's emotional intensity. Choose one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock. What do you need help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_MTI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "low\n\n这句话的情绪强度较低，听起来像是一种轻微的担忧或建议。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1085_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "result": "unspecified\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1023_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers need to classify the intensity of emotions expressed in speech. Identify it as unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "中午12点。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "low\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_ITS_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": " medium\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1004_TIE_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "unspecified\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1070_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "It's 11 o'clock. What do you need help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1045_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1055_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the emotional intensity in this speech recording? Provide only one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. If you have any other questions or need assistance with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1007_ITH_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "Yes, I can have a doctor's approval. If you need one, just let me know, and I'll arrange it for you."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1036_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1048_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess how strongly the speaker is expressing emotion in this clip. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_TSI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech-based emotion recognition, classify how intensely the speaker conveys their emotion. Respond with the best-fitting category, to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "The surface is slippery."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1078_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers need to classify the intensity of emotions expressed in speech. Identify it as unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "I'm sorry, but I can't transcribe or identify the intensity of emotions from the given audio clip. If you have any other questions or need assistance with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1020_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "unspecified\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1063_IEO_SAD_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech-based emotion recognition, classify how intensely the speaker conveys their emotion. Respond with the best-fitting category, to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or transcribe voice messages. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and volume, estimate the emotional intensity in the provided audio clip. Select from the predefined categories - unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. If you have any other questions or need assistance, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1048_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1034_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "晚上11点，是时候准备睡觉了。希望你的夜晚宁静而美好。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_IOM_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "I'm sorry, I can't listen to or classify the emotional intensity of a speech in real-time. But if you need help with anything else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1017_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the strength of emotion conveyed in the voice. Respond with only one of these categories: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "result": "你是在说“我在外面开车”吗？这句话听起来很平静，没什么特别的情绪哦。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and assess the intensity of the expressed emotion. Reply with the correct classification: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "result": "晚上好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1007_IWW_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a machine learning dataset annotation, classify the speaker's emotional intensity. Choose one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "result": "根据你的语气，你的情绪是中性的，不确定或不感兴趣。需要更多信息吗？"
+  }
+]

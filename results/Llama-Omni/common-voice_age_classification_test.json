@@ -1,0 +1,2202 @@
+[
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_35193950.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "She could not be reached by her family and friends afterwards."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "Based on the speech, I would classify the speaker as being in their twenties.",
+    "prediction_units": "978 822 89 194 835 118 944 118 493 361 393 946 734 742 98 519 589 126 323 534 485 321 948 86 539 552 326 531 417 755 237 644 254 504 530 733 787 935 101 677 660 555 233 914 445 887 593 167 462 761 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 423 173 641 124 337 243 290 943 485 398 212 455 46 812 222 881 331 327 969 105 244 777 477 728 227 387 741 879 488 443 274 794 680 910 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21283016.mp3"
+    ],
+    "metadata": {
+      "accents": "Scottish English",
+      "gender": "male",
+      "sentence": "There are two articles that are used in the English language."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age of the speaker using vocal timbre and articulation style. Select one category from the predefined list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the provided text, I would estimate the speaker's age to be in their twenties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 215 870 251 676 481 973 288 750 687 870 692 154 558 655 837 81 599 523 555 944 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 307 63 644 254 530 733 787 935 101 660 555 233 25 423 384 879 32 683 731 600 702 15 59 748 12 336 877 822 89 194 664 506 29 202 393 946 215 742 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 169 878 609 423 771 822 89 194 664 539 705 417 884 79 868 220 943 321 948 327 46 812 222 881 331 327 969 105 244 777 477 728 647 387 741 879 443 274 794 680 534 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19032723.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "The leaves are closed at night and are open in the day."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age range of the speaker based on vocal characteristics. Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the vocal characteristics, I would guess the speaker is in their thirties or forties.",
+    "prediction_units": "978 822 89 194 835 944 878 493 361 393 946 734 870 692 526 302 908 380 382 268 501 860 119 716 205 521 382 867 45 914 137 167 761 466 219 952 315 477 663 466 824 503 333 32 683 731 600 702 680 15 377 487 219 990 107 545 85 297 265 675 237 307 407 666 985 99 254 530 733 787 935 101 555 416 836 576 384 879 70 835 67 940 884 202 393 946 734 742 519 589 337 126 323 534 485 974 86 990 501 137 663 969 825 865 641 124 362 955 46 812 222 881 331 663 969 390 256 668 663 969 660 794 680 56 321 53 198 711 510 297 362 461 969 390 479 330 435 592 103 969 660 351 794 680 910 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22765726.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "Speeders are playable-controllable craft in a variety of LucasArts titles."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice authentication system needs to verify the speaker's approximate age. Determine the best matching age group from the list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the description, I would guess the Lucite art piece is from the sixties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 215 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 727 817 146 283 352 385 343 942 115 224 193 666 128 644 254 530 733 787 935 101 555 233 416 836 576 384 879 70 835 67 940 884 884 202 393 946 215 259 781 340 382 445 137 194 664 609 27 579 764 969 506 260 323 534 485 948 835 67 169 955 865 641 683 337 243 515 647 366 896 627 202 393 946 734 742 519 26 204 280 314 333 487 219 522 589 600 702 680 534 53 321 53 198 711 510 297 265 675 755 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38336976.mp3"
+    ],
+    "metadata": {
+      "accents": "South African accent",
+      "gender": "female",
+      "sentence": "Reflex actions such as breathing and responses to sound or touch may occur."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Yes, acoustic features like speaking rate, pitch, and tone can be used to classify a speaker's age into one of the given categories.",
+    "prediction_units": "258 920 713 70 835 67 206 265 675 99 254 823 565 734 263 45 914 445 119 139 340 32 683 589 600 702 15 910 333 487 219 990 107 233 390 479 330 776 534 485 948 86 539 477 74 663 198 711 510 337 243 781 645 655 837 81 219 107 29 85 519 589 126 323 534 485 974 86 990 501 398 212 455 143 156 824 822 89 194 664 506 686 417 237 63 665 662 213 260 323 333 664 506 686 326 531 417 169 644 254 823 175 684 136 38 105 244 583 576 803 908 380 620 112 143 38 914 445 137 488 620 915 943 56 321 948 258 436 139 340 347 376 67 940 118 613 417 755 662 79 868 220 319 263 914 445 887 593 167 761 430 70 540 866 586 362 59 958 66 776 655 837 81 327 565 734 742 742 98 519 589 337 126 323 534 485 974 948 86 990 501 137 663 198 711 124 878 423 822 89 194 664 555 705 326 169 771 46 812 222 274 79 799 220 787 935 101 741 650 449 931 62 366 932 148 202 393 946 734 319 416 836 333 885 692 559 488 352 915 143 45 914 445 137 167 761 430 70 185 788 15 161 998 350 968 592 211 466 405 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_35368321.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It has a sloping pavement in red brick with limestone geometrical lines."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the provided information, I would estimate the speaker's age to be in their twenties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 870 251 676 481 973 288 750 870 692 154 558 655 837 81 166 599 523 555 944 25 771 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 377 385 343 942 115 193 121 63 644 254 504 530 733 787 935 101 660 555 233 878 423 384 879 32 170 683 731 600 702 59 748 12 336 877 822 89 194 664 506 29 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 169 878 609 423 771 822 89 194 664 705 884 79 868 220 943 321 948 327 46 812 222 881 331 327 969 105 244 477 728 227 387 741 879 443 274 794 680 534 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18488113.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "It is a wonderful Monday in London."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "Based on the vocal tone and speech tempo, I would classify the speaker as being in their thirties or forties.",
+    "prediction_units": "978 822 89 118 493 361 393 946 734 870 692 526 302 908 380 382 268 501 119 716 205 521 691 244 583 874 576 803 563 380 620 112 931 428 175 812 684 136 912 519 589 126 323 534 485 948 86 539 552 326 417 884 244 583 576 384 879 816 409 757 803 611 52 524 44 605 63 254 504 530 733 787 935 101 660 555 233 914 445 593 167 462 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 98 519 589 126 323 534 485 974 948 86 990 501 137 663 969 423 173 641 124 337 243 290 943 485 398 212 455 46 812 222 881 331 327 969 390 256 668 663 969 660 351 680 56 321 53 198 711 510 297 362 461 969 390 479 330 435 592 103 660 351 794 680 910 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_641657.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "What is it, dear?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "It sounds like you're describing a speaker profiling task, where you're using voice characteristics to identify a speaker's age.",
+    "prediction_units": "85 519 589 26 204 280 668 576 761 907 597 816 758 545 711 510 243 781 645 655 837 81 664 990 107 233 258 436 663 969 196 721 250 432 170 683 589 337 126 647 655 837 81 692 154 398 212 455 428 565 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 412 973 288 796 750 908 382 390 422 330 776 655 837 259 453 398 212 455 143 38 244 583 576 761 907 430 70 835 67 940 118 107 417 755 237 193 111 621 128 665 991 535 101 271 741 284 969 258 436 969 258 436 139 340 347 376 398 212 455 143 526 302 592 103 81 664 32 835 22 878 445 137 167 761 466 487 219 952 315 477 59 663 466 824 333 432 32 882 683 731 600 702 15 333 487 990 107 85 297 884 79 868 220 483 81 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 327 565 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 510 25 609 423 822 89 194 664 539 686 705 326 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_39056991.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Fela stood his ground, stating, that he would get the royalties for his songs."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "Based on the provided audio, I would estimate the speaker's age to be in their thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 870 251 676 481 973 288 750 687 870 692 154 558 655 837 81 166 599 56 523 555 944 878 609 187 594 246 660 166 250 964 113 327 905 803 791 611 524 44 115 63 665 254 530 733 787 935 101 677 660 555 233 25 423 384 879 32 170 683 731 600 702 15 59 748 12 977 336 822 89 194 664 506 29 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 169 878 609 423 771 822 89 194 664 86 705 417 884 79 868 220 943 56 321 948 327 46 812 222 881 331 327 969 390 256 668 663 969 934 794 680 910 56 321 53 198 711 510 297 265 675 584 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17284727.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Der Termin am Donnerstag wurde unverbindlich vorgemerkt."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice carefully and classify the speaker into the correct age category. Respond with only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "The speaker appears to be in their twenties.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 565 734 870 251 676 260 323 534 485 974 284 466 663 969 198 711 510 337 884 79 868 220 943 321 327 46 812 222 881 331 969 105 244 777 477 728 387 741 879 443 93 274 794 680 910 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_24673358.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Under convexity, these conditions are also sufficient."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the energy levels, speech rate, and vocal strain in the voice to determine the most accurate age category. Provide only the label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the provided conditions, the most accurate age category is thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 878 493 361 393 946 734 251 676 481 973 288 750 687 870 692 154 558 655 837 81 166 599 333 523 555 233 850 542 914 445 469 328 325 801 250 333 432 817 146 283 832 758 545 711 510 297 265 675 237 307 128 665 202 393 946 734 498 324 789 908 380 828 835 67 940 118 944 878 609 423 27 761 430 70 219 501 476 137 74 663 466 663 969 333 423 771 822 89 194 664 539 705 326 337 243 850 445 137 761 430 70 185 788 998 350 836 592 103 466 503 56 321 865 641 683 884 256 663 969 660 351 794 680 56 321 53 198 711 510 297 265 675 755 584 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37280229.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "If you serve the Fiend, your weapon could be an axe."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the voice, I would classify it as a male in his forties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 665 254 530 733 935 101 660 555 233 914 887 593 167 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 327 333 437 944 423 384 173 641 124 362 734 498 889 172 338 871 877 822 89 327 905 693 205 521 267 46 812 222 821 333 32 683 589 337 243 479 330 435 592 103 660 351 794 680 910 321 53 198 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_24923849.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "News and live telecast programs are filmed and broadcast from the Martin Place studios."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "I can help you with that. I'll analyze the audio features of the provided dataset and classify the age of the speaker into one of the given categories. Please provide the dataset.",
+    "prediction_units": "530 733 445 137 488 620 470 821 167 693 268 404 876 323 258 436 139 340 787 935 271 333 523 196 202 881 331 238 907 430 945 506 686 613 417 755 193 415 661 497 63 644 254 504 530 733 693 521 538 423 27 761 430 179 931 62 954 317 645 453 655 837 81 198 711 124 884 202 393 946 215 406 538 187 594 246 901 166 250 964 113 327 635 791 380 382 390 479 330 776 534 485 948 86 539 477 74 663 969 198 711 510 362 932 148 202 393 946 734 251 676 973 750 734 870 263 692 526 558 655 837 81 166 599 333 523 555 537 721 250 822 89 194 664 539 794 15 333 432 742 519 26 204 280 668 576 384 879 901 506 208 613 417 237 389 823 175 684 136 143 38 45 914 119 593 462 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 215 406 327 423 822 89 194 664 539 705 362 932 148 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 107 137 663 969 406 25 771 46 812 328 222 274 79 799 220 787 935 101 741 650 449 931 62 932 148 202 393 946 734 319 416 836 333 885 692 154 559 488 352 915 143 45 914 445 137 167 761 430 185 788 15 998 350 968 592 211 466 405 53 198 711 510 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 711 510 337 243 850 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 537 721 250 822 89 194 664 794 15 333 432 742 519 26 204 280 576 384 879 377 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20874215.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "There are several different types of age-based variation one may see within a population."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "I'm happy to help. However, I didn't receive a speech sample from you. Please provide the speech sample, and I'll do my best to estimate the speaker's age.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 86 539 79 868 220 734 470 821 576 803 693 611 268 876 417 736 341 661 497 63 665 644 254 821 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 721 250 333 555 795 143 156 824 442 432 742 924 866 261 230 976 534 321 948 86 885 692 559 565 734 742 98 519 589 126 323 534 485 948 539 552 326 531 519 589 26 204 280 668 576 384 907 430 650 816 409 757 716 205 521 916 390 479 515 647 366 896 627 258 436 139 340 611 916 584 902 193 415 772 497 63 662 213 260 712 485 321 948 813 198 711 510 337 243 850 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 432 742 519 589 126 323 534 485 948 86 539 403 552 326 519 26 204 280 576 384 761 907 430 650 816 409 757 716 205 521 524 44 605 63 665 254 823 175 684 136 944 530 733 693 521 660 721 549 139 340 846 498 498 324 338 359 655 837 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 884 237 662 79 868 220 483 423 384 879 32 170 683 731 589 600 702 59 748 12 336 877 822 194 664 506 29 202 393 946 432 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 169 25 609 423 771 822 89 194 664 506 705 326 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25099409.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Kidney stones: Use with caution in patients with kidney stones."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the dataset, I would classify the speaker's age as thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 734 196 537 721 250 822 89 664 944 333 432 742 519 26 204 280 576 384 879 506 686 208 613 417 755 237 193 63 644 254 530 733 787 935 101 677 555 233 914 445 887 593 462 761 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 169 878 609 423 822 89 194 664 86 555 705 169 423 384 173 873 32 683 884 256 668 663 969 660 351 794 680 56 321 53 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37973615.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It is also common in Vietnamese, Burmese and Thai cuisine."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the language and cultural references, I would estimate the speaker to be in their thirties or forties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 734 781 645 462 761 907 81 816 325 852 101 741 333 523 555 705 326 169 823 175 684 136 143 143 38 45 914 272 119 607 246 693 934 477 728 663 716 205 521 787 156 824 384 879 70 390 66 776 647 663 832 912 540 866 586 955 53 198 711 510 297 265 675 237 307 407 985 505 99 254 530 733 787 935 101 677 660 555 233 423 384 879 32 170 683 731 589 600 702 15 59 754 12 336 877 822 89 194 664 506 29 393 946 734 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 867 311 105 79 868 220 943 485 321 948 327 46 812 222 881 331 327 663 969 390 256 668 576 663 969 351 794 680 56 321 948 198 711 510 169 461 969 390 479 330 435 592 103 660 680 910 321 53 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_176382.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "But that's why you created the game in the first place, the boy answered."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "Based on the sentence, I would guess the speaker is likely in their twenties.",
+    "prediction_units": "978 822 89 194 664 835 118 493 361 393 946 734 742 519 26 204 280 576 384 879 443 93 274 794 75 788 15 377 832 758 545 85 510 297 265 675 237 307 63 644 254 530 733 787 935 101 660 555 416 836 576 384 879 70 835 67 940 884 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 337 243 781 645 655 837 81 664 219 990 107 518 321 406 46 812 222 881 331 969 105 244 777 477 728 227 387 741 384 879 443 274 794 680 910 321 53 198 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38519145.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "Beagle apparently without seeking Darwin's permission or paying him a fee."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "Based on the audio, I would categorize the speaker's age as thirties.",
+    "prediction_units": "978 822 89 194 664 835 67 118 944 878 493 361 393 946 406 538 594 246 660 964 113 327 791 524 44 902 605 254 504 530 733 319 787 935 101 660 555 233 914 445 137 576 167 761 430 70 185 794 788 15 998 350 836 402 663 466 556 655 837 81 198 711 124 884 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 169 25 423 822 89 194 664 705 169 423 173 873 32 683 884 256 663 969 660 351 794 680 56 321 53 198 711 510 297 265 675 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25268705.mp3"
+    ],
+    "metadata": {
+      "accents": "Canadian English",
+      "gender": "male",
+      "sentence": "The other canisters contained the nickel-cadmium batteries that powered the system."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice authentication system needs to verify the speaker's approximate age. Determine the best matching age group from the list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "The best matching age group is the sixties.",
+    "prediction_units": "202 393 946 734 870 290 978 833 384 879 70 835 67 940 118 889 338 877 384 761 430 70 185 866 326 398 212 455 659 423 771 822 89 194 664 539 705 326 417 243 850 416 119 426 677 253 382 268 876 389 771 865 641 124 884 202 393 946 734 742 519 26 204 280 314 333 487 219 522 589 600 702 680 534 321 53 198 711 510 297 265 675 755 584 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27314249.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "He made a duck in both games and did not bowl."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "Based on the information, I would classify the speaker as likely in their twenties.",
+    "prediction_units": "978 822 89 194 118 493 361 393 946 215 327 328 409 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 942 115 193 666 63 644 254 504 530 733 787 101 677 660 555 233 914 119 887 593 167 761 430 70 540 866 586 59 998 958 66 776 655 837 81 901 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 423 173 641 124 337 243 781 645 655 837 81 664 990 107 518 321 406 46 812 222 881 331 663 969 105 244 777 477 728 227 387 741 879 443 274 794 680 910 321 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_30561728.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The host country was guaranteed an entry in each event."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "I'm not aware of any specific information about the Houses of Country's entry in an event. Could you please provide more context or clarify which event you're referring to?",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 944 565 734 787 935 101 741 284 249 969 466 932 148 384 879 179 207 428 950 485 948 742 98 519 589 337 126 260 323 241 432 882 924 866 261 230 333 958 66 852 333 487 990 107 955 46 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 565 734 849 907 597 29 393 946 734 470 821 592 908 380 828 376 975 955 333 198 711 510 362 932 148 850 914 272 313 469 167 104 650 816 325 477 728 663 56 321 711 124 878 423 384 443 93 274 477 728 663 56 321 327 771 46 812 222 428 488 179 961 931 428 998 885 692 526 559 384 879 443 93 506 686 613 417 755 415 772 497 63 662 914 119 607 677 333 523 555 258 436 139 340 382 251 676 260 712 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 324 826 592 103 969 867 45 272 313 469 167 104 650 816 274 557 75 583 576 384 879 219 522 67 940 118 944 461 969 867 263 45 914 887 462 907 430 466 663 70 958 66 776 655 837 81 664 787 935 271 333 523 793 552 326 998 692 526 559 384 879 443 93 274 794 233 258 436 635 969 156 824 402 24 390 422 330 776 663 466 398 212 455 143 79 799 220 340 846 524 44 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_631529.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "She's a feisty little ferret."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the phrase 'fey and little', I would estimate the speaker's age to be in their twenties.",
+    "prediction_units": "978 822 89 194 664 835 67 944 493 361 393 946 734 390 479 330 647 822 89 194 198 711 510 479 776 822 89 194 664 684 136 143 781 303 333 716 205 521 417 237 505 254 504 530 733 787 935 101 677 660 555 233 423 384 879 32 170 683 731 600 702 15 59 754 12 336 877 822 89 194 664 506 29 202 393 946 734 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 25 609 423 771 822 89 194 664 539 705 884 79 868 220 943 321 948 327 46 812 222 881 331 327 969 105 244 777 728 387 741 384 879 443 274 794 680 910 53 321 53 198 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18400513.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "My girlfriend's dad just called."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the voice characteristics, I would classify the speaker's age as mid-forties.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 589 337 243 850 914 445 137 576 761 466 487 219 315 477 788 663 466 824 333 32 882 683 940 600 702 680 15 333 487 990 107 85 297 675 237 307 63 254 504 530 733 787 935 101 660 555 233 914 445 119 593 167 761 907 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 169 423 822 89 194 664 555 705 11 169 423 333 873 32 683 243 889 172 536 333 523 793 555 29 479 330 776 592 103 969 660 351 680 910 321 53 198 711 510 297 265 675 755 584 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25732904.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "The Schipperke has no particular health problems."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the audio, I would guess the speaker is likely in their thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 406 538 187 594 246 901 166 964 113 327 905 803 791 611 524 44 115 605 121 63 665 644 254 504 530 733 787 935 101 677 660 555 233 416 836 576 384 879 70 835 67 884 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 825 865 641 124 337 243 781 645 837 81 219 990 107 518 321 406 46 812 222 881 331 663 969 390 256 668 663 969 934 794 680 56 321 53 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_492169.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "A celebration with lots of people."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the context, I would classify the speaker's age group as thirties.",
+    "prediction_units": "978 822 89 194 664 835 944 878 493 361 393 946 734 263 45 914 445 469 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 613 417 755 237 307 63 254 504 530 733 787 935 101 677 660 555 233 45 914 119 593 167 761 907 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 337 126 323 534 485 974 86 990 501 137 663 198 711 169 878 609 389 423 771 822 89 194 664 86 705 243 850 561 914 119 426 677 253 382 268 876 423 384 173 873 32 683 884 256 663 969 660 351 680 56 321 53 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41082921.mp3"
+    ],
+    "metadata": {
+      "accents": "Filipino",
+      "gender": "male",
+      "sentence": "He later abandoned the family."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "prediction": "Based on the voice, the speaker is likely to be in their thirties or forties.",
+    "prediction_units": "978 833 822 89 194 664 835 67 940 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 111 128 665 991 393 946 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 969 25 865 641 124 243 781 645 837 81 219 990 107 518 321 948 86 105 79 868 220 943 321 948 630 327 46 812 222 881 331 327 663 969 390 256 668 663 969 934 680 56 321 948 198 711 510 362 461 969 390 479 330 435 592 103 660 351 794 680 910 321 53 198 711 510 297 265 675 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19719826.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "As a result of his mother's background Otar had a childhood rich in music."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "Based on the speaker's background, I would guess the speaker is in their forties.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 337 850 537 290 833 384 761 907 430 70 219 107 119 647 556 907 597 816 325 208 613 417 755 237 63 665 254 530 733 787 935 101 677 660 555 233 537 416 836 576 384 879 70 835 67 884 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 825 865 641 124 362 955 46 812 222 881 331 327 969 390 479 330 435 592 103 660 351 680 910 321 53 198 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20173286.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Matt Cullen has a wife and three sons."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the information, Matt Coleman is likely in his forties.",
+    "prediction_units": "978 822 89 194 664 835 67 940 118 493 361 946 215 327 328 143 409 390 422 330 776 663 748 806 336 822 89 194 664 817 146 283 377 385 343 942 115 193 63 665 991 73 889 338 359 877 761 907 430 70 918 233 850 542 914 445 469 607 908 693 521 259 303 453 113 488 832 352 659 865 641 124 337 243 781 645 837 81 664 219 990 107 518 321 406 46 812 222 821 333 32 683 589 337 243 479 330 435 592 103 969 660 680 910 321 53 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20857046.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "This era has been dubbed the \"Golden Age of Literature\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "The speaker is likely in their sixties.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 25 771 865 641 124 337 243 781 645 655 837 81 219 107 518 321 406 46 812 222 881 331 327 969 519 26 204 280 314 6 333 487 219 522 589 600 702 680 976 534 321 53 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18418182.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It was my idea to a tee."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice carefully and classify the speaker into the correct age category. Respond with only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "I'm not able to hear your voice, but I can help you with other questions or topics. Is there something else I can assist you with?",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 506 233 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 258 436 663 969 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 128 665 991 833 173 945 944 530 733 914 445 137 488 620 352 470 821 576 384 693 268 876 258 436 139 340 787 935 271 333 523 196 918 104 954 938 663 969 867 263 45 272 119 797 576 384 879 70 731 600 477 283 832 758 711 510 362 461 969 691 105 244 583 167 104 430 70 404 757 323 377 219 990 107 545 85 297 265 675 237 415 772 497 63 644 864 771 685 865 641 124 881 331 394 284 249 969 742 98 519 26 204 280 668 167 104 650 816 409 918 743 15 212 455 406 25 423 384 693 521 828 98 22 866 26 586 668 530 733 319 263 914 445 137 488 620 961 931 428 734 432 742 98 519 866 26 204 280 314 333 32 882 683 67 940 600 118 702 477 258 436 139 340 787 935 101 741 377 198 918 743 755 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21768314.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He also released an album entitled \"Baker Street\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age of the speaker using vocal timbre and articulation style. Select one category from the predefined list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the vocal timbre and articulation style, I would categorize the speaker as being in their twenties.",
+    "prediction_units": "822 89 835 118 493 361 393 946 734 870 692 526 302 908 380 382 268 501 119 716 205 521 691 244 583 576 384 907 430 896 627 409 290 978 663 969 823 175 684 136 944 878 538 969 794 680 15 333 487 319 501 477 74 228 259 453 822 89 194 664 817 146 283 832 758 143 912 98 519 589 702 874 167 655 837 81 693 205 521 524 44 115 605 193 63 254 504 530 733 787 935 101 677 555 233 45 914 445 137 576 761 430 70 185 794 788 15 59 998 350 836 402 663 466 556 655 837 81 198 711 124 884 202 393 946 734 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 423 565 173 641 124 243 290 943 485 398 212 455 46 812 222 881 331 327 663 969 105 244 777 728 227 387 741 384 879 443 93 274 794 680 910 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41798638.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "",
+      "sentence": "Its habitat is being degraded due to agricultural expansion."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "I'm an AI, I don't have a voice, so I don't have an age.",
+    "prediction_units": "99 254 530 733 627 488 620 659 25 423 822 89 194 327 905 579 764 837 81 194 726 44 254 504 530 733 196 721 549 576 803 795 208 944 152 784 429 565 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 128 665 780 289 26 204 76 614 803 894 483 530 733 721 549 803 908 795 944 152 784 429 565 488 620 931 428 25 822 89 194 664 506 686 705 326 417 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27185848.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Don't you ever want to marry?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "I'm not capable of determining a speaker's age based on their speech. I can only respond to text-based queries.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 944 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 721 250 523 793 105 244 583 576 663 969 748 12 977 179 961 398 212 455 565 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 510 169 878 609 423 822 89 194 664 555 705 326 417 243 213 290 978 822 89 194 664 835 67 940 118 944 878 538 493 361 881 331 663 969 742 519 589 126 323 534 485 321 948 53 539 506 686 552 326 531 417 675 755 584 193 415 772 497 63 644 99 254 530 733 445 137 488 620 659 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 755 79 799 220 793 105 244 583 576 384 879 219 522 67 940 233 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_371230.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He broke a new shoelace that day."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "Based on the voice, I would classify it as a female in her thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 254 530 733 787 935 101 660 555 233 914 887 593 167 462 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 327 333 437 944 423 173 641 124 362 734 390 479 330 776 534 485 948 86 12 172 877 822 284 905 693 205 521 25 46 812 222 821 663 969 390 256 668 576 663 969 934 351 794 680 56 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18600920.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "We are scaling up our workforce."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "I'm an AI, I don't have a physical body, so I don't have an age.",
+    "prediction_units": "254 530 733 627 488 620 112 659 406 25 423 822 89 284 327 905 579 764 837 81 194 44 254 504 530 733 196 537 721 549 576 803 908 795 208 233 152 784 429 565 734 390 422 330 776 333 347 975 59 998 319 501 716 205 521 382 290 833 655 764 933 901 166 56 321 458 44 63 665 780 289 26 204 76 614 803 894 483 530 733 196 196 721 549 803 795 944 152 784 429 565 488 620 112 659 25 423 822 89 194 664 506 686 705 326 206 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_24043773.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "This conflicts with the version told in \"Heimskringla\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the provided audio, I would estimate the speaker's age to be in their thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 251 676 973 288 750 870 692 154 558 655 837 81 166 599 161 523 555 944 878 609 187 594 246 660 166 964 113 327 905 791 611 52 524 44 115 121 63 254 530 733 787 935 101 677 660 555 233 25 423 384 879 32 170 683 731 589 600 702 15 59 754 12 336 822 89 194 664 506 29 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 169 609 423 771 822 89 194 664 705 884 79 868 220 943 321 948 327 46 812 222 881 331 327 969 390 256 668 663 969 660 680 56 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19515573.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "One large preocular and two postoculars are present."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age group of the person speaking. Use only acoustic cues and exclude lexical content. Output only the appropriate label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the acoustic cues, I would estimate the age group to be in the twenties.",
+    "prediction_units": "978 822 89 194 664 835 67 118 878 118 493 361 393 946 734 327 761 487 263 914 445 137 74 139 340 32 683 589 600 702 487 219 990 233 561 914 445 137 534 436 139 340 846 198 711 510 297 265 675 237 307 128 254 504 530 733 787 935 101 677 660 555 233 25 423 384 879 32 170 683 731 589 600 702 59 748 12 336 822 89 194 664 506 29 202 393 946 215 406 25 423 822 89 194 664 539 705 243 850 561 914 416 119 426 677 253 382 268 876 79 868 220 943 321 948 86 46 812 222 393 946 734 105 244 777 477 728 227 387 741 384 879 443 274 794 680 534 321 53 198 711 510 297 265 675 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20757541.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "Compare the Basilica in Trier."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "The Basilica in Trieste is a historic building, and its acoustic features are not suitable for age classification. However, I can tell you that the Basilica's architecture and design are typical of Baroque style, which was popular in the seventeenth and eighteenth centuries.",
+    "prediction_units": "393 870 290 978 384 333 879 873 347 376 975 362 716 37 259 317 453 998 319 501 445 137 494 809 25 771 46 812 222 143 38 777 728 227 647 655 837 81 389 825 771 865 641 124 362 734 470 821 333 432 32 170 731 589 600 702 788 576 908 246 466 503 366 487 219 990 107 29 290 978 635 693 205 521 801 398 212 455 343 942 115 193 63 99 254 823 175 684 136 944 333 437 85 362 734 319 263 914 445 137 74 139 340 32 683 589 600 702 15 333 487 990 107 233 479 330 776 534 485 948 86 539 477 74 663 969 198 711 510 362 579 969 575 116 475 783 104 945 85 519 26 204 280 139 340 660 794 788 59 870 790 716 205 521 390 515 663 538 25 423 822 89 194 664 705 417 243 850 445 887 593 384 879 70 540 866 586 59 958 66 161 319 501 137 822 89 194 817 146 283 377 385 584 902 193 415 772 497 63 644 254 821 104 894 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 914 445 137 488 620 915 143 38 105 244 583 576 384 693 854 258 436 139 340 459 173 945 29 393 946 734 870 290 978 333 432 347 376 975 362 693 259 453 303 366 319 263 501 445 137 366 124 609 27 579 764 969 867 501 445 137 161 523 793 403 794 583 576 384 879 219 952 477 788 663 969 524 878 538 823 175 684 136 915 721 250 798 347 975 668 655 837 81 620 112 62 579 969 691 105 244 583 15 333 357 404 757 323 366 37 268 501 119 716 205 521 453 932 148 412 290 978 466 908 380 382 268 107 85 519 589 702 874 576 167 462 655 764 837 81 693 205 521 524 44 605 193 621 128 665 991 535 271 333 437 552 101 741 641 683 337 243 850 260 547 444 167 104 70 404 757 323 74 228 259 453 663 969 406 25 825 771 46 812 222 393 946 432 742 98 519 26 204 280 576 384 879 577 154 559 488 443 274 794 680 976 534 321 948 620 915 143 918 743 488 620 136 659 25 423 771 89 194 664 539 557 794 680 534 321 948 352 915 143 918 743 85 519 26 204 280 6 879 443 93 274 477 728 663 466 53 321 53 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_28489392.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "He played college football for Iowa State."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice authentication system needs to verify the speaker's approximate age. Determine the best matching age group from the list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "Based on the information, it's likely the speaker is in their twenties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 118 944 878 493 361 393 946 215 327 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 343 942 115 193 121 666 128 864 771 685 437 85 589 337 243 781 645 655 837 81 664 219 107 518 321 86 202 393 946 734 742 519 589 126 323 534 485 974 948 86 990 501 107 137 663 969 25 865 641 124 362 955 812 222 881 331 327 663 969 105 244 777 477 728 227 387 741 879 443 274 794 680 910 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_560071.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "And seizing the boy's bag, the alchemist gave the gold coins to the chief."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age range of the speaker based on vocal characteristics. Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the text, I would guess the speaker is likely in their twenties or thirties.",
+    "prediction_units": "978 822 89 194 664 835 67 944 878 493 361 393 946 734 793 105 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 128 665 644 254 504 530 733 787 935 101 555 416 836 576 384 879 70 835 67 940 884 202 393 946 734 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 337 243 781 645 837 81 664 990 107 518 321 406 46 812 222 881 331 327 969 105 244 777 477 728 387 741 879 443 274 794 680 910 321 53 198 711 510 362 461 969 256 668 663 969 934 351 680 910 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25721674.mp3"
+    ],
+    "metadata": {
+      "accents": "Scottish English",
+      "gender": "male",
+      "sentence": "Adventure racing includes races which comprise a number of different stages of different types."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Adventure racing typically includes races with multiple stages, such as mountain biking, trail running, and kayaking.",
+    "prediction_units": "526 559 384 879 443 93 274 794 326 531 663 156 824 822 89 194 664 835 924 866 398 212 455 143 38 244 583 333 357 757 323 333 487 319 990 501 107 518 321 948 406 25 771 46 328 409 45 468 340 660 555 545 85 510 337 243 156 824 822 89 194 664 32 924 866 586 955 198 711 510 243 935 271 523 196 918 243 889 324 338 789 246 693 934 351 794 788 59 870 268 757 41 716 205 521 828 98 519 589 600 702 15 822 89 194 664 693 205 198 711 510 297 675 237 307 128 665 780 519 26 204 280 668 173 70 185 552 955 333 198 641 683 243 889 338 877 384 907 597 312 274 794 583 955 59 812 352 915 143 290 833 655 837 81 664 990 501 398 212 455 343 143 44 662 244 777 728 227 647 822 89 327 905 693 205 521 156 824 104 650 179 961 398 212 455 343 44 823 175 684 136 233 45 914 445 137 167 104 837 81 327 905 384 879 70 219 501 107 398 212 455 385 309 584 902 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17869203.mp3"
+    ],
+    "metadata": {
+      "accents": "Canadian English",
+      "gender": "male",
+      "sentence": "Did the dog sniff anyone out yet?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice and determine their age category. Respond only with one of the following: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "I'm not capable of analyzing a speaker's voice or determining their age category based on a text description. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 664 757 323 59 870 790 716 205 521 453 932 148 423 27 761 430 650 179 931 62 954 259 317 645 655 837 81 664 347 376 398 212 455 428 565 734 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 243 537 526 302 592 103 81 194 664 835 67 297 169 609 187 461 969 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 179 398 212 455 202 881 331 327 249 969 406 25 423 822 89 194 664 555 705 326 417 243 850 914 445 137 576 384 761 430 185 788 998 350 968 592 103 466 321 948 86 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 428 565 734 793 105 244 583 576 384 879 219 952 522 67 940 118 884 721 250 432 170 731 589 337 126 426 647 998 595 817 146 283 377 385 584 902 193 415 772 497 63 644 254 530 733 914 445 137 576 488 620 659 538 187 594 908 310 325 518 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 417 755 79 799 220 523 105 244 583 576 384 879 219 522 67 940 118 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17910360.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Fine, what makes you think I'd answer you truthfully?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the tone, speech patterns, and voice texture, I would classify the speaker's age group as thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 734 105 244 583 576 803 563 380 611 620 343 942 44 115 224 63 665 780 519 589 126 323 534 485 948 813 86 539 552 326 243 850 260 547 444 576 761 907 430 70 185 788 663 969 832 758 545 711 510 265 675 169 823 175 684 136 143 143 692 526 302 592 103 81 194 664 32 835 67 589 884 244 583 576 384 879 70 219 522 589 600 477 326 788 663 969 164 726 44 63 254 530 733 787 935 101 660 555 233 914 445 887 593 167 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 519 589 337 126 323 534 485 974 86 990 501 137 663 198 711 510 169 25 609 423 771 822 89 194 664 86 705 243 850 561 914 416 119 426 677 253 380 382 268 876 423 384 173 873 32 683 884 256 663 969 660 351 680 56 321 53 198 711 510 297 265 675 755 584 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19763589.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He studied theology at the University of Turin, and obtained his doctorate there."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the information provided, it's difficult to determine the speaker's age group. However, the fact that the speaker studied theology at the University of Toronto suggests that they are likely an adult.",
+    "prediction_units": "978 822 89 194 664 835 67 118 944 878 493 361 393 946 734 327 328 409 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 143 38 412 973 288 750 687 870 692 154 558 655 837 81 664 599 53 208 613 755 237 193 63 665 864 771 685 437 589 884 537 721 250 333 958 66 776 59 870 501 860 716 205 521 506 29 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 169 878 609 822 89 194 664 86 555 705 243 850 914 416 426 677 253 380 611 268 876 417 755 415 772 497 63 644 991 821 104 108 894 852 741 384 879 577 154 302 663 969 524 44 665 202 393 946 215 390 479 330 776 576 761 907 430 70 952 686 613 417 459 173 945 29 202 393 946 734 432 742 519 589 126 323 534 485 974 86 990 501 107 137 663 969 742 98 519 589 600 702 874 576 384 933 901 166 56 321 948 86 256 534 113 327 327 167 655 246 317 453 366 523 555 705 11 56 321 633 14 327 173 945 29 202 393 946 215 258 436 139 179 428 366 692 154 302 663 969 346 540 866 586 230 59 523 50 321 948 327 932 148 244 583 576 321 742 98 519 26 204 280 59 523 196 705 11 576 384 879 70 835 67 940 118 545 85 297 884 459 173 945 29 881 331 822 89 194 905 579 969 466 259 781 645 837 81 664 219 107 518 321 327 406 327 488 684 931 428 565 734 196 537 721 549 246 693 611 506 686 613 417 755 415 661 497 63"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18747889.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Both are universally respected and loved by staff and pupils alike."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice and determine their age category. Respond only with one of the following: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the text, it's difficult to determine the speaker's age category as there's no specific information provided about their voice or characteristics.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 118 944 878 493 361 393 946 734 793 105 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 63 665 864 771 685 437 85 589 884 537 250 333 958 66 776 59 870 501 860 716 205 521 506 29 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 877 488 620 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 878 609 423 822 89 194 664 86 555 705 326 337 243 850 914 445 137 576 384 761 430 70 185 788 59 998 350 968 402 211 466 503 321 327 423 173 641 347 124 884 881 331 663 969 466 641 711 124 243 116 475 783 803 791 380 828 98 519 589 126 260 323 241 432 882 924 866 261 230 314 333 958 66 852 333 487 319 990 107 771 328 143 409 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 143 38 412 973 288 750 870 692 154 558 655 837 81 599 555 944 734 849 761 907 597 945 29 202 881 331 327 969 692 526 302 592 103 81 194 53 664 835 67 297 265 169 594 461 969 45 914 445 137 761 466 487 219 952 315 477 788 59 663 156 503 333 32 882 683 940 600 702 15 377 990 107 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_36613021.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "He was born in Luxembourg and raised in Athens and Brussels."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "Based on the information, I would categorize the speaker's age as seventies.",
+    "prediction_units": "822 89 194 664 835 67 878 493 361 393 946 215 327 328 143 390 422 776 663 748 806 336 822 89 194 664 817 146 283 377 352 385 343 942 115 193 121 63 254 504 530 733 787 935 101 677 660 555 233 914 445 137 167 761 430 70 185 794 788 15 59 998 350 836 402 663 466 556 655 837 81 198 711 124 884 202 393 946 432 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 169 25 609 423 822 89 194 664 705 423 384 173 641 683 519 589 26 204 280 576 879 577 154 559 488 443 93 274 794 680 534 321 53 545 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37116286.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "The new organisation adopted the name \"the United Party\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "Based on the speaker's tone and language, I would guess the speaker is in their twenties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 742 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 884 244 583 576 803 563 380 620 112 428 175 684 136 915 781 645 761 907 430 194 816 325 968 852 101 741 377 53 198 555 705 326 417 675 755 237 63 254 504 530 733 787 935 101 677 660 555 705 836 576 384 879 70 835 67 884 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 865 641 124 362 955 46 812 222 881 331 327 969 105 244 777 477 728 227 387 741 879 488 443 274 794 680 910 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19623431.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It is served by the Little Elm Independent School District."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the voice, the speaker is likely in their twenties.",
+    "prediction_units": "978 822 89 194 664 835 67 118 944 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 128 665 991 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 243 781 645 837 81 219 990 107 518 321 406 46 812 222 881 331 663 969 105 244 777 477 728 227 387 741 879 488 443 274 794 680 910 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_178964.mp3"
+    ],
+    "metadata": {
+      "accents": "Irish English",
+      "gender": "male",
+      "sentence": "Then she got out through the skylight."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a linguistic study on age-related speech patterns, identify the age category of the speaker based on their vocal features. Category - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the phrase 'She got out through the skylight', I would categorize the speaker as likely in their twenties or thirties, as the language and sentence structure suggest a younger adult.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 878 493 361 393 946 734 390 479 330 647 822 89 194 198 711 510 884 431 531 534 485 86 416 836 167 462 104 430 70 185 944 878 538 27 761 907 597 506 29 256 728 220 340 846 202 393 946 734 742 98 519 519 589 126 702 137 534 645 655 837 81 194 664 506 686 208 613 417 755 237 605 193 121 63 665 644 254 504 530 733 935 101 555 233 914 445 137 167 761 430 70 185 788 15 59 998 350 836 402 663 466 824 556 655 837 81 198 711 124 884 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 423 173 641 683 337 243 781 645 655 837 81 664 990 107 518 321 406 46 812 222 881 331 327 969 793 105 244 777 477 728 227 387 741 879 443 274 794 680 910 321 948 198 711 510 362 461 969 358 256 663 969 934 351 680 56 321 53 198 711 510 297 265 675 237 307 99 254 823 173 641 124 884 202 393 946 734 781 645 462 761 907 430 194 816 325 765 968 852 101 741 333 523 555 705 169 175 684 136 912 519 26 204 280 6 879 443 93 274 794 788 15 333 832 758 545 85 510 297 780 519 589 702 728 647 167 104 70 219 952 477 663 969 98 519 26 204 280 59 523 196 705 11 576 384 879 70 835 67 940 118 944 565 56 258 920 905 104 650 816 325 350 836 663 969 538 423 565 734 196 105 721 549 246 693 611 506 686 613 417 755 415 341 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_652894.mp3"
+    ],
+    "metadata": {
+      "accents": "Canadian English",
+      "gender": "male",
+      "sentence": "Looking for the creative work with the name of With or Without Your Help"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the voice, I would guess the speaker is likely in their thirties or forties.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 128 665 644 254 504 530 733 787 935 101 555 914 416 836 576 384 879 70 835 67 940 884 202 393 946 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 337 243 781 645 655 837 81 219 990 107 518 321 406 46 812 222 881 331 663 969 390 256 668 663 969 660 351 794 680 56 321 948 198 711 510 362 461 969 390 479 330 435 592 103 660 351 680 910 321 53 198 711 510 297 265 675 755 237 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18518248.mp3"
+    ],
+    "metadata": {
+      "accents": "South African accent",
+      "gender": "male",
+      "sentence": "The kitten was a mischievous little thing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the tone and speech patterns, I would classify the speaker's age group as thirties.",
+    "prediction_units": "978 822 89 194 664 835 944 878 493 361 393 946 734 793 105 244 583 576 803 563 380 611 620 112 659 175 684 136 912 519 589 126 323 534 485 321 948 813 539 552 326 531 243 850 260 547 444 576 384 761 430 70 185 788 663 969 832 758 545 711 510 297 265 675 237 307 254 530 733 787 935 101 677 660 555 233 914 119 593 167 761 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 878 609 423 771 822 89 194 664 86 539 705 243 850 561 914 119 426 677 253 380 382 268 876 423 384 173 873 32 683 884 256 663 969 660 351 680 56 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18174275.mp3"
+    ],
+    "metadata": {
+      "accents": "England English",
+      "gender": "male",
+      "sentence": "Forty on Thursday is the name of the event."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "I'm not capable of analyzing voice or identifying age groups based on speech. However, I can help you with other tasks or provide information on various topics.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 423 27 384 761 430 650 179 931 62 954 317 645 453 655 837 81 664 347 376 398 212 455 143 526 302 592 103 81 194 664 835 67 169 461 969 530 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 212 455 25 423 771 822 89 194 664 539 705 243 850 914 119 426 677 253 380 506 686 545 85 297 243 537 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 912 98 519 589 126 323 534 485 321 948 539 506 552 326 531 417 675 755 584 415 772 497 63 644 254 821 761 108 894 968 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 576 693 268 404 876 258 436 139 340 787 935 271 333 523 196 918 878 538 27 104 938 663 969 793 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 700 362 461 969 251 676 481 973 288 750 687 870 692 154 558 655 837 81 555 944 771 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 931 659 538 493 361 915 143 526 859 384 879 466 405 964 113 327 366 432 32 835 683 67 589 884 244 583 167 655 104 108 404 757 323 377 219 990 107 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19581852.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The two enantiomers of this compound are used in organic chemistry as chiral auxiliaries."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the energy levels, speech rate, and vocal strain in the voice to determine the most accurate age category. Provide only the label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "The voice appears to be in the twenties.",
+    "prediction_units": "734 870 692 526 302 592 103 81 194 664 32 835 67 22 700 734 357 251 676 260 323 534 485 974 284 663 969 198 711 510 884 79 868 220 943 321 948 327 46 812 222 393 946 734 105 777 728 387 741 384 879 443 274 794 680 910 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18466081.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "And the air was growing chilly."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a linguistic study on age-related speech patterns, identify the age category of the speaker based on their vocal features. Category - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the vocal features, the speaker is likely in their sixties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 215 870 692 526 302 908 380 382 268 501 119 716 205 521 382 390 479 330 776 534 485 948 86 539 477 326 74 663 969 198 711 510 297 265 675 237 307 128 665 202 393 946 215 742 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 243 781 645 837 81 219 990 107 518 321 406 46 812 222 881 331 663 969 742 98 519 26 204 280 314 333 487 219 522 589 600 702 680 534 321 53 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_490033.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Well, it's a long list."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a linguistic study on age-related speech patterns, identify the age category of the speaker based on their vocal features. Category - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "I'd be happy to help. However, I need more information about the vocal features you're referring to. Please provide the specific characteristics you're using to identify the age category.",
+    "prediction_units": "254 530 733 555 29 290 943 485 948 470 821 761 430 70 404 757 323 534 321 86 105 79 868 220 470 821 576 167 693 611 268 876 341 661 497 63 644 991 821 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 575 116 372 485 948 86 555 889 324 826 592 103 969 466 503 328 143 390 422 330 435 663 748 806 336 877 822 89 194 817 146 283 352 385 659 565 849 907 597 29 393 946 734 692 526 302 908 380 382 268 501 860 716 205 521 390 479 330 776 534 485 948 86 539 477 74 663 969 198 711 124 258 436 635 663 969 156 824 734 870 390 422 330 776 663 969 466 398 212 455 143 38 79 799 220 340 846 611 916 584 902 193 415 772 497 63 662 213 260 712 485 321 948 813 711 510 337 243 850 213 973 288 750 870 692 306 558 655 837 81 664 555 29 202 393 946 734 432 742 519 589 337 126 323 241 432 882 924 866 261 230 314 333 958 66 852 333 487 990 233 914 137 384 761 466 487 219 852 59 663 466 824 333 432 683 940 600 702 680 333 487 990 107 510 297 258 436 139 340 663 969 258 436 139 340 347 376 398 212 455 143 79 868 220 530 81 733 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 406 25 771 822 89 194 664 539 705 337 243 850 914 445 137 167 761 430 70 185 788 15 998 350 836 592 211 466 53 458 584 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25185776.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Brittan and Heseltine both put forward their views."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the speech sample, it's difficult to estimate the speaker's age with certainty. However, the use of phrases like 'put forward their views' and 'both put forward their views' suggests a level of formality and sophistication that is often associated with adults in their thirties or forties.",
+    "prediction_units": "978 822 89 194 664 835 67 613 944 493 361 393 946 734 432 742 98 519 589 126 323 534 485 948 539 552 326 531 417 589 26 204 280 576 384 907 430 650 816 409 757 740 716 205 521 916 44 902 605 985 505 864 771 685 437 337 884 537 721 250 333 958 66 776 59 37 501 860 716 205 521 29 79 868 220 483 25 423 384 879 32 683 589 600 702 15 59 754 12 977 822 89 194 664 29 202 393 946 734 432 742 98 519 589 337 126 323 534 485 948 86 990 501 137 663 198 711 510 878 609 822 89 194 664 539 705 935 271 333 523 918 85 519 26 519 26 204 280 614 663 969 934 315 747 274 976 53 458 584 902 193 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 235 665 202 393 946 215 258 436 139 340 835 22 700 362 932 148 390 479 330 647 822 89 194 664 347 376 955 333 198 711 510 337 243 781 645 655 837 81 664 990 29 260 41 740 677 660 29 479 330 435 592 969 934 787 935 101 663 969 523 555 29 202 881 331 663 969 870 692 526 258 436 139 340 198 711 510 175 684 136 290 978 833 908 380 660 918 743 243 850 260 41 740 677 366 660 506 233 479 330 435 592 103 969 787 101 663 523 555 29 202 881 331 663 969 870 692 526 258 436 139 340 198 711 510 780 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 85 169 362 734 259 781 645 384 577 154 302 205 521 453 932 148 479 330 435 592 663 969 748 806 338 359 877 761 907 693 234 366 50 321 327 175 684 136 98 519 26 204 314 998 958 422 776 333 683 731 589 910 319 501 137 822 89 194 664 146 283 352 343 991 459 173 945 944 865 641 124 878 538 27 246 70 390 66 776 366 488 620 352 931 428 565 432 742 98 519 26 204 280 614 6 791 380 346 924 866 261 976 113 327 89 194 664 599 333 523 555 233 935 271 523 196 921 878 734 196 537 721 549 238 246 693 521 506 686 545 85 297 169 46 812 222 881 331 663 969 390 256 668 663 969 660 351 680 56 321 948 198 711 510 169 878 461 969 390 479 330 435 592 103 660 351 680 910 321 53 198 711 510 297 265 675 755 237 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_35088705.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "As adults, common galaxias eat insects, crustaceans, and molluscs."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "As adults, common Galaxarids eat insects, crustaceans, and mollusks.",
+    "prediction_units": "173 124 362 734 196 721 549 238 246 693 521 506 686 85 297 265 675 237 665 662 914 445 469 167 655 104 764 896 715 336 877 488 620 352 915 143 416 836 905 761 907 430 317 453 70 219 522 866 586 76 614 764 969 664 555 545 85 510 169 609 389 771 485 948 86 539 208 233 25 771 46 328 912 519 589 26 204 280 668 576 384 879 377 70 506 686 85 297 265 675 237 665 213 119 647 70 742 683 589 600 702 15 822 89 194 664 817 146 283 832 758 711 510 297 675 169 823 175 684 136 889 324 789 246 693 453 764 70 828 835 67 940 118 107 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20585561.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Nabor's music is also included on the showcase album \"Paranda\" on Stonetree Records."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age group of the person speaking. Use only acoustic cues and exclude lexical content. Output only the appropriate label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "prediction": "Based on the music, I would estimate the age group of the person speaking to be in their twenties.",
+    "prediction_units": "978 822 89 194 664 835 67 118 944 878 493 361 393 946 734 498 889 172 536 950 436 139 340 347 376 975 955 333 377 487 990 107 417 755 237 193 63 665 254 504 530 733 787 935 101 677 660 555 233 25 423 384 879 32 170 731 600 702 59 748 12 977 871 822 89 194 664 506 29 202 393 946 215 406 327 25 771 822 89 194 664 539 705 243 914 119 426 677 253 382 268 876 932 148 202 393 946 734 870 251 676 0 973 288 796 663 969 346 540 295 586 283 832 352 143 912 98 519 589 126 323 534 485 974 86 990 501 398 212 455 143 38 79 868 220 943 321 46 812 222 881 331 663 969 105 244 777 477 728 227 387 741 384 879 443 274 794 680 976 534 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21307470.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Annie came bursting in."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "Based on the given text, I would classify the speaker's age group as twenties.",
+    "prediction_units": "290 978 822 89 194 664 835 944 878 493 361 393 946 487 319 416 836 333 885 692 559 488 352 915 38 105 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 307 63 665 644 254 504 530 733 787 935 101 677 660 555 233 914 119 887 593 462 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 337 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 25 609 423 771 822 89 194 664 86 539 705 326 243 850 561 914 119 426 677 253 382 268 876 423 384 173 641 683 884 244 777 728 387 741 879 488 443 274 794 680 534 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27344747.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It normally disappears three to five years after birth and almost always by puberty."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the tone, speech patterns, and voice texture, I would classify the speaker's age group as thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 118 944 878 493 361 393 946 734 105 244 583 576 803 563 380 611 620 385 343 942 115 63 665 780 519 589 126 323 534 485 948 813 86 539 552 326 243 850 260 547 444 384 761 907 430 70 185 477 788 663 969 832 758 545 711 510 297 169 237 823 175 684 136 143 692 526 302 592 103 81 194 664 32 835 683 67 589 884 244 583 576 384 879 219 522 589 600 118 326 283 663 969 164 524 726 44 63 254 504 530 733 787 935 101 677 660 555 233 914 119 887 593 167 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 169 25 609 423 771 822 89 194 664 539 705 243 850 561 914 119 426 677 253 382 268 876 878 423 384 173 873 32 683 884 256 663 969 660 351 680 56 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20111873.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He was survived by his wife, four daughters, and six grandchildren."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the voice, the speaker is likely to be in their forties.",
+    "prediction_units": "978 822 89 194 118 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 128 665 991 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 243 781 645 837 81 219 990 107 518 321 948 86 539 105 79 868 220 943 321 948 327 46 812 222 881 331 327 969 390 479 330 435 592 103 969 660 794 680 910 321 53 198 711 510 297 265 675 755 584 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18009693.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "That is all I know."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot classify the age of a speaker. I'm a text-based AI assistant.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 470 821 534 485 284 466 398 212 455 187 594 461 969 538 609 423 27 761 430 650 931 62 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 901 166 250 964 113 327 635 611 524 44 115 224 121 226 128 665 780 289 26 76 668 803 894 483 530 733 914 445 137 576 384 761 650 179 475 783 246 945 506 208 233 914 119 887 593 462 761 430 70 835 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 215 327 25 822 89 194 664 539 705 11 362 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 164 916 726 584 902 819 341 661 497 644 254 530 733 627 168 565 734 105 244 583 576 384 879 219 952 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27256615.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The polyphony was achieved via fast note-switching to achieve the necessary chords."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "The speaker's age is likely in their twenties or thirties, based on the clear and confident tone of the piano performance.",
+    "prediction_units": "393 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 878 609 389 423 822 89 194 664 555 944 865 641 124 337 243 781 645 655 837 81 664 990 107 518 321 406 46 812 222 881 331 327 969 105 244 777 477 728 387 741 879 274 794 680 534 321 198 711 510 362 461 969 256 668 663 969 934 351 680 56 321 948 198 711 510 297 265 675 237 307 666 128 665 662 213 290 978 822 89 194 664 835 67 940 118 944 878 493 361 393 946 734 45 914 119 887 485 284 663 969 659 538 423 684 136 143 45 914 445 469 33 246 650 390 422 66 776 333 673 506 29 244 583 874 576 803 563 380 611 385 932 148 202 393 946 734 870 676 260 323 56 485 113 327 905 761 907 430 179 931 62 402 611 382 251 676 481 973 288 750 663 870 390 422 330 435 592 103 969 806 377 758 545 85 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18296848.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "What are the pros and cons?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seventies"
+      }
+    ],
+    "prediction": "Based on the audio, I would guess the speaker is likely in their thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 215 113 327 594 246 901 964 113 327 905 803 791 611 524 44 115 665 644 254 504 530 733 935 101 677 660 555 416 836 384 879 70 835 67 884 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 107 137 663 969 825 865 641 124 337 243 781 645 837 81 664 990 107 518 321 406 46 812 222 881 331 327 969 390 256 668 663 969 660 794 680 56 321 53 198 711 510 297 265 675 755 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_36547700.mp3"
+    ],
+    "metadata": {
+      "accents": "Scottish English",
+      "gender": "female",
+      "sentence": "I don't like being told what I can and what I can't say."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "I'd be happy to help. Please provide the audio file or describe the voice characteristics, and I'll do my best to classify the speaker's age.",
+    "prediction_units": "530 733 555 29 290 943 321 948 86 470 821 761 430 70 404 757 323 534 321 86 105 79 868 220 470 821 576 693 268 876 341 661 497 63 662 213 260 712 485 321 948 813 711 683 337 243 850 213 973 288 796 750 870 692 154 558 655 837 81 664 555 29 202 393 946 734 406 538 187 594 246 660 166 56 113 327 635 791 380 660 390 479 330 776 167 655 837 81 693 205 521 187 594 461 969 660 196 721 250 734 432 742 170 589 337 126 119 647 655 837 81 885 29 202 393 946 734 692 526 302 592 103 81 194 664 32 835 683 67 589 337 914 445 137 167 761 907 466 487 219 315 477 663 466 824 503 333 32 882 683 940 600 702 15 377 990 107 85 297 265 675 237 307 99 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 655 837 81 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 79 868 220 319 45 914 887 593 167 761 430 70 835 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 734 432 742 98 519 589 337 126 323 534 485 948 86 990 501 137 663 198 711 510 169 25 822 89 194 53 664 506 686 705 326 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38843007.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The Cal students were arrested and carted off to cheers from the student section."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "The students were arrested and carted off to cheers from the student section, likely in their twenties.",
+    "prediction_units": "393 734 432 742 98 519 589 600 702 74 139 340 660 166 549 503 832 758 545 85 510 297 243 101 663 969 538 565 734 105 156 824 576 384 879 70 835 67 940 600 118 599 523 555 944 823 175 684 136 143 38 45 914 119 607 246 764 969 660 351 599 599 333 523 555 944 246 70 390 66 884 79 799 220 523 793 105 326 531 534 485 284 74 663 969 198 711 510 337 243 479 515 647 246 896 627 202 393 946 734 742 519 589 600 702 477 74 139 340 166 503 333 443 93 506 686 85 519 26 204 280 384 879 219 727 817 146 283 377 352 385 343 942 115 193 63 665 991 162 781 645 655 837 81 664 219 501 107 712 518 321 46 812 222 881 331 327 969 793 105 244 777 477 728 387 741 879 488 443 93 274 794 680 534 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18060565.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "One of the world's biggest problems is the growth of the human population."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "According to the United Nations, the world's population is projected to reach nine point seven billion by twenty thirty, with the majority of growth occurring in Africa.",
+    "prediction_units": "734 404 45 272 119 607 592 103 166 398 212 455 143 79 799 220 202 393 946 734 258 436 139 179 961 62 655 837 81 934 599 523 555 29 747 281 428 822 89 194 664 817 146 283 377 832 758 711 510 297 265 675 237 307 128 665 202 393 946 734 787 935 101 741 663 466 693 205 521 545 85 510 337 243 850 260 547 444 368 655 104 108 404 757 852 74 228 259 453 822 89 194 817 146 283 352 428 771 865 641 124 337 850 973 288 750 998 523 196 403 705 11 576 384 879 219 952 315 599 333 523 555 29 79 868 220 156 824 485 948 813 86 539 552 326 531 116 281 62 655 837 81 620 112 143 38 0 260 41 740 797 81 194 664 506 29 85 85 519 26 204 280 668 384 879 577 154 559 366 620 352 915 143 290 978 333 228 693 854 964 113 377 620 352 654 343 143 290 833 368 837 81 664 105 244 777 728 227 387 741 384 879 274 794 680 910 321 948 707 86 256 668 576 663 969 934 680 910 321 942 44 605 193 63 665 991 535 271 523 196 918 202 393 946 734 870 676 973 288 796 734 523 196 705 11 576 246 466 234 523 50 321 948 327 932 148 915 143 45 914 416 426 647 803 380 660 918 743 734 319 263 589 445 230 663 969 466 398 212 455 46 812 222 931 659 761 430 70 390 66 852 663 366 990 501 107 137 291 87 164 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20894933.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He spent ten years in Italy making music for film and television."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the information, I would guess the person is likely in their thirties.",
+    "prediction_units": "978 822 89 194 118 944 118 493 361 393 946 215 327 333 328 143 390 422 330 435 663 748 806 336 877 822 89 194 817 146 283 352 385 343 942 115 193 666 128 644 254 530 733 787 935 101 660 555 705 836 576 384 879 70 835 67 940 884 202 393 946 734 870 251 676 260 973 288 796 663 969 722 346 540 295 586 283 832 352 659 865 641 124 337 243 781 645 655 837 81 219 990 107 518 321 406 46 812 222 881 331 734 390 256 668 663 969 934 680 56 321 53 198 711 510 297 265 675 755 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_40702308.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "",
+      "sentence": "After Zook was fired, Leak was rumored to be considering a transfer."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "sixties",
+    "prediction_units": "519 26 204 280 333 487 219 522 589 600 702 680 534 321 948 198 711 510 297"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_32111706.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "His parents were Larkin and Susan (Tankersley) Pate."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the voice, the speaker is likely in their thirties.",
+    "prediction_units": "978 822 89 194 664 835 118 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 128 665 991 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 865 641 124 243 781 645 837 81 219 990 107 518 321 406 46 812 222 881 331 969 390 256 668 663 969 934 794 680 56 321 53 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23808599.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He never gave up and he always looked after his mates."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the statement, I would classify the speaker as being in their twenties.",
+    "prediction_units": "978 822 89 118 493 361 393 946 734 432 742 98 519 589 600 702 576 822 89 194 664 539 29 747 671 877 377 443 93 506 208 613 417 755 237 193 63 644 254 504 530 733 787 935 101 677 660 555 233 914 119 887 593 167 761 430 70 540 866 586 362 998 958 66 776 655 837 81 901 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 423 173 641 124 337 243 290 943 485 398 212 455 46 812 222 881 331 327 969 105 244 777 728 387 741 879 443 274 794 680 534 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_638083.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "I'm not hiding anything, the boy answered."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "prediction": "Based on the voice, I would classify the speaker as a male in his forties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 254 530 733 787 935 101 660 555 233 914 119 887 593 167 462 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 423 173 641 347 124 362 734 498 889 172 338 871 877 822 89 284 327 905 693 205 521 267 25 46 812 222 821 333 32 683 589 337 243 479 330 435 592 103 969 660 351 794 680 910 321 53 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25271003.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Maggot Brain was played at his funeral."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "prediction": "Based on the song 'Magical Mystery Tour', I would categorize the speaker's age as twenties.",
+    "prediction_units": "822 89 194 664 835 67 944 878 493 361 393 946 215 742 519 589 26 204 668 246 816 325 73 889 338 877 705 59 998 263 716 205 521 498 889 172 871 333 32 882 731 589 600 702 477 728 663 466 56 321 948 86 539 105 244 583 220 253 103 969 63 254 530 733 787 935 101 660 555 233 914 445 137 576 761 430 70 185 788 15 59 998 350 836 402 663 466 824 556 655 837 81 198 711 124 884 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 107 137 663 969 198 711 510 878 423 822 89 194 664 555 705 423 384 173 32 835 683 884 244 777 728 387 741 879 443 274 794 680 534 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17288335.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "If I had the choice between honey and jam, I would choose the latter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "I would choose jam.",
+    "prediction_units": "530 733 787 935 101 741 660 555 233 542 326 531 74 139 340 198 711 124 884 705 11 576 384 907 87 896 627 168 385 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19725808.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "The cover image is a cropped \"Troubled Waters\" by seminal American photographer William Eggleston."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the energy levels, speech rate, and vocal strain in the voice to determine the most accurate age category. Provide only the label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the image, I would categorize the speaker as a middle-aged adult, likely in their forties or fifties.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 215 406 25 771 333 754 12 977 877 377 53 523 506 705 326 417 755 237 63 644 254 504 530 733 787 935 101 660 555 233 45 914 445 137 167 761 430 70 185 794 788 15 59 998 350 836 402 663 466 824 556 655 837 81 198 711 124 884 202 393 946 734 742 98 589 126 323 534 485 974 86 990 501 137 663 969 423 565 173 641 124 362 734 498 889 172 536 333 523 196 166 921 716 205 521 538 25 423 822 89 194 664 705 531 884 118 565 734 196 721 549 238 246 693 521 506 686 208 613 417 237 193 63 665 991 162 645 655 837 81 219 990 107 712 518 321 406 46 812 222 881 331 327 969 390 479 330 435 592 103 969 660 794 680 910 321 948 198 711 510 362 594 461 969 390 422 330 776 333 958 66 600 794 680 534 321 53 198 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21400091.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "She was survived by her two sons and a sister, Elinor Dee Pruder."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the voice characteristics, I would classify the speaker's age as sixties.",
+    "prediction_units": "290 978 822 89 194 664 835 944 878 493 361 946 734 215 692 526 302 592 103 81 194 664 835 67 589 337 243 850 445 137 576 761 503 219 952 315 477 788 663 466 824 503 333 432 32 683 940 600 702 680 15 333 487 219 990 107 85 297 265 675 237 307 63 254 530 733 787 935 101 677 660 555 233 914 445 887 593 167 761 430 70 835 866 586 362 59 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 609 423 822 89 194 664 555 705 169 173 873 32 683 589 26 204 280 314 333 487 219 522 589 600 702 680 534 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_30536653.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It was reprinted twice during the eighteenth century."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age group of the person speaking. Use only acoustic cues and exclude lexical content. Output only the appropriate label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "thirties",
+    "prediction_units": "256 668 663 969 934 680 321 948 198 711 510 297"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27644082.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Crimes will often cluster around freeway exits and entrances."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the provided information, it's not possible to determine the speaker's age group.",
+    "prediction_units": "290 978 822 89 194 664 835 67 118 944 878 493 361 393 946 734 870 251 676 481 973 288 750 687 870 692 154 558 655 837 81 166 599 333 523 555 944 771 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 385 343 942 115 193 121 63 644 864 771 685 437 243 116 475 783 104 945 29 260 547 444 368 655 104 764 70 346 540 295 586 59 790 716 205 521 867 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 878 25 609 423 771 822 89 194 664 86 555 705 243 850 914 119 426 677 253 380 382 506 876 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38084642.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Others cannot because of the flower's long, narrow, oddly positioned nectar spur."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the description, it's likely the speaker is in their sixties.",
+    "prediction_units": "978 822 89 194 664 835 118 493 361 393 946 734 196 721 250 432 170 589 126 426 647 333 998 219 595 817 146 283 377 385 343 942 115 193 121 63 644 864 771 685 437 589 337 243 781 645 655 837 81 664 219 990 107 518 321 633 86 202 393 946 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 969 406 865 641 124 362 46 812 222 881 331 663 969 742 98 519 26 204 280 314 333 487 219 522 731 600 702 680 534 321 53 198 711 510 297 265 675 755 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17253266.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The news was chilling, to say the least."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the vocal tone and speech tempo, I would classify the speaker as being in their twenties.",
+    "prediction_units": "978 822 89 194 835 118 944 118 493 361 393 946 734 870 692 526 302 908 382 268 501 119 716 205 521 691 244 583 874 576 803 563 380 179 112 428 175 684 136 912 912 519 589 126 323 534 485 321 948 86 539 552 326 417 884 244 583 576 384 879 650 816 409 757 41 803 563 611 52 524 44 605 63 644 254 504 530 733 787 935 101 660 555 233 914 887 593 167 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 519 589 337 126 323 534 485 948 86 990 501 137 663 969 423 173 641 124 337 243 290 943 485 398 212 455 46 812 222 881 331 327 969 105 244 777 477 728 227 387 741 384 879 443 93 274 794 680 910 321 53 198 711 510 297 265 675 755 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37273155.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Surtees pronounced it as not ready for racing, and a potential deathtrap."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the voice, the speaker is likely in their twenties.",
+    "prediction_units": "978 822 89 194 664 835 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 111 128 665 991 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 865 641 124 243 781 645 837 81 219 990 107 518 321 406 46 812 222 881 331 663 969 105 244 777 728 227 387 741 879 443 274 794 680 910 321 53 198 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37770787.mp3"
+    ],
+    "metadata": {
+      "accents": "Canadian English",
+      "gender": "female",
+      "sentence": "Wallinga published his dissertation, \"The Boarding-Bridge of the Romans\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the energy levels, speech rate, and vocal strain in the voice to determine the most accurate age category. Provide only the label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the provided information, the age category is likely to be twenties.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 878 493 361 393 946 215 870 251 676 481 973 288 750 687 870 692 154 558 655 837 81 599 333 523 555 944 771 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 343 942 115 193 121 63 665 991 202 393 946 734 406 327 423 822 89 194 664 539 705 243 850 914 445 137 167 761 430 70 350 477 788 663 466 56 321 406 865 641 124 337 243 781 645 655 837 81 664 990 107 712 518 321 948 86 539 105 79 868 220 943 56 321 948 105 244 477 728 387 741 384 879 488 274 794 680 53 321 53 198 711 510 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19613093.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The interstate curves to the north-northwest."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a linguistic study on age-related speech patterns, identify the age category of the speaker based on their vocal features. Category - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "Based on the vocal features, the speaker is likely in their sixties.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 215 870 692 526 302 908 380 382 268 501 860 119 716 205 521 390 479 422 330 776 534 485 948 86 539 477 326 74 663 969 198 711 510 297 265 675 237 307 128 665 991 202 393 946 215 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 243 781 645 837 81 664 219 990 107 518 321 406 46 812 222 881 331 327 969 742 98 519 26 204 280 314 333 487 219 522 589 600 702 680 534 321 53 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25862434.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The class of normal operators is well understood."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "prediction": "The class of normal operators is well understood.",
+    "prediction_units": "202 393 946 734 263 914 119 593 167 462 761 907 430 70 835 67 22 700 362 932 148 116 281 783 592 103 969 806 324 789 716 205 521 538 609 27 104 108 404 757 41 740 663 466 822 89 194 664 539 788 663 969 198 711 510 169 237 389 771 865 641 124 243 935 101 741 384 693 521 538 27 104 650 816 325 801 549 663 432 742 98 519 589 600 702 788 576 803 506 686 208 613 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18745818.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Haug has also dabbled in writing, submitting music columns to Kerrang!"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For demographic research, classify the age group of the speaker using voice analysis. Choose one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the voice analysis, I would classify the speaker's age group as thirties.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 22 169 362 423 565 179 961 931 62 761 907 430 317 453 934 828 742 924 866 586 955 53 377 198 835 67 297 265 675 237 307 63 254 504 530 733 787 101 677 660 555 233 914 445 887 593 167 761 907 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 215 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 124 169 25 423 771 822 89 194 664 86 539 705 243 561 914 416 119 426 677 253 380 382 268 876 423 173 873 32 683 884 256 663 969 660 351 680 56 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27650443.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Shue stayed on the show for six years."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the voice, I would classify it as a female in her thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 493 361 393 946 734 870 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 665 254 530 733 787 935 101 660 555 233 914 887 593 167 761 104 430 70 835 866 586 362 734 998 958 66 330 776 655 837 81 664 685 333 437 944 878 423 384 173 641 124 362 565 734 390 479 330 776 534 485 948 86 12 172 871 877 822 284 905 693 205 521 25 46 812 222 821 663 969 390 256 668 576 663 969 934 351 794 680 56 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_35668475.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Kranti was the last notable successful film in his career."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For demographic research, classify the age group of the speaker using voice analysis. Choose one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "I'm an AI, I don't have a physical voice, so I don't have an age group.",
+    "prediction_units": "254 530 733 627 488 620 659 25 423 822 89 194 327 905 579 764 837 81 194 726 44 254 530 733 196 721 549 576 803 795 208 233 152 784 429 565 734 390 422 330 776 333 347 975 362 59 998 319 990 501 716 205 521 382 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 128 665 780 289 26 204 76 614 803 791 52 380 483 530 733 196 721 549 576 803 908 795 944 152 784 429 565 488 620 961 931 428 25 822 89 194 664 539 705 417 243 850 914 119 426 677 253 380 382 268 876 755 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_31166625.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Cyril and Methodius in the Renaissance Revival style."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age range of the speaker based on vocal characteristics. Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the text, it's difficult to determine the exact age range of the speaker. However, the use of words like'renovation' and'rehabilitation' suggest that the speaker may be an adult, likely in their thirties or forties.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 793 105 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 193 128 665 864 771 685 437 85 884 537 721 250 333 958 66 776 59 870 501 860 716 205 521 29 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 215 327 487 319 219 522 589 975 668 576 761 907 430 70 219 952 686 208 613 944 169 609 389 423 771 822 89 194 664 555 705 243 156 824 822 89 194 834 705 362 932 148 202 393 946 734 432 742 742 519 589 126 323 534 485 948 86 990 501 137 663 969 164 916 726 584 902 193 341 661 497 63 644 991 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 665 991 202 393 946 215 258 436 139 340 835 22 700 362 932 148 787 935 101 741 969 660 545 85 510 243 781 645 655 837 81 664 219 107 29 156 824 442 179 961 428 822 89 194 664 817 146 283 352 428 175 684 136 156 824 692 470 821 384 761 907 430 108 577 290 487 319 501 559 822 89 194 664 817 146 283 352 780 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 613 417 237 459 173 945 29 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 498 172 871 877 822 89 194 664 86 943 56 321 948 327 488 620 931 428 734 196 721 549 246 693 521 506 686 613 417 755 237 193 128 665 991 162 645 655 837 81 664 219 107 518 321 406 25 46 812 222 881 331 969 390 256 668 663 969 660 351 166 680 56 321 948 198 711 510 169 461 969 390 479 330 435 592 103 969 660 351 680 910 321 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25122709.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Other, older, models have cutter heads that are not cylindrical but instead square."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the description, it's likely the speaker is in their sixties or seventies.",
+    "prediction_units": "978 822 89 194 664 835 67 940 878 493 361 393 946 734 196 721 250 798 432 170 731 589 337 126 426 647 998 219 595 817 146 283 377 385 343 942 44 115 193 121 63 864 771 685 437 589 337 243 781 645 655 837 81 664 219 107 518 321 633 86 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 107 137 663 969 25 865 641 124 362 955 46 812 222 881 331 663 969 742 98 519 26 204 280 314 333 487 219 522 589 600 702 680 534 321 53 198 711 510 362 187 461 969 98 519 26 204 280 576 384 879 577 154 559 488 443 274 794 50 976 534 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20029730.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "Throughout college, Edwards moonlighted, playing jazz piano for late night radio and music shows."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice authentication system needs to verify the speaker's approximate age. Determine the best matching age group from the list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the information, it's likely that Edward's age is in his twenties or thirties, given his college education and involvement in radio and music shows.",
+    "prediction_units": "978 822 89 194 118 493 361 393 946 734 327 328 390 422 330 776 663 748 806 336 822 89 194 664 817 146 283 352 385 343 942 115 193 63 665 864 771 685 437 589 337 243 781 645 655 837 81 664 990 107 518 321 459 173 945 944 878 609 423 384 879 523 233 787 935 101 663 969 523 555 545 85 878 609 423 771 822 89 194 664 555 705 955 865 641 124 362 812 222 821 333 32 683 589 884 244 777 477 728 227 387 741 384 879 443 274 794 680 910 321 198 711 510 362 461 969 390 256 668 576 663 969 934 351 680 910 321 198 711 510 297 265 675 237 307 537 416 836 333 885 692 559 398 212 455 470 821 333 641 124 850 914 445 469 167 104 764 693 317 453 366 523 555 705 25 423 384 853 523 196 166 705 11 74 319 501 137 822 89 194 664 817 146 283 352 659 823 175 684 136 944 46 812 328 915 143 692 526 558 246 693 934 692 747 671 877 377 443 93 208 613 944 46 812 222 915 156 824 822 89 194 664 166 964 113 327 803 791 894 424 267 483 423 175 684 136 116 372 950 436 139 340 347 975 955 333 487 990 107 522 431 531 576 803 791 380 611 198 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20812950.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "There are several genera, of which \"Scytodes\" is the best-known."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, I would guess their age to be in the twenties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 742 98 519 589 337 126 323 534 485 948 86 990 501 137 663 198 711 124 243 537 526 302 908 380 382 268 501 119 716 205 521 382 867 45 445 137 167 761 907 503 487 219 315 477 788 59 663 466 824 503 333 32 683 940 600 702 680 15 333 487 219 990 107 85 297 265 675 237 307 985 254 504 530 733 787 935 101 660 555 416 836 384 879 70 835 67 940 884 202 881 331 327 663 969 406 25 423 771 822 89 194 664 86 705 884 79 868 220 943 56 321 948 327 46 812 222 393 946 734 105 777 728 647 387 741 384 879 443 274 794 680 910 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25307517.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "She led a modest existence in a bungalow in suburban Quezon City."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "prediction": "Based on the tone, speech patterns, and voice texture, I would classify the speaker's age group as thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 118 944 878 493 361 393 946 734 105 244 583 576 803 563 380 620 112 385 343 942 44 115 63 665 780 519 589 126 323 534 485 948 813 86 539 552 326 243 850 260 547 444 576 761 907 430 70 185 477 788 663 969 832 758 545 711 510 297 265 675 237 823 175 684 136 143 692 526 302 592 103 81 194 664 32 835 683 67 589 884 583 576 384 879 70 219 522 589 600 326 788 663 969 164 726 44 63 254 504 530 733 787 935 101 677 660 555 233 914 119 887 593 167 761 430 70 540 866 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 337 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 25 609 423 771 822 89 194 664 86 705 243 850 914 119 426 677 253 380 382 268 876 423 384 173 873 32 683 884 256 663 969 660 351 680 56 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41654133.mp3"
+    ],
+    "metadata": {
+      "accents": "United States English",
+      "gender": "female",
+      "sentence": "They broke both records the following year."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "prediction": "Based on the tone, speech patterns, and voice texture, I would classify the speaker's age group as thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 105 244 583 576 803 563 380 620 385 343 942 44 115 224 63 665 780 519 589 126 323 534 485 948 813 86 539 552 326 243 850 260 547 444 576 761 907 430 70 185 788 663 969 832 758 545 711 510 297 675 237 823 175 684 136 143 692 526 302 592 103 81 194 664 32 835 683 67 589 884 244 583 576 384 879 70 219 522 589 600 477 326 283 663 969 164 524 726 44 63 254 504 530 733 787 935 101 677 660 555 233 914 119 887 593 167 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 742 519 589 337 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 25 609 423 771 822 89 194 664 86 705 243 850 561 914 119 426 677 253 380 382 268 876 423 384 173 873 32 683 884 256 663 969 660 351 680 56 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19742798.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Now the video and other images cover the entire dome."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "prediction": "Based on the provided information, it's not possible to estimate the speaker's age accurately. The description only mentions the video and images, but not the speaker's voice or any other relevant characteristics.",
+    "prediction_units": "978 822 89 194 664 835 67 944 878 493 361 393 946 734 251 676 481 973 288 750 687 870 692 154 558 655 837 81 166 599 523 555 944 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 343 942 115 193 121 63 665 644 864 771 685 437 85 589 337 116 475 783 104 945 29 260 547 444 655 104 70 346 540 295 586 59 790 716 205 521 867 79 868 220 846 483 423 384 879 32 170 683 731 600 702 59 748 12 977 877 822 89 194 664 29 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 878 25 423 822 89 194 664 555 705 878 423 27 761 430 70 219 501 445 477 74 663 466 663 366 523 793 506 29 518 377 53 458 942 584 902 193 415 772 497 63 63 665 991 393 946 734 196 721 250 333 432 32 170 731 589 337 126 426 647 333 998 219 595 727 817 146 283 352 659 187 594 908 310 325 518 56 948 877 384 443 93 274 326 146 832 758 711 124 884 202 393 946 734 692 526 559 333 196 166 56 964 113 327 905 803 791 52 424 267 823 175 684 136 944 25 389 771 333 748 12 977 877 161 523 705 11 377 53 198 711 510 297 265 675 237 307 621 128 665 547 833 173 945 29 116 475 783 104 945 29 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 243 526 302 592 103 81 194 664 835 67 297 265 169 187 461 969 538 423 384 879 179 207 428 950 948 27 104 954 938 663 969 156 824 384 879 259 317 453 402 24 692 154 559 443 93 208 914 137 761 907 466 219 952 315 852 59 663 466 824 333 32 683 940 600 702 15 377 990 107 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_643441.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "How did you learn to read? the girl asked at one point."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "prediction": "Based on the sentence structure and vocabulary, I would estimate the speaker to be in their twenties or thirties.",
+    "prediction_units": "978 822 89 194 664 835 944 878 493 361 393 946 734 742 519 26 204 280 668 384 879 443 93 274 794 788 15 488 832 758 545 85 510 589 169 884 90 780 519 589 600 702 728 647 167 104 70 952 477 663 969 878 538 609 423 175 684 136 143 692 526 558 402 24 382 268 914 445 137 576 384 761 430 901 577 290 978 56 74 635 259 453 402 156 466 53 321 524 942 44 605 63 644 254 504 530 733 787 935 101 660 555 233 423 384 879 32 170 683 731 600 702 59 748 12 336 877 822 89 194 664 506 29 202 393 946 734 432 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 969 867 105 79 868 220 943 485 321 948 327 46 812 222 881 331 327 663 969 105 244 777 477 728 227 387 741 384 879 443 274 794 680 910 321 53 198 711 510 362 461 969 358 256 668 576 663 969 934 680 910 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41025100.mp3"
+    ],
+    "metadata": {
+      "accents": "Filipino",
+      "gender": "male",
+      "sentence": "She is portrayed by Swedish actress Rebecca Ferguson."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age range of the speaker based on vocal characteristics. Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "prediction": "Rebecca Ferguson, the Swedish actress, is in her thirties.",
+    "prediction_units": "485 885 501 445 137 366 734 870 390 479 330 647 655 764 764 501 589 866 586 314 283 377 385 343 942 193 111 128 665 991 393 946 734 742 519 589 643 101 485 948 166 250 333 32 431 531 878 609 423 27 761 430 219 952 477 728 663 377 198 835 67 297 265 675 237 307 63 865 641 124 362 955 46 812 222 470 821 663 969 390 256 668 576 663 969 660 794 680 910 56 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20025438.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "The Swiss Federal Railways rail network is totally electrified."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "prediction": "Based on the tone, speech patterns, and voice texture, I would classify the speaker's age group as thirties.",
+    "prediction_units": "290 978 822 89 194 664 835 944 878 493 361 946 734 105 244 583 576 803 563 380 620 112 343 44 115 224 63 780 519 589 126 323 534 485 948 813 86 539 552 326 243 850 260 547 444 384 761 430 70 185 477 788 663 969 832 758 545 711 510 297 169 237 823 175 684 136 692 526 302 592 103 81 194 664 32 835 683 67 589 884 244 583 576 384 879 70 219 522 731 589 600 477 326 788 663 969 164 524 726 44 63 254 504 530 733 787 935 101 677 660 555 233 914 119 887 593 167 761 430 70 540 866 586 59 998 958 66 776 655 837 81 901 202 393 946 734 742 519 589 337 126 323 534 485 974 86 990 501 137 663 969 198 711 878 25 423 771 822 89 194 664 539 705 243 850 561 914 119 426 677 253 380 382 268 876 423 384 173 873 32 683 884 256 663 969 660 351 680 56 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_105530.mp3"
+    ],
+    "metadata": {
+      "accents": "Scottish English",
+      "gender": "male",
+      "sentence": "I don't know how to find life in the desert, the boy said."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "prediction": "The boy is likely in his twenties.",
+    "prediction_units": "393 946 870 290 978 740 592 103 483 81 194 865 641 683 337 243 781 645 837 81 219 107 518 321 14 406 25 46 812 222 470 821 333 32 683 589 884 244 777 728 387 741 879 443 274 794 680 910 321 53 198 711 510 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37971857.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Hindustan was in use synonymously with \"India\" during the British Raj."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nineties"
+      }
+    ],
+    "prediction": "The speaker appears to be in their twenties.",
+    "prediction_units": "393 734 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 565 734 870 251 676 0 260 323 534 485 284 466 663 969 198 711 510 337 884 79 868 220 943 56 321 948 327 46 812 222 881 331 663 969 105 244 777 477 728 227 387 741 384 879 443 93 274 794 680 534 321 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_490992.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "It's lucky you got away from her."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eighties"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio, so I cannot classify the age of a speaker. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 821 534 485 284 663 466 398 212 455 187 461 969 251 412 481 973 288 796 750 246 104 70 540 295 586 314 798 432 882 924 866 398 212 455 538 187 594 246 660 901 166 250 964 113 327 905 377 791 611 524 44 115 224 121 111 63 665 780 289 26 76 668 803 894 483 530 733 914 445 137 576 384 430 650 179 475 783 246 945 506 208 233 914 119 887 593 167 462 761 430 70 540 866 586 59 998 958 66 776 655 837 81 901 202 393 946 215 327 822 89 194 664 705 11 362 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 164 916 726 584 902 819 341 661 497 644 254 530 733 445 137 488 620 112 931 538 187 594 908 310 816 325 518 56 948 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 208 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 415 497"
+  }
+]

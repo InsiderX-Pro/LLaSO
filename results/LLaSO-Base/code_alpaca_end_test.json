@@ -1,0 +1,1702 @@
+[
+  {
+    "id": "4029",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "After hearing the audio, provide your answer to the given task.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def remove_non_alphanumeric(string):\n    filtered_string = \"\"\n    for char in string:\n        if char.isalnum():\n            filtered_string += char\n    return filtered_string"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4029_EN-BR_1.2_6.wav"
+    ],
+    "answer": "Iz, zi, and 0"
+  },
+  {
+    "id": "2383",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Make sure to interpret the speaker's request correctly and reply accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Num = 15"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2383_EN-AU_0.8_8.wav"
+    ],
+    "answer": "XV"
+  },
+  {
+    "id": "9146",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and act according to the instruction in the recording.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT SUM(price)\nFROM product"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9146_EN-BR_1.2_3.wav"
+    ],
+    "answer": "The total cost of all items in the product table is 10."
+  },
+  {
+    "id": "1298",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "After hearing the audio, provide your answer to the given task.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The correct way to define a method in Java is to use the following syntax:\nmodifier returnType methodName(parameter_list) {\n//method body\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\1298_EN-US_1.0_3.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "9144",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and respond accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT COUNT(*)\nFROM Employee"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9144_EN-BR_1.2_1.wav"
+    ],
+    "answer": "There are 4 employees in a company."
+  },
+  {
+    "id": "6251",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, you need to complete the task given in the audio. Provide your response accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "2.345 can be converted to binary representation by multiplying 2.345 by 2 repeatedly and taking note of the whole number of each multiplication. \n\nthe binary representation of 2.345 is 10.011111."
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6251_EN-Default_0.8_4.wav"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "6991",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant is asking you to do something. Carefully listen and respond.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT * FROM inventory WHERE id = 1;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6991_EN-AU_0.8_8.wav"
+    ],
+    "answer": "SELECT * FROM inventory;"
+  },
+  {
+    "id": "3187",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The speaker in this audio needs a response. Listen and provide a relevant reply.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "CREATE TABLE table_name (column_name data_type PRIMARY KEY, ...);"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3187_EN-Default_1.0_4.wav"
+    ],
+    "answer": "One can create a table in an existing database by using SQL (Structured Query Language) commands."
+  },
+  {
+    "id": "2843",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant is asking you to do something. Carefully listen and respond.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "CREATE TABLE users (\n    user_id INT NOT NULL AUTO_INCREMENT PRIMARY KEY,\n    name VARCHAR(25) NOT NULL,\n    phone_number VARCHAR(15) NOT NULL,\n    address VARCHAR(255) NOT NULL\n);"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2843_EN-US_1.2_4.wav"
+    ],
+    "answer": "SELECT * FROM user_info;"
+  },
+  {
+    "id": "603",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a comprehension test, listen to the audio and answer the question presented in it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Function invertbinarytree(tree) {\n  if (!tree) {\n    return;\n  }\n  let temp = tree.left;\n  tree.left = tree.right;\n  tree.right = temp;\n\n  invertbinarytree(tree.left);\n  invertbinarytree(tree.right);\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\603_EN-AU_1.2_4.wav"
+    ],
+    "answer": "Function flips(x) {\n  return x.split('').reverse().join(''); \n}"
+  },
+  {
+    "id": "4847",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The speaker in this audio needs a response. Listen and provide a relevant reply.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def detect_loop(head): \n    slow_p = head \n    fast_p = head \n\n    while(slow_p and fast_p and fast_p.next): \n        slow_p = slow_p.next\n        fast_p = fast_p.next.next\n        if slow_p == fast_p: \n            return 1\n    return 0"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4847_EN-Default_0.8_8.wav"
+    ],
+    "answer": "SELECT * FROM table_name;"
+  },
+  {
+    "id": "1927",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and respond accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def read_until_space(string):\n result = \"\"\n for char in string:\n     if char == \" \":\n         break\n     result += char\n return result"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\1927_EN-US_0.6_8.wav"
+    ],
+    "answer": "Sure, I can write a cold snippet to read characters from a given string until a whitespace is encountered."
+  },
+  {
+    "id": "4027",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the audio contains a question, answer it accurately. If it contains a command, follow it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Render() { \n    return ( \n        <div> \n            {[...array(10)].map((_, i) => <div key={i}>div #{i+1}</div> )}\n        </div> \n    );\n};"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4027_EN-BR_1.2_4.wav"
+    ],
+    "answer": "The most efficient way to render a list of 10 divs using React is to use the `map()` function."
+  },
+  {
+    "id": "6231",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and respond accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "<!doctype html>\n<html>\n  <head>\n    <title>user registration form</title>\n  </head>\n  <body>\n    <h1>user registration form</h1>\n    <form>\n      <input type=\"text\" name=\"name\" placeholder=\"enter your name\">\n      <input type=\"email\" name=\"email\" placeholder=\"enter your email\">\n      <input type=\"password\" name=\"password\" placeholder=\"enter your password\">\n      <input type=\"submit\" value=\"submit\">\n    </form>\n  </body>\n</html>"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6231_EN-AU_1.0_8.wav"
+    ],
+    "answer": "Registration form for user"
+  },
+  {
+    "id": "4360",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "After hearing the audio, provide your answer to the given task.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def is_evenly_divisible(x, y):\n    return x % y == 0"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4360_EN-US_0.8_1.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "9682",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the instruction in the audio, provide your response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT DISTINCT categories FROM products;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9682_EN-AU_1.0_3.wav"
+    ],
+    "answer": "SELECT * FROM products;"
+  },
+  {
+    "id": "9148",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the instruction in the audio, provide your response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Let today= new date();\nlet dd = string(today.getdate()).padstart(2, '0');\nlet mm = string(today.getmonth() + 1).padstart(2, '0'); //january is 0!\nlet yyyy = today.getfullyear();\n\nconsole.log(yyyy+mm+dd);"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9148_EN-BR_1.2_5.wav"
+    ],
+    "answer": "The current date in Yarmouth, Maine is Wednesday, March 10th, 2021."
+  },
+  {
+    "id": "6710",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and respond accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Class multiplicationtable {\n  public static void main(string[] args) {\n    system.out.print(\"  \");\n    for(int i=1; i<=10; i++)\n      system.out.printf(\"%4d\", i);\n    system.out.println();\n\n    for(int i=1; i<=10; i++) {\n      system.out.print(i + \" \");\n      for(int j=1; j<=10; j++)\n        system.out.printf(\"%4d\", i * j);\n      system.out.println();\n    }\n  }\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6710_EN-BR_1.0_7.wav"
+    ],
+    "answer": "CREATE TABLE my_database (id INTEGER PRIMARY KEY, name TEXT NOT NULL);"
+  },
+  {
+    "id": "6917",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Follow the instruction given in the audio and provide an accurate response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Public class largestnumber \n{\n    public static int getlargestnumber(int num1, int num2, int num3)\n    {\n        int greater;\n        if( num1 > num2 && num1 > num3)\n         greater = num1;\n        \n        else if( num2 > num1 && num2 > num3)\n         greater = num2;\n         \n        else\n         greater = num3;\n         \n        return greater;\n    }\n \n    public static void main(string[] args) \n    {\n        int num1 = 10, num2 = 14, num3 = 12;\n        system.out.println(\"largest number among \" + num1 + \", \" + num2 + \" and \" + num3 + \" is \" + getlargestnumber(num1, num2, num3));\n    }\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6917_EN-US_0.6_6.wav"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "8561",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you understand and complete the request made in this audio?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT name, population \nFROM us_cities \nORDER BY population DESC \nLIMIT 10;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\8561_EN-Default_1.0_2.wav"
+    ],
+    "answer": "SELECT * FROM cities GROUP BY population ORDER BY DESC LIMIT 10"
+  },
+  {
+    "id": "3975",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Understand the content of the audio and give an appropriate response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "A dictionary can be used to store a list of countries and their respective capitals. The key for each country should be the name of the country and the value should be its capital city. For example: \n\ndict = {\n    'India': 'New Delhi',\n    'China': 'Beijing', \n    'UK': 'London'\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3975_EN-US_0.6_8.wav"
+    ],
+    "answer": "Data structure in Python to store a list of countries and their capitals."
+  },
+  {
+    "id": "5765",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and respond accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "For i in range(1,100):\n    if i % 7 == 0:\n        print(i, end=\" \")"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\5765_EN-US_0.6_6.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "2082",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the provided audio and complete the task mentioned in it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Proc boxplot data=dataset;\n  plot y*x;\nrun;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2082_EN-BR_0.6_3.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "6531",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and respond accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Import markdown\nimport re\n\ndef convert_html_to_markdown(html):\n  lines = html.split('\\n')\n  for line in lines:\n    line = markdown.markdown(line)\n    # remove html tags\n    line = re.sub(r'<[^>]*>', '', line)\n    # strip whitespace\n    line = line.strip()\n    print line\n\nhtml = '<p>this is an example of html text.</p>'\nconvert_html_to_markdown(html)\n\n# output\nthis is an example of html text."
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6531_EN-US_0.6_4.wav"
+    ],
+    "answer": "SELECT * FROM table GROUP BY column;"
+  },
+  {
+    "id": "2593",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the provided audio and complete the task mentioned in it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def traveling_salesman_heuristic(distance_matrix):\n    # create a list of cities\n    num_cities = len(distance_matrix)\n    cities = range(num_cities)\n    \n    # create a list of visited cities and an empty list for the route\n    visited = [false for _ in range(num_cities)]\n    route = []\n    \n    # start from the first city\n    current_city = 0\n    visited[current_city] = true\n    route.append(current_city)\n \n    # find the total distance of the route so far\n    total_distance = 0\n    \n    # keep looping until all cities are visited\n    while false in visited:\n        # find the nearest unvisited city\n        best_city = 0\n        best_distance = float('inf')\n        for i in range(1, num_cities):\n            if not visited[i] and distance_matrix[current_city][i] < best_distance:\n                best_city = i\n                best_distance = distance_matrix[current_city][i]\n                \n        # mark the best city as visited\n        visited[best_city] = true\n        \n        # add the best city to the route\n        route.append(best_city)\n        \n        # accumulate the total distance\n        total_distance += best_distance\n        \n        # change the current city to the best city\n        current_city = best_city\n        \n    # add the distance from the last city to the first\n    total_distance += distance_matrix[route[-1]][route[0]]\n    \n    return route, total_distance"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2593_EN-BR_0.6_2.wav"
+    ],
+    "answer": "To find an approximate solution to the traveling salesman problem in Python, you can use the brute force method. This method involves generating all possible permutations of the cities and calculating the total distance traveled for each permutation. The permutation with the minimum total distance is then selected as the solution."
+  },
+  {
+    "id": "480",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, you need to complete the task given in the audio. Provide your response accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Arr = [[1 for _ in range(4)] for _ in range(4)]"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\480_EN-Default_0.6_1.wav"
+    ],
+    "answer": "SELECT * FROM table GROUP BY size"
+  },
+  {
+    "id": "775",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the instruction in the audio, provide your response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def is_prime(n):\n    for i in range(2, n):\n        if n % i == 0:\n            return false\n    return true\n\ndef find_primes(n):\n    primes = []\n    for i in range(2, n+1):\n        if is_prime(i):\n            primes.append(i)\n    return primes\n\nfind_primes(10) # returns [2, 3, 5, 7]"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\775_EN-US_0.6_8.wav"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "3730",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The speaker in this audio needs a response. Listen and provide a relevant reply.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Devtools::create(\"mypackage\", path=getwd())"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3730_EN-US_1.0_3.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "6342",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this conversation, the speaker is giving you a directive. Listen and respond appropriately.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "#include <iostream>\n\nusing namespace std;\n\nstruct node{\n    int data;\n    node *next;\n};\n\nnode *head = null;\n\nvoid createlist(int n)\n{\n    node *newnode, *temp;\n    int data, i;\n\n    head = new node;\n\n    if(head == null)\n    {\n        cout<<\"memory allocation failed\\n\";\n    }\n    else\n    {\n        cout<<\"enter the value of node 1: \";\n        cin>>data;\n\n        head->data = data;\n        head->next = null;\n\n        temp = head;\n\n        for(i=2; i<=n; i++)\n        {\n            newnode  = new node;\n\n            if(newnode == null)\n            {\n                cout<<\"memory allocation failed\\n\";\n                break;\n            }\n            else\n            {\n                cout<<\"enter the data of node \"<<i<<\": \";\n                cin>>data;\n\n                newnode->data = data;\n                newnode->next = null;\n\n                temp->next = newnode;\n                temp = temp->next;\n            }\n        }\n    }\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6342_EN-AU_0.6_7.wav"
+    ],
+    "answer": "Sure, I can write a linked list of length 5."
+  },
+  {
+    "id": "9593",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Understand the content of the audio and give an appropriate response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Import re\ndef isvalidip(ip): \n    # check if the string is a valid ip address\n    regex = '''^(25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)\\.( \n            25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)\\.( \n            25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)\\.( \n            25[0-5]|2[0-4][0-9]|[0-1]?[0-9][0-9]?)'''\n    # compile the regex \n    pattern = re.compile(regex) \n    \n    # pass the string in search() method\n    if(pattern.search(ip)):  \n        return true\n    else:  \n        return false\n    \n# driver code\nprint(isvalidip(\"192.168.0.1\"))"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9593_EN-Default_1.2_2.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "9531",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this conversation, the speaker is giving you a directive. Listen and respond appropriately.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "10.times do \n    puts “hello world”\n end"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9531_EN-BR_1.2_4.wav"
+    ],
+    "answer": "To design a logo for Hello World 10 times, I would follow these steps:\n\n1. Conduct research to understand the target audience and their preferences for logos.\n2. Brainstorm ideas for the logo, considering the name, tagline, and overall brand identity.\n3. Create a rough sketch of the logo, incorporating the name and tagline.\n4. Refine the design, ensuring it is visually appealing and effective.\n5. Test the logo with the target audience to gather feedback and make any necessary adjustments.\n6. Finalize the logo and prepare it for use across various platforms.\n\nFor the logo, I would use a combination of bold typography and a simple, yet distinctive shape to represent the brand. The name \"Hello World\" would be prominently displayed in a bold, sans-serif font, while the tagline \"10 times\" would be written in a smaller, yet still bold font. The shape would be a stylized letter \"H\" or \"W\" that incorporates the number \"10\" in a creative way. The color scheme would be bright and bold, with a primary color that represents the brand's personality."
+  },
+  {
+    "id": "3834",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant is asking you to do something. Carefully listen and respond.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Exception handling is important for a program as it allows the program to gracefully handle any unexpected or erroneous conditions. This helps keep the program running by providing meaningful feedback and prompts to the user. It also helps reduce the risk of having some part of the program crashing due to an unforeseen and avoidable event. Exception handling also encourages developers to write more robust and structured code as they are aware that their code might be faced with unpredictable conditions, and they will expect their code to be able to handle them gracefully."
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3834_EN-Default_1.2_3.wav"
+    ],
+    "answer": "Exception handling is important because it allows your code to gracefully handle unexpected situations and avoid crashing or causing damage."
+  },
+  {
+    "id": "2062",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Make sure to interpret the speaker's request correctly and reply accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def reverse_string(str)\n    return str.reverse\nend"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2062_EN-US_0.8_7.wav"
+    ],
+    "answer": "I have a Ruby function that reverses a string."
+  },
+  {
+    "id": "3317",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to carefully analyze the instruction in the audio and execute it properly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "<button onclick=\"alert('welcome')\">click me</button>"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3317_EN-Default_1.0_6.wav"
+    ],
+    "answer": "Create"
+  },
+  {
+    "id": "8848",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "After hearing the audio, provide your answer to the given task.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def fibonacci(n): \n    if n<0: \n        print(\"incorrect input\")\n    elif n==1: \n        return 0\n    elif n==2: \n        return 1\n    else: \n        return fibonacci(n-1)+fibonacci(n-2)"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\8848_EN-US_1.0_1.wav"
+    ],
+    "answer": "To return the Fibonacci sequence of a given number, you can use a function that takes an integer as input and returns a list of integers representing the sequence. Here's an example function in Python that does this:\n\n```\ndef fibonacci(n):\n    sequence = [0, 1]\n    while len(sequence) < n:\n        sequence.append(sequence[-1] + sequence[-2])\n    return sequence\n```\n\nThis function initializes a list `sequence` with the first two Fibonacci numbers, 0 and 1. It then enters a loop that continues until the length of `sequence` is equal to `n`. In each iteration of the loop, it appends the sum of the last two numbers in `sequence` to the end of the list. Finally, it returns the `sequence` list.\n\nYou can call this function with any positive integer `n` to get the Fibonacci sequence up to that number. For example, `fibonacci(5)` would return `[0, 1, 1, 2, 3]`."
+  },
+  {
+    "id": "5122",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "After hearing the audio, provide your answer to the given task.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Num = int(input('enter a number:'))\nprint(num*3)"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\5122_EN-US_0.6_3.wav"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "9280",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and act according to the instruction in the recording.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Int arr[3][3] = {{1,2,3}, {4,5,6}, {7,8,9}};"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9280_EN-AU_0.6_1.wav"
+    ],
+    "answer": "SELECT * FROM numbers;"
+  },
+  {
+    "id": "9723",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The speaker in this audio needs a response. Listen and provide a relevant reply.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Var randnumber = math.floor(math.random() * 25) + 1;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9723_EN-Default_1.2_4.wav"
+    ],
+    "answer": "1"
+  },
+  {
+    "id": "4133",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to carefully analyze the instruction in the audio and execute it properly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT name, address, email FROM customers\nWHERE last_order_date > CURRENT_DATE - INTERVAL 30 DAY"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4133_EN-BR_0.6_6.wav"
+    ],
+    "answer": "SELECT * FROM customers;"
+  },
+  {
+    "id": "8557",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, you need to complete the task given in the audio. Provide your response accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT COUNT(*) \nFROM students \nWHERE zipcode = 90001;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\8557_EN-Default_0.8_6.wav"
+    ],
+    "answer": "SELECT COUNT(DISTINCT * FROM students GROUP BY code GROUP ORDER BY COUNT(DISTINCT * GROUP BY code) DESC LIMIT 1)"
+  },
+  {
+    "id": "4714",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and respond accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "A variadic function is a function that can accept a variable number of arguments. It is a type of function in which the number of arguments that is passed to the function can vary, thus giving it more versatility than a function with a fixed number of arguments."
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4714_EN-Default_0.8_3.wav"
+    ],
+    "answer": "Varatic functions."
+  },
+  {
+    "id": "6621",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, you need to complete the task given in the audio. Provide your response accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "<style>\n    .container {\n        display: flex;\n        justify-content: space-around;\n    }\n\n    .text {\n        width: 45%;\n    }\n</style>\n\n<div class=\"container\">\n    <div class=\"text\">\n        <p>lorem ipsum dolor sit amet, consectetur adipiscing elit. nam vel tempus velit, vel auctor erat. nam maximus varius urna quis ornare.</p>\n        <p>vestibulum iaculis augue et dui maximus, eu auctor dui aliquet. interdum et malesuada fames ac ante ipsum primis in faucibus.</p>\n    </div>\n    <div class=\"text\">\n        <p>sed et metus pulvinar, ultricies sapien sed, dignissim leo. integer ex est, consequat non mi eget, convallis egestas mauris.</p>\n        <p>pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. morbi cursus, magna at bibendum semper, erat lacus commodo nisi.</p>\n    </div>\n</div>"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6621_EN-AU_1.2_6.wav"
+    ],
+    "answer": "CREATE TABLE my_database (id INTEGER PRIMARY KEY, name TEXT);"
+  },
+  {
+    "id": "787",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the audio contains a question, answer it accurately. If it contains a command, follow it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "DELETE FROM Person WHERE id = 1234;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\787_EN-US_1.0_4.wav"
+    ],
+    "answer": "SELECT * FROM person GROUP BY id"
+  },
+  {
+    "id": "1892",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Carefully listen to the audio clip and perform the requested action.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "To create the state object \"userDetail\" in a React.js application, we would first name the class in which we intend to store the state object, and then use the useState hook to initialize the state object in the class. Inside the useState hook, the state object would be declared and set to have an empty object as its initial state.\n\nExample:\n\nclass UserDetailState {\n  const [userDetail, setUserDetail] = useState({});\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\1892_EN-Default_0.6_5.wav"
+    ],
+    "answer": "User detail"
+  },
+  {
+    "id": "7761",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you understand and complete the request made in this audio?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def print_paths(root): \n    path = [] \n    print_paths_util(root, path, 0) \n  \ndef print_paths_util(root, path, pathlen): \n    if root is none: \n        return\n  \n    if (len(path) > pathlen):  \n        path[pathlen] = root.data\n    else: \n        path.append(root.data) \n  \n    pathlen = pathlen + 1\n  \n    if root.left is none and root.right is none: \n        for i in range(pathlen):\n            print(path[i],end=\" \")\n        print() \n    else: \n        print_paths_util(root.left, path, pathlen) \n        print_paths_util(root.right, path, pathlen)"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\7761_EN-AU_1.0_2.wav"
+    ],
+    "answer": "SELECT * FROM tree;"
+  },
+  {
+    "id": "4577",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you understand and complete the request made in this audio?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def pythagoras_theorem():\n    \"\"\"print the pythagorean theorem in python.\"\"\"\n    print(\"the pythagorean theorem states that the sum of the squares of the two sides of a right triangle is equal to the square of the hypotenuse.\")"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4577_EN-Default_0.6_2.wav"
+    ],
+    "answer": "The pathogen in Python is a module that provides a set of functions for working with data structures and algorithms."
+  },
+  {
+    "id": "9576",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Follow the instruction given in the audio and provide an accurate response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "X, y = y, x"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9576_EN-Default_0.8_1.wav"
+    ],
+    "answer": "To swap two variables in Ruby, you can use a temporary variable. Here's an example:\n\n```\nx = 5\ny = 10\n\n# Swap x and y\ntemp = x\nx = y\ny = temp\n```\n\nIn this example, we first assign the values of `x` and `y` to temporary variables `temp`, `x`, and `y`. Then we swap the values of `x` and `y` by assigning the value of `y` to `x`, and the value of `temp` (which is equal to `x`) to `y`. Finally, we assign the value of `x` (which is equal to `y`) to `y`."
+  },
+  {
+    "id": "6375",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What action is required in the audio? Complete it and provide your response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Public abstract class employee \n{\n    private string employeeid;\n    private string name;\n    private string address;\n    private string phonenumber;\n    private double salary;\n\n    public string employeeid\n    {\n        get { return employeeid; }\n        set { employeeid = value; }\n    }\n\n    public string name\n    {\n        get { return name; }\n        set { name = value; }\n    }\n\n    public string address\n    {\n        get { return address; }\n        set { address = value; }\n    }\n\n    public string phonenumber\n    {\n        get { return phonenumber; }\n        set { phonenumber = value; }\n    }\n\n    public double salary\n    {\n        get { return salary; }\n        set { salary = value; }\n    }\n\n    public abstract double getsalary();\n    public abstract void incrementsalary(double incrementamount);\n    public abstract double calculateincometax();\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6375_EN-Default_0.6_8.wav"
+    ],
+    "answer": "Abstract employee class with following members."
+  },
+  {
+    "id": "3071",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The speaker in this audio needs a response. Listen and provide a relevant reply.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The first prime number larger than 100 is 101."
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3071_EN-Default_1.2_8.wav"
+    ],
+    "answer": "100"
+  },
+  {
+    "id": "2037",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, you need to complete the task given in the audio. Provide your response accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "In Python, duplicates can be removed from a list by converting the list to a set. Sets are unordered collections of unique elements. They do not allow duplicate elements, thus when a list is converted to a set, all duplicates are removed.\n\nFor example, if the list is named my_list, then the set can be constructed as follows:\n\nmy_set = set(my_list)"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2037_EN-Default_1.0_6.wav"
+    ],
+    "answer": "To remove duplicates from a list in Python, you can use the `set()` function."
+  },
+  {
+    "id": "6414",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The speaker in this audio needs a response. Listen and provide a relevant reply.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "\"\"\"\ndef issubstring(string, sub): \n    l1 = len(string) \n    l2 = len(sub) \n\n    if l2> l1: \n        return false\n\n    # sliding window approach\n    for i in range(l1): \n        if string[i:i+l2] == sub : \n            return true \n\n    return false \n\"\"\""
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6414_EN-US_0.8_7.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "1092",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this conversation, the speaker is giving you a directive. Listen and respond appropriately.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Import random \nimport string\n\ndef generate_random_string(size):\n    return ''.join(random.choices(string.ascii_uppercase + string.digits, k = size))\n    \nprint(generate_random_string(8))"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\1092_EN-AU_0.6_5.wav"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": "6879",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Pay attention to the details in the audio and respond exactly as instructed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "$host=\"localhost\";\n$user=\"username\";\n$password=\"password\";\n$db=\"database_name\";\n\n$conn=mysqli_connect($host,$user,$password,$db);\nif(mysqli_connect_error()){\n    echo \"error connecting to database\";\n    die();\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6879_EN-AU_1.2_8.wav"
+    ],
+    "answer": "SELECT * FROM [table_name] GROUP BY [column_name]"
+  },
+  {
+    "id": "918",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the audio contains a question, answer it accurately. If it contains a command, follow it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "X <- 5\nsquare_x <- x * x;\nprint(paste0('the square of ',x,' is ',square_x))"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\918_EN-US_1.0_7.wav"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "5333",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the provided audio and complete the task mentioned in it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT name FROM Author WHERE topic = 'Artificial Intelligence';"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\5333_EN-AU_1.0_6.wav"
+    ],
+    "answer": "SELECT * FROM books;"
+  },
+  {
+    "id": "1706",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you understand and complete the request made in this audio?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "For (let i = 0; i < 10; i++) {\n    // the task to be executed\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\1706_EN-BR_0.8_3.wav"
+    ],
+    "answer": "CREATE TABLE my_database (id INTEGER PRIMARY KEY, name TEXT NOT NULL);"
+  },
+  {
+    "id": "2525",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the provided audio and complete the task mentioned in it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def longest_common_prefix(strings):\n    if len(strings) == 0:\n        return \"\"\n    smallest_string = min(strings, key=len)\n    end_word_index = len(smallest_string)\n\n    for i in range(end_word_index):\n        for word in strings:\n            if word[i] != smallest_string[i]:\n                return smallest_string[:i] \n    return smallest_string"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2525_EN-AU_1.2_6.wav"
+    ],
+    "answer": "The longest common prefix of the list of strings is \"st\"."
+  },
+  {
+    "id": "9365",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you understand and complete the request made in this audio?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def fibonacci(x): \n    if x == 0: \n        return 0\n    elif x == 1: \n        return 1\n    else: \n        return fibonacci(x-1)+fibonacci(x-2) \n\nif __name__ == '__main__':\n    print(fibonacci(5))  # output: 5"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9365_EN-US_1.0_6.wav"
+    ],
+    "answer": "The function should return 5."
+  },
+  {
+    "id": "6487",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to carefully analyze the instruction in the audio and execute it properly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "@directive({ selector: '[validateinput]' })\nexport class inputvalidationdirective {\n  @input() validateinput: string;\n  \n  constructor(private el: elementref) {\n  }\n\n  @hostlistener('keyup') onkeyup() {\n    let value = this.el.nativeelement.value\n    if(!this.validateinput || this.validateinput === 'creditcard'){\n       //creditcard validation logic\n    }\n    if(this.validateinput ==='number'){\n       //number validation logic\n    }\n  }\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6487_EN-AU_1.0_8.wav"
+    ],
+    "answer": "Validating Input Fields"
+  },
+  {
+    "id": "5016",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant is asking you to do something. Carefully listen and respond.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The expression 5 + 4 * 3 - 7 is a mathematical expression of arithmetic operations."
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\5016_EN-US_1.2_1.wav"
+    ],
+    "answer": "The type of the expression 5:4:3:7 is a ratio."
+  },
+  {
+    "id": "4851",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Pay attention to the details in the audio and respond exactly as instructed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "The main difference between procedural and object-oriented programming is that object-oriented programming focuses on the objects and how they interact with each other, while procedural programming focuses on executing a sequence of steps. In object-oriented programming, data and functions are encapsulated into objects that can interact with each other, while procedural programming relies on the execution of a sequence of instructions. In addition, object-oriented programming encourages code reusability, while procedural programming does not."
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4851_EN-Default_1.0_4.wav"
+    ],
+    "answer": "Programming is an object-oriented programming language."
+  },
+  {
+    "id": "7305",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a comprehension test, listen to the audio and answer the question presented in it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "<!doctype html>\n<html>\n    <head>\n        <title>centered text heading</title>\n    </head>\n    <body>\n        <h1 align=\"center\">heading</h1>\n    </body>\n</html>"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\7305_EN-US_0.8_2.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "5680",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Pay attention to the details in the audio and respond exactly as instructed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Function displayevennumbers($n) {\n  for($i = 2; $i <= $n; $i++) {\n    if($i % 2 == 0) {\n      echo $i.\" \";\n    }   \n  }\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\5680_EN-BR_1.0_1.wav"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "921",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, you need to complete the task given in the audio. Provide your response accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Console.WriteLine(\"What is your name?\");\nstring name = Console.ReadLine();\n\nif (name == \"John\")\n    Console.WriteLine(\"Hello John!\");\nelse if (name == \"Sarah\")\n    Console.WriteLine(\"Good morning Sarah!\"); \nelse\n    Console.WriteLine(\"Hi there!\");"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\921_EN-US_1.2_2.wav"
+    ],
+    "answer": "Greetings!"
+  },
+  {
+    "id": "9217",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you understand and complete the request made in this audio?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "DELETE FROM users WHERE status = 'Inactive';"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9217_EN-US_0.6_2.wav"
+    ],
+    "answer": "SELECT * FROM Users;"
+  },
+  {
+    "id": "2020",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant is asking you to do something. Carefully listen and respond.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Class car:\n    def __init__(self, make, year, mileage):\n        self.make = make\n        self.year = year\n        self.mileage = mileage\n\n    def get_make(self):\n        return self.make\n\n    def get_year(self):\n        return self.year\n\n    def get_mileage(self):\n        return self.mileage"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2020_EN-Default_0.6_5.wav"
+    ],
+    "answer": "Class car {\n  private int make;\n  private int year;\n  private int mileage;\n}"
+  },
+  {
+    "id": "36",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Follow the instruction given in the audio and provide an accurate response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "To delete a particular row in an SQLite database table, you can use the DELETE statement with a WHERE clause to specify the row to be deleted. For example: DELETE FROM table_name WHERE condition;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\36_EN-BR_0.6_5.wav"
+    ],
+    "answer": "To delete a particular row in SQLite database table, you can use the `DELETE` statement. The basic syntax of the `DELETE` statement is:\n\n```\nDELETE FROM table_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column_name\nGROUP BY column"
+  },
+  {
+    "id": "7416",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Pay attention to the details in the audio and respond exactly as instructed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "I = 2\nsum = 0\n\nwhile i < 10:\n    sum += i\n    i += 2\n\nprint(\"the sum of first 5 even numbers is: \", sum)"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\7416_EN-Default_1.2_1.wav"
+    ],
+    "answer": "4"
+  },
+  {
+    "id": "5889",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the audio contains a question, answer it accurately. If it contains a command, follow it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def convert12to24(time12h):\n    # check if last two elements of time is am and first two are 12\n    if time12h[-2:] == \"am\" and time12h[:2] == \"12\": \n        return \"00\" + time12h[2:-2] \n          \n    # if last two elements of time is am\n    elif time12h[-2:] == \"am\": \n        return time12h[:-2] \n      \n    # if last two elements of time is pm and first two are 12    \n    elif time12h[-2:] == \"pm\" and time12h[:2] == \"12\": \n        return time12h[:-2] \n          \n    else: \n          \n        # add 12 to hours and remove am\n        return str(int(time12h[:2]) + 12) + time12h[2:8]"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\5889_EN-US_0.6_2.wav"
+    ],
+    "answer": "To convert time from 12 hours to 24 hours format in Python, you can use the following function:\n\n```python\ndef convert_time(time):\n    hours = int(time[:2])\n    minutes = int(time[3])\n    seconds = int(time[5])\n    converted_time = hours * 60 + minutes + seconds / 60\n    return converted_time\n```\n\nYou can call this function with a string argument representing the time in 12 hours format, like this:\n\n```python\ntime = \"12:00\"\nconverted_time = convert_time(time)\nprint(converted_time)  # Output: 43200\n```\n\nThis will convert the given time to 24 hours format and return the result as a floating point number representing the total seconds."
+  },
+  {
+    "id": "8581",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "After hearing the audio, provide your answer to the given task.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\n<androidx.constraintlayout.widget.constraintlayout xmlns:android=\"http://schemas.android.com/apk/res/android\"\n    xmlns:app=\"http://schemas.android.com/apk/res-auto\"\n    xmlns:tools=\"http://schemas.android.com/tools\"\n    android:layout_width=\"match_parent\"\n    android:layout_height=\"match_parent\"\n    tools:context=\".mainactivity\">\n\n    <textview\n        android:id=\"@+id/textview\"\n        android:layout_width=\"wrap_content\"\n        android:layout_height=\"wrap_content\"\n        android:text=\"hello, world!\"\n        app:layout_constraintbottom_tobottomof=\"parent\"\n        app:layout_constraintstart_tostartof=\"@+id/button\"\n        app:layout_constrainttop_totopof=\"parent\"\n        android:visibility=\"invisible\" />\n\n    <button\n        android:id=\"@+id/button\"\n        android:layout_width=\"wrap_content\"\n        android:layout_height=\"wrap_content\"\n        android:layout_marginbottom=\"326dp\"\n        android:text=\"click me\"\n        app:layout_constraintbottom_tobottomof=\"parent\"\n        app:layout_constraintend_toendof=\"parent\"\n        app:layout_constraintstart_tostartof=\"parent\"\n        app:layout_constrainttop_totopof=\"parent\"\n        app:layout_constraintvertical_bias=\"1.0\"\n        android:onclick=\"onbuttonclick\" />\n\n</androidx.constraintlayout.widget.constraintlayout>\n\npublic class mainactivity extends appcompatactivity {\n\n    textview textview;\n\n    @override\n    protected void oncreate(bundle savedinstancestate) {\n        super.oncreate(savedinstancestate);\n        setcontentview(r.layout.activity_main);\n        \n        textview = findviewbyid(r.id.textview);\n    }\n    \n    public void onbuttonclick(view view) {\n        textview.setvisibility(view.visible);\n    }\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\8581_EN-US_0.6_6.wav"
+    ],
+    "answer": "Hello world"
+  },
+  {
+    "id": "3888",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Carefully listen to the audio clip and perform the requested action.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "CREATE TABLE parent (\n  id INTEGER PRIMARY KEY,\n  name TEXT\n);\n \nCREATE TABLE child (\n  id INTEGER,\n  parent_id INTEGER,\n  name TEXT,\n  FOREIGN KEY (parent_id) REFERENCES parent (id)\n);"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3888_EN-BR_1.0_1.wav"
+    ],
+    "answer": "One-to-one relationship between two tables."
+  },
+  {
+    "id": "3312",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In this experiment, you need to complete the task given in the audio. Provide your response accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "// create an instance of random class \nrandom rand = new random(); \n  \n// generate a random number between 12 and 23 \nint rand_num = rand.nextint(11) + 12; \n\n// print the random number  \nsystem.out.println(\"random number: \" + rand_num);"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3312_EN-Default_1.0_1.wav"
+    ],
+    "answer": "3"
+  },
+  {
+    "id": "4700",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Carefully listen to the audio clip and perform the requested action.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Class user:\n    def __init__(self, name, email):\n        self.name = name\n        self.email = email"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4700_EN-AU_1.2_5.wav"
+    ],
+    "answer": "Class user {\n  private string name;\n  private string email;\n}"
+  },
+  {
+    "id": "1786",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Carefully listen to the audio clip and perform the requested action.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Function validateemail(email) {\n  const regexp = /^(([^<>()[\\]\\\\.,;:\\s@\\\"]+(\\.[^<>()[\\]\\\\.,;:\\s@\\\"]+)*)|(\\\".+\\\"))@((\\[[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\.[0-9]{1,3}\\])|(([a-za-z\\-0-9]+\\.)+[a-za-z]{2,}))$/;\n  return regexp.test(email);\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\1786_EN-Default_1.2_3.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "4548",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Pay attention to the details in the audio and respond exactly as instructed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "A stack can be used to reverse a string because it follows the Last In First Out (LIFO) principle. This means that the last item to be added in the stack will be the first item to be removed. So when a string is pushed onto the stack, the characters will be stored in reverse order - the last character to be pushed will be the first character to be popped. By popping the characters one at a time, we can reverse the string."
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4548_EN-AU_0.6_5.wav"
+    ],
+    "answer": "A string can be used to reverse a stat."
+  },
+  {
+    "id": "2135",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the instruction in the audio, provide your response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "<h1>gpt demo</h1>"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2135_EN-AU_1.0_8.wav"
+    ],
+    "answer": "\"experience the magic of the demo with our code snippet!\""
+  },
+  {
+    "id": "3538",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the audio contains a question, answer it accurately. If it contains a command, follow it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Class unicorn:\n    def __init__(self, name, color, age):\n        self.name = name\n        self.color = color\n        self.age = age"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3538_EN-AU_1.0_3.wav"
+    ],
+    "answer": "Class constructor for a unicorn class with name, color, and age as parameters."
+  },
+  {
+    "id": "7169",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What action is required in the audio? Complete it and provide your response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def calculate_squares(arr):\n result = []\n for num in arr:\n result.append(num ** 2)\n return result"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\7169_EN-US_0.6_2.wav"
+    ],
+    "answer": "An algorithm is a set of instructions that can be used to solve a problem or perform a specific task. It is a well-defined procedure that can be followed to achieve a particular goal. Algorithms are often used in computer science to solve complex problems that require a systematic approach. They are typically written in a programming language and can be executed by a computer or other device. Algorithms can be used in a wide range of fields, including computer science, engineering, finance, and healthcare."
+  },
+  {
+    "id": "2021",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What action is required in the audio? Complete it and provide your response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Function arraysum(arr) {\n  let sum = 0;\n  for (let i = 0; i < arr.length; i++) {\n    sum += arr[i];\n  }\n  return sum;\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2021_EN-Default_0.6_6.wav"
+    ],
+    "answer": "The sum of all the numbers in an array is 6."
+  },
+  {
+    "id": "6220",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Carefully listen to the audio clip and perform the requested action.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "#!/bin/bash\n\necho \"please enter your name:\"\nread name\necho \"hello $name!\""
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\6220_EN-AU_0.8_5.wav"
+    ],
+    "answer": "Hello"
+  },
+  {
+    "id": "2758",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant is asking you to do something. Carefully listen and respond.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT *\nFROM table_name\nWHERE value > (SELECT AVG(value) FROM table_name);"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2758_EN-AU_0.6_7.wav"
+    ],
+    "answer": "SELECT * FROM records GROUP BY id ORDER BY COUNT(DISTINCT GROUP BY) DESC LIMIT 1"
+  },
+  {
+    "id": "2700",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "The speaker in this audio needs a response. Listen and provide a relevant reply.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT * FROM Students\nWHERE test_score > 80"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\2700_EN-US_0.8_5.wav"
+    ],
+    "answer": "SELECT * FROM students GROUP BY score ORDER BY COUNT(DISTINCT score) DESC LIMIT 1"
+  },
+  {
+    "id": "3402",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Pay attention to the details in the audio and respond exactly as instructed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "From random import randint \n\ndef rock_paper_scissors():\n    print(\"rock, paper, scissors!\")\n    player = input(\"your input: \")\n    rand_num = randint(0,2)\n    if rand_num == 0:\n        computer = \"rock\"\n    elif rand_num == 1:\n        computer = \"paper\"\n    else:\n        computer = \"scissors\" \n\n    print(\"the computer plays: \" + computer)\n    if player == computer:\n        print(\"it's a tie!\")\n    elif player == \"rock\":\n        if computer == \"paper\":\n            print(\"computer wins!\")\n        else:\n            print(\"player wins!\")\n    elif player == \"paper\":\n        if computer == \"scissors\":\n            print(\"computer wins!\")\n        else:\n            print(\"player wins!\")\n    elif player == \"scissors\":\n        if computer == \"rock\":\n            print(\"computer wins!\")\n        else:\n            print(\"player wins!\")\n    else:\n        print(\"invalid input! you have to choose between rock, paper or scissors\")\n\nrock_paper_scissors()"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3402_EN-AU_0.8_3.wav"
+    ],
+    "answer": "Create a program in Python to simulate a game of rock, paper, scissors."
+  },
+  {
+    "id": "9169",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Pay attention to the details in the audio and respond exactly as instructed.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Function parsejsonstring(jsonstring) {\n  return json.parse(jsonstring);\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9169_EN-AU_1.0_2.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "7919",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you understand and complete the request made in this audio?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT * FROM table_name WHERE email LIKE '%@%';"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\7919_EN-Default_0.8_8.wav"
+    ],
+    "answer": "SELECT * FROM table;"
+  },
+  {
+    "id": "3852",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you understand and complete the request made in this audio?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "$ g++ -o hello hello.cpp\n\n// hello.cpp\n\n#include <iostream>\nusing namespace std;\n\nint main() {\n    cout << \"hello world!\" << endl;\n    return 0;\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3852_EN-US_0.8_5.wav"
+    ],
+    "answer": "Hello world!"
+  },
+  {
+    "id": "9638",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "After hearing the audio, provide your answer to the given task.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT zone, SUM(price*quantity) AS 'Total Order Value' \nFROM orders JOIN zones ON orders.zone_id = zones.zone_id\nGROUP BY zone;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9638_EN-BR_0.6_7.wav"
+    ],
+    "answer": "SELECT * FROM zone;"
+  },
+  {
+    "id": "4689",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a comprehension test, listen to the audio and answer the question presented in it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Var arr = [\n  {name: 'john', age: 25},\n  {name: 'alice', age: 28},\n  {name: 'bob', age: 30},\n  {name: 'david', age: 32},\n]"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4689_EN-AU_1.0_2.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "4644",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Understand the content of the audio and give an appropriate response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Function changecolor(element, color){\n    element.style.backgroundcolor = color;\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\4644_EN-BR_0.6_5.wav"
+    ],
+    "answer": "Black"
+  },
+  {
+    "id": "1249",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What action is required in the audio? Complete it and provide your response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Import random\n\ndef rand_num(min_num,max_num):\n    return random.randrange(min_num,max_num)"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\1249_EN-Default_0.6_2.wav"
+    ],
+    "answer": "2"
+  },
+  {
+    "id": "8052",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to carefully analyze the instruction in the audio and execute it properly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "^[a-za-z0-9]+$"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\8052_EN-Default_1.0_5.wav"
+    ],
+    "answer": "Yes"
+  },
+  {
+    "id": "204",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Understand the content of the audio and give an appropriate response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Import react from 'react'; \n\nclass link extends react.component { \n\trender() { \n\t\treturn ( \n\t\t\t<div> \n\t\t\t\t<a href=\"#\">visit us here</a> \n\t\t\t</div> \n\t\t); \n\t} \n} \nexport default link;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\204_EN-AU_0.8_5.wav"
+    ],
+    "answer": "\"link with the text.\""
+  },
+  {
+    "id": "3733",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to carefully analyze the instruction in the audio and execute it properly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "# construct a lambda that multiplies the argument by two\nfunc = lambda x : x * 2"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3733_EN-US_1.0_6.wav"
+    ],
+    "answer": "The expression that multiplies the argument by 2 is \"2 times\"."
+  },
+  {
+    "id": "8855",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Make sure to interpret the speaker's request correctly and reply accordingly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "SELECT product_name, SUM(quantity) AS total_quantity \nFROM sales \nGROUP BY product_name \nORDER BY total_quantity DESC\nLIMIT 1;"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\8855_EN-US_1.0_8.wav"
+    ],
+    "answer": "SELECT * FROM product GROUP BY product ORDER BY COUNT(DISTINCT product) DESC LIMIT 1"
+  },
+  {
+    "id": "9011",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the audio contains a question, answer it accurately. If it contains a command, follow it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "\"\"\"\nimplementing the levenshtein distance algorithm in python\n\"\"\"\n\ndef levenshtein(word1, word2):\n    \"\"\"calculate the levenshtein distance between two words\"\"\"\n    size_x = len(word1) + 1\n    size_y = len(word2) + 1\n    matrix = [[0 for i in range(size_x)] for j in range(size_y)] \n    for x in range(size_x):\n        matrix[0][x] = x\n    for y in range(size_y):\n        matrix[y][0] = y\n\n    for x in range(1, size_x):\n        for y in range(1, size_y):\n            if word1[x-1] == word2[y-1]:\n                matrix[y][x] = min(\n                    matrix[y-1][x] + 1,\n                    matrix[y-1][x-1],\n                    matrix[y][x-1] + 1\n                )\n            else:\n                matrix[y][x] = min(\n                    matrix[y-1][x] + 1,\n                    matrix[y-1][x-1] + 1,\n                    matrix[y][x-1] + 1\n                )\n\n    return matrix[size_y-1][size_x-1]"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9011_EN-BR_1.0_4.wav"
+    ],
+    "answer": "The Levenshtein distance algorithm in Python is implemented using dynamic programming."
+  },
+  {
+    "id": "7999",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to carefully analyze the instruction in the audio and execute it properly.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Document.addeventlistener(\"mousemove\", function(e) {\n   console.log(\"mouse is at x:\" + e.clientx + \" y:\" + e.clienty);\n});"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\7999_EN-BR_1.2_8.wav"
+    ],
+    "answer": "Google"
+  },
+  {
+    "id": "9285",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant is asking you to do something. Carefully listen and respond.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Li {\n    color: green;\n    font-size: 14px;\n    font-weight: bold;\n}"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\9285_EN-AU_0.6_6.wav"
+    ],
+    "answer": "1. green\n2. font size: fahrenheit\n3. font weight: bold"
+  },
+  {
+    "id": "3657",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "After hearing the audio, provide your answer to the given task.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Def join_list(list, char):\n    return char.join(list)"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\3657_EN-AU_0.8_2.wav"
+    ],
+    "answer": "Join a list of strings using a given character."
+  },
+  {
+    "id": "7925",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the instruction in the audio, provide your response.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Class usermodel(models.model):\n    name = models.charfield(max_length=100)\n    address = models.charfield(max_length = 200)\n    age = models.integerfield()"
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\7925_EN-Default_1.0_6.wav"
+    ],
+    "answer": "Email address"
+  },
+  {
+    "id": "205",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the audio contains a question, answer it accurately. If it contains a command, follow it.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "#!/bin/bash\nread -p \"enter your name: \" name\necho \"hello $name, welcome to our website!\""
+      }
+    ],
+    "voice": [
+      "code_alpaca_data\\205_EN-AU_0.8_6.wav"
+    ],
+    "answer": "SELECT * FROM user GROUP BY user_name;"
+  }
+]

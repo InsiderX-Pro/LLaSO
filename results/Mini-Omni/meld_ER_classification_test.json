@@ -1,0 +1,2102 @@
+[
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia783_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For machine learning dataset labeling, analyze the speech and determine the speaker's emotional state. Output only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Well, Im-Im Phoebe Buffay, hi!"
+    },
+    "result": "The speech analyzed by the speaker's emotional state is likely to be neutral. The speaker's use of the word \"only\" suggests that the speaker is not expressing any particular emotion or opinion. The speaker's use of the word \"surprise\" may indicate that the speaker is surprised by something unexpected or surprising. The speaker's use of the word \"anger\" may indicate that the speaker is feeling angry or upset. The speaker's use of the word \"discust\" may indicate that the speaker is discussing a topic that is not related to their emotional state. The speaker's use of the word \"hurt\" may indicate that the speaker is feeling hurt or upset. The speaker's use of the word \"disgust\" may indicate that the speaker is feeling disgusted or disgusted by something. The speaker's use of the word \"hurt\" may indicate that the speaker is feeling hurt or hurt by something that has caused them emotional distress. The speaker's use of the word \"disgust\" may indicate that the speaker is feeling disgusted or disgusted by something that has caused them emotional distress."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia296_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Susan",
+      "utt": "Hi."
+    },
+    "result": "The speaker's tone is determined by the words they use. The words used in the analysis are carefully chosen to convey the speaker's emotions and reactions. The speaker's tone is determined by the words they use, and the words used are carefully chosen to convey the speaker's emotions and reactions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia545_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Ok, good-bye you guys. Thanks for everything.  Oh, sorry! Oh, sorry!"
+    },
+    "result": "I'm sorry if my previous response wasn't helpful. I'm here to assist you with any questions or concerns you might have. How can I help you today?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia740_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Dad, dad I dont want to hear about it."
+    },
+    "result": "The speaker's voice is filled with a mix of emotions, including surprise, fear, and disgust. The mother's voice is described as \"dead,\" which is a strong indicator of the speaker's emotional state."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia921_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Eric",
+      "utt": "No-no its not!"
+    },
+    "result": "I understand. To create a call center for customer anxiety or discomfort, I suggest creating a friendly and professional atmosphere. You can start by introducing yourself and your company, and then move on to the main topic of your customer service. You can also include a few customer success stories or case studies to illustrate the value of your services. Finally, you can end the call with a friendly closing statement."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia483_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Ross",
+      "utt": "\"Heating device.\""
+    },
+    "result": "The audio and the underlying emotion of the speaker are both important factors to consider when listening to a neutral listener. The speaker's tone and the volume of their voice can affect the listener's perception of the message being conveyed. Additionally, the speaker's body language and facial expressions can also be used to convey the speaker's emotions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia222_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Chandler",
+      "utt": "I didnt know you and Carol were getting divorced, Im sorry."
+    },
+    "result": "I'm sorry if my previous response wasn't helpful. I'm here to assist you with any questions or concerns you might have. How can I help you today?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia302_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Phoebe",
+      "utt": "Hey."
+    },
+    "result": "I'm sorry, but I can't assist with that. If you have any other questions or need help with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia58_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal patterns to determine their emotion. Choose from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "Hey!"
+    },
+    "result": "The speaker's tone and vocal patterns can be analyzed by looking at the words they use, the context in which they are used, and the emotions they convey. For example, if the speaker is using a sarcastic tone, it could indicate that they are not genuinely concerned about the speaker's feelings. On the other hand, if the speaker is using a more positive tone, it could indicate that they are genuinely interested in the speaker's feelings. Additionally, the speaker's choice of words and tone can also be used to determine their level of surprise or disgust."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia481_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "What the hell are you cooking!"
+    },
+    "result": "I'm sorry if I gave that impression. I'm here to help with any questions or concerns you might have. If you have any specific questions or need assistance with something, please let me know."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia443_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Um, Rachel Im really sorry.  Thats okay, do you wanna get back together?  Yeah, okay.  Did anyone else hear that?!"
+    },
+    "result": "I'm really sorry to hear that you're feeling this way. It's important to remember that everyone has their own struggles and challenges. If you're feeling overwhelmed or upset, it might help to talk to a friend, family member, or a mental health professional. They can offer support and help you find healthier ways to cope. Remember, it's okay to seek help and take care of yourself."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia655_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Ross",
+      "utt": "Lets also get a hot plate!"
+    },
+    "result": "The speaker's emotion is described as intense, passionate, and passionate. The intensity of the emotion is described as passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate, passionate"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia186_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Okay.  Oh! Oh no."
+    },
+    "result": "It sounds like you're describing a speech or a conversation. The intensity and volume of the speaker's voice can be quite powerful, which can be quite soothing. The speaker's emotional state, which is often described as a mix of joy, surprise, anger, fear, or disgust, can be quite intense. The speaker's voice can be quite loud and loud, which can be quite overwhelming. The speaker's emotional state can be quite intense, which can be very distressing. Overall, it sounds like the speaker is experiencing a very strong emotional reaction."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia545_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Almost never."
+    },
+    "result": "The possible emotions in a neutral, joy, surprise, sadness, anger, fear, or disgust are all examples of the emotional tone of a given text."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia191_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Woman",
+      "utt": "He has the most amazing Porsche under there!"
+    },
+    "result": "The speaker's tone is quite intense and emotional. They use words like \"most amazing\" and \"understand\" to convey their intense feelings."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia51_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "For what? For letting you throw me out of your office?"
+    },
+    "result": "The primary emotion conveyed in this speech is sadness. The speaker is expressing their feelings of disappointment and frustration with the lack of progress in their work. They are also expressing a desire for their work to be more successful and productive."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia365_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Flight Attendant",
+      "utt": "May I see your boarding pass?"
+    },
+    "result": "The intensity and voice modulation you're referring to are called \"metaphor.\" Metaphor is a literary device where the comparison between two things is made through the use of words that are both similar in tone and meaning. It helps to create a vivid image or to explain a concept in a different way."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia203_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the speaker's emotional state. Respond only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Its not kicking right now. Although we would love to see you do  that again."
+    },
+    "result": "I understand you're feeling upset. It's important to express your feelings in a respectful and constructive manner. If you're feeling overwhelmed or frustrated, it might help to talk to someone you trust or a mental health professional. They can offer support and help you navigate these emotions. Remember, it's okay to seek help when you need it."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia139_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Monica",
+      "utt": "Come on! Tests make us all better learners! Oh yeah!  We should have essay questions!!"
+    },
+    "result": "The speaker's emotion can be classified as \"surprise sadness\" or \"anger fear.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia782_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal patterns to determine their emotion. Choose from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Hi! All right, lets go shoppin!!"
+    },
+    "result": "Sure, I can do that. I'll analyze the text and look for patterns that indicate anger, fear, or disgust. I'll also look for any words or phrases that are associated with these emotions. After analyzing the text, I'll provide you with a detailed report of my findings."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia532_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Joey",
+      "utt": "Allright, fine, I only have one thought! It's about the hot nanny,    I gotta see her!"
+    },
+    "result": "The poem \"Tone and Rim\" by Emily Dickinson is a reflection on the beauty of nature and the power of the human spirit. The speaker is expressing their admiration for the beauty of nature and the power of the human spirit. The poem is written in a style of poetry that is both lyrical and poetic, with a focus on the beauty of nature and the power of the human spirit."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia270_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Hey Ross! I brought reinforcements."
+    },
+    "result": "The primary emotion conveyed in the speech is surprise. The speaker expresses surprise at the sudden change in their environment, which they believe is a positive change."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia58_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Monica",
+      "utt": "Great! Its so amazing! I mean, last time Dr. Roger came over, I was"
+    },
+    "result": "It sounds like you're describing a conversation between two people. It's important to approach sensitive topics with care and respect. If you're unsure about the context or the specific words you're referring to, it might be helpful to ask the person directly or seek clarification from someone you trust. Remember, it's always best to approach sensitive topics with care and sensitivity."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia55_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Danny",
+      "utt": "You are!"
+    },
+    "result": "The emotion in the provided audio is described as \"surprise\" and \"anger.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1018_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "All right, I promise. Ill fix this. I swear. Ill-Ill-Ill-Ill talk to her."
+    },
+    "result": "I understand you're feeling frustrated. It's important to express your feelings, but it's also helpful to take a step back and think about the impact of your words. If you're feeling overwhelmed, it might be helpful to talk to someone you trust or a professional who can offer support. Remember, it's okay to take a moment to cool down and think things through."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia251_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Rachel",
+      "utt": "Yeah."
+    },
+    "result": "The speaker's emotion can be described as a mix of surprise, sadness, anger, and disgust. The surprise is evident through the use of the word \"surprise\" and the phrase \"anger\" which indicates that the speaker is feeling a strong negative emotion. The speaker's reaction to the speaker's comment is described as \"disgust,\" which is a strong negative emotion."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia615_utt22.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "Ohh-ho-hooohhh. The hair comes out, and the gloves come on."
+    },
+    "result": "The conversation is about the importance of empathy and understanding. The speaker is expressing their concern about the lack of empathy in customer service and how it can lead to negative experiences for customers. The speaker is suggesting that customer service representatives should be trained to better understand customer needs and provide more personalized service."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia517_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Monica",
+      "utt": "Oh God!"
+    },
+    "result": "The emotion expressed in the given speech sample is a mix of joy, sadness, anger, and disgust. The speaker is expressing a mix of these emotions, which is a common experience for many people."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia614_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "We can help each other out!"
+    },
+    "result": "The primary emotion conveyed in the speech is sadness. The speaker is expressing their feelings of disappointment and frustration with the lack of progress in the neutrality movement."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia195_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Ross",
+      "utt": "Isabella Rosselini."
+    },
+    "result": "That sounds like a great idea! I can help you create a call center that is both informative and entertaining. I can design a friendly and engaging atmosphere, with a variety of activities and activities that are both educational and entertaining. I can also create a variety of multimedia content, such as videos, podcasts, and interactive games."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia53_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Monica",
+      "utt": "Oh, good to see you too. Did you come down here to tell me that?"
+    },
+    "result": "I'm sorry if my previous response wasn't helpful. I'm here to assist you with any questions or concerns you might have. If you need help with something specific, please let me know."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia50_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "Umm, all right Wayne, level with me."
+    },
+    "result": "The speaker's voice is very calm and steady, indicating that they are not being overly enthusiastic or enthusiastic. The tone is not particularly enthusiastic, but rather subdued. The speaker is not expressing any strong emotions, but rather being polite and respectful. The speaker is not making any sudden changes or sudden shifts in their tone, but rather being consistent and steady. The speaker is not making any sudden changes or sudden shifts in their tone, but rather being polite and respectful."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia144_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Tag",
+      "utt": "Oh, yeah, this is from Rachel."
+    },
+    "result": "The call center is a place where people can talk about their experiences and feelings. It's a place where people can share their thoughts and feelings with others. The call center is usually located in a building or a building with a roof. It's a place where people can talk to each other and share their experiences. The call center is usually located in a central area of the building, such as a hall or a lobby. The call center is usually located in a central area of the building, such as a hall or a lobby. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a central area of the building, such as a lobby or a hall. The call center is usually located in a"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia792_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on vocal properties without considering lexical content. Identify the speaker's emotion as one of: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey/Drake",
+      "utt": "I can't believe you married him."
+    },
+    "result": "I'm really sorry, but I can't assist with that."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia941_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification considers speech tempo, frequency variations, and pitch modulations. Identify and return only one of the following emotional states: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Monica",
+      "utt": "How would that go?  Well, it didn't rhyme, but I liked it."
+    },
+    "result": "The classification of speech, frequency, and fear are indeed quite different. Speech is a form of communication that involves the production of sounds, such as words, phrases, and sounds. Frequency refers to the number of times a sound is produced. Fear is a psychological response to a perceived threat or danger. These terms are used to describe different aspects of speech and communication."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia63_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Ross",
+      "utt": "and then, we couldve gone from the ceremony to the reception with you in the sidecar!"
+    },
+    "result": "The speaker's emotion can be described as a mix of surprise, sadness, and fear. The surprise is evident in the use of the phrase \"and her fear or disgust\" to emphasize the speaker's concern about the reception. The sadness is evident in the phrase \"the reception with you in the side car.\" The fear is evident in the use of the phrase \"and then we could have gone from the ceremony to the reception with you in the side car.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia15_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "As part of a speech emotion dataset annotation task, classify the speaker's emotion. Available labels: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output the emotion only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Joey",
+      "utt": "I know! I found it on the street."
+    },
+    "result": "The speaker's emotion is described as \"a mix of joy, surprise, and fear.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia272_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Whoa-whoa-whoa! Emily,  honey, okay?"
+    },
+    "result": "The speaker uses a combination of acoustic features, surprise, fear, and disgust. The acoustic features include the use of the \"honey\" sound, which is often associated with the speaker's personal experiences and emotions. The surprise features include the use of the \"honey\" sound, which is often associated with the speaker's own emotions and reactions. The fear features include the use of the \"honey\" sound, which is often associated with the speaker's own emotions and reactions. The disgust features include the use of the \"honey\" sound, which is often associated with the speaker's own emotions and reactions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia986_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on vocal properties without considering lexical content. Identify the speaker's emotion as one of: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Okay, so now they know that you know and they don't know that Rachel knows?"
+    },
+    "result": "It sounds like you're concerned about the impact of language on people's emotions. It's important to approach this topic with sensitivity and respect for differing viewpoints. Language can be powerful tools for communication, but it's also crucial to consider the context and the impact it has on others. If you're feeling frustrated or upset, it might be helpful to talk to someone you trust or a professional who can offer support. Remember, empathy and understanding can go a long way in resolving conflicts."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia775_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For machine learning dataset labeling, analyze the speech and determine the speaker's emotional state. Output only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "All",
+      "utt": "No way!"
+    },
+    "result": "Sure, I can do that. I'll need some more information from you. What is the name of the dataset you'd like me to analyze?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia46_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "I dont know. Ooh! Ooh! Look it!  Ah-ha!"
+    },
+    "result": "Yes, the speech is indeed ambiguous. It is difficult to determine the exact meaning without more context. The speaker is expressing a strong emotion, which is likely to be anger, fear, or disgust. The use of the word \"oh\" at the end of the sentence suggests that the speaker is surprised or shocked by something."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia206_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification considers speech tempo, frequency variations, and pitch modulations. Identify and return only one of the following emotional states: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Susan",
+      "utt": "I got it."
+    },
+    "result": "The classification of speech is based on the frequency of words and phrases used in a speech. It is based on the number of times a word or phrase appears in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in a speech. The frequency of words and phrases is determined by the number of times they appear in"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia55_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Danny",
+      "utt": "You are!"
+    },
+    "result": "I understand. The speaker is using a combination of pitch, duration, and loudness to convey their emotions. They are using words like \"surprise,\" \"anger,\" and \"disgust\" to express their emotions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia712_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Joey",
+      "utt": "Yeah, isnt that a cool name?"
+    },
+    "result": "It sounds like you're expressing a strong opinion about the speaker's behavior. It's important to remember that everyone has their own unique perspective and experiences. It's okay to have different opinions, but it's also important to respect others' opinions and feelings. If you have concerns or questions about the speaker's behavior, it might be helpful to talk to them directly or seek advice from a trusted friend or professional."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia205_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification considers speech tempo, frequency variations, and pitch modulations. Identify and return only one of the following emotional states: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Oh, my god."
+    },
+    "result": "The classification of speech, tempo, frequency, and pitch variations in a piece of music can be influenced by several factors. These include the composer's experience, the complexity of the piece, the use of different instruments, and the overall musical context. The specific instruments used, such as the strings, woodwinds, or brass, can also play a significant role. Additionally, the composer's understanding of the music's themes and message can influence the choice of instruments and the overall tone of the piece."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia698_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "I just, I feel, I-I just..."
+    },
+    "result": "The possible emotions in this conversation are joy, surprise, sadness, fear, disgust, and disgust."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia2_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on vocal properties without considering lexical content. Identify the speaker's emotion as one of: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Joey",
+      "utt": "Yeah!"
+    },
+    "result": "The speaker's emotion as one of neutrality, joy, surprise, anger, fear, or disgust is typically described as a combination of these emotions. The speaker's tone and body language can be interpreted as a mix of these emotions, with the speaker expressing a sense of neutrality, surprise, and possibly anger. The speaker's body language, such as a relaxed posture and open mouth, can also be interpreted as a sign of a neutral or even slightly angry tone."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia475_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "As part of a speech emotion dataset annotation task, classify the speaker's emotion. Available labels: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output the emotion only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "I punched you...?"
+    },
+    "result": "As part of a speech emotion dataset, you would classify the speaker's emotion as neutral, surprise, anger, fear, or disgust. You would then output the emotion as either \"I punched you\" or \"I'm not sure.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia699_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Fine! Here! Take a hike toots!"
+    },
+    "result": "It sounds like you're describing a speech that uses a metaphor to convey a sense of surprise or disgust. The speaker is expressing surprise at the sudden change in their emotional state, which is a common reaction to a sudden change in their environment or situation."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia374_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "You already got the first class tickets.. you got the lounge!"
+    },
+    "result": "I'm sorry, but I can't provide the exact words. However, I can help you understand the context and the emotions behind the words. The first class ticket is a symbol of the speaker's confidence and authority, while the second-class ticket is a symbol of the speaker's confidence and authority. The first-class ticket is often associated with a sense of power and authority, while the second-class ticket is often associated with a sense of power and authority."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia74_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Oh no-no-no-no, I meant Chandler."
+    },
+    "result": "The primary emotion conveyed in the speech is surprise. The speaker expresses surprise at the sudden change in the world and the sudden shift in the world's political and social landscape."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia49_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Especially by that professor we ran into last night, Judgey von Holierthanthou."
+    },
+    "result": "The primary emotion conveyed in the speech is surprise. The speaker is surprised by the sudden change in the environment and the sudden shift in the environment. The use of the word \"surprise\" indicates that the speaker is not expecting anything but is surprised by the sudden change in the environment."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia99_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on vocal properties without considering lexical content. Identify the speaker's emotion as one of: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "Yeah?"
+    },
+    "result": "The speaker's emotion can be identified by looking at the words they use, the tone of their voice, and the context in which they are spoken. For example, if the speaker is using a sarcastic tone, the listener may be able to infer that they are feeling frustrated or angry. Similarly, if the speaker is using a sarcastic tone, the listener may be able to infer that they are feeling frustrated or angry."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia120_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "All right, lets do it."
+    },
+    "result": "It sounds like you're describing a speech or conversation where the speaker is expressing their strong feelings about a particular topic. The speaker is using strong language to convey their emotions, which can be quite powerful. It's important to remember that expressing your feelings can be challenging, but it's also a natural part of human communication. If you need help with understanding or addressing these emotions, I'm here to assist!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia232_utt18.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Rachel",
+      "utt": "Yeah, why?"
+    },
+    "result": "I'm really sorry if I came across as insensitive. I'm here to help and support you. If you have any questions or need assistance, please let me know."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia67_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the intonation and speech dynamics, identify the speaker's emotional state. Only return the correct label from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "You just saved me!"
+    },
+    "result": "I apologize for any confusion. The speaker's emotional state is not only a reflection of their state of mind but also a reflection of their inner thoughts and feelings. The speaker's words are often interpreted as a reflection of their inner turmoil and inner conflict."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia216_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For machine learning dataset labeling, analyze the speech and determine the speaker's emotional state. Output only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Yeah, I-I heard.  I think its great!  Ohh, Im so happy for you!"
+    },
+    "result": "The speech you provided is a powerful and inspiring one. It highlights the importance of empathy, understanding, and compassion in building strong, meaningful relationships. The speaker emphasizes the need for open communication, where individuals can express their feelings and needs without fear of judgment. This approach fosters a more compassionate and empathetic society. The speaker also emphasizes the significance of empathy in addressing issues of injustice and inequality. Overall, this speech serves as a reminder that empathy is a cornerstone of any society, and it is essential for fostering a more inclusive and compassionate world."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia845_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Chandler",
+      "utt": "Yes, but theres two in martini, soo everybody"
+    },
+    "result": "I understand. I will create a call center with a friendly tone and a focus on customer satisfaction and fear or disgust. I will also make sure to provide a safe and welcoming environment for customers. Is there anything else you would like me to include in the call center?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia33_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Oh! Oop!"
+    },
+    "result": "The speaker's voice is very emotional and expressive. The intensity of the words is strong, and the tone is very intense. The speaker's words are often used to convey a strong emotion, and the intensity of the words is very high. The speaker's tone is very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are very intense, and the intensity of the words is very high. The speaker's words are"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia506_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "Forever."
+    },
+    "result": "The speaker's emotion can be categorized as anger, fear, or disgust."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia840_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Hi Pheebs!"
+    },
+    "result": "The speaker's emotion is described as intense, with a voice modulation that is described as a \"modulation.\" The speaker's reaction is described as a combination of surprise, fear, and disgust."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia252_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the intonation and speech dynamics, identify the speaker's emotional state. Only return the correct label from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Dr. Baldhara",
+      "utt": "Let me ask you some questions about, is it, uh, Marcel?"
+    },
+    "result": "The statement \"Only return the correct label from neutrality, joy surprise sadness, anger fear or disgust\" is a metaphorical expression that suggests that the speaker is expressing a desire for a positive outcome, but is not actually happy or satisfied with it. The speaker is expressing a desire for a positive outcome, but is not actually happy or satisfied with it."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia841_utt21.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For psychological research, classify the emotional content of the speaker's voice in this audio. Return only the most relevant emotion label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "I cant believe youre gonna ask Monica to marry you!"
+    },
+    "result": "I'm sorry to hear that you're feeling this way. It's important to remember that everyone has their own unique experiences and perspectives. If you're feeling upset or frustrated, it might help to talk to someone you trust or a mental health professional. They can offer support and help you navigate these emotions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia12_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Whats all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!"
+    },
+    "result": "I'm sorry if my previous response was confusing. I'm here to help with any questions or concerns you have. If you have any specific questions or need assistance with something, please let me know."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia3_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are building an emotion-aware voice assistant. Analyze the given speech and return the speaker's emotion from the following options: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Chandler",
+      "utt": "Tonight? You-you didn't say it was going to be at nighttime."
+    },
+    "result": "I'm sorry for any confusion. I'm here to help with any questions or concerns you might have. If you need assistance with something specific, please let me know."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia143_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification considers speech tempo, frequency variations, and pitch modulations. Identify and return only one of the following emotional states: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "Oh shoot! I work Monday nights."
+    },
+    "result": "The classification of speech typically involves three main categories: emotional, neutral, and situational. Emotional speech refers to speech that expresses feelings, such as joy, sadness, anger, or fear. Neutral speech is a speech that does not express emotions, such as a statement of fact or a fact of fact. Situational speech is a speech that expresses a situation or a condition, such as a person being in a particular situation or a place."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1016_utt19.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, return the dominant one. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust. Do not provide additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "No, Rachel doesnt want me to...."
+    },
+    "result": "It sounds like you're looking for a way to save money and reduce stress. You might consider using budgeting apps or online tools that help you track your expenses and set financial goals. Another option is to create a budget and stick to it, which can help you save money over time. Additionally, you could look into ways to reduce stress, such as practicing mindfulness or meditation, which can help you manage stress better. Lastly, talking to a financial advisor or counselor might provide personalized strategies tailored to your specific situation."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia538_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Huh. Yknow whats not one of a kind? A twin!"
+    },
+    "result": "Yes, that's correct. The phrase \"surprise sadness anger fear or disgust only return the emotion\" is a metaphor for the idea that the speaker is not just a victim of the emotions of others, but rather a victim of their own. It suggests that the speaker is not just a victim of the emotions of others, but rather a victim of their own."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia426_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the intonation and speech dynamics, identify the speaker's emotional state. Only return the correct label from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Im sorry, I thought I could do it and I cant!"
+    },
+    "result": "The speaker's emotional state is a complex and nuanced issue. It's important to approach this topic with sensitivity and respect for the individual's feelings. The use of language can be hurtful and may not be appropriate in all contexts. It's crucial to listen to the speaker's perspective and understand their emotions fully. Open communication and empathy can help bridge any gaps in their communication. If you're unsure about the speaker's feelings, it might be helpful to seek advice from a trusted friend or professional."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia263_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Chandler",
+      "utt": "She's not gonna make you wear one of those big plastic cones, is she?"
+    },
+    "result": "It sounds like you're describing a situation where someone is feeling anxious or nervous about a potential outcome. It's important to approach this situation with care and empathy. If you're concerned about the speaker's well-being, it might be helpful to gently ask them if they're okay and if there's anything they can do to help. Offering support and understanding can make a big difference."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia374_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "As part of a speech emotion dataset annotation task, classify the speaker's emotion. Available labels: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output the emotion only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "What?"
+    },
+    "result": "The speaker's emotion is described as neutral."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia285_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal patterns to determine their emotion. Choose from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "Yeah uh look Rach, there’s something I gotta tell ya."
+    },
+    "result": "The speaker's tone and vocal patterns can be interpreted in various ways. They might be expressing a mix of surprise, sadness, and fear. The use of the word \"look\" suggests a sense of surprise, while the phrase \"something I'm going to tell you\" indicates a fear. The overall tone could be a mix of these emotions, reflecting a range of emotions and experiences."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia424_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "On the other hand, if she wasnt kidding, shes not fun, shes stupid, and kind of a racist."
+    },
+    "result": "The emotion expressed in the given speech sample is a mix of surprise, fear, and disgust. The speaker is surprised by the sudden change in the label of the label, which is a neutral sentiment. The speaker is also feeling a bit of fear and disgust, as they are not happy about the label being changed."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia337_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Ross",
+      "utt": "Why not? Its built into the price of the room."
+    },
+    "result": "I understand your concern. The speaker's voice might be interpreted differently due to the context and the tone of the conversation. It's important to consider the speaker's background, the context of the conversation, and the speaker's intentions. If the speaker is genuinely concerned about the price of the room, it might be helpful to discuss it with the speaker to understand their perspective better."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia508_utt19.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "As part of a speech emotion dataset annotation task, classify the speaker's emotion. Available labels: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output the emotion only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Hmm, soup.  I mean, noodle soup. I mean soup!"
+    },
+    "result": "The speaker's emotion is described as \"surprise\" and \"anger.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia777_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are building an emotion-aware voice assistant. Analyze the given speech and return the speaker's emotion from the following options: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Ross",
+      "utt": "Really?!"
+    },
+    "result": "I'm really sorry to hear that you're feeling this way. It sounds like you're going through a very tough time. It's important to remember that everyone experiences emotions differently, and it's okay to feel this way. If you're comfortable, talking to a trusted friend or a mental health professional might help you process your feelings. They can offer support and guidance. Remember, it's okay to seek help and take care of yourself."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia295_utt17.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Fine!"
+    },
+    "result": "Got it. I'll create a PowerPoint presentation that explains the customer's experience with the company's customer service. I'll include a brief overview of the company's customer service, a description of the customer's experience, and a comparison of the company's customer service with other similar companies. I'll also include some visuals to help illustrate the points. Is there anything else you'd like me to include?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia421_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the speaker's emotional state. Respond only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Rachel",
+      "utt": "Okay whats up?"
+    },
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia287_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For psychological research, classify the emotional content of the speaker's voice in this audio. Return only the most relevant emotion label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "You're doin' this."
+    },
+    "result": "I'm sorry for any confusion. I'm actually a voice assistant and cannot write code. However, I can help you understand the concept of emotional intelligence. Emotional intelligence is the ability to understand and respond to emotions, which is crucial for effective communication and decision-making. It involves recognizing and processing emotions, as well as being able to respond to them in a way that is appropriate and helpful."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia321_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Why?"
+    },
+    "result": "The speaker's tone is quite positive, with a hint of surprise and fear. The use of the word \"surprise\" suggests that the speaker is not expecting something, but rather is pleasantly surprised by it. The use of the word \"disgust\" indicates that the speaker is not happy with the situation, but rather is not pleased with it."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia39_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Ah, its says so in the script!"
+    },
+    "result": "The speaker's voice is very calm and steady. They say, \"It's just one of these categories, neutrality, joy, sadness, anger, fear, or disgust. I say, 'Hey, how about this one, I said, 'It's just one of these categories, neutrality, anger, sadness, or disgust? You know, my character likes you, either, I mean it's not a bitch.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia792_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "Oh screw her, that part is mine!"
+    },
+    "result": "The possible emotions in a conversation are neutral, surprise, anger, fear, disgust, and only the emotion."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia77_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Dr. Long",
+      "utt": "Do we have a name yet?"
+    },
+    "result": "The speaker's voice is indeed emotional, reflecting a mix of both joy and sadness. The intensity of the emotion is evident through the use of words like \"surprise\" and \"anger.\" The speaker's voice is also described as \"for sentiment analysis,\" indicating that it is related to the speaker's emotional state. The tone of the voice is described as \"return only one of these categories,\" suggesting that the speaker is not satisfied with the current state of affairs. Overall, the speaker's voice is characterized by a mix of both positive and negative emotions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia347_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are building an emotion-aware voice assistant. Analyze the given speech and return the speaker's emotion from the following options: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Chandler",
+      "utt": "I found a dried up seashores."
+    },
+    "result": "I'm sorry to hear that you're feeling this way. It's important to remember that everyone has their own unique experiences and emotions. It's okay to feel upset or confused, but it's also okay to seek support from friends, family, or a professional. Talking to a therapist or counselor can provide you with the help and perspective you need. Remember, it's okay to take your time and be kind to yourself."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia912_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Oh come on, she wants to snuggle now!"
+    },
+    "result": "The possible emotions in a conversation are joy, surprise, anger, fear, disgust, and hope."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia304_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For psychological research, classify the emotional content of the speaker's voice in this audio. Return only the most relevant emotion label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "Ah-ah-ah, now you started this, you will finish it."
+    },
+    "result": "I'm sorry, but I can't provide personal information about individuals. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia290_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the intonation and speech dynamics, identify the speaker's emotional state. Only return the correct label from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Earl",
+      "utt": "I-Im sorry?"
+    },
+    "result": "The speaker's emotional state is described as \"only returned the correct label from neutrality, joy, surprise sadness, anger, fear, or disgust.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia82_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are building an emotion-aware voice assistant. Analyze the given speech and return the speaker's emotion from the following options: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Chandler",
+      "utt": "Oh! Right. Umm, maybe thats because I didnt send him an invitation."
+    },
+    "result": "I'm really sorry to hear that you're feeling this way. It sounds like you're going through a tough time. It's important to remember that everyone has their own struggles and challenges, and it's okay to seek support from friends, family, or a professional if you need it. Talking to someone you trust about your feelings can also be very helpful. Remember, it's okay to take care of yourself and seek help when you need it."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia707_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal patterns to determine their emotion. Choose from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Set it down over there and then you can make a contribution!"
+    },
+    "result": "The speaker's tone and vocal patterns can be interpreted as a mix of surprise, surprise, anger, and disgust. The use of the word \"stand\" suggests that the speaker is expressing a strong emotion, while the phrase \"anger\" indicates that the speaker is feeling upset or frustrated. The use of the word \"contribution\" suggests that the speaker is expressing a desire to make a positive impact on the world."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia475_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, return the dominant one. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust. Do not provide additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Monica",
+      "utt": "Why not?"
+    },
+    "result": "I understand your concern. Many people believe that the dominant sentiment in a society is rooted in a lack of empathy and understanding, which can lead to a lack of empathy for others. This can lead to a lack of compassion and a lack of empathy for those who are less fortunate. Additionally, the lack of empathy can lead to a lack of trust in the system, which can lead to a lack of trust in the system itself. This can lead to a lack of trust in the system itself, which can lead to a lack of trust in the system itself."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia292_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Earl",
+      "utt": "I got nothing."
+    },
+    "result": "The speaker's voice is indeed emotional, and it is evident that they are expressing a range of emotions. The use of the word \"surprise\" suggests that the speaker is surprised by something unexpected, while the phrase \"anger fear or disgust\" indicates that they are feeling a strong negative emotion. The use of the word \"return\" suggests that the speaker is returning something, which could be a product, service, or experience. Overall, the speaker's tone is one of surprise and disgust, and they are expressing a strong negative emotion."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia214_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "David",
+      "utt": "Oh my God!"
+    },
+    "result": "The speaker's emotion can be described as a mix of surprise, sadness, anger, and disgust. The surprise is evident through the use of the word \"surprise\" and the word \"sadness\" which indicates a feeling of unease or discomfort. The anger is evident through the use of the word \"anger\" and the word \"disgust\" which indicates a feeling of disgust."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia356_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Rachel",
+      "utt": "Monica's making jam."
+    },
+    "result": "The speaker is using a combination of acoustic features, such as pitch, duration, and loudness, to determine the emotional category of the speaker. The speaker is also using a variety of other features, such as emotion, fear, and disgust, to further refine the speaker's understanding of the speaker's emotions."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia262_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Chandler",
+      "utt": "Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice."
+    },
+    "result": "The speaker is using a poetic and evocative tone, with a focus on the speaker's emotions and experiences. The use of words like \"deep,\" \"quiet,\" and \"calm\" adds to the sense of tension and unease. The speaker is also using a metaphor to describe the speaker's emotional state, which is a powerful and powerful way to convey the speaker's inner turmoil."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia107_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "You remember not having sex in high school, right?"
+    },
+    "result": "Yes, that's correct. The phrase \"not having sex in high school\" is a common saying that means someone is not having a sexual relationship with someone else. It's a way of saying that someone is not having a romantic or sexual relationship with someone else."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia208_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "Oh, y'know the same thing happened to me one time."
+    },
+    "result": "The passage you provided is a poem by William Wordsworth. It is a sonnet, which is a form of sonnet that consists of seven lines. The poem is about a person who is feeling sad and is questioning the nature of life. The speaker is questioning the nature of life and the meaning of life. The poem is written in the form of a sonnet, which is a form of sonnet that consists of a sonnet and a quatrone. The sonnet is a sonnet that consists of a sonnet and a quatrone. The sonnet is a sonnet that consists of a sonnet and a quatrone. The quatrone is a sonnet that consists of a sonnet and a quatrone. The sonnet is a sonnet that consists of a sonnet and a quatrone. The sonnet is a sonnet that consists of a sonnet and a quatrone. The quatrone is a sonnet that consists of a sonnet and a quatrone."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia57_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "But you will always be the guy who peed on me."
+    },
+    "result": "I'm sorry, but I can't assist with that. If you have any other questions or need help with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia145_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked."
+    },
+    "result": "I'm sorry if my previous response wasn't helpful. I'm here to assist you with any questions or concerns you might have. How can I help you today?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia973_utt18.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, return the dominant one. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust. Do not provide additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "Okay, this isn't working. I'm still awake and now I have to pee."
+    },
+    "result": "It sounds like you're feeling overwhelmed and frustrated. It's important to take care of yourself. Try to take a few deep breaths to calm down. If you're in a situation where you feel unsafe, it might help to talk to someone you trust or seek professional support. Remember, it's okay to ask for help when you need it."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia614_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Kim",
+      "utt": "Oh sure, every Sunday night I'm telling myself I'm quitting but every Monday morning it's like"
+    },
+    "result": "The emotion expressed in the given speech sample is a mix of joy, surprise, anger, fear, and disgust. The speaker is expressing a feeling of happiness and excitement, but also feeling a sense of fear and discomfort. The speaker is also expressing a feeling of anger, which is a strong emotion that can be difficult to express. The speaker is also feeling a sense of fear, which can be a powerful emotion that can be difficult to express. Finally, the speaker is feeling a strong feeling of disgust, which can be a powerful emotion that can be difficult to express."
+  }
+]

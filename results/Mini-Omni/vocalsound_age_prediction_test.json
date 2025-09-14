@@ -1,0 +1,5002 @@
+[
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2750_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2750",
+      "gender": "female",
+      "speaker_age": 19,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you predict the age of the speaker from this audio, considering human vocalizations? Respond with the age, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "19"
+      }
+    ],
+    "result": "Yes, I can definitely help with that. The audio you're referring to is likely a podcast or a radio show. Human vocalizations are often a key aspect of these types of audio, as they allow speakers to convey their thoughts and emotions through their voices. If you're looking to understand the audio, you might want to check out the audio library or streaming services that offer these types of audio."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0805_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0805",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the age of the speaker from this audio sample containing human vocalizations. Your answer should be the age as an integer between 18 and 80, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "35"
+      }
+    ],
+    "result": "The age of the speaker from this audio sample is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1142_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1142",
+      "gender": "female",
+      "speaker_age": 42,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "42"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context. For example, in a formal setting, the speaker might be around 18 to 25 years old. In a casual setting, the speaker could be around 18 to 25 years old. The exact age can also depend on the speaker's age and the context of the conversation."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0127_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0127",
+      "gender": "male",
+      "speaker_age": 58,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "58"
+      }
+    ],
+    "result": "The speaker's age is estimated to be around 18 years and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3027_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3027",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "result": "The audio is recorded in a studio with a microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone placed at the bottom of the microphone. The speakers are positioned in a specific position, with the microphone placed at the top of the microphone. The audio is then recorded in a medium that is suitable for the audio recording, such as a digital audio workstation or a physical audio recording device. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency. The audio is then recorded in the specified medium, with the microphone set to a high frequency. The speakers are positioned in a specific position, with the microphone set to a high frequency"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2142_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2142",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "United Kingdom",
+      "native_language": "DE",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "33"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are indeed quite different from the ones spoken by the speakers at 18 and 80 years old. The speakers are more familiar with the sounds of the 1980s, which are typically associated with the sound of the 1980s. The recordings are more likely to be from the 1980s, as they are more likely to have been recorded by people who were in the same era."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0561_1_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0561",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "33"
+      }
+    ],
+    "result": "The audio and the speech of the speaker are both based on human vocalizations. The audio is recorded and then processed to produce a sound that can be heard by the human listener. The speech is then converted into a written format that can be understood by the human listener."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_1_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "34"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context. In some cases, the speaker might be 10 years old, while in others, they could be 18 years old. The specific age can also depend on the speaker's age and the context of the conversation. For example, if the speaker is speaking in a formal setting, they might be 18 years old. If the speaker is speaking in a casual setting, they might be 10 years old. It's always a good idea to check the context of the conversation to get a more accurate answer."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1672_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1672",
+      "gender": "male",
+      "speaker_age": 21,
+      "country": "United States of America",
+      "native_language": "GU",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this clip, predict the speaker's age as an integer between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "21"
+      }
+    ],
+    "result": "The speaker's age is 18 years and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3004_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3004",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "result": "The audio and the speaker are both based on their vocal sounds, which means they are both based on the same set of sounds. The audio is the sound that is played on the speaker, and the speaker is the one who produces the sound. The speaker is the one who produces the sound, and the audio is the sound that is produced by the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3126_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3126",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "48"
+      }
+    ],
+    "result": "The speaker's age is not specified in the given text."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0886_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0886",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you predict the age of the speaker from this audio, considering human vocalizations? Respond with the age, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "It's possible that the speaker's voice may be different from that of a human vocalist. However, it's important to note that the accuracy of the audio can vary greatly depending on the context and the specific speakers involved. It's always a good idea to verify the information from multiple sources to ensure its accuracy."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3250_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3250",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are indeed quite different from those recorded by the speakers at 18 and 80 years old. The speakers are more familiar with the age of 18 and 80, which means they are likely to be older than the human vocal sounds."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0733_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0733",
+      "gender": "male",
+      "speaker_age": 53,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "53"
+      }
+    ],
+    "result": "The human vocalizations in this recording are attributed to the speaker's voice, which is a combination of the human voice and the human voice. The human voice is the primary vocal system of the recording, and it is responsible for producing the sound of the recording. The human voice is also responsible for the sound of the recording, as it is the source of the sound that is produced by the human voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0429_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0429",
+      "gender": "male",
+      "speaker_age": 44,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "44"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context and the specific language being spoken. In many cultures, the age of the speaker can be around 18 to 20 years old. However, in some languages, the age of the speaker can be much younger, often around 10 to 12 years old. It's important to consider the cultural context and the specific language being spoken to provide an accurate answer."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2768_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2768",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 years and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1307_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1307",
+      "gender": "female",
+      "speaker_age": 55,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this clip, predict the speaker's age as an integer between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "55"
+      }
+    ],
+    "result": "The speaker's age is 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1023_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1023",
+      "gender": "female",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "36"
+      }
+    ],
+    "result": "The age of the speaker is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3203_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3203",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "India",
+      "native_language": "ML",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio clip, predict the speaker's age as an integer between 18 and 80. Return only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "The human vocalizations in this haiku are:  1. The speaker's voice is described as \"hush.\" 2. The speaker's voice is described as \"hush.\" 3. The speaker's voice is described as \"hush.\" 4. The speaker's voice is described as \"hush.\" 5. The speaker's voice is described as \"hush.\" 6. The speaker's voice is described as \"hush.\" 7. The speaker's voice is described as \"hush.\" 8. The speaker's voice is described as \"hush.\" 9. The speaker's voice is described as \"hush.\" 10. The speaker's voice is described as \"hush.\" 11. The speaker's voice is described as \"hush.\" 12. The speaker's voice is described as \"hush.\" 13. The speaker's voice is described as \"hush.\" 14. The speaker's voice is described as \"hush.\" 15. The speaker's voice is described as \"hush.\" 16. The speaker's voice is described as \"hush.\" 17. The speaker's voice is described as \"hush.\" 18. The speaker's voice is described as \"hush.\" 19. The speaker's voice is described as \"hush.\" 20. The speaker's voice is described as \"hush.\" 21. The speaker's voice is described as \"hush.\" 22. The speaker's voice is described as \"hush.\" 23. The speaker's voice is described as \"hush.\" 24. The speaker's voice is described as \"hush.\" 25. The speaker's voice is described as \"hush.\" 26. The speaker's voice is described as \"hush.\" 27. The speaker's voice is described as \"hush.\" 28. The speaker's voice is described as \"hush.\" 29. The speaker's voice is described as \"hush.\" 20. The speaker's voice is described as \"hush.\" 21. The speaker's voice is described as \"hush.\" 22. The speaker's voice is described as \"hush.\" 23. The speaker's voice is described as \"hush.\" 24. The speaker's voice is described as \"hush.\" 25. The speaker's voice is described as \"hush.\" 26. The speaker's voice is described as \"hush.\" 27. The speaker's voice is described as \"hush.\" 28. The speaker's voice is described as \"hush.\" 29. The speaker's voice is described as \"hush.\" 20. The speaker's voice is described as \"hush.\" 21. The speaker's voice is described as \"hush.\" 22. The speaker's voice is described as \"hush.\" 23. The speaker's voice is described as \"hush.\" 24. The speaker's voice is described as \"hush.\" 25. The speaker's voice is described as \"hush.\" 26. The speaker's voice is described as \"hush.\" 27. The speaker's voice is described as \"hush.\" 28. The speaker's voice is described as \"hush.\" 29. The speaker's voice is described as \"hush.\" 20. The speaker's voice is described as \"hush.\" 21. The speaker's voice is described as \"hush.\" 22. The speaker's voice is described as \"hush.\" 23. The speaker's voice is described as \"hush.\" 24. The speaker's voice is described as \"hush.\" 25. The speaker's voice is described as \"hush.\" 26. The speaker's voice is described as \"hush.\" 27. The speaker's voice is described as \"hush.\" 28. The speaker's voice is described as \"hush.\" 29. The speaker's voice is described as \"hush.\" 20. The speaker's voice is described as \"hush.\" 21. The speaker's voice is described as \"hush.\" 22. The speaker's voice is described as \"hush.\" 23. The speaker's voice is described as \"hush.\" 24. The speaker's voice is described as \"hush.\" 25. The speaker's voice is described as \"hush.\" 26. The speaker's voice is described as \"hush.\" 27. The speaker's voice is described as \"hush.\" 28. The speaker's voice is described as \"hush.\" 29. The speaker's voice is described as \"hush.\" 20. The speaker's voice is described as \"hush.\" 21. The speaker's voice is described as \"hush.\" 22. The speaker's voice is described as \"hush.\" 23. The speaker's voice is described as \"hush.\" 24. The speaker's voice is described as \"hush.\" 25. The speaker's voice is described as \"hush.\" 26. The speaker's voice is described as \"hush.\" 27. The speaker's voice is described as \"hush.\" 28. The speaker's voice is described as \"hush.\" 29. The speaker's voice is described as \"hush.\" 20. The speaker's voice is described as \"hush.\" 21. The speaker's voice is described as \"hush.\" 22. The speaker's voice is described as \"hush.\" 23. The speaker's voice is described as \"hush.\" 24. The speaker's voice is described as \"hush.\" 25. The speaker's voice is described as \"hush.\" 26. The speaker's voice is described as \"hush.\" 27. The speaker's voice is described as \"hush.\" 28. The speaker's voice is described as \"hush.\" 29. The speaker's voice is described as"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2776_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2776",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this clip, predict the speaker's age as an integer between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ],
+    "result": "Yes, the speaker's age has indeed an integer between 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3027_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3027",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "result": "The speaker's age is 18 and the speaker's gender is male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1481_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1481",
+      "gender": "female",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "36"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context. In the context of a 18-80 age group, the speaker might be between 18 and 25 years old. However, the exact age can be influenced by factors such as the speaker's personal life, education, and career choices. It's always a good idea to check the specific age range for the most accurate and up-to-date information."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1563_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1563",
+      "gender": "male",
+      "speaker_age": 44,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "44"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context. For instance, in a formal setting, the speaker might be around 18 to 25 years old. In a more casual setting, the speaker could be around 18 to 25 years old. The exact age can also depend on the speaker's age and the context of the conversation."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3323_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3323",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given this audio sample of human vocalizations, estimate the speaker's age. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1250_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1250",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context. In some cases, it might be around 10 to 12 years old, while in others, it could be as young as 12 years old. The speaker's vocalization can also vary, with some speakers speaking more slowly and with less emphasis on pitch. Additionally, the speaker's age can also affect their ability to speak, with some speakers being more vocal and expressive."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1941_1_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1941",
+      "gender": "female",
+      "speaker_age": 45,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "45"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2354_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2354",
+      "gender": "female",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this vocal sample of human vocalizations and estimate the speaker's age as an integer between 18 and 80. Return the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1382_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1382",
+      "gender": "male",
+      "speaker_age": 34,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "34"
+      }
+    ],
+    "result": "The speaker's age is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1641_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1641",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "33"
+      }
+    ],
+    "result": "The audio and the speaker are both vocal sounds, but they are not identical. The audio is a combination of both spoken and recorded sounds, while the speaker is a single sound that is produced by the speaker. The audio is usually more complex and has a higher pitch, while the speaker is usually more simple and has a lower pitch."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1023_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1023",
+      "gender": "female",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given this audio sample of human vocalizations, estimate the speaker's age. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "36"
+      }
+    ],
+    "result": "The audio sample you're referring to is likely the 1980s. It was a significant milestone in the development of human vocalization, and it marked a significant shift in the way we communicate."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0154_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0154",
+      "gender": "male",
+      "speaker_age": 19,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "19"
+      }
+    ],
+    "result": "The human vocalizations in this audio are quite different from the one of the speaker. The human vocalizations are typically more complex and varied, with a wide range of tones and intonations. The speaker, on the other hand, is more familiar with the human vocalizations and is able to recognize and respond to them more easily."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1934_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1934",
+      "gender": "female",
+      "speaker_age": 29,
+      "country": "Italy",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast or a live stream. The speaker is speaking in a conversational tone, using phrases like \"I'm here,\" \"I'm here for you,\" and \"I'm here for you.\" The audio is likely to be recorded and edited by a professional, and the speaker will likely be speaking in a calm and soothing voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1351_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1351",
+      "gender": "male",
+      "speaker_age": 51,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "51"
+      }
+    ],
+    "result": "The age of the speaker is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2183_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2183",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using this audio, which contains human vocalizations, estimate the speaker's age. Respond with the age as an integer between 18 and 80, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "37"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast or a podcast radio show. These types of audio recordings often include human voices, which can be more engaging and easier to understand for listeners. The audio is typically recorded in a studio and then broadcasted through a network, such as a radio or television. The format allows for a more personal and intimate experience, making it more enjoyable for listeners."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0607_2_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0607",
+      "gender": "female",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio clip, predict the speaker's age as an integer between 18 and 80. Return only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "35"
+      }
+    ],
+    "result": "The speaker's age is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1108_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1108",
+      "gender": "female",
+      "speaker_age": 49,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given this audio sample of human vocalizations, estimate the speaker's age. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "49"
+      }
+    ],
+    "result": "The age of the speaker is 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2592_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2592",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "Brazil",
+      "native_language": "EN",
+      "health_condition": "yes",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The human vocalizations in this recording are attributed to the speaker's age as an integer between 18 and 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2376_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2376",
+      "gender": "female",
+      "speaker_age": 42,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "42"
+      }
+    ],
+    "result": "The speaker's age is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3249_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3249",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "result": "The speaker's age is 18 and the speaker's background is not specified."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2799_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2799",
+      "gender": "female",
+      "speaker_age": 18,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "result": "The human vocalizations in the audio are determined by the pitch of the speaker. The pitch of the speaker is determined by the frequency of the sound. The higher the frequency of the sound, the higher the pitch. The higher the frequency of the sound, the higher the pitch. The lower the frequency of the sound, the lower the pitch."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1216_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1216",
+      "gender": "female",
+      "speaker_age": 50,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given this audio sample of human vocalizations, estimate the speaker's age. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "The average audio sample of human vocalizations is approximately 100,000 speakers. This means that for every 100,000 speakers, approximately 100,000 speakers respond with the same pitch."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0208_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0208",
+      "gender": "female",
+      "speaker_age": 40,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "40"
+      }
+    ],
+    "result": "The audio in the audio-visualisation is recorded and then processed to produce the audio of the speaker. The audio is then converted into a format that can be used by the speaker. The audio is then processed to produce the audio of the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1964_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1964",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using this audio, which contains human vocalizations, estimate the speaker's age. Respond with the age as an integer between 18 and 80, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast. It contains human vocalizations, allowing you to listen to the speaker's voice and understand the content. This format is often used for live broadcasts, interviews, or other audio-based content."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1606_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1606",
+      "gender": "female",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using this audio, which contains human vocalizations, estimate the speaker's age. Respond with the age as an integer between 18 and 80, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "26"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast or a podcast series. These audio formats typically include a mix of spoken and recorded dialogue, often with a mix of background music and sound effects. They are often used to provide a more engaging and immersive listening experience. If you have a specific podcast or series in mind, I can help you find more details or suggest some similar options."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0471_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0471",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "34"
+      }
+    ],
+    "result": "The age of the speaker can vary greatly depending on the context and the specific vocalizations being recorded. For example, if the vocalizations are recorded in a recording studio, the age of the speaker can be determined by the age of the recording studio staff. If the vocalizations are recorded in a studio, the age of the recording studio staff can be determined by the age of the recording studio staff."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0866_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0866",
+      "gender": "female",
+      "speaker_age": 54,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the age of the speaker from this audio sample containing human vocalizations. Your answer should be the age as an integer between 18 and 80, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "54"
+      }
+    ],
+    "result": "I am a voice assistant and cannot write code. To predict the age of a speaker from the audio sample, you can use a technique called \"Age Detection.\" First, identify the speaker's age by looking at their voice, tone, and facial expressions. Then, compare the audio sample with known age ranges. If the audio sample matches the age range, it is likely to be around 18 to 25 years old. If it doesn't match, it might be around 18 to 25 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1934_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1934",
+      "gender": "female",
+      "speaker_age": 29,
+      "country": "Italy",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The speaker's age is 18 and the audio quality is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1515_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1515",
+      "gender": "female",
+      "speaker_age": 22,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "22"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are indeed quite different from the ones recorded by the speakers at 18 and 80 years ago. The speakers at that time were more familiar with the sounds of the 1950s and 1960s, which were quite different from the sounds of the 1950s and 1960s. The speakers at that time were more familiar with the sounds of the 1950s and 1960s, which were quite different from the sounds of the 1950s and 1960s."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3197_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3197",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The audio and the speaker are both based on their vocal sounds. The audio is the sound that is played back by the speaker, while the speaker is the person who is speaking. The speaker is the person who is speaking, and the audio is the sound that is being played back by the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0861_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0861",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ],
+    "result": "The age of the speaker is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0801_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0801",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this vocal sample of human vocalizations and estimate the speaker's age as an integer between 18 and 80. Return the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "26"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3209_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3209",
+      "gender": "male",
+      "speaker_age": 22,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the speaker's age based on this audio sample of human vocalizations. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "22"
+      }
+    ],
+    "result": "The age of the speaker's audio sample can vary widely depending on the context. In some cases, it might be around 18 to 20 years old, while in others, it could be around 18 to 20 years old. The exact age can depend on the specific audio samples and the context in which they are being used."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1575_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1575",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "40"
+      }
+    ],
+    "result": "The age of the speaker is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1957_1_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1957",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "37"
+      }
+    ],
+    "result": "The audio in this audio file is recorded at a high speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded at a constant speed. The audio is then recorded at a constant speed and is recorded"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3250_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3250",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "result": "The age of the speaker can vary greatly depending on the context and the specific topic. For example, if you're referring to a specific book or article, the age of the speaker can be determined by examining the text's content, the author's age, and the publication date. In the context of a documentary, the age of the speaker can be determined by looking at the publication date, the author's age, and the publication's publication date."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0968_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0968",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the age of the speaker from this audio sample containing human vocalizations. Your answer should be the age as an integer between 18 and 80, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The speaker is using a metaphor to describe the speaker's voice. The speaker is using the word \"vocalization\" to describe the way the speaker's voice is being expressed. The speaker is using the word \"vocalization\" to describe the way the speaker's voice is being expressed. The speaker is using the word \"vocalization\" to describe the way the speaker's voice is being expressed."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1906_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1906",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "result": "The sound sample contains human vocalizations and predicts the speaker's age as an integer between 18 and 80. It provides only the age of the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1994_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1994",
+      "gender": "female",
+      "speaker_age": 52,
+      "country": "Canada",
+      "native_language": "FR",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "52"
+      }
+    ],
+    "result": "The speaker's age is 18 and they are 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2043_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2043",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context. For instance, in a formal setting, the speaker might be around 18 to 25 years old. In a casual setting, the speaker could be around 18 to 25 years old. The age can also be influenced by the speaker's age, the speaker's gender, and the speaker's cultural background. It's important to consider the context and the specific age group when determining the age of the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0592_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0592",
+      "gender": "female",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "33"
+      }
+    ],
+    "result": "The age of the speaker is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1305_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1305",
+      "gender": "female",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "result": "The audio and the speech are both excellent. The audio is clear and the speech is engaging. The h only is a bit more dramatic, but it is still a great way to convey the message."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2345_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2345",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "The age of the speaker is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2345_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2345",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "The sound sample you're referring to is the \"T\" sound, which is a type of \"tongue\" sound. It's a type of sound that is produced by the vibration of a string or a cone, and it's often used in music and other forms of sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1835_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1835",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The audio and the speaker are both based on vocal sounds, but they differ in the way they are presented. The audio is presented as a series of sounds, while the speaker is presented as a single sound. The audio is usually played in a specific order, while the speaker is usually played in a more natural way."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0942_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0942",
+      "gender": "female",
+      "speaker_age": 41,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you predict the age of the speaker from this audio, considering human vocalizations? Respond with the age, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "41"
+      }
+    ],
+    "result": "Yes, I can predict the age of the speaker from this audio. I can use a technique called audio detection, which is based on the frequency of the audio signal. By analyzing the frequency of the audio signal, I can determine the age of the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0731_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0731",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "result": "The audio and the speaker's vocal sounds are indeed quite different. The audio is a mix of both spoken and recorded sounds, which can vary greatly depending on the context. The speaker's vocal sounds are usually more pronounced and may be more complex, while the audio is more straightforward and less noticeable."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_1_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "34"
+      }
+    ],
+    "result": "The age of the speaker, between 18 and 20 years, responds with the age of 18."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2388_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2388",
+      "gender": "female",
+      "speaker_age": 28,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "28"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 18."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1334_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1334",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "result": "The speaker's age is 18 and the age of the listener is 18."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0585_1_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0585",
+      "gender": "female",
+      "speaker_age": 54,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "54"
+      }
+    ],
+    "result": "The speaker's age is based on the number of years they have been vocalizing for. For example, if the speaker has been vocalizing for 10 years, they would be 10 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0431_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0431",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the age of the speaker from this audio sample containing human vocalizations. Your answer should be the age as an integer between 18 and 80, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "I am a voice assistant and cannot write code. To predict the age of a speaker from the audio sample, you can use a technique called \"Age Indexing.\" This method involves analyzing the audio sample to determine the speaker's age based on the frequency of certain sounds. By comparing the audio sample with known age ranges, you can estimate the speaker's age."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1029_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1029",
+      "gender": "male",
+      "speaker_age": 22,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "22"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3143_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3143",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "India",
+      "native_language": "TE",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The age of the speaker is not specified in the given text. However, it is known that the age of the speaker is 18 and 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1049_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1049",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "It sounds like you're discussing the audio and the speaker's background. The audio is the sound that the speaker makes, and the background is the background music or sound effects that accompany it. In this case, the audio is the sound that the speaker makes, and the background is the background music or sound effects that accompany it."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0739_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0739",
+      "gender": "female",
+      "speaker_age": 55,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "55"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1299_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1299",
+      "gender": "female",
+      "speaker_age": 44,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "44"
+      }
+    ],
+    "result": "The human vocalizations in this recording are attributed to the speaker's age. The audio recording is recorded by the speaker, and the audio is then analyzed to determine the age of the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3220_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3220",
+      "gender": "female",
+      "speaker_age": 45,
+      "country": "India",
+      "native_language": "MR",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given this audio sample of human vocalizations, estimate the speaker's age. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "45"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the audio sample is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2047_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2047",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "40"
+      }
+    ],
+    "result": "The speaker's age from the human vocalizations in this clip is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2499_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2499",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using this audio, which contains human vocalizations, estimate the speaker's age. Respond with the age as an integer between 18 and 80, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast or a radio show. These audio formats typically include background music, sound effects, and narration to enhance the audio experience. They are often used to provide background music for speeches, lectures, or other audio content."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1964_2_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1964",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you predict the age of the speaker from this audio, considering human vocalizations? Respond with the age, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "result": "The age of the speaker from this audio is not specified in the audio itself. However, it is likely that the speaker is a human voice assistant, as they are using a human voice assistant to interpret audio."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0510_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0510",
+      "gender": "female",
+      "speaker_age": 65,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "65"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3337_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3337",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "result": "The speaker's age is 18 and the speaker's vocalizations are in the 1st and 2nd syllables."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1330_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1330",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "35"
+      }
+    ],
+    "result": "The human vocalizations in this recording are attributed to the speaker's age. The recording was recorded by a professional voice actor who was 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1049_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1049",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are typically described as \"vocal\" or \"vocal\" sounds. These sounds are often described as \"vocal\" or \"vocal\" sounds, which are typically used to describe the pitch or tone of the sound. The speaker's voice is usually described as \"vocal\" or \"vocal\" sounds, which are often used to describe the pitch or tone of the sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0756_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0756",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 and 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1164_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1164",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from this vocalization sample. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "35"
+      }
+    ],
+    "result": "The speaker's age is 18 and they are 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0638_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0638",
+      "gender": "female",
+      "speaker_age": 39,
+      "country": "United Kingdom",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "39"
+      }
+    ],
+    "result": "The speaker's age is based on the recording of human vocalizations, which are recorded by the human voice. The age of the speaker is not determined by the recording, but rather by the vocalizations themselves."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2634_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2634",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0595_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0595",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "52"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 18."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2733_1_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2733",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "ML",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The speaker's age is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1823_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1823",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the speaker's age based on this audio sample of human vocalizations. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The speaker's age is 18 and the audio sample is 100."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0177_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0177",
+      "gender": "female",
+      "speaker_age": 73,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "73"
+      }
+    ],
+    "result": "The age of the speaker is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0787_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0787",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "Romania",
+      "native_language": "RO",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from this vocalization sample. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "The speaker's age is 18 and the integer is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1199_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1199",
+      "gender": "female",
+      "speaker_age": 28,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "28"
+      }
+    ],
+    "result": "The average age of the speaker from the human vocal sounds in this audio club is around 10 to 12 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1168_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1168",
+      "gender": "male",
+      "speaker_age": 25,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "The age of the speaker is 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1988_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1988",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "United Kingdom",
+      "native_language": "NE",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast or a radio show. The speaker is speaking in a conversational tone, using phrases like \"I'm here,\" \"I'm here for you,\" and \"I'm here for you.\" The audio is likely to be recorded and edited, and the speaker will likely use a microphone to amplify the sound."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3155_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3155",
+      "gender": "female",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the speaker's age based on this audio sample of human vocalizations. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "35"
+      }
+    ],
+    "result": "The speaker's age is 18 and the audio sample is 1000."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1575_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1575",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you predict the age of the speaker from this audio, considering human vocalizations? Respond with the age, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "40"
+      }
+    ],
+    "result": "It's possible that the speaker is speaking from a different age group, but it's not clear from the audio. The audio quality is not relevant to the question."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1702_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1702",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "37"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0169_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0169",
+      "gender": "male",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "37"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1470_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1470",
+      "gender": "female",
+      "speaker_age": 41,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "41"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are indeed quite different from the ones recorded by the speakers at 18 and 80 years ago. The human vocal sounds were produced by a team of vocalists who were trained to produce these sounds. The recording was recorded by a professional vocalists and was edited by a professional voice engineer. The human voices were used to create the sounds that were produced in the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2118_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2118",
+      "gender": "female",
+      "speaker_age": 32,
+      "country": "France",
+      "native_language": "FR",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2499_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2499",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the age of the speaker from this audio sample containing human vocalizations. Your answer should be the age as an integer between 18 and 80, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ],
+    "result": "The age of the speaker from this audio sample is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3126_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3126",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using this audio, which contains human vocalizations, estimate the speaker's age. Respond with the age as an integer between 18 and 80, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "48"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast. It contains human vocalizations, which are recorded and analyzed by a voice assistant to understand the speaker's speech. This process helps the voice assistant to recognize and respond to the speaker's voice, making it easier to understand and respond to their needs."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2592_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2592",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "Brazil",
+      "native_language": "EN",
+      "health_condition": "yes",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The speaker's age from the human vocalizations in this clip is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1417_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1417",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1976_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1976",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "35"
+      }
+    ],
+    "result": "The age of the speaker's recording of human vocalizations is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3222_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3222",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The sound sample contains human vocalizations and predicts the speaker's age as an integer between 18 and 80. This prediction is based on the assumption that the speaker's voice is not too high or too low."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1579_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1579",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The audio in the ad is primarily in the 80s, with a slight shift towards the 1980s. The speaker is speaking in a more formal tone, with a more relaxed and conversational tone."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1385_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1385",
+      "gender": "female",
+      "speaker_age": 57,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "57"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are indeed quite different from the ones recorded by the speakers between 18 and 80 years ago. The speakers were more familiar with the sounds of the 1950s and 1960s, while the human vocal sounds were more recent and varied."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2784_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2784",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast. The speaker is using a microphone to amplify the sound, which can help create a fuller and more immersive experience for the listener."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1968_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1968",
+      "gender": "male",
+      "speaker_age": 36,
+      "country": "Mexico",
+      "native_language": "ES",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "36"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 and 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2745_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2745",
+      "gender": "female",
+      "speaker_age": 47,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "47"
+      }
+    ],
+    "result": "The average age of the speaker from the human vocal sounds in this audio clip is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0803_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0803",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "result": "The average age of the speaker from the human vocal sounds in this audio clip is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2808_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2808",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The age of the speaker is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0101_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0101",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio clip, predict the speaker's age as an integer between 18 and 80. Return only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "48"
+      }
+    ],
+    "result": "The audio clip you're referring to is likely a video clip from the 1980s. It's a classic example of how audio can be used to convey a message or to create a memorable moment. The audio is often used to highlight important points or to create a memorable scene."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2682_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2682",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio, predict the age of the speaker, between 18 and 80. Respond with the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "26"
+      }
+    ],
+    "result": "The audio in the audio-visualisation you provided is a mix of human and AI-generated voices. The human voice is the voice of the speaker, while the AI voice is the voice of the AI. The human voice is usually the voice of the speaker, while the AI voice is the voice of the AI."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2712_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2712",
+      "gender": "female",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "yes",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using this audio, which contains human vocalizations, estimate the speaker's age. Respond with the age as an integer between 18 and 80, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast. It contains human vocalizations, which are recorded and broadcasted by a human voice assistant. The audio is then analyzed by a human voice assistant to determine the speaker's stage and tone."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2547_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2547",
+      "gender": "male",
+      "speaker_age": 39,
+      "country": "India",
+      "native_language": "ML",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this clip, predict the speaker's age as an integer between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "39"
+      }
+    ],
+    "result": "The speaker's age is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1620_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1620",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from this vocalization sample. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ],
+    "result": "The speaker's age is 18 and they are 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2390_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2390",
+      "gender": "male",
+      "speaker_age": 25,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0607_3_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0607",
+      "gender": "female",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "35"
+      }
+    ],
+    "result": "The speaker's age is based on the recording of human vocalizations, which are recorded by the human voice. The age of the human voice is determined by the number of human voices in the recording. The age of the human voice is determined by the number of human voices in the recording. The age of the human voice is determined by the number of human voices in the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0401_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0401",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "The speaker's age is estimated to be around 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1160_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1160",
+      "gender": "female",
+      "speaker_age": 22,
+      "country": "United States of America",
+      "native_language": "ZH",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "22"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are indeed 18 and 80 in age."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0434_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0434",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ],
+    "result": "The sound sample contains human vocalizations and predicts the speaker's age as an integer between 18 and 80. It provides only the age range."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2147_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2147",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using this audio, which contains human vocalizations, estimate the speaker's age. Respond with the age as an integer between 18 and 80, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast. It contains human vocalizations, which are recorded and analyzed by a voice assistant to understand the speaker's speech. This process helps in providing accurate information and understanding the context of the audio."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0222_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0222",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the age of the speaker from this audio sample containing human vocalizations. Your answer should be the age as an integer between 18 and 80, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ],
+    "result": "The age of the speaker from this audio sample is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0640_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0640",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "result": "The audio and the speaker are both based on human vocalizations. The audio is recorded and then analyzed to determine the best way to produce the audio. The speaker is then used to produce the audio."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2153_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2153",
+      "gender": "male",
+      "speaker_age": 44,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the age of the speaker from this audio sample containing human vocalizations. Your answer should be the age as an integer between 18 and 80, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "44"
+      }
+    ],
+    "result": "The age of the speaker from this audio sample is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3342_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3342",
+      "gender": "male",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "36"
+      }
+    ],
+    "result": "The audio and the speaker's vocal sounds are indeed quite different. The audio is likely a mix of different sounds, such as a mix of bass, treble, and other instruments. The speaker's vocal sounds are likely a combination of different tones and frequencies, such as a mix of blues, jazz, and other genres."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1964_1_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1964",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this vocal sample of human vocalizations and estimate the speaker's age as an integer between 18 and 80. Return the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3264_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3264",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "Netherlands",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are typically described as \"vocal sounds\" or \"vocal sounds.\" These sounds are often described as being high-pitched, with a distinctive, high-pitched voice. The speaker's voice is usually described as being high-pitched, with a high-pitched voice. The recording also includes a variety of vocal sounds, including those that are not typically associated with human voices."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2754_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2754",
+      "gender": "male",
+      "speaker_age": 51,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "51"
+      }
+    ],
+    "result": "The audio and the speaker are both based on human vocalizations, but the audio is more detailed and includes more context. The speaker is also more detailed and includes more information about the human vocalizations."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2024_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2024",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "52"
+      }
+    ],
+    "result": "The speaker's age is estimated to be between 18 and 20 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2043_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2043",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from this vocalization sample. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "The speaker's age from this vocalization sample is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2759_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2759",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "The average age of the speaker from the human vocal sounds in this audio clip is 18 and 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1719_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1719",
+      "gender": "female",
+      "speaker_age": 25,
+      "country": "Canada",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this vocal sample of human vocalizations and estimate the speaker's age as an integer between 18 and 80. Return the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1906_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1906",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the speaker's age based on this audio sample of human vocalizations. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the audio sample of human vocalizations is 100."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2041_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2041",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The age of the speaker's age can vary widely among speakers. Some might be in their early 20s, while others could be in their mid-40s or older. It's important to note that age can also influence the content and style of the speech. For example, younger speakers might have more energy and enthusiasm, while older speakers might be more reserved and contemplative. Ultimately, the best age to speak depends on the individual and their personal preferences."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2447_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2447",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0585_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0585",
+      "gender": "female",
+      "speaker_age": 54,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "54"
+      }
+    ],
+    "result": "The speaker's age from the human vocalizations in this clip is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1401_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1401",
+      "gender": "female",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "33"
+      }
+    ],
+    "result": "The speaker's age is 18 and the speaker's age is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0706_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0706",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "result": "The age of the speaker can vary greatly depending on the context and the specific recording. For example, if you're referring to a song or a speech, the age of the speaker can be determined by the song's release date and the artist's age at the time of the recording. If you're talking about a video, the age of the speaker can be determined by the artist's age at the time of the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0420_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0420",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The human vocalizations in this recording are attributed to the speaker's age. The speaker's age is not specified in the recording, but it is likely that they are in their mid-80s."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1878_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1878",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "France",
+      "native_language": "FR",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from this vocalization sample. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "result": "The speaker's age from this vocalization sample is 18 years and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2643_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2643",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this vocal sample of human vocalizations and estimate the speaker's age as an integer between 18 and 80. Return the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0595_2_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0595",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "52"
+      }
+    ],
+    "result": "The human vocalizations in this recording are attributed to the speaker's age. The recording was recorded by a professional voice actor who was 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1393_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1393",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are indeed the age of 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2976_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2976",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Ireland",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from this vocalization sample. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "result": "The speaker's age from this vocalization sample is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1072_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1072",
+      "gender": "male",
+      "speaker_age": 56,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using this audio, which contains human vocalizations, estimate the speaker's age. Respond with the age as an integer between 18 and 80, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "56"
+      }
+    ],
+    "result": "The audio you're referring to is likely a voiceover or narration. It typically includes a series of spoken words that are used to explain or describe a particular topic or action. The speaker's voice is usually accompanied by a background sound or music, which helps to convey the message effectively. This audio can be used in various contexts, such as in a speech, a video, or a podcast."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1131_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1131",
+      "gender": "male",
+      "speaker_age": 39,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "39"
+      }
+    ],
+    "result": "The audio and speech of the speaker are based on the human vocalizations present. The audio is recorded and then analyzed to determine the tone and style of the speaker. The speech is then converted into a written format, which is then used to produce the audio."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0276_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0276",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "38"
+      }
+    ],
+    "result": "The average age of the speaker from the human vocal sounds in this audio clip is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2160_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2160",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "35"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast. It's a popular format where you can record and share audio with your listeners. The speaker you're describing is likely a voice assistant or a voice assistant that can play audio content."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0798_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0798",
+      "gender": "male",
+      "speaker_age": 47,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio clip, predict the speaker's age as an integer between 18 and 80. Return only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "47"
+      }
+    ],
+    "result": "The human vocalizations in the audio clip are indeed quite different from those recorded by an AI. The audio clip is a digital representation of the human voice, capturing the sounds of the human voice over a period of time. This allows for a more realistic and detailed representation of the human voice compared to the AI-generated audio."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2939_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2939",
+      "gender": "male",
+      "speaker_age": 39,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given this audio sample of human vocalizations, estimate the speaker's age. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "39"
+      }
+    ],
+    "result": "Yes, according to the audio sample, human vocalizations estimate the speaker's age to be between 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1673_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1673",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "result": "The cell sample contains human vocalizations and predicts the speaker's age as an integer between 18 and 80. It provides only the age of the cell."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2108_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2108",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this vocal sample of human vocalizations and estimate the speaker's age as an integer between 18 and 80. Return the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "37"
+      }
+    ],
+    "result": "The age of the speaker is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2151_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2151",
+      "gender": "male",
+      "speaker_age": 21,
+      "country": "Australia",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sigh."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "21"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context. In many settings, the age of a speaker can be around 18 to 20 years old. However, in some cases, the speaker might be 18 or 20 years old. It's important to consider the specific context and the age of the speaker when determining their age."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2751_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2751",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this vocal sample of human vocalizations and estimate the speaker's age as an integer between 18 and 80. Return the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "result": "The age of the speaker's voice can vary widely depending on the context. In the context of a voice assistant, the age of the voice assistant can be influenced by factors such as the speaker's background, the complexity of the voice, and the quality of the voice assistant's training. For example, a voice assistant that is trained on a high-quality microphone and has been tested on a large sample of voice samples can be more accurate and reliable. On the other hand, a voice assistant that is trained on a low-quality microphone and has been tested on a small sample of voice samples may not be as accurate and reliable."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0164_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0164",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this vocal sample of human vocalizations and estimate the speaker's age as an integer between 18 and 80. Return the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "The age of the speaker is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0595_1_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0595",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio clip, predict the speaker's age as an integer between 18 and 80. Return only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "52"
+      }
+    ],
+    "result": "The human vocalizations in this audio clip are indeed quite high. The speaker's age is 80 years old, which is significantly higher than the age of 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0557_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0557",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "Canada",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speaker's age based on this recording of human vocalizations. Respond with the age between 18 and 80, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "40"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the speaker's vocalizations are based on the recording of human vocalizations."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1955_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1955",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given this audio sample of human vocalizations, estimate the speaker's age. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "43"
+      }
+    ],
+    "result": "The audio sample you provided is a good starting point for understanding the audio of a human vocalization. It is a good indication of the complexity of human speech and the range of sounds that can be produced by a human voice. However, it is important to note that the accuracy of the audio sample depends on the quality of the speaker and the speaker's vocalization technique."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2853_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2853",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Given this audio sample of human vocalizations, estimate the speaker's age. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "Yes, according to the audio sample, the speaker's age is 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0873_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0873",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio clip, predict the speaker's age as an integer between 18 and 80. Return only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "33"
+      }
+    ],
+    "result": "The human vocalizations in the audio clip are indeed quite different from the audio they are presented as. The speaker's age is not mentioned in the clip, so it is unclear how they are being compared to the audio. However, it is possible that the speaker's age is being compared to the audio, as the audio is being presented as a more detailed representation of the speaker's voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1566_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1566",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you predict the age of the speaker from this audio, considering human vocalizations? Respond with the age, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "Yes, I can predict the age of the speaker from the audio. I can use a technique called audio detection, which uses a combination of techniques such as frequency analysis, acoustic modeling, and audio processing to detect the speaker's age. I can also use machine learning algorithms to detect the speaker's age based on their facial expressions, voice patterns, and other physical characteristics."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3341_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3341",
+      "gender": "male",
+      "speaker_age": 42,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "42"
+      }
+    ],
+    "result": "The human vocalizations in this recording are attributed to the speaker's age as an integer between 18 and 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1132_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1132",
+      "gender": "female",
+      "speaker_age": 21,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on the human vocalizations present. Provide the age only, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "21"
+      }
+    ],
+    "result": "The age of the speaker can vary depending on the context. In some cases, the speaker might be 10 years old, while in others, they could be 18 years old. The speaker's age can also be influenced by the speaker's age, the speaker's age, and the speaker's age. For example, a 10-year-old might be 18 years old, while a 18-year-old might be 10 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3025_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3025",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "yes",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using this audio, which contains human vocalizations, estimate the speaker's age. Respond with the age as an integer between 18 and 80, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "result": "The audio you're referring to is likely a podcast or a podcast radio show. These audio formats typically include human voices, and the audio is often recorded and edited by a professional. The audio is then broadcasted to a wide audience through a network, such as a radio or television."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1346_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1346",
+      "gender": "female",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 and 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1778_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1778",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 and 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1135_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1135",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 18."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2223_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2223",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocal sounds in this recording, estimate the speaker's age between 18 and 80. Only return the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "26"
+      }
+    ],
+    "result": "The human vocal sounds in this recording are indeed quite different from those recorded by the speakers at 18 and 80 years old. The speakers at 18 and 80 years old are more familiar with the sounds of the 1950s and 1960s, which are much earlier in history. The human vocal sounds at 18 and 80 years old are much more recent and have been recorded by modern speakers."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2852_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2852",
+      "gender": "female",
+      "speaker_age": 28,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this sound sample of human vocalizations and predict the speaker's age as a number between 18 and 80. Provide the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "28"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1034_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1034",
+      "gender": "male",
+      "speaker_age": 59,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "59"
+      }
+    ],
+    "result": "The sound sample contains human vocalizations and predicts the speaker's age as an integer between 18 and 80. It provides only the age range."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2768_1_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2768",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The audio and the speaker are both based on their vocal sounds. The audio is the sound that is played back by the speaker, while the speaker is the person who is speaking. The speaker is the one who is speaking and the audio is the sound that is being played back."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3325_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3325",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio clip, predict the speaker's age as an integer between 18 and 80. Return only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "32"
+      }
+    ],
+    "result": "The human vocalizations in the audio clip are indeed quite different from those recorded in 1880. The audio clip features a mix of different vocalizations, including a voiceless version of the original, a voiceless version of the original, and a voiceless version of the original. The voiceless version is often used for recording the voice of a human, while the voiceless version is used for recording the voice of a machine."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0692_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0692",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "Canada",
+      "native_language": "ES",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "The age of the speaker is not specified in the given text."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1597_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1597",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "The audio and the speaker are both based on their vocal sounds. The audio is the sound that is played back by the speaker, while the speaker is the person who is speaking. The speaker is the person who is speaking, and the audio is the sound that is being played back by the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0557_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0557",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "Canada",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "40"
+      }
+    ],
+    "result": "The speaker's age from the human vocalizations in this clip is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from the human vocalizations in this clip. Respond with the age as an integer between 18 and 80, no additional details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "34"
+      }
+    ],
+    "result": "The speaker's age is 18 and the speaker's background is not specified."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3053_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3053",
+      "gender": "female",
+      "speaker_age": 47,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the human vocalizations in this audio clip, predict the speaker's age as an integer between 18 and 80. Return only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "47"
+      }
+    ],
+    "result": "The speaker's age is 80 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0202_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0202",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "29"
+      }
+    ],
+    "result": "The sound sample contains human vocalizations and predicts the speaker's age as an integer between 18 and 80. The audio quality is poor, with a low sound level and a low pitch. The audio quality is also poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor, with a low level of clarity and a low sound quality. The audio quality is poor"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2739_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2739",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2432_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2432",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's age from this vocalization sample. Provide only the age as an integer between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "31"
+      }
+    ],
+    "result": "The speaker's age from this vocalization sample is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "34"
+      }
+    ],
+    "result": "The age of the speaker's age can vary widely among speakers, but generally, it is considered to be between 18 and 20 years old. This age range is typically associated with the development of secondary education and the beginning of the adult age. It's important to note that the exact age can vary depending on the individual and their personal circumstances."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3025_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3025",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "yes",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context. In many settings, the age of the speaker can be around 18 to 20 years old. However, in some cases, the speaker might be 18 or 20 years old. It's important to consider the specific context and the age of the speaker when determining their age."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0874_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0874",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "26"
+      }
+    ],
+    "result": "The age of the speaker's age can vary widely among speakers, but generally, it is considered to be between 18 and 80 years old. This age range is typically associated with the beginning of the human life cycle, which includes the development of consciousness and the onset of puberty."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1248_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1248",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age of the speaker from the human vocal sounds in this audio clip. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "24"
+      }
+    ],
+    "result": "The age of the speaker from the human vocal sounds in this audio clip is 18 years and 80 years."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0538_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0538",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "27"
+      }
+    ],
+    "result": "The audio and the speaker's vocal sounds are indeed quite different. The audio is a mix of both spoken and recorded sounds, which can vary greatly depending on the context. The speaker's vocal sounds are usually more natural and may be more consistent with the context of the conversation."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1244_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1244",
+      "gender": "female",
+      "speaker_age": 25,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze this vocal sample of human vocalizations and estimate the speaker's age as an integer between 18 and 80. Return the age only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2196_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2196",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you predict the age of the speaker from this audio, considering human vocalizations? Respond with the age, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "30"
+      }
+    ],
+    "result": "Yes, I can. The audio from this audio is considered human vocalizations, and the audio is not only human but also contains human-like language. This means that the audio is not only human-like but also contains human-like language."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0101_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0101",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and predict the age of the speaker based on their vocal sounds, providing the age as an integer between 18 and 80, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "48"
+      }
+    ],
+    "result": "It sounds like you're trying to determine the age of the speaker based on their vocal sounds. To do this, you can look at the pitch of the sound, which is a key indicator of age. If the sound is very high, it might be a young person, while a low pitch might be a teenager. Additionally, you can look at the volume of the sound, which can give you an idea of the speaker's age. If the volume is too high, it might be a young person, and if the volume is too low, it might be a teenager."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3292_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3292",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "yes",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "23"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the 80 is 19."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1533_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1533",
+      "gender": "male",
+      "speaker_age": 21,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "yes",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this vocal sample and predict the speaker's age based on human vocalizations. Respond with the age only, between 18 and 80.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "21"
+      }
+    ],
+    "result": "The age of the speaker can vary widely depending on the context. In many settings, the age of the speaker can be around 18 to 20 years old. However, in some cases, the speaker might be 18 or 20 years old. It's important to consider the specific context and the age of the speaker when determining their age."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0933_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0933",
+      "gender": "female",
+      "speaker_age": 18,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sneeze."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Predict the age of the speaker from this audio sample containing human vocalizations. Your answer should be the age as an integer between 18 and 80, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "result": "The age of the speaker from this audio sample is 18 years old."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0640_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0640",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "Laughter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you predict the age of the speaker from this audio, considering human vocalizations? Respond with the age, no other information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "18"
+      }
+    ],
+    "result": "Yes, I can predict the age of the speaker from this audio. I can use a technique called audio detection, which is a process of analyzing the sound of an audio signal to determine the age of the speaker. By analyzing the sound of the audio, I can determine the age of the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0169_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0169",
+      "gender": "male",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Sniff."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "37"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the listener is 18."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0274_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0274",
+      "gender": "female",
+      "speaker_age": 40,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Cough."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the human vocalizations in this recording, estimate the speaker's age as an integer between 18 and 80. Only provide the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "40"
+      }
+    ],
+    "result": "The speaker's age is 18 and the audio is 80."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2023_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2023",
+      "gender": "female",
+      "speaker_age": 39,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "Throat clearing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the sound sample containing human vocalizations and predict the speaker's age as an integer between 18 and 80. Provide only the age.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "39"
+      }
+    ],
+    "result": "The age of the speaker is 18 and the age of the speaker is 80."
+  }
+]

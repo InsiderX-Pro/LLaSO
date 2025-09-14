@@ -1,0 +1,1702 @@
+[
+  {
+    "voice": [
+      "speechcommand/data\\5e3dde6b_nohash_2_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command no explanation.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d962e5ac_nohash_0_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Stop.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4f8ef132_nohash_0_happy.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happy."
+      }
+    ],
+    "result": "The command \"return only the command word\" is a command that is used to specify a particular part of a command. It is usually used to specify a particular part of a command, such as a list of items or a function. The command \"return only the command word\" is used to specify a particular part of the command, such as a list of items or a function."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5f814c23_nohash_0_eight.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      }
+    ],
+    "result": "The spoken command in this audio is \"H\" which is a command to pause or stop the audio."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4c6167ca_nohash_2_eight.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      }
+    ],
+    "result": "The command \"8\" is a number that stands for \"eight\". It is used to indicate that the number is equal to 8."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b97c9f77_nohash_0_bird.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bird."
+      }
+    ],
+    "result": "The spoken command in the audio is \"Go to the nearest store.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1fe4c891_nohash_0_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\43fc47a7_nohash_0_bed.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bed."
+      }
+    ],
+    "result": "The command \"return only the command word\" is a command that is used to return a specific command word. It is often used to specify a particular command word or phrase that needs to be returned. For example, if you are asking a chatbot to return the command word \"Hello\", the command \"return only the command word\" will return the command word \"Hello\"."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\9a7c1f83_nohash_4_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "result": "The command \"only respond with the command left\" is a command that is typically used to ask someone to respond to a specific command or instruction. It is often used to instruct someone to follow a specific order or to give a command to someone to do something."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\18f8afd5_nohash_0_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "result": "The speech command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\692a88e6_nohash_4_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "result": "The command \"7\" is a number that stands for \"seven\"."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_1_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "result": "The command in this audio is \"I'm sorry, but I can't help you with this.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b1f8326d_nohash_0_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "result": "The command \"Only with the command left\" is a command that is used to specify a particular action or action that must be taken in order to achieve a certain goal. It is often used to indicate that a particular action must be taken in order to achieve a certain goal."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\83957201_nohash_0_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Save the file.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\bfd26d6b_nohash_0_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "result": "The command \"only respond with the command\" is a command that is used to tell the user to only respond to a specific command or phrase. It is often used to give a command to a user to only respond to a specific command or phrase."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_12_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "result": "I'm sorry, but I can't recognize speech commands in this audio. However, I can help you with other language-based tasks such as answering questions, providing definitions and explanations, translating text from one language to another, summarizing text, generating text, writing stories, analyzing sentiment, providing recommendations, developing algorithms and creating code."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_9_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "result": "The spoken command in this audio is \"I'm sorry, but I can't help you with this.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_10_no.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Go to the library.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f292725f_nohash_0_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\7192fddc_nohash_0_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "result": "The spoken command \"Return only the command\" is a command that is used to request a specific action. It is often used to control a computer or other device to perform a specific task."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a8e25ebb_nohash_2_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "result": "The speech command in this audio is \"Return only the command 'one'. Please repeat it.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\ca48dc76_nohash_0_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "result": "The command \"2\" is a number that is used to indicate the number 2. It is often used to indicate the number 3 or 4."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6f689791_nohash_0_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "result": "The audio in this ad is a mix of upbeat and serious tones. The upbeat tone is used to emphasize the message of the ad, while the serious tone is used to convey the message of the ad."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4620dc14_nohash_0_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "result": "The \"audio\" in this audio is a sound effect that appears in the audio file. It is usually a sound that is played back and then mixed with other sound effects to create a fuller sound."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\91b03183_nohash_0_no.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "result": "The speech command in this audio is \"Go to the library.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\e49428d9_nohash_1_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "result": "The speech command \"Only respond with the command for\" is a command that instructs the listener to only respond with the command for."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d962e5ac_nohash_2_follow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Follow."
+      }
+    ],
+    "result": "The command word \"follow\" is the only one in the audio file."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3b4f8f24_nohash_0_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "result": "The speech command is a command that is used to initiate a conversation. It is usually followed by a response. The response is usually a statement or a command. For example, if the command is \"Go to the library\", the response would be \"Go to the library\"."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f0ae7203_nohash_0_sheila.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sheila."
+      }
+    ],
+    "result": "The speech command in the 'Return Only the Command Word' is \"Return only the command word.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4fd1443e_nohash_0_bird.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech instruction in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bird."
+      }
+    ],
+    "result": "The sentence \"birded\" is a verb that describes the action of a bird. It is the past tense of the verb \"bird.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f0ae7203_nohash_0_tree.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Tree."
+      }
+    ],
+    "result": "The command \"return only the command no extra details\" is a command that is used to return a specific command or set of commands. It is often used to specify a particular command or set of commands that should be executed only. For example, if you are using a command to set up a database, you can use the command \"return only the command no extra details\" to specify that the database should only be set up to a certain extent."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\cfbedff9_nohash_3_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "result": "The speech command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\9e2ce5e3_nohash_0_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Go to the library.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\dfdabe19_nohash_0_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speech command in this audio. Respond with only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "result": "The speech command in this audio is \"I'm sorry, but I can't speak.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\adebe223_nohash_0_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "result": "The spoken command in the TV show 'Descendants' is \"I'm sorry, but I'm not a doctor.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4fd1443e_nohash_1_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "result": "The speech command is \"I am a voice assistant and cannot write code.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3659fc1c_nohash_1_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Go to the library.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\63f7a489_nohash_2_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "result": "The command \"respond only with the command\" is a command that is used to tell someone to only respond to a specific command or instruction. It is often used to give a command to someone to only respond to a specific instruction or to give a command to only respond to a specific instruction."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\68dd409e_nohash_1_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech instruction in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "result": "The command word \"stop\" is a command used to stop a command or action. It is often used to indicate that the action has been completed and the user has finished executing it."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\40c4e774_nohash_0_cat.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cat."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a1533da4_nohash_0_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the command spoken in this audio. Return only the command, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "result": "I am a voice assistant and cannot write code. To determine the command spoken in the audio, you can use a tool like Audacity or a speech recognition library like Google Cloud Speech-to-Text. First, you need to import the speech library into your program. Then, you can use the command \"Return only the command\" to get the command spoken in the audio."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3cbd76a3_nohash_0_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "result": "The command \"return only the command\" is a command that is used to return a specific command or set of commands. It is often used to control a computer or other device to execute a task. For example, if you want to return a command to a program, you can use the command \"return only the command\"."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\0cb74144_nohash_0_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "result": "The speech command in this audio is \"I'm sorry, but I can't speak.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5c8af87a_nohash_0_house.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "House."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Go to the nearest store.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_0_wow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Wow."
+      }
+    ],
+    "result": "The spoken command in this audio is \"I'm sorry, but I can't help you with this.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8494fba8_nohash_1_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "result": "The command \"5\" is a number that is used to indicate the number 5 in a list. It is often used to indicate the number 5 in a sequence or sequence of numbers."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1acc97de_nohash_3_no.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Go to the library.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\40c4e774_nohash_0_follow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Follow."
+      }
+    ],
+    "result": "The speech command in this audio is \"Go to the library.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\c9b5ff26_nohash_0_one.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command no explanation.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1acc97de_nohash_1_eight.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      }
+    ],
+    "result": "The command \"8\" is a number that stands for \"eight\". It is often used to indicate the number of days in a month."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\43fc47a7_nohash_0_cat.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cat."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\68dd409e_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command no explanation.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4c6167ca_nohash_0_visual.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Visual."
+      }
+    ],
+    "result": "The speech command in this audio is \"I'm sorry, but I can't speak.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8769c34c_nohash_0_visual.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Visual."
+      }
+    ],
+    "result": "The speech command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_2_learn.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Learn."
+      }
+    ],
+    "result": "The command \"only with the command\" is a command that is used to specify a particular action or process. It is often used to control a system or process that is not specified in the command. For example, it can be used to control a computer to perform a specific task or to control a robot to perform a specific task."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\cfbedff9_nohash_0_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "result": "The speech command in this audio is \"Stop.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1cb788bc_nohash_0_one.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One."
+      }
+    ],
+    "result": "The speech command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a4383927_nohash_1_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "result": "The spoken command in this audio is \"I'm sorry, but I can't help you with this.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3b4f8f24_nohash_2_backward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Backward."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\189cbabe_nohash_2_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Stop.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\c22d3f18_nohash_0_one.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One."
+      }
+    ],
+    "result": "The command \"one\" is a command used to indicate that something is done or completed. It is often used to indicate that a task or action has been completed."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4fd1443e_nohash_0_sheila.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sheila."
+      }
+    ],
+    "result": "The speech command in this audio response is \"Sally, I'm here to help you with your question.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f2e59fea_nohash_1_backward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Backward."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a6f2fd71_nohash_1_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "result": "The command \"9\" is a number that is used to indicate the number 9. It is often used to indicate the number 900 or 999."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1acc97de_nohash_0_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speech command in this audio. Respond with only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "result": "The speech command in the audio is \"No explanation.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\964e8cfd_nohash_3_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Go to the library.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\63f7a489_nohash_4_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "result": "The speech command in this audio is \"Return only the command word.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f264e0df_nohash_0_wow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Wow."
+      }
+    ],
+    "result": "The command \"no more\" is a command that is used to stop a program from running indefinitely. It is often used to stop a program that is not running for an extended period of time."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\553f1a79_nohash_0_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "result": "The command \"up\" is a command that is typically used to start a process or to initiate a task. It is often used to start a process or to initiate a task that needs to be done. For example, if you are starting a process to create a new document, you would type \"up\" and then click on the \"Open\" button."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6f2f57c1_nohash_0_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "result": "The speech command in the audio is \"I'm sorry, but I can't speak.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\837a0f64_nohash_1_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "result": "The command in this audio is \"No extra text\"."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a6f2fd71_nohash_1_forward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Forward."
+      }
+    ],
+    "result": "The command \"return only the command\" is a command that is used to return a specific command or action. It is often used to specify a particular action or task. For example, if you want to return a command that is related to a specific task, you can use the command \"return only the command\"."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\bb05582b_nohash_1_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "result": "The spoken command in this audio is \"9\"."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8625475c_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "result": "The command \"off\" is a command that is typically used to stop a process or action from continuing. It is often used to indicate that a task or process is no longer being completed or that it is no longer relevant."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "result": "The command \"respond only with the command no extra text\" is a command that instructs the user to only respond to the command that is given to them. It is a simple and straightforward command that can be used to control a computer or other device."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\881583a6_nohash_0_dog.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Dog."
+      }
+    ],
+    "result": "The spoken command in the audio \"Only the command dog\" is \"Dog only.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d5b963aa_nohash_2_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4c6167ca_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b7e9f841_nohash_0_learn.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Learn."
+      }
+    ],
+    "result": "The spoken command \"Return only the command\" is a command that is used to request a specific action. It is often used to control a computer or other device to perform a specific task."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d1a4fb3f_nohash_0_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Go to the nearest store.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\aa80f517_nohash_3_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "result": "The speech command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_3_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "result": "The command \"Return only the command word\" is a command that is used to specify that the command should only be executed when the word is the first word of the command. It is often used to specify that the command should only be executed when the word is the first word of the command."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d5b963aa_nohash_0_marvin.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Marvin."
+      }
+    ],
+    "result": "The command word \"m\" is a contraction of \"me\" and \"or\". It is used to indicate that the speaker is speaking in a different language or dialect."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\80c45ed6_nohash_0_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "result": "The command \"six\" is a number that is used to count the number of times a certain number of items are counted. It is often used in counting and counting lists, as well as in counting cards."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\840c366d_nohash_0_marvin.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech instruction in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Marvin."
+      }
+    ],
+    "result": "The speech instruction in this audio is a command word, \"marmen.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\837a0f64_nohash_0_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "result": "The speech command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4a0e2c16_nohash_0_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "result": "The command \"respond only with the command\" is a command that is used to tell someone to only respond to a specific command or instruction. It is often used to give a command to someone to do something, such as responding to a specific instruction or command."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6379c6a2_nohash_0_forward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Forward."
+      }
+    ],
+    "result": "The command \"respond with only the command\" is a command that is used to tell someone to only respond to a specific command or instruction. It is often used to give a specific order or to give a specific instruction."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8769c34c_nohash_2_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "result": "The video is about the importance of mental health and how it can affect our lives. It highlights the fact that mental health is a complex issue that affects everyone, regardless of their age, gender, or socioeconomic status. It also emphasizes the need for individuals to take steps to protect their mental health, such as seeking professional help and taking time to practice self-care."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\2d82a556_nohash_0_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b83c1acf_nohash_0_bed.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bed."
+      }
+    ],
+    "result": "The command \"only with the command\" is a command that is used to specify a particular action or process. It is often used to control a system or process that is not specified in the command. For example, it can be used to control a computer to perform a specific task or to control a robot to perform a specific task."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3b4f8f24_nohash_3_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Yes\"."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8494fba8_nohash_1_happy.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happy."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Happy.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8769c34c_nohash_4_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "result": "The audio in this audio file is a mix of spoken and recorded dialogue. The spoken dialogue is spoken by the characters in the audio file, while the recorded dialogue is recorded by the computer."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\7e1054e7_nohash_1_house.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "House."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Return only the command.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a6f2fd71_nohash_1_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "result": "The command in this audio is \"No extra text\"."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6021f08b_nohash_0_tree.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Tree."
+      }
+    ],
+    "result": "The spoken command in this audio is \"Treat me, please.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\0cb74144_nohash_0_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speech command in this audio. Respond with only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "result": "The speech command in this audio is \"No explanation.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\2fa39636_nohash_0_dog.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Dog."
+      }
+    ],
+    "result": "The command \"Dog\" is a command that is often used to tell someone to stop or to stop something. It is often used to tell someone to stop doing something or to tell someone to stop doing something. It is also used to tell someone to stop doing something or to tell someone to stop doing something."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\9a69672b_nohash_0_zero.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Zero."
+      }
+    ],
+    "result": "The speech command in this audio is \"Go to the library.\""
+  }
+]

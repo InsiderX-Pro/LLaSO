@@ -1,0 +1,2102 @@
+[
+  {
+    "voice": [
+      "voxceleb/wav/id10942\\00014.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Poppy_Montgomery",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10601\\00031.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Katherine_Jenkins",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10352\\00105.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Greta_Gerwig",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11215\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Violante_Placido",
+      "Nationality": "Italy"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10574\\00009.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Julia_Stiles",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10460\\00025.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Jeannie_Mai",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11155\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Teala_Dunn",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10258\\00011.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Doutzen_Kroes",
+      "Nationality": "Netherlands"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10981\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Rita_Ora",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10508\\00027.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Joan_Chen",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10168\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Claudia_Black",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10725\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Mamie_Gummer",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10742\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Marie_Osmond",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10034\\00023.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Alexz_Johnson",
+      "Nationality": "Canada"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10997\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Roma_Downey",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11158\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Teri_Hatcher",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10367\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Heather_Graham",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10739\\00015.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Maria_Sharapova",
+      "Nationality": "Russia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10591\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Kate_Mansi",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10333\\00020.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Geri_Halliwell",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10941\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Pooja_Kumar",
+      "Nationality": "India"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10352\\00059.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Greta_Gerwig",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11016\\00043.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Ruth_Wilson",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10873\\00061.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Nichelle_Nichols",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10835\\00027.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Mischa_Barton",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10391\\00028.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Ingrid_Bergman",
+      "Nationality": "Sweden"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10343\\00071.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Gloria_Steinem",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10433\\00036.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Jane_Badler",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10196\\00036.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Danielle_Panabaker",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10112\\00016.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Brooke_Burke-Charvet",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10854\\00034.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Natalie_Dormer",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10696\\00035.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Lisa_Kudrow",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker's gender is not specified in the audio."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10098\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Bonnie_Wright",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10942\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Poppy_Montgomery",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10039\\00020.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Alison_Pill",
+      "Nationality": "Canada"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10289\\00001.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Elodie_Yung",
+      "Nationality": "France"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11102\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Sophie_Okonedo",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11221\\00008.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Wendi_McLendon-Covey",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11088\\00060.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Shonda_Rhimes",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11145\\00017.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Tanya_Tate",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10889\\00031.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Octavia_Spencer",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10730\\00029.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Marc_Webb",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10105\\00155.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Brett_Davern",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10105\\00042.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Brett_Davern",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10174\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Corbin_Bleu",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10983\\00056.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Rob_Brydon",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10488\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jerry_Ferrara",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11017\\00015.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Ryan_Kwanten",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10539\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Noble",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10197\\00056.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Danny_Dyer",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11105\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Stan_Lee",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10080\\00026.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Bear_Grylls",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10868\\00018.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Neil_deGrasse_Tyson",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10293\\00013.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Eoin_Macken",
+      "Nationality": "Ireland"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10273\\00016.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Eddie_Izzard",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10520\\00017.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Amos",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10334\\00020.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Gilles_Marini",
+      "Nationality": "Norway"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The audio clip is using a male voice."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10276\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Edgar_Wright",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10918\\00035.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Patrick_Wilson",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10482\\00038.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jeremy_Irons",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10931\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Peter_Berg",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10532\\00097.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Hurt",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10983\\00082.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Rob_Brydon",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10975\\00011.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Richard_Kind",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10077\\00015.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "B.J._Novak",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10980\\00065.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Riley_Smith",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10812\\00008.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Michael_Shannon",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10443\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jared_Harris",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10885\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Noel_Clarke",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The audio clip is only return Male."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10159\\00009.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Chris_Pine",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11182\\00047.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Tom_Ford",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11248\\00009.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Zachary_Quinto",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10278\\00036.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Edward_Asner",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10824\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Miles_Teller",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10977\\00050.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Ricky_Gervais",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10260\\00039.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Dr._Dre",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10677\\00031.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Laz_Alonso",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10247\\00007.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Dominic_Cooper",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10221\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "David_Tennant",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10012\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Adam_Driver",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10385\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Iain_Glen",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11212\\00030.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Vincent_Cassel",
+      "Nationality": "Norway"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10399\\00029.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jack_Black",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10489\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jerry_Trainor",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10536\\00001.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Lloyd_Young",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10885\\00023.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Noel_Clarke",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10800\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Michael_Bay",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10199\\00002.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Danny_Pino",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10106\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Brian_Blessed",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10485\\00043.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jeremy_Renner",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11071\\00014.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Shahid_Kapoor",
+      "Nationality": "India"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11212\\00002.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Vincent_Cassel",
+      "Nationality": "Norway"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10002\\00014.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "A.R._Rahman",
+      "Nationality": "India"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10921\\00055.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Paul_Feig",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10872\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Niall_Horan",
+      "Nationality": "Ireland"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10728\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Marc_Blucas",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10913\\00017.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Pat_Monahan",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10555\\00007.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jordan_Gavaris",
+      "Nationality": "Canada"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11178\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Toby_Stephens",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10278\\00028.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Edward_Asner",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male"
+  }
+]

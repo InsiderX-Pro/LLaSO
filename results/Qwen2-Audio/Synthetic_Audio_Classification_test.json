@@ -1,0 +1,1702 @@
+[
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file21390.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33576.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file15601.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided speech sample and classify it as either real human speech or a synthetic voice. Output only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file1450.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "The speech is categorized as fake."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file20959.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file7377.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file5878.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file21137.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1529.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "The speech is human-generated."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file19779.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file6728.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "human"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file32061.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1497.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "The speech is generated by an AI."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file22641.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided speech sample and classify it as either real human speech or a synthetic voice. Output only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file15301.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A security system is detecting AI-generated voices. Identify whether this voice sample is real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "This voice sample is real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file18502.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided speech sample and classify it as either real human speech or a synthetic voice. Output only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file4308.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17012.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "fake"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file33178.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/real\\file25092.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file25874.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file24287.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file245.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file29370.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file6571.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17383.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file20868.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/fake\\file21723.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speech sample as either real or fake. Provide no extra text, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17155.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "fake"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file19418.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file11789.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file8843.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "speech"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file7400.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "The speech appears to be written in English and seems to contain coherent sentences, but there are several grammatical errors that suggest it may not have been written by a human. The excessive use of exclamation marks, the unconventional capitalization, and the poor punctuation further support this theory.\n\nBased on these observations, I would classify this speech as \"fake\" generated by an AI model designed to mimic human language patterns."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file27095.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file2183.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "The speech is generated by an AI model."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file6463.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "fake."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file1505.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "The speech is human-generated."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file27908.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1809.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file11669.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "human"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file16399.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speech sample as either real or fake. Provide no extra text, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file6826.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speech sample as either real or fake. Provide no extra text, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file455.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speech contains unnatural pauses, robotic modulation, or digital artifacts, classify it as fake; otherwise, as real. Provide only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1776.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "fake"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1207.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file9637.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording naturally spoken or artificially generated? Respond only with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file19680.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect whether the given voice recording contains genuine human speech or AI-generated audio. Output real or fake only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file28040.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file21804.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17142.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "合成"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/fake\\file33629.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An automated voice assistant is under analysis. Classify this voice as either real human speech or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file3321.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "The speech in the audio is synthetic."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file25756.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "The speech is human-generated."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file5350.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "The speech is real."
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/fake\\file11420.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file1639.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file30098.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "合成的"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file2921.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "The speech is generated by a machine."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file8971.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the vocal texture and determine whether this is a human voice or AI-synthesized speech. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "human"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file959.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an anti-deepfake system, categorize this speech sample based on authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "The provided audio does not contain any discernible words or phrases, making it impossible to determine its authenticity without additional context or information."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file21407.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file212.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "The type of speech present is synthetic, specifically from a pre-recorded speech file."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file34316.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file2150.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file13752.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file26628.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file18937.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording naturally spoken or artificially generated? Respond only with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file18002.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "合成的"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file29480.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/testing/fake\\file376.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A forensic analysis team needs to verify if this speech is human or AI-generated. Classify it as real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "The speech is generated by an AI."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file12632.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file25272.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file16279.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file20092.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the vocal characteristics in this audio and classify it as either a real or fake speech sample. Only return the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33083.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file9498.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/real\\file18596.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file22098.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "fake"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file25584.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file24251.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file16846.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A security system is detecting AI-generated voices. Identify whether this voice sample is real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "This voice sample is real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/fake\\file17032.mp3.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A security system is detecting AI-generated voices. Identify whether this voice sample is real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fake."
+      }
+    ],
+    "answer": "The voice sample is real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file25263.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For audio authentication in media forensics, determine if this recording was spoken by a person or synthesized. Only return real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file26466.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file21750.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the speech sample as either real or fake. Provide no extra text, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file10840.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What type of speech is present in this audio? Identify whether it is real human speech or synthetic. Choose real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "fake"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file26226.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33021.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file30622.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file23694.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the authenticity of this speech sample. Reply with real if it is human speech or fake if it is synthetic.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "fake"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file17329.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file24246.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset on deepfake speech detection, classify this recording accurately as either real or fake. No explanation, just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/real\\file23804.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the speech characteristics to determine authenticity. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file17273.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This audio contains a spoken voice. Identify whether it was produced by a human or generated artificially. Choose only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file13596.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speech timbre, pitch variations, and articulation to classify whether this voice is real or fake. Output only one label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real."
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file12551.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-generated speech detection system, identify whether this voice is a genuine human recording or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33598.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided speech sample and classify it as either real human speech or a synthetic voice. Output only real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "Real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file33546.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "An automated voice assistant is under analysis. Classify this voice as either real human speech or synthetic. Respond with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/training/real\\file34391.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in this recording is real human speech or an artificial synthesis. Respond only with: real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  },
+  {
+    "voice": [
+      "for/for-norm/validation/real\\file3393.wav_16k.wav_norm.wav_mono.wav_silence.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording naturally spoken or artificially generated? Respond only with real or fake.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Real."
+      }
+    ],
+    "answer": "real"
+  }
+]

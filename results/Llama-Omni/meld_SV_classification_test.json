@@ -1,0 +1,2202 @@
+[
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia301_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "Oh God."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 835 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia533_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Yeah, well Betty is kinda sad. Which is why I believe I can lure her away with these chocolates.  Now, while I distract her,"
+    },
+    "prediction": "I believe I can verify which speaker is in the audio. Can you please provide the audio file?",
+    "prediction_units": "733 290 978 687 259 303 321 948 86 885 692 148 559 530 733 263 445 137 488 620 352 915 317 453 402 382 66 330 837 81 664 787 935 271 333 437 403 552 326 589 126 323 534 485 948 86 990 501 107 137 663 969 25 865 641 124 362 46 812 222 393 946 215 113 327 635 246 901 166 964 113 327 905 377 611 916 584 902 193 341 661 497 63 665 662 445 137 576 488 620 179 961 207 258 436 139 340 382 251 0 260 712 593 321 948 198 711 510 337 243 850 213 973 288 750 687 870 692 154 558 655 837 81 901 555 29 202 393 946 215 113 327 327 594 246 901 166 56 113 327 635 791 380 382 390 479 330 776 167 655 837 81 693 521 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia195_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Okay, great."
+    },
+    "prediction": "I'm not capable of analyzing vocal uniqueness or classifying speakers into specific categories. I'm a text-based AI assistant, not an audio analysis tool.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 423 27 761 430 650 931 62 317 645 453 655 837 81 347 376 398 212 455 143 537 526 302 908 380 382 268 501 860 716 205 521 771 333 139 485 974 948 539 29 747 961 428 377 198 835 67 297 265 169 461 969 867 45 914 119 593 167 462 761 907 430 70 835 866 586 362 59 998 66 776 167 655 837 81 398 212 455 143 98 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 169 25 771 46 812 222 274 79 799 220 742 519 589 337 126 323 241 432 882 924 261 230 314 333 958 66 852 333 487 990 107 29 914 445 137 384 761 430 70 185 788 59 998 350 234 402 211 466 53 198 711 510 297 265 675 755 415 772 497 63 99 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 940 118 537 213 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 81 432 742 519 26 204 280 314 6 333 32 170 731 600 702 15 377 93 506 208 613 417 755 237 193 111 63 665 991 162 116 475 783 104 945 944 488 620 931 659 538 609 187 594 246 901 166 56 113 327 635 791 894 382 423 565 179 961 931 62 384 761 907 430 317 453 366 742 924 866 586 955 333 432 32 683 589 884 244 583 516 677 253 103 521 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia853_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Because! Because, it-it-its Itd be like you having this guitar  and-and never playing it. Okay, this guitar"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 908 655 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia89_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "This sucks! I didnt know I had to stay up all night before I went to this stupid sleep clinic! Im so tired!"
+    },
+    "prediction": "That's Rachel.",
+    "prediction_units": "337 243 156 824 822 89 194 664 539 431 326 531 87 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia9_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh well, its not so bad."
+    },
+    "prediction": "I'm not sure, can you please provide more information or context about the speaker?",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 29 431 531 643 253 592 103 969 726 914 445 137 488 620 179 207 258 436 139 340 382 676 0 260 712 593 321 948 198 711 510 337 243 850 213 973 288 750 687 870 692 154 558 655 837 81 555 29 889 324 826 592 103 969 406 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 461 969 382 870 263 45 914 272 313 469 167 104 650 816 274 557 794 75 583 15 384 879 487 219 522 67 940 118 944 734 849 907 597 660 29 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 164 524 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia264_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Okay, are you aware unagi  is an eel?"
+    },
+    "prediction": "That's Phoebe.",
+    "prediction_units": "945 243 479 330 776 534 485 948 86 885 290 53 458 44 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia344_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh no-no-no, I wasn't waving at you lady."
+    },
+    "prediction": "I'm not capable of listening to audio samples or making voice classifications. However, I can help you with other questions or topics related to Friends or forensic voice analysis.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 846 538 187 594 246 901 166 56 113 327 635 791 380 828 742 98 519 589 26 204 280 668 384 907 430 650 816 409 757 716 205 521 711 510 169 187 461 969 498 172 871 822 89 664 990 501 398 212 455 143 692 526 302 592 103 81 194 664 835 67 589 337 243 914 445 593 761 430 70 540 794 59 958 66 910 161 487 319 501 137 822 89 194 817 146 283 832 758 545 711 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 915 470 821 576 384 693 268 876 323 258 436 139 340 787 935 271 333 523 918 878 238 104 938 663 969 263 45 272 119 797 576 384 879 70 731 600 477 283 832 758 711 510 362 461 969 691 105 244 583 167 104 108 70 404 757 323 377 219 990 107 545 85 297 337 243 156 824 402 228 259 317 453 822 89 194 664 599 333 523 555 29 79 799 220 390 479 330 647 576 384 879 488 443 325 758 711 510 362 461 969 390 479 330 515 663 466 503 333 443 93 683 519 589 866 204 955 333 487 990 107 233 537 526 302 592 103 81 194 32 835 22 297 700 362 734 179 961 281 62 761 907 317 453 366 432 742 924 866 586 955 377 198 835 67 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia385_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "You have chalk on your face."
+    },
+    "prediction": "I'm not capable of hearing or identifying voices. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 556 530 733 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 398 212 455 143 692 526 302 592 103 81 194 664 32 835 924 866 586 955 377 198 711 510 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 485 284 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia165_utt17.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "How bout I fix you two up?"
+    },
+    "prediction": "To fix your audio, try adjusting the microphone gain or using a different audio source. If the issue persists, check your audio cables or consult the user manual.",
+    "prediction_units": "868 390 479 330 776 333 219 522 85 866 337 258 436 663 969 538 187 594 246 660 166 56 964 113 327 905 803 791 52 524 44 902 605 121 63 665 662 777 227 647 655 837 81 327 523 196 705 11 576 104 70 835 67 940 118 398 212 455 202 393 946 734 498 889 338 359 655 837 81 501 860 663 390 422 330 435 908 380 896 627 915 143 416 836 822 89 194 620 112 659 187 461 969 258 436 139 340 347 376 398 212 455 428 565 734 523 196 537 721 250 333 958 66 776 663 443 506 233 609 187 594 246 901 166 56 964 113 327 635 791 380 742 98 519 589 26 204 76 614 592 103 969 828 22 297 265 675 237 415 772 497 63 644 864 771 685 333 873 958 66 202 393 946 215 406 25 771 333 32 882 431 531 74 139 340 251 676 481 973 288 796 663 432 742 519 866 586 280 314 333 32 835 67 940 118 545 85 297 265 675 237 307 63 662 326 531 576 384 879 70 219 107 258 436 663 969 538 609 187 594 246 901 166 56 113 327 905 635 791 380 382 867 45 914 445 137 822 89 194 664 885 154 302 205 521 711 510 169 237 187 461 969 867 263 45 272 313 469 366 729 915 912 519 589 26 204 280 668 246 693 521 506 29 202 393 946 734 258 436 139 340 347 376 975 362 663 498 889 338 359 6 761 907 430 179 207 950 74 635 716 205 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia100_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "sent": "negative",
+      "utt": "Where is Leslie?"
+    },
+    "prediction": "I'm not able to identify the speaker in the audio clip as I don't have access to it. Can you please provide more context or information about the audio clip?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 25 771 822 89 194 664 885 765 302 205 521 867 79 868 220 483 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 196 202 393 946 734 432 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 406 25 825 771 46 812 222 393 946 215 113 406 406 538 187 594 246 660 166 56 113 327 635 791 380 382 45 914 119 593 333 506 876 423 565 173 641 347 124 362 530 733 721 549 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 337 884 79 799 220 483 377 506 686 613 417 755 415 772 497 63 662 914 445 137 488 179 961 207 258 436 139 340 382 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 384 879 219 522 67 940 118 233 220 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 659 428 565 734 849 907 597 506 29 202 393 946 215 327 594 246 270 660 166 56 113 327 905 635 791 380 382 263 914 119 593 453 506 417 755 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia122_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "disgust",
+      "sent": "negative",
+      "utt": "I mean that aint a pretty picture in the morning, yknow what I mean."
+    },
+    "prediction": "I'm not sure, can you give me more context or information about the audio recording?",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 431 531 643 253 592 103 969 726 44 914 445 137 576 488 620 179 207 258 436 139 340 251 416 836 333 885 692 148 498 172 536 950 321 948 86 498 324 826 592 103 969 867 263 45 272 313 469 167 655 764 650 816 274 794 75 583 15 384 879 219 522 67 940 118 461 969 25 771 46 328 143 390 422 776 663 748 806 336 822 89 194 664 817 146 283 352 931 659 565 849 907 597 945 29 202 393 946 215 406 594 246 901 166 56 964 113 327 635 52 382 156 824 734 870 263 45 272 119 607 592 103 969 660 166 398 53 212 455 309 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia339_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Enough!"
+    },
+    "prediction": "Monica",
+    "prediction_units": "889 324 789 319 501 137 122 87 164"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia88_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Good for you Pheebs!"
+    },
+    "prediction": "I'm happy to help, but I need more information. Can you please provide more context or clarify which Joey, Ross, Rachel, Phoebe, Monica, or Chandler you're referring to?",
+    "prediction_units": "99 254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 693 268 876 417 755 63 665 547 833 173 945 530 733 575 116 372 485 948 86 555 233 889 324 826 592 103 969 466 25 771 333 328 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497 63 662 445 137 488 620 961 207 258 436 139 340 676 0 260 712 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 664 555 29 889 324 826 592 103 969 867 45 272 313 469 167 655 764 650 816 274 794 75 583 15 384 879 487 219 952 522 67 940 118 944 461 969 867 45 914 887 167 462 907 430 466 663 70 390 66 776 655 837 81 787 935 271 333 793 403 552 326 705 11 803 908 380 633 44 162 156 824 556 655 764 514 70 828 835 67 297 265 675 237 991 162 156 824 822 89 194 664 539 431 326 531 614 205 521 524 44 662 780 479 330 776 485 321 948 86 885 290 633 324 338 789 359 655 650 179 501 445 137 494 87 513 44 63 187 594 461 969 867 691 105 326 531 576 384 430 443 325 801 549 663 969 258 436 635 969 156 824 734 870 390 422 330 776 663 466 398 212 455 143 38 79 799 220 340 846 524 44 902 193 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia147_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Oh yeah!"
+    },
+    "prediction": "I'm not capable of classifying speakers in audio samples. However, I can suggest some online tools or apps that can help you with that. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 850 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 998 66 776 167 655 837 81 398 212 455 143 98 519 589 337 126 323 534 485 948 86 990 501 137 663 969 198 711 510 362 46 812 222 428 538 187 594 246 901 166 56 113 327 635 791 380 358 742 98 519 26 204 280 576 384 907 650 816 409 757 716 205 521 711 510 297 265 675 237 415 772 497 63 644 991 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 912 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 167 104 896 627 168 878 538 27 579 764 361 325 781 645 655 837 81 620 915 143 38 244 583 516 677 253 205 521 711 510 362 187 461 969 538 423 27 761 907 430 70 404 595 876 85 297 884 459 173 945 233 914 445 137 488 620 352 915 470 821 576 384 693 934 268 404 876 323 258 436 139 340 787 935 271 333 523 196 918 202 881 331 238 384 907 430 945 506 686 613 417 755 415 772 497 63 665 991 535 101 271 355 660 555 166 258 436 139 340 259 781 645 655 837 81 664 219 107 85 519 26 204 280 668 167 104 896 627 156 824 442 384 879 319 501 469 748 12 977 877 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia759_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice characteristics and identify the speaker. Reply with one of these names only: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Chelsea."
+    },
+    "prediction": "I'm not capable of analyzing voice characteristics or identifying speakers. I can provide information on the TV show Friends, though.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 423 27 761 430 650 931 62 259 317 645 453 655 837 81 664 347 376 398 212 455 143 526 302 592 103 81 664 32 835 67 589 337 884 850 914 445 137 167 761 663 523 219 315 477 663 466 824 503 333 432 882 683 731 600 702 680 333 219 990 107 85 297 265 169 594 461 969 466 530 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 212 455 912 519 589 126 323 534 485 948 86 990 501 788 663 969 377 198 711 510 297 265 675 755 584 415 772 497 63 644 254 530 733 445 137 488 620 143 38 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 538 187 493 361 393 946 734 523 793 105 244 680 534 485 948 86 885 526 56 485 321 948 32 882 431 531 576 803 791 380 382 390 479 330 647 384 879 488 443 758 545 711 510 297 265 675 237 202 881 331 803 563 52 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia740_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Well, not right now."
+    },
+    "prediction": "I'm not capable of identifying a speaker based on a recording. I need more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 29 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 530 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 428 565 734 742 742 519 589 337 126 323 534 485 948 86 990 501 137 663 969 870 290 978 822 89 194 664 835 67 940 118 944 878 493 361 734 156 824 734 263 45 272 119 592 103 660 166 398 212 455 385 584 902 193 415 772 497 63 644 254 530 733 575 116 372 485 321 948 86 555 29 889 324 826 592 103 969 867 45 272 313 469 367 167 655 764 650 816 274 794 75 583 576 384 879 219 522 67 940 118 233 461 103 969 466 25 771 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia0_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "That I did. That I did."
+    },
+    "prediction": "I'm not sure, I didn't hear the conversation. Can you provide more context or information about what you're referring to?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 326 531 643 253 592 103 969 726 644 254 530 733 721 250 333 523 555 795 915 143 470 821 534 485 113 284 663 969 541 202 393 946 734 263 469 167 655 764 650 816 409 154 559 663 432 742 540 866 586 280 314 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497 63 665 662 914 445 137 488 179 961 207 258 436 139 340 251 676 481 973 288 750 687 870 692 306 558 655 837 81 664 555 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 944 233 461 969 25 771 46 328 143 390 422 330 776 663 748 806 336 822 89 194 817 146 283 352 931 428 565 734 849 907 597 506 208 233 935 101 741 945 258 436 635 969 156 824 734 870 390 422 330 776 435 663 466 398 212 455 143 79 799 220 340 846 524 44 902 193 736 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1015_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "You have to give 'em something, you know."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 835 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia757_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Right!"
+    },
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to listen to audio clips. Can you please provide more context or information about the audio clip?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 803 693 611 268 876 417 755 111 63 665 991 547 833 173 945 944 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 589 337 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 549 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 664 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 228 259 781 303 333 32 882 924 866 586 955 352 915 143 79 799 220 846 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 686 545 85 297 265 675 237 415 772 497 63 662 445 137 488 620 179 207 258 436 139 340 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 324 826 592 103 969 867 263 45 272 313 469 167 655 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 233 220 461 969 25 771 328 143 390 422 776 663 748 806 336 822 89 194 817 146 283 352 385 659 428 565 734 849 907 597 660 29 393 946 734 406 538 594 246 660 166 56 113 327 905 635 791 380 382 867 45 914 119 593 453 713 506 876 417 755 415 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia261_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "And it can't be Joey."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 835 67 297"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia886_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Hey!"
+    },
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to listen to audio clips. Can you please provide more context or information about the audio clip?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 321 86 539 79 868 220 734 470 821 576 803 693 611 268 876 417 755 63 665 991 547 833 173 945 944 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 589 337 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 549 220 139 575 475 783 764 430 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 664 757 323 59 790 37 234 366 523 50 910 321 633 86 539 105 79 868 220 228 259 781 303 333 32 882 924 866 586 283 352 915 143 79 799 220 846 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 686 545 85 297 265 675 237 415 772 497 63 662 445 137 488 179 207 258 436 139 340 676 0 260 712 593 485 321 948 198 711 510 337 243 850 973 288 750 870 692 154 558 655 837 81 555 29 324 826 592 103 969 867 263 45 272 313 469 167 655 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 233 220 461 969 25 771 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 428 565 734 849 907 597 660 29 393 946 734 406 538 594 246 660 166 56 113 327 905 635 791 380 382 867 45 914 119 593 453 713 506 876 417 755 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia145_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Hey ladies! What are you in here for?"
+    },
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot classify a speaker into one of the predefined categories.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 470 821 534 485 284 466 398 212 455 187 594 461 969 538 423 27 761 430 179 931 62 317 645 453 655 837 81 664 347 376 398 212 455 538 609 187 594 246 660 901 166 250 964 113 327 905 377 791 611 524 44 115 121 128 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 761 488 179 961 475 783 655 104 945 506 233 542 914 119 887 593 167 761 430 70 835 540 866 586 59 998 958 66 776 655 837 81 327 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 406 25 771 46 812 222 274 79 799 220 787 935 101 741 650 449 931 62 932 148 202 393 946 734 870 251 973 796 485 948 801 250 366 998 390 479 330 776 384 443 325 915 555 233 45 914 445 137 167 761 430 70 185 794 788 15 998 350 968 592 466 53 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia15_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Yeah! Sure! Yep!  Oh, y'know what? If I heard a shot right now, I'd throw my body on you."
+    },
+    "prediction": "Based on the voice characteristics, I would classify the speaker as Rachel.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 613 944 493 361 393 946 734 870 692 526 302 592 103 81 194 664 835 67 589 337 914 445 137 576 761 466 487 219 952 315 477 788 663 466 824 503 333 32 882 683 940 600 702 680 15 377 219 990 107 545 85 297 265 675 237 307 985 254 504 530 733 787 935 101 741 660 555 233 914 445 119 593 167 761 907 430 70 835 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 173 641 124 243 156 824 822 89 194 664 539 431 326 531 614 716 205 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia604_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "So you told her there was somebody else so she would agree to work with you, so cause you figure oh if you spent a lot of time together, maybe something might happen, and..."
+    },
+    "prediction": "I'm not aware of any specific conversation or context about Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Could you please provide more information or clarify which conversation you're referring to?",
+    "prediction_units": "254 530 733 627 143 116 475 783 104 945 944 565 734 787 935 101 741 284 249 969 466 932 148 423 384 179 207 428 950 321 948 742 98 589 337 126 260 323 241 432 882 924 261 230 314 333 958 66 852 910 333 487 990 107 29 914 445 313 367 167 764 650 816 409 559 663 432 346 540 866 586 280 314 822 89 194 817 146 283 352 385 931 659 187 594 461 969 867 45 272 313 469 167 655 764 650 816 274 557 75 583 576 384 879 219 952 522 67 940 118 944 59 734 849 907 597 506 29 705 11 576 803 791 380 56 321 458 942 44 162 156 824 655 764 70 835 67 297 265 675 237 665 991 162 156 824 442 822 89 194 664 539 552 326 531 205 521 524 44 63 662 780 479 330 776 56 485 948 86 885 978 458 44 73 324 338 789 655 650 179 961 931 137 291 87 513 44 63 187 594 461 969 660 691 105 326 531 576 384 907 764 443 325 801 549 377 969 164 584 902 819 341 661 497 63 662 914 119 677 333 555 166 258 436 139 340 382 251 676 260 712 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 29 889 324 826 592 103 969 25 771 333 328 143 390 422 776 663 748 806 336 822 89 194 817 146 283 352 385 931 461 969 867 45 914 887 167 462 761 907 430 466 663 70 390 958 66 776 655 837 81 787 935 271 333 793 552 326 850 914 445 469 167 655 650 816 154 559 663 432 742 540 866 586 280 314 822 89 194 817 146 283 352 915 258 436 635 969 156 824 734 870 390 422 330 776 663 466 398 212 455 143 79 799 220 340 846 524 44 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia529_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Ross, I am telling you that she is using you to get back at me!"
+    },
+    "prediction": "Rachel",
+    "prediction_units": "156 824 822 89 194 664 431 531 205"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia424_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "She lives so close."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 764 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia460_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "No-no, itll be fun! We can come back and we can haunt these guys!"
+    },
+    "prediction": "I'm not capable of listening to voice samples or identifying speakers. I can provide information about the TV show Friends, though.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 870 692 526 302 592 103 81 194 664 32 835 67 780 519 26 204 280 576 384 907 430 650 816 409 757 716 205 521 711 510 169 187 461 969 530 733 196 166 549 384 879 443 93 274 794 15 998 958 66 776 655 837 81 398 212 455 143 98 519 589 337 126 323 534 485 321 948 86 990 501 137 663 969 377 198 711 510 297 265 675 755 584 415 772 497 63 644 254 530 733 445 137 488 620 143 38 481 973 288 750 870 692 154 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 565 734 849 907 597 506 29 393 946 734 523 793 105 244 680 534 485 948 86 885 526 56 485 321 948 707 32 882 431 531 576 803 791 380 382 390 479 330 647 384 879 488 443 93 758 545 711 510 297 265 675 237 307 202 881 331 803 563 52 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia252_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "No?"
+    },
+    "prediction": "I'm not capable of classifying speakers in audio samples. However, I can suggest some online tools or apps that can help you with that. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 850 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 998 66 776 167 655 837 81 398 212 455 143 98 519 589 337 126 323 534 485 948 86 990 501 137 663 969 198 711 510 362 46 812 222 428 538 187 594 246 901 166 56 113 327 635 791 380 358 742 98 519 589 26 204 280 576 384 907 650 816 409 757 716 205 521 711 510 297 265 675 237 415 772 497 63 644 991 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 912 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 167 104 896 627 168 878 538 27 579 764 361 325 781 645 655 837 81 620 915 143 38 244 583 516 677 253 205 521 711 510 675 362 187 461 969 538 423 27 761 907 430 70 404 595 876 85 297 884 459 173 945 233 914 445 137 488 620 352 915 470 821 576 384 693 934 268 404 876 323 258 436 139 340 787 935 271 333 523 196 918 202 881 331 238 384 907 430 945 506 686 613 417 755 415 772 497 63 665 991 535 101 271 355 660 555 166 258 436 139 340 259 781 645 655 837 81 664 219 107 85 519 26 204 280 668 167 104 896 627 156 824 442 384 879 319 501 469 748 12 671 877 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia26_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Man, this is gonna be kinda weird."
+    },
+    "prediction": "That's a tough one, but I'm going to take a guess and say Monica.",
+    "prediction_units": "881 331 430 362 734 105 244 583 167 104 70 390 66 243 535 935 101 741 246 764 650 620 112 385 343 44 115 213 547 833 173 945 944 27 530 733 627 416 836 803 908 894 398 212 455 143 38 79 868 220 105 244 583 822 89 664 990 501 107 137 565 734 350 416 836 384 907 879 430 70 835 67 297 169 175 684 136 912 519 26 204 280 822 89 194 664 86 498 324 338 359 556 655 764 81 179 961 931 428 53 458 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia568_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Okay but what about y'know my pinchable butt and my bulging bicepsShe knows!"
+    },
+    "prediction": "Based on your description, I would classify the speaker as Joey.",
+    "prediction_units": "978 822 89 194 664 835 118 944 493 361 258 436 663 969 196 721 250 432 170 731 589 337 126 426 647 333 998 595 817 146 283 377 352 385 343 942 115 193 666 63 644 254 504 530 733 787 935 101 741 555 233 45 914 119 887 593 462 761 430 70 835 866 586 59 958 66 776 655 837 81 901 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 337 243 537 705 11 576 803 908 380 53 458 942 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia510_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half."
+    },
+    "prediction": "Based on the information, I'm going to take a guess and say the speaker is Rachel.",
+    "prediction_units": "978 833 822 89 194 664 835 67 940 944 878 493 361 393 946 215 25 327 328 409 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 343 942 44 115 193 63 644 254 504 530 733 627 416 836 803 908 894 398 212 455 143 38 79 868 220 523 793 105 244 583 576 822 89 194 664 990 501 107 137 565 734 45 416 836 384 879 430 70 835 67 265 169 823 175 684 136 912 519 26 204 280 576 822 89 194 664 202 393 946 734 742 519 589 337 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 243 156 824 822 89 194 664 431 326 531 614 716 205 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia147_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice characteristics and identify the speaker. Reply with one of these names only: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "So what're you saying here? I should shave again, pick up some wine, what?"
+    },
+    "prediction": "I'm not capable of identifying speakers based on voice characteristics. However, I can help you with other tasks.",
+    "prediction_units": "254 530 733 627 116 475 783 104 70 945 506 233 542 914 445 137 822 89 194 664 757 59 790 716 205 521 932 148 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 143 912 519 337 126 323 534 485 948 86 990 501 137 663 969 198 711 124 243 850 290 978 833 822 89 194 664 835 67 940 118 944 878 493 361 143 692 526 302 592 103 81 664 32 835 67 589 337 850 445 137 761 466 503 219 952 315 477 663 466 503 333 32 882 731 940 600 702 680 377 990 545 85 297 265 675 237 415 772 497 63 665 644 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 576 693 268 876 258 436 139 340 787 935 271 333 523 918 944 878 538 238 104 938 663 793 105 244 583 576 761 907 430 70 835 67 940 118 107 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia245_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Youll have a last kiss."
+    },
+    "prediction": "I'm not capable of listening to voice samples or identifying speakers. I'm a text-based AI assistant. However, I can help you with other questions or topics.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 870 692 526 302 592 103 81 194 664 32 835 67 780 519 26 204 280 576 384 907 430 650 816 409 757 716 205 521 711 510 297 675 169 187 461 969 530 733 196 166 549 384 879 443 93 274 794 15 998 958 66 776 655 837 81 398 212 455 143 98 519 589 337 126 323 534 485 948 86 990 501 137 663 969 377 198 711 510 297 265 675 755 584 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 81 798 432 742 519 26 204 280 314 333 32 882 170 731 600 702 788 15 377 93 385 686 613 417 755 415 497 63 644 254 821 167 104 108 894 852 741 384 879 577 154 663 969 524 44 530 733 914 445 137 488 620 470 821 576 384 693 268 876 258 436 139 340 787 935 271 333 196 918 878 27 104 938 663 969 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 167 655 104 108 70 404 757 323 377 219 990 107 545 85 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia833_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal features, classify the speaker as one of the following: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output the correct name only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "I mean come on, that is just noise!"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 908 246 907 122 631 835 67 297 675"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia128_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Great, lets begin.  Hows the pressure?"
+    },
+    "prediction": "Let's get started. Can you please play the audio sample or provide more context about the conversation?",
+    "prediction_units": "945 85 589 337 850 416 836 384 879 945 29 519 589 600 702 874 576 655 764 969 185 599 377 555 755 902 193 415 772 497 63 665 662 914 445 137 576 488 620 179 207 258 436 139 340 870 251 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 260 712 593 576 822 89 194 664 202 393 946 215 113 327 246 660 166 56 113 327 635 791 380 828 742 98 519 589 26 204 280 668 384 879 650 816 325 409 757 789 716 205 521 461 969 870 251 676 973 288 750 870 692 154 558 655 837 81 555 29 889 324 826 592 103 969 867 263 45 272 313 469 167 655 104 650 816 274 794 75 583 15 384 879 219 522 67 940 118 944 734 849 907 597 29 202 393 946 734 914 313 367 167 655 650 816 409 154 559 663 432 742 540 866 586 314 576 822 89 194 817 146 283 377 385 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia614_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "We can get--what are those--those patches!"
+    },
+    "prediction": "I'm not capable of hearing or identifying voices. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 470 821 534 485 284 466 398 212 455 187 461 969 530 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 81 398 212 455 915 143 526 302 592 81 664 32 835 924 866 586 955 377 198 711 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 816 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1026_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "What?"
+    },
+    "prediction": "I'm not capable of listening to voice samples or identifying speakers. I can provide information about the TV show Friends, though.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 934 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 870 692 526 302 592 103 81 194 664 32 835 67 519 26 204 280 576 384 907 430 650 816 409 757 716 205 521 711 510 169 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 143 98 519 589 337 126 323 534 485 321 948 86 990 501 137 663 969 377 198 711 510 297 265 675 755 584 415 772 497 63 644 254 530 733 445 137 488 620 143 38 481 973 288 750 870 692 154 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 822 89 194 817 146 283 352 931 659 565 734 849 907 597 506 29 393 946 734 523 793 105 244 680 534 485 321 948 86 885 526 559 56 485 321 948 707 32 882 431 531 576 803 791 380 382 390 479 330 647 384 879 488 443 93 758 545 711 510 297 265 675 237 307 202 881 331 803 563 52 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia11_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "This is my wedding."
+    },
+    "prediction": "Monica",
+    "prediction_units": "324 789 179 948 501 476 137 87 164"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia445_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Im sorry I wont be able to make it to your imaginary wedding, but Im"
+    },
+    "prediction": "I'm not capable of identifying a speaker's identity based on voice characteristics. However, I can try to help you with your imaginary wedding planning. Which character would you like to be the speaker at your wedding?",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 70 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 565 734 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 124 362 530 81 733 664 196 166 549 384 879 443 93 274 794 680 910 161 523 50 910 321 86 357 537 290 978 822 89 194 664 835 67 940 118 944 878 493 361 143 526 302 592 81 194 664 835 67 589 337 850 914 137 761 466 523 219 315 477 788 663 466 503 333 432 882 683 940 600 702 680 377 990 107 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 143 777 227 647 655 837 81 664 793 79 868 220 470 821 384 693 268 876 258 436 139 340 787 935 271 333 523 196 918 258 436 635 663 969 25 498 338 359 384 907 933 498 889 663 961 428 366 969 466 56 787 935 101 741 384 879 523 196 166 398 212 455 143 38 260 593 761 907 430 179 398 53 455 385 584 902 193 415 772 497 63 665 991 535 271 333 437 552 326 850 914 445 137 576 384 761 907 466 173 487 219 952 315 75 788 663 969 787 935 101 271 355 660 555 166 258 436 139 340 380 781 645 837 81 664 990 29 79 868 220 943 321 948 202 393 946 734 432 742 98 519 589 126 323 534 485 86 990 501 137 663 969 524 173 945 29 233 258 436 635 663 969 787 935 101 741 384 879 398 53 212 455 343 309 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia116_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure speaker verification considers pitch, speech rate, and intonation. Identify the speaker as Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "I think you would have to clean a whole lot of apartments to go all the way to India."
+    },
+    "prediction": "I think you'd identify as Monica, she's known for being a neat freak and having high standards for cleanliness.",
+    "prediction_units": "530 733 390 256 743 576 333 212 455 107 233 258 436 139 340 555 530 733 664 196 166 549 879 443 274 794 680 15 59 998 958 66 776 655 837 81 327 173 641 124 337 243 889 324 338 789 359 384 837 179 961 931 87 513 44 605 63 665 780 431 531 534 485 948 641 124 243 116 281 783 803 791 380 620 143 390 515 663 870 290 943 56 398 212 455 565 734 575 116 372 485 321 948 86 539 233 479 330 776 219 990 107 417 755 823 175 684 136 470 821 152 784 430 398 212 455 470 821 655 837 81 664 32 742 98 519 589 702 874 576 384 907 430 650 325 801 852 663 969 377 198 506 545 85 510 297 243 515 663 263 45 914 119 593 576 384 879 650 325 781 303 56 82 179 961 428 377 835 67 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia551_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "What are you doing?"
+    },
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to listen to audio clips. Can you please provide more context or information about the audio clip?",
+    "prediction_units": "254 504 530 733 627 470 821 761 430 70 404 757 323 56 321 86 539 79 868 220 470 821 576 803 693 611 268 876 417 755 128 665 991 547 833 173 945 944 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 589 337 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 549 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 664 757 323 734 790 37 234 366 523 50 910 321 633 86 539 105 79 868 220 228 259 781 303 333 32 882 924 866 586 283 352 915 143 79 799 220 846 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 876 545 85 297 265 675 237 415 772 497 63 662 445 137 488 179 207 258 436 139 340 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 889 324 826 592 103 969 867 263 45 272 313 469 167 655 650 816 274 557 794 583 15 384 879 219 522 67 940 118 233 220 461 969 25 771 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 428 565 734 849 907 597 660 29 393 946 734 406 538 594 246 660 166 56 113 327 905 635 791 380 382 263 914 119 593 453 506 417 755 415 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia309_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Kathy! Kathy! Hi!! Kathy! Kathy! (She doesn't hear him and keeps running, Chandler starts chasing her as the theme to"
+    },
+    "prediction": "Based on the provided audio, I would classify the speaker as Rachel.",
+    "prediction_units": "978 822 89 194 118 944 878 493 361 393 946 734 870 251 676 481 973 288 750 687 870 692 154 558 655 837 81 166 599 333 523 555 944 878 609 187 594 246 660 166 56 113 327 905 791 52 524 44 115 254 504 530 733 787 935 101 660 555 233 542 914 119 593 167 761 907 430 70 835 540 866 586 362 998 958 66 776 655 837 81 901 202 393 946 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 423 173 641 683 243 156 824 822 89 194 664 431 326 531 614 716 205 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia830_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Varrrrrroom!"
+    },
+    "prediction": "I'm not capable of classifying speakers in audio samples. However, I can suggest some online tools or apps that can help you with that. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 850 914 119 887 593 167 761 430 70 835 540 866 586 362 59 998 66 776 167 655 837 81 398 212 455 143 98 519 589 337 126 323 534 485 948 86 990 501 137 663 969 198 711 510 362 46 812 222 428 538 187 594 246 901 166 56 113 327 635 791 380 358 742 98 519 26 204 280 576 384 907 650 816 409 757 716 205 521 711 510 297 265 675 237 415 772 497 63 644 991 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 912 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 85 519 26 204 280 668 167 104 896 627 168 878 538 27 579 764 361 325 781 645 655 837 81 620 915 143 38 244 583 516 677 253 205 521 711 510 675 362 187 461 969 538 423 27 761 907 430 70 404 595 876 85 297 884 459 173 945 233 914 445 137 488 620 352 470 821 576 384 693 934 268 404 876 323 258 436 139 340 787 935 271 333 523 196 918 202 881 331 238 384 907 430 945 506 686 613 417 755 415 772 497 63 665 991 535 101 271 355 660 555 166 258 436 139 340 259 781 645 655 837 81 664 219 107 85 519 26 204 280 668 167 104 896 627 156 824 442 384 879 319 501 469 748 12 977 877 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia58_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "So you uh, want to do something tonight?"
+    },
+    "prediction": "I'm not capable of hearing or identifying voices, but I can help you with other questions or tasks if you'd like.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 143 692 526 302 592 103 81 194 32 835 924 866 586 955 377 53 198 711 510 297 265 675 237 307 121 407 111 621 128 665 991 833 173 945 944 530 733 914 445 137 488 620 352 470 821 384 693 934 268 404 876 29 258 436 139 340 787 935 271 333 523 196 918 104 938 663 867 263 45 272 119 797 576 384 879 70 731 600 477 283 832 758 711 510 362 461 969 660 691 105 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 169 955 333 958 66 258 436 139 340 660 555 781 645 655 837 81 664 990 107 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia369_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to verify who is speaking in this clip. Select from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "!"
+    },
+    "prediction": "I'm happy to help. Can you please provide the clip or a description of the conversation so I can identify the speaker?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 321 948 86 539 79 868 220 470 821 576 803 693 611 268 876 417 341 661 497 63 662 445 137 576 488 620 179 207 258 436 139 340 870 251 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 263 45 914 119 593 333 713 404 876 187 594 461 969 565 734 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 734 272 313 367 167 655 650 816 409 154 559 663 742 540 866 586 280 314 822 89 664 817 146 283 832 758 912 519 26 204 76 614 803 791 894 530 733 263 914 445 137 488 620 931 530 733 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 164 524 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia424_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "Oh yeah! With who?"
+    },
+    "prediction": "I'm not capable of listening to voice samples or identifying speakers. I can provide information about Friends characters, though!",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 870 692 526 302 592 103 81 194 664 32 835 67 519 26 204 280 576 384 907 430 650 816 409 757 716 205 521 711 510 169 187 461 969 530 733 196 166 549 384 879 443 93 274 794 15 998 958 66 776 655 837 81 398 212 455 143 98 519 589 337 126 323 534 485 321 948 86 990 501 137 663 969 377 198 711 510 297 265 675 755 237 415 772 497 63 644 254 530 733 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 565 734 849 907 597 506 29 233 479 330 647 384 879 488 443 758 545 711 510 337 850 914 445 137 576 761 907 466 503 487 219 952 315 75 788 663 969 198 711 510 297 265 675 237 307 128 202 881 331 803 563 611 916 584 902 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia630_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Thanks Monica!"
+    },
+    "prediction": "Monica",
+    "prediction_units": "319 501 445 137 87 164"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia108_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Ow!"
+    },
+    "prediction": "I'm not able to hear the audio, but I can help you with a trivia question. Would you like that?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 485 284 969 202 393 946 734 538 187 594 246 901 166 964 113 327 377 791 611 524 44 605 121 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 576 384 693 268 876 258 436 139 340 787 935 271 333 196 918 734 319 105 777 728 647 333 56 113 327 635 734 263 45 272 119 797 576 384 879 70 731 600 477 146 283 385 584 902 193 415 772 497 63 665 991 535 101 333 523 555 166 258 436 139 340 259 781 645 655 837 81 664 990 107 29 881 331 384 907 430 945 506 686 417 755 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1038_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal features, classify the speaker as one of the following: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output the correct name only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "disgust",
+      "sent": "negative",
+      "utt": "It made me nuts."
+    },
+    "prediction": "I'm not capable of classifying speakers based on vocal features. However, I can provide you with a description of each character's voice tone and pitch if that helps.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 850 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 998 66 776 167 655 837 81 398 212 455 143 912 519 589 337 126 323 534 485 948 86 990 501 137 663 969 198 711 124 243 850 290 978 833 822 89 194 664 835 67 940 118 944 878 609 187 493 361 915 143 692 526 302 6 908 382 268 501 860 716 205 521 390 479 330 776 485 948 86 539 477 326 74 663 969 377 198 711 510 297 265 675 755 415 772 497 63 644 991 821 167 104 108 894 852 384 879 577 692 154 302 663 969 524 44 530 733 914 445 137 488 620 143 38 676 481 973 288 750 687 870 692 306 154 558 655 837 81 664 555 166 258 436 139 340 787 935 271 333 523 196 393 734 196 721 250 333 432 170 731 589 337 126 426 647 333 219 595 817 146 283 352 931 932 148 771 485 948 86 539 552 326 337 243 850 914 445 137 576 761 907 466 503 487 219 952 315 788 663 198 711 510 243 526 302 592 103 81 194 664 835 67 589 884 702 244 583 576 803 791 380 620 112 659 823 175 684 136 143 38 412 260 323 793 506 552 326 531 955 685 333 958 66 884 881 331 173 945 470 821 384 693 506 876 686 545 85 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia2_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "What are you talkin about? I never left you! Youve always been my agent!"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 764 711 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia212_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure speaker verification considers pitch, speech rate, and intonation. Identify the speaker as Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Huh, well, the girls in the satin nighties on the commercial dont seem to think its that bad."
+    },
+    "prediction": "Based on the provided information, I'm unable to identify the speaker as Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Can you provide more context or details about the conversation?",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 118 944 878 493 361 393 946 734 251 676 481 973 288 750 687 692 154 558 655 837 81 599 161 523 555 944 25 771 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 385 343 942 115 193 63 644 254 504 530 733 627 538 254 27 104 650 179 961 931 428 822 89 194 664 885 765 302 716 205 521 79 868 220 483 530 733 196 166 549 384 879 443 93 274 794 15 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 423 173 641 124 243 537 705 11 74 803 380 53 321 458 44 63 991 162 156 824 556 655 764 514 70 835 67 297 265 675 237 665 991 162 156 824 442 822 89 194 664 539 326 531 205 521 524 44 63 662 780 479 330 776 485 948 885 321 417 73 324 338 789 359 655 650 179 501 445 137 291 494 87 513 44 63 187 594 461 969 867 691 105 326 531 576 907 834 705 11 74 377 969 164 726 584 902 819 341 661 497 63 662 445 137 576 488 620 961 207 258 436 139 340 382 251 251 676 481 973 288 750 870 692 306 558 655 837 81 555 29 889 324 826 592 103 969 867 263 45 272 313 469 367 167 655 650 816 274 557 794 75 583 15 384 879 219 522 67 940 118 233 220 461 969 523 196 721 250 485 948 86 539 557 75 583 15 822 89 284 327 635 693 205 521 711 510 362 734 849 907 597 29 393 946 734 263 272 313 469 367 167 764 650 816 409 154 663 432 742 98 540 866 586 314 822 89 194 817 146 283 377 385 343 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia218_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "I say we go with"
+    },
+    "prediction": "Based on the quote, I would classify the speaker as Joey.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 944 878 493 361 393 946 734 263 45 272 119 387 908 791 380 660 506 686 208 613 417 755 237 605 193 63 665 254 530 733 787 935 101 660 555 233 914 119 593 761 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 432 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 641 683 337 243 537 705 11 576 803 908 791 380 53 458 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia47_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Quick, aim him at that pack o' babes over there."
+    },
+    "prediction": "I'm not capable of hearing or seeing your surroundings, so I cannot verify the speaker's identity.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 29 542 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 821 534 485 284 663 466 398 212 455 659 187 594 461 969 742 98 519 589 26 204 976 534 485 948 398 212 455 258 436 663 969 432 742 742 519 26 204 76 59 870 156 824 556 761 907 597 816 325 801 398 53 455 758 711 510 297 675 237 307 226 666 621 128 780 289 26 204 76 614 803 894 483 530 733 263 45 914 445 137 576 384 761 650 179 961 475 783 246 945 944 537 526 559 384 879 466 366 998 958 66 776 655 837 81 202 393 946 432 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 362 837 81 196 166 549 384 879 443 93 274 794 680 910 161 523 50 53 458 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia770_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Look, these clowns are trying to take us for a ride and I'm not gonna let 'em!"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 711 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia135_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Hi, here's the deal."
+    },
+    "prediction": "I'm happy to help. However, I need more context or information about the voice you're referring to. Could you please provide more details or clarify which voice you're trying to identify?",
+    "prediction_units": "254 504 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 693 611 268 876 417 341 661 497 63 665 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 575 116 372 485 948 86 555 233 889 324 826 592 103 969 466 45 272 313 469 167 655 764 650 816 274 557 794 75 583 15 384 879 219 952 522 940 118 944 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 734 849 907 597 660 29 393 946 734 692 526 302 592 103 81 194 664 835 67 22 297 337 243 258 436 635 663 969 156 824 734 870 390 422 330 776 435 663 969 466 398 212 455 143 38 79 799 220 846 611 916 584 902 193 415 661 497 63 662 914 119 677 220 333 523 555 258 436 139 340 382 251 676 0 260 712 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 664 555 233 29 324 826 592 103 969 196 721 250 485 948 86 539 557 75 583 822 89 284 905 693 205 521 711 510 362 461 969 263 45 914 887 167 462 907 466 663 390 958 66 776 655 837 81 787 935 271 333 793 403 552 326 692 526 302 592 103 81 194 664 835 67 337 243 258 436 635 663 969 105 777 227 647 655 837 81 398 212 455 143 38 79 868 220 81 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 194 458 44 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia833_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Its not even a song!"
+    },
+    "prediction": "I'm happy to help, but I need more information. Can you please provide the recording or a description of the tone, pitch, and speech patterns you're referring to?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 321 86 539 79 868 220 734 470 821 576 803 693 611 268 876 417 755 63 665 547 833 173 945 944 530 733 575 116 372 485 948 86 555 29 889 324 826 592 103 969 466 503 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497 63 665 662 914 445 137 488 620 179 207 258 436 139 340 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 156 824 734 870 263 45 272 119 607 592 103 660 166 398 212 455 659 461 969 466 565 734 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 734 105 244 583 576 803 563 380 620 112 385 343 44 902 752 63 665 662 213 260 323 333 713 506 686 326 531 417 755 237 644 823 175 684 136 912 98 519 589 126 323 534 485 948 813 86 539 552 326 531 243 850 260 547 444 384 761 907 430 70 185 788 663 832 758 711 510 243 258 436 139 340 635 663 969 156 824 734 870 390 422 330 776 663 969 466 398 212 455 143 79 799 220 340 846 524 44 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia506_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Look, look, theres got to be a way we can work past this."
+    },
+    "prediction": "Joey",
+    "prediction_units": "705 11 576 53 321 458"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia936_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Look, Rachel, if you go, youre just gonna mess with his head and ruin his wedding!"
+    },
+    "prediction": "Based on the voice characteristics, I would classify the speaker as Rachel.",
+    "prediction_units": "290 978 833 822 89 194 835 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 337 914 445 137 576 761 466 487 219 952 315 477 788 663 466 824 503 333 32 882 683 940 600 702 680 15 377 487 990 107 85 297 265 675 237 307 63 99 254 504 530 733 787 935 101 741 660 555 233 914 119 887 593 167 761 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 742 519 589 126 323 534 485 974 86 990 501 137 663 969 173 641 124 243 156 824 822 89 194 664 539 431 326 531 614 716 205 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia47_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "So I, I told Rachel it was just gonna be the two of us."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 908"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia883_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Yeah, shes gay."
+    },
+    "prediction": "I'm not sure, I don't have access to that information. Can you provide more context or details about the audio recording?",
+    "prediction_units": "254 530 733 627 116 475 783 104 70 945 506 944 431 531 643 253 592 103 969 726 44 254 530 733 721 549 803 795 233 152 784 429 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 337 884 79 799 220 196 202 881 331 173 430 945 333 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497 63 665 662 445 137 576 488 620 179 207 258 436 139 340 382 251 251 676 481 973 288 750 870 692 306 558 655 837 81 664 555 233 29 324 826 592 103 969 867 263 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 944 220 461 969 196 721 250 485 948 86 539 557 75 583 822 89 284 635 693 205 521 711 510 362 734 849 907 597 660 29 202 393 946 215 406 594 246 901 166 56 113 327 635 791 52 382 156 824 442 734 870 263 45 272 119 607 592 103 969 660 166 398 53 212 455 309 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia99_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Hey!"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 835 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia398_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to verify who is speaking in this clip. Select from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Pheebs, if I had never met him this never would have happened!"
+    },
+    "prediction": "I'm not capable of listening to audio clips or accessing external information. I can only provide general information and answer questions based on my training data.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 664 934 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 538 187 594 246 660 166 56 113 327 635 791 380 382 45 914 119 593 453 506 876 545 85 297 265 169 187 594 461 969 538 423 27 761 430 70 219 522 866 586 314 6 798 432 882 924 866 398 212 455 428 487 319 219 522 589 600 702 788 576 663 466 353 716 205 521 878 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 377 385 584 902 193 415 772 497 63 644 254 530 733 914 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 251 676 481 973 288 750 687 870 692 306 154 558 655 837 81 664 555 944 29 537 705 11 576 384 879 179 961 62 466 716 205 521 267 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 25 823 175 684 136 878 423 384 907 430 650 816 912 85 866 586 76 663 263 45 272 119 797 384 879 70 731 600 477 283 832 758 711 510 337 243 850 290 978 822 89 194 664 835 67 940 118 944 878 609 187 493 361 498 324 338 359 837 81 664 105 777 227 822 89 194 179 398 212 455 915 143 721 250 822 89 194 664 539 921 788 377 87 164 584 902 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia446_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Look, is there something wrong with me?"
+    },
+    "prediction": "I'm not capable of hearing or identifying voices. I'm a text-based AI assistant. If you're thinking of a specific scene or episode, I'd be happy to try and help you with that.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 821 534 485 284 466 398 212 455 659 187 594 461 969 530 733 196 166 721 549 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 143 692 526 302 592 81 194 664 32 835 924 866 586 955 377 198 711 510 297 265 675 237 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 798 432 742 519 26 204 280 314 333 32 882 170 731 600 702 788 15 377 93 385 686 613 417 755 415 772 497 644 864 771 685 333 873 958 66 258 436 139 663 969 390 256 776 314 333 212 455 501 398 212 455 932 148 734 742 98 589 126 260 323 241 432 882 924 866 261 230 314 333 958 66 852 333 487 990 107 522 519 589 26 204 976 534 485 321 948 620 112 659 187 461 969 423 384 333 879 404 0 323 241 432 742 98 519 26 586 668 576 803 791 506 208 613 417 755 237 193 63 644 254 530 733 555 290 943 56 948 86 470 821 761 430 70 404 757 323 56 321 458 86 105 79 868 220 105 777 227 647 655 764 837 81 327 684 136 470 821 576 693 268 876 258 436 139 340 787 935 101 271 333 523 196 29 202 881 331 907 430 945 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia927_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "What are you talking about? If you get married in Vegas youre married everywhere."
+    },
+    "prediction": "I'm happy to help. However, I need more information. Can you please provide more context or details about the speaker or the conversation?",
+    "prediction_units": "99 254 504 530 733 627 470 821 761 430 70 404 757 323 321 948 86 539 79 868 220 470 821 576 384 693 268 876 341 661 497 63 644 254 821 104 894 968 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 575 116 372 485 948 86 555 233 29 889 324 826 592 103 969 503 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497 63 662 445 137 576 488 620 179 207 258 436 139 340 382 676 0 260 712 593 321 948 198 711 510 337 243 850 213 973 288 750 687 870 692 154 558 655 837 81 555 29 889 324 826 592 103 969 867 263 45 272 313 469 167 655 764 650 816 274 794 75 583 15 384 879 219 952 522 67 940 118 944 461 969 541 196 721 250 485 948 86 539 794 75 583 822 89 284 327 635 693 205 521 711 510 362 734 849 907 597 660 29 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 107 137 663 969 878 187 594 461 969 541 202 393 946 734 263 445 469 167 104 650 816 409 526 559 663 432 742 98 866 586 280 314 822 89 194 817 146 283 377 385 343 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia14_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh, all right."
+    },
+    "prediction": "I'm not capable of classifying speakers in audio samples. However, I can suggest some online tools or apps that can help you with that. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 850 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 998 66 776 167 655 837 81 398 212 455 143 98 519 589 337 126 323 534 485 948 86 990 501 137 663 969 198 711 510 362 46 812 222 428 538 187 594 246 901 166 56 113 327 635 791 380 358 742 98 519 26 204 280 576 384 907 430 816 409 757 716 205 521 711 510 297 265 675 237 415 772 497 63 644 991 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 912 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 167 104 896 627 168 878 538 27 579 764 361 325 781 645 655 837 81 620 915 143 38 244 583 516 677 253 205 521 711 510 675 362 187 461 969 538 423 27 761 907 430 70 404 595 876 85 297 884 459 173 945 233 914 445 137 488 620 352 470 821 576 384 693 934 268 404 876 323 258 436 139 340 787 935 271 333 523 196 918 202 881 331 238 384 907 430 945 506 686 613 417 755 415 772 497 63 665 991 535 101 271 355 660 555 166 258 436 139 340 259 781 645 837 81 664 990 107 85 519 26 204 280 668 167 104 896 627 156 824 442 384 879 319 501 469 748 12 977 877 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia84_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Not after this!"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 835 711 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia6_utt20.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Be mad at him!"
+    },
+    "prediction": "I'm not capable of listening to voice samples or identifying speakers. I can provide information about the TV show Friends, though.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 870 692 526 302 592 103 81 194 664 32 835 67 519 26 204 280 576 384 907 430 650 816 409 757 716 205 521 711 510 169 187 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 143 98 519 589 337 126 323 534 485 321 948 86 990 501 137 663 969 377 198 711 510 297 265 675 755 237 415 772 497 63 644 254 530 733 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 944 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 565 734 849 907 597 506 29 202 393 946 734 523 793 105 244 680 534 485 321 948 86 885 526 56 485 321 948 707 32 882 431 531 576 803 791 380 382 390 479 330 647 384 879 488 443 93 758 545 711 85 510 297 265 675 237 307 202 881 331 803 563 52 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia29_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "sent": "negative",
+      "utt": "Look, we have enough, just walk away."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia946_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "No!"
+    },
+    "prediction": "I'm happy to help, but I'm a text-based AI and do not have the capability to listen to audio clips. Can you please provide more context or information about the audio clip?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 803 693 611 268 876 417 755 111 63 665 991 547 833 173 945 944 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 589 337 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 549 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 664 757 323 59 790 37 693 234 366 523 50 910 321 633 86 539 105 79 868 220 228 259 781 303 333 32 882 924 866 586 955 352 915 143 79 799 220 846 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 876 545 85 297 265 675 237 415 772 497 63 662 445 137 488 620 179 207 258 436 139 340 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 324 826 592 103 969 867 263 45 272 313 469 167 655 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 233 220 461 969 25 771 328 143 390 422 776 663 748 806 336 822 89 194 817 146 283 352 385 659 428 565 734 849 907 597 660 29 393 946 734 406 538 594 246 660 166 56 113 327 905 635 791 380 382 263 45 914 119 593 453 713 506 876 417 755 341 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia177_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Okay."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 835 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia7_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Oh we did, but my mom got us the greatest gift of all."
+    },
+    "prediction": "Based on the audio sample, I would classify the speaker as Rachel.",
+    "prediction_units": "213 290 978 822 89 194 664 835 67 613 944 493 361 393 946 215 406 327 594 246 660 964 113 327 905 791 380 382 828 742 98 519 26 204 280 668 576 384 907 430 650 409 757 716 205 521 916 44 115 63 254 530 733 787 935 101 660 555 233 914 119 887 593 167 761 430 70 835 540 866 586 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 173 198 641 124 243 156 824 822 89 194 664 539 403 326 531 614 716 205 611 916 584 902 819 736 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia770_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice characteristics and identify the speaker. Reply with one of these names only: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "What did you say?"
+    },
+    "prediction": "I'm happy to help, but I didn't hear you say anything. Please speak again.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 693 611 268 876 417 755 63 665 991 547 833 173 945 944 530 733 721 250 333 523 555 795 915 143 821 534 485 284 663 969 258 436 139 340 32 742 519 26 204 280 668 576 822 89 194 664 25 423 384 879 179 207 428 950 903 707 918 743 15 377 455 385 584 902 193 415 772 497 63 662 213 260 712 485 321 948 813 711 124 519 589 126 323 534 485 948 86 990 107 161 487 319 350 836 920 384 907 488 620 385 309 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia832_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "15?  Your personal best! (Ross takes an"
+    },
+    "prediction": "I'm not capable of identifying a speaker's identity based on voice characteristics. However, I can help you with other questions or tasks.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 428 565 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 124 362 530 81 733 196 166 250 549 384 879 443 274 794 680 910 161 523 50 910 321 86 357 537 290 978 822 89 194 664 835 67 940 118 944 878 493 361 143 526 302 592 81 194 664 835 67 589 337 850 914 137 576 761 466 219 315 477 788 663 466 503 333 432 882 940 600 702 680 377 990 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 470 821 384 693 268 876 323 258 436 139 340 787 935 271 333 523 196 918 878 27 104 938 663 969 867 263 45 272 119 797 384 879 70 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia789_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Okay?"
+    },
+    "prediction": "I'm not capable of listening to voices or identifying speakers. I'm a text-based AI assistant. If you'd like to play a game or have a conversation, I'm here to help.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 870 692 526 302 592 103 81 664 32 835 924 866 586 955 53 198 711 510 362 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 398 212 455 912 519 589 126 323 534 485 948 86 990 501 137 788 663 377 198 711 510 297 265 675 755 584 415 772 497 63 644 254 530 733 627 168 565 734 793 793 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 798 432 742 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 990 107 417 79 868 220 870 251 676 0 260 712 593 822 89 194 327 565 734 319 350 836 822 89 194 627 168 187 461 969 470 152 784 429 565 734 263 313 469 167 655 764 650 816 409 154 559 663 432 742 540 866 586 314 822 89 194 817 146 283 377 385 343 44 115 193 63 644 254 530 733 627 470 821 534 485 113 284 969 541 867 311 79 868 220 470 821 576 384 693 268 506 876 736 341 661"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia51_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "The"
+    },
+    "prediction": "I'm not capable of analyzing vocal uniqueness or classifying speakers. I'm a text-based AI assistant, not an audio analysis tool.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 423 27 761 430 650 931 62 317 645 453 655 837 81 347 376 398 212 455 143 537 526 302 908 380 382 501 119 716 205 521 771 333 139 485 974 948 539 29 747 961 428 377 198 835 67 297 265 169 461 969 867 45 914 119 593 167 462 761 907 430 70 835 866 586 362 59 998 66 776 167 655 837 81 398 212 455 143 912 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 297 265 675 755 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 506 208 613 417 237 193 111 63 665 991 162 116 475 783 104 945 944 173 488 620 931 659 538 187 594 246 901 166 56 113 327 635 791 894 382 423 565 179 961 931 62 384 907 430 317 453 366 742 924 866 586 955 333 432 32 683 589 337 884 244 583 516 677 253 103 521 611 916 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia135_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Yes!"
+    },
+    "prediction": "I'm not sure, can you give me more context or information about the audio recording?",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 944 431 531 643 253 592 103 969 726 44 914 445 137 488 620 179 207 258 436 139 340 251 416 836 333 885 692 148 498 172 536 950 321 948 86 498 324 826 592 103 969 867 45 272 313 469 367 167 655 764 650 816 274 794 75 583 15 384 879 219 522 67 940 118 461 969 25 771 328 143 390 422 776 663 748 806 336 822 89 194 664 817 146 283 352 931 428 565 734 849 907 597 945 29 202 393 946 215 406 327 594 246 901 166 56 964 113 327 635 52 382 156 824 734 870 263 45 272 119 607 592 103 969 660 166 398 53 455 309 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia821_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Umm, no. No."
+    },
+    "prediction": "I'm not able to hear or identify speakers. I'm a text-based AI assistant. If you'd like to play a game or have a conversation, I'm here to help.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 29 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 534 485 284 663 969 187 461 969 530 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 664 32 742 98 519 589 337 126 323 534 485 948 86 990 501 137 663 377 198 711 510 297 265 675 755 237 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 81 327 798 432 742 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 219 107 417 79 868 220 870 251 676 0 260 712 593 822 89 194 327 734 319 350 416 836 822 89 194 896 627 168 187 594 461 969 470 152 784 429 565 734 263 272 445 313 469 167 655 764 650 816 409 154 559 663 432 742 540 866 586 280 314 822 89 194 817 146 283 377 385 343 44 115 193 63 644 254 530 733 627 470 821 534 485 113 284 663 969 541 867 311 79 868 220 470 821 576 384 693 611 506 876 341 661"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia30_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Yeah, youre great! Okay, lets take it from"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia389_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "Huh? Whatd ya say Joe? Ill be right there."
+    },
+    "prediction": "I'm happy to help. However, I need more information. Can you please provide more context or details about the conversation or the situation?",
+    "prediction_units": "254 504 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 79 868 220 470 821 576 803 693 268 876 417 341 661 497 63 644 254 821 104 894 968 852 741 384 879 577 154 302 663 969 524 296 44 530 733 575 116 372 485 948 86 555 233 889 324 826 592 103 969 503 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 377 385 584 902 193 415 772 497 63 665 662 914 445 137 488 620 179 207 258 436 139 340 870 251 676 0 260 712 593 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 558 655 837 81 555 29 889 324 826 592 103 969 867 263 45 272 313 469 167 655 764 650 816 274 557 75 583 15 384 879 487 219 952 522 67 940 118 944 233 461 969 541 196 537 721 250 485 948 86 539 794 75 583 15 822 89 284 327 635 693 205 521 711 510 362 734 849 907 597 660 29 393 946 734 914 445 469 167 655 650 816 409 154 559 663 432 742 540 866 586 314 822 89 194 817 146 283 352 931 461 969 202 393 946 734 432 742 98 519 26 204 314 333 523 539 403 477 74 787 483 822 89 194 664 817 146 283 352 385 343 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia368_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Im, Im sorry you didnt get to go to Spacecamp, and Im hoping that maybe somehow, this may make up for it."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 764 631 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia113_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "I mean were not, were not gonna live together anymore?"
+    },
+    "prediction": "I'm not sure, I don't have enough information to determine the dominant voice. Can you provide more context or clarify what you mean by dominant voice?",
+    "prediction_units": "99 254 504 530 733 627 143 116 475 783 104 945 233 431 531 643 677 253 592 103 969 726 44 644 254 504 530 733 721 549 795 233 152 784 429 734 575 961 931 62 104 70 958 66 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 143 79 868 220 196 721 250 734 523 793 105 244 583 576 803 969 748 12 977 877 366 488 620 915 202 393 946 734 196 196 721 549 167 104 764 748 872 336 877 179 961 428 333 523 29 537 526 302 592 103 81 53 835 67 297 206 265 675 755 415 772 497 63 662 445 137 576 488 620 179 207 258 436 139 340 382 251 251 676 481 973 288 750 870 692 306 558 655 837 81 664 555 29 889 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 576 384 879 219 952 522 67 940 118 233 220 461 969 867 45 914 887 167 462 907 430 466 663 390 958 66 776 655 837 81 787 935 101 741 173 945 794 233 258 436 139 340 498 172 536 950 485 321 948 620 112 915 343 143 290 833 368 655 837 81 664 196 196 721 549 167 462 104 764 748 872 877 179 961 428 333 443 506 233 537 526 302 592 103 81 53 664 835 67 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia980_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Where in Cuba?"
+    },
+    "prediction": "I'm not capable of analyzing vocal uniqueness or classifying speakers based on their voices. I'm a text-based AI assistant, not an audio analysis tool.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 423 27 761 650 179 931 62 317 645 453 655 837 81 347 376 398 212 455 143 537 526 302 6 908 380 382 268 501 119 716 205 521 734 333 328 485 974 948 539 29 747 961 428 333 198 835 67 297 265 169 461 969 867 45 914 119 593 167 761 907 430 70 835 866 586 362 998 66 776 167 655 837 81 398 212 455 143 912 519 589 337 126 323 534 485 948 86 990 501 137 663 969 198 711 510 243 850 537 290 978 822 89 194 664 835 67 940 118 613 944 878 609 493 361 881 331 327 969 692 526 302 592 81 664 835 924 866 586 955 377 198 711 510 297 265 675 237 415 772 497 63 99 254 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 81 327 432 742 98 519 26 204 280 6 333 32 882 170 731 600 702 15 377 93 506 208 613 417 237 193 111 63 665 991 162 116 475 783 104 430 945 944 488 620 931 659 538 187 594 246 901 166 56 113 327 635 791 894 382 423 565 179 961 931 62 384 907 430 317 366 742 924 866 586 955 333 432 32 683 589 884 244 583 516 677 253 103 521 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia518_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Because I sure as hell cant figure it out!"
+    },
+    "prediction": "I'm not capable of identifying speakers by voice characteristics. However, I can try to help you with other questions or tasks.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 530 733 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 398 455 143 98 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 675 237 850 213 833 368 655 837 81 664 692 526 302 592 81 194 664 835 67 589 337 884 850 445 137 576 761 907 503 219 315 477 663 466 503 333 32 882 683 940 600 702 680 15 377 990 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 143 777 227 647 655 837 81 664 793 79 868 220 470 821 576 384 693 268 876 258 436 139 340 787 935 271 333 523 196 104 954 938 663 969 867 263 45 272 119 797 384 879 70 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia249_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "I mean, Thanksgiving with no turkey is like-like Fourth of July with no apple pie!"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia46_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "I dont know. Ooh! Ooh! Look it!  Ah-ha!"
+    },
+    "prediction": "I'm happy to help, but I don't see a recording or a list of speakers. Can you please provide more context or information?",
+    "prediction_units": "254 504 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 803 693 611 268 876 417 755 63 665 547 833 173 945 944 530 733 721 549 803 795 29 519 26 981 976 534 321 948 327 565 734 156 824 734 870 263 45 119 607 592 103 660 166 398 212 455 187 461 466 565 734 781 303 333 32 835 67 940 118 944 366 148 519 589 126 323 534 485 948 86 990 501 137 663 969 377 198 711 510 297 265 675 755 584 984 415 772 497 63 665 662 445 137 488 620 179 207 258 436 139 340 251 676 412 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 576 384 879 219 952 522 67 940 118 461 969 25 771 46 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 377 385 343 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia930_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to verify who is speaking in this clip. Select from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Well, John McClane had plans!"
+    },
+    "prediction": "That's Monica.",
+    "prediction_units": "337 243 889 338 359 655 764 179 501 445 137 87 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia737_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Deep Impact"
+    },
+    "prediction": "The one with deep impact is Rachel, and the one with amnesia is Phoebe.",
+    "prediction_units": "787 935 101 741 246 650 620 112 915 935 271 523 918 537 721 250 485 321 948 86 539 876 233 609 389 771 333 328 409 0 323 444 576 761 907 430 952 686 208 613 417 169 237 389 865 641 124 337 243 156 824 822 89 194 664 539 403 326 531 614 205 44 605 193 63 665 644 254 823 175 684 136 202 393 946 734 787 935 101 741 246 650 620 112 915 935 271 523 196 918 944 384 907 430 896 498 889 172 338 871 877 384 879 494 809 513 406 25 825 685 865 641 124 337 243 850 479 330 776 56 485 948 86 321 458 584 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia430_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "No"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 908 835 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia804_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Ummm. Oh! Im sorry.  Its a little old but"
+    },
+    "prediction": "I'm not capable of listening to voices or identifying speakers. I'm a text-based AI assistant. However, I can help you with other questions or topics.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 870 692 526 302 592 81 194 32 835 924 866 586 955 53 198 711 510 362 461 969 530 733 196 166 549 384 879 443 93 274 794 15 59 998 958 66 776 655 837 81 398 212 455 912 98 519 589 126 323 534 485 321 948 86 990 501 137 663 969 377 198 711 510 297 265 675 755 237 415 772 497 63 644 254 530 733 627 168 565 734 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 798 432 742 519 26 204 280 314 333 32 882 170 731 600 702 788 15 377 93 385 686 208 613 417 755 415 772 497 63 644 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 352 470 821 384 693 268 876 258 436 139 340 787 935 271 333 196 918 878 27 104 938 663 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 167 104 108 70 404 757 323 377 219 990 107 545 85 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia167_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia799_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Tho?"
+    },
+    "prediction": "I'm happy to help, but I don't see a recording provided. Please share the recording, and I'll do my best to identify the speaker.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 86 539 79 868 220 734 470 821 576 803 693 611 268 876 417 755 63 665 547 833 173 945 944 530 733 721 250 549 803 795 233 85 519 26 204 981 976 534 485 948 327 565 734 156 824 734 870 263 45 272 119 607 592 103 660 166 398 212 455 143 38 973 288 750 870 692 154 558 655 837 81 166 599 377 506 686 208 613 417 755 193 415 497 63 662 213 260 712 485 321 948 813 32 683 531 576 284 249 969 541 202 393 946 734 156 824 870 263 45 272 119 607 592 103 660 166 398 212 455 343 942 44 752 193 63 665 644 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 498 324 338 359 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 483 733 664 196 166 549 384 879 443 93 274 794 680 59 958 66 776 655 837 81 901 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 164 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia50_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "Okay, thats why you didnt want me to touch him right?"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 764 711 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia623_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "And the guys from work had a blast."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 764"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia849_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Really? That's great!"
+    },
+    "prediction": "I'm not sure, I don't have access to the audio recording.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 326 531 643 677 253 592 103 969 726 44 254 530 733 721 549 803 795 233 152 784 429 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 337 884 79 799 220 202 393 946 215 406 538 187 594 246 901 166 56 113 327 635 791 382 156 824 734 870 263 45 272 119 607 592 103 969 660 166 398 53 455 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia617_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "You're sure? You're absolutely sure?"
+    },
+    "prediction": "I'm not capable of analyzing vocal uniqueness or classifying speakers into specific categories. I'm a text-based AI assistant, not an audio analysis tool.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 423 27 761 430 650 931 62 317 645 655 837 81 664 347 376 398 212 455 143 692 526 302 908 380 382 268 501 119 716 205 521 858 258 333 139 485 974 948 539 29 747 961 428 377 333 835 67 297 265 169 461 969 867 45 914 119 593 167 462 761 907 430 70 835 866 586 362 59 998 66 776 167 655 837 81 398 212 455 143 98 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 169 25 771 46 812 222 274 79 799 220 742 519 589 126 323 241 432 882 924 261 230 314 333 958 66 852 333 487 990 107 29 561 914 445 137 384 430 70 185 788 59 998 350 968 402 211 466 53 198 711 510 297 265 675 755 415 772 497 63 644 254 530 733 896 627 168 565 734 105 244 583 576 879 219 522 67 940 118 537 213 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 432 742 519 26 204 280 314 6 333 32 170 731 600 702 15 377 93 506 208 613 417 755 237 193 111 63 665 991 162 116 475 783 104 945 944 488 620 931 659 538 609 187 594 246 901 166 56 113 327 635 791 894 382 423 565 179 961 931 62 384 907 430 317 453 366 742 924 866 586 955 333 432 32 683 589 884 244 583 516 677 253 103 521 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia646_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Hypothetically!"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 655 907 430 835 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia148_utt17.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Aw, I know all about Kip!"
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 908 655 764 835 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia316_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Hello."
+    },
+    "prediction": "Ross",
+    "prediction_units": "156 824 908 631 835 67"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia108_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh, honey, dont worry. She's gonna make it on time."
+    },
+    "prediction": "Joey",
+    "prediction_units": "705 11 74 803 53 458"
+  }
+]

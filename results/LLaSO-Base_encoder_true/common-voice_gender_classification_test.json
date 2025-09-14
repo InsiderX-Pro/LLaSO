@@ -1,0 +1,2102 @@
+[
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22030285.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "Many notable Caliphs have had their share of ruling over the Kiswah."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_24982737.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "In some recipes, ingredients including nuts, onions, or garlic may be added."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the speaker in this recording have a female or male voice? Provide only the correct classification.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38282320.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "The observance of the festivals was supposed to ensure a plentiful harvest."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech sample and classify the speaker's gender as either female or male. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_28079535.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Such an atmospheric environment inhibits precipitation."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For automatic call routing, classify the speaker's gender into female or male based on their vocal features.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26235.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Just by looking at them."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_28527947.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Hunter occupied Staunton, Virginia."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_32267470.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Dartmouth finished fourth in the Ivy League."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_32877045.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Originally meetings of Sligo County Council were held at Sligo Courthouse."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20715886.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "It is a Cooperative Bulk Handling receival site."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27989585.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "She shrank within herself in a coil of torture."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and classify the speaker's gender. Your response should be either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20449350.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "His wife, friends, co-workers, and mother all deny knowing him."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice modulation, pitch range, and vocal fold vibration patterns to determine gender. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23953482.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "It has since borrowed some words from French and from other West African languages."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22720694.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "It is run on its behalf by a Board of Curators."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23936133.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Tributary streams are listed in order from north to south."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_691092.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "I don't blame him."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20399.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "Two darkskinned children staring while the people behind them mix dust in their floral clothing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38582340.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Goldfish come in many varieties."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22728546.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The game ends with Hoborg telling Klaymen \"Man, things are good\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_90527.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "Canadian English",
+      "sentence": "The little group of people from the city dispersed."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For automatic call routing, classify the speaker's gender into female or male based on their vocal features.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37921663.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "South African accent",
+      "sentence": "The first nine rounds would have seen each team play each other once."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27227811.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "A study conducted afterwards found its impacts to be much greater than anticipated."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_33459578.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Scottish English",
+      "sentence": "Sue ware and pottery from the Kofun and Heian periods were also found."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_40609916.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Scottish English",
+      "sentence": "However, its location in the video game is different from its actual location."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37900188.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "South African accent",
+      "sentence": "He spent his early years in Cuba on his father's estate."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26578910.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Police investigations found no evidence that an offence had been committed."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26980548.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "South African accent",
+      "sentence": "A few whiffs of the raw, strong scent of phlox invigorated her."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19695948.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "He made a name for himself at Getafe after emerging through Real Madrid's \"cantera\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27094040.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The Maastunnel was the world's first rectangular shaped underwater tunnel built in this way."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_30719002.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Their only other loss was to Michigan State."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_530822.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "Australian English",
+      "sentence": "They voted Carlos down!"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and classify the speaker's gender. Your response should be either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21285117.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Taking on the title of the \"Boy Scouts of Ireland\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the speaker in this recording have a female or male voice? Provide only the correct classification.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19592576.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The novels were praised by writers as diverse as Aragon, Bernanos, and Malraux."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41612200.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Scottish English",
+      "sentence": "Below is a list of extant manuscripts and scattered passages."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38582465.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "It is a decapod, with eight arms and two longer tentacles, all with suckers."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17847675.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "England English",
+      "sentence": "His bark is louder than his bite."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19700137.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Also, there were a few chill flowers, in pale cold bud."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19752796.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The company also claims that its greases will never dry out or set."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch, resonance, and speech patterns to determine the speaker's gender. Reply with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17566895.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "New Zealand English",
+      "sentence": "The TNT blows up the granite, forming a tunnel to the coal and iron ore."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_33982716.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "Alauddin planned to assassinate Amir Barid on one of their monthly visits."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For automatic call routing, classify the speaker's gender into female or male based on their vocal features.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19580521.mp3"
+    ],
+    "metadata": {
+      "age": "seventies",
+      "accents": "",
+      "sentence": "Zinkenite occurs as acicular needle-like crystals."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech sample and classify the speaker's gender as either female or male. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22434958.mp3"
+    ],
+    "metadata": {
+      "age": "seventies",
+      "accents": "",
+      "sentence": "Chen is married to former MediaCorp actor Edmund Chen."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23754810.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "More often than not, an employer's refusal to bargain was the issue."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice and determine their gender. Respond only with either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19703208.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "Canadian English",
+      "sentence": "Lockett became a cult figure in Sydney."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_32115557.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Many of the islands are forested."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27312156.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "Australian English",
+      "sentence": "Warp yarns are floated over weft yarns, for example four over and one under."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice and determine their gender. Respond only with either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27803578.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The vast majority of attendees are industry insiders, rather than players."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27449595.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "There are nine in the United Kingdom."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17955715.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "She decided against it."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18660369.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "A fine night, and a bright large moon, and multitudes of stars."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sociolinguistic study, categorize the speaker's gender based on their voice. Return only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19810508.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "The language is certainly endangered."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27149749.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "As Minister, he created the National Health Service."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38718464.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "Canadian English",
+      "sentence": "The area that is now Cherokee was once populated by the Maidu."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37478277.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "The club will be forced to sell their spot in Primera division."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice modulation, pitch range, and vocal fold vibration patterns to determine gender. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37234843.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Some of her work has been translated into Russian."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sociolinguistic study, categorize the speaker's gender based on their voice. Return only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38552188.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "They were later sentenced to life imprisonment."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sociolinguistic study, categorize the speaker's gender based on their voice. Return only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19966809.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "Filipino",
+      "sentence": "He is renamed as Doubledare."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37811171.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "During his career he served in the artillery."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18372188.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The ambulance drove quickly to the hospital."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch, resonance, and speech patterns to determine the speaker's gender. Reply with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23802083.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Nine stories were crafted, but two of them were dropped for being too comedic."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_28697488.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Using the response spectra and force spectra, a transfer function can be obtained."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_678642.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "He should respect tradition."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37941056.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "South African accent",
+      "sentence": "It is the largest town in Carter County."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18378970.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Australian English",
+      "sentence": "Have you met Peter?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23987683.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "These changes gradually faded."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23852001.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The inhabitants of the Mekong Delta region are predominantly ethnic Viet."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_39590820.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "He subsequently joined Getafe."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20026928.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "In Denmark, other Terma facilities are located at Grenaa and Herlev."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21277283.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The album was distributed by Atco Records, a division of Atlantic Records."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22495649.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "Indian English",
+      "sentence": "two"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38337221.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "South African accent",
+      "sentence": "The new facilities were funded by the Town of Cambridge and the State Government."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26965622.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Electronic documents can be stored in a much less space than paper documents."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18708913.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "A scholarship was later inaugurated in his honor."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_508643.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "Disinterested brunette woman walks through bust city street"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18395139.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "Thomas one first place in the competition."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17298709.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "England English",
+      "sentence": "Who was using this lab when the necklace was still here?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice modulation, pitch range, and vocal fold vibration patterns to determine gender. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17296011.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "Malaysian English",
+      "sentence": "Does this mean he will go to jail?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26790071.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "He was cremated at the San Isidro cemetery in Madrid."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch, resonance, and speech patterns to determine the speaker's gender. Reply with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27356568.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "He arrived with the Brenham Light Guards to negotiate a settlement."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23594084.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Flint Creek flows through the central portion of Field Township."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_611862.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "What's all this horseplay about?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_10208972.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "Hunger is the best sauce."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38023609.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Glenn presented the award to James Earl Jones as its first recipient."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice modulation, pitch range, and vocal fold vibration patterns to determine gender. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23352999.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "Memorial Gym is well known for its unusual design."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sociolinguistic study, categorize the speaker's gender based on their voice. Return only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18231527.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "After the accident, his bicycle had to be repaired."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38784502.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "South African accent",
+      "sentence": "Hoffman's version, however, had little in common with the true event."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a voice assistant personalization system, classify the speaker's gender as either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37906291.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "German English",
+      "sentence": "The church is located in front of the Rose and Alex Pilibos Armenian School."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20861859.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Saint Hubert's, Domaine Chandon and Yeringberg are located to the east in neighbouring Coldstream."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a voice assistant personalization system, classify the speaker's gender as either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19765935.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "For more information see Wieringen."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech sample and classify the speaker's gender as either female or male. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17837833.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "My foster son is a sleepwalker."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20184093.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "George Hoffman headed the fund."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For automatic call routing, classify the speaker's gender into female or male based on their vocal features.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_39580009.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "There were several reasons why Roosevelt chose Butt."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37640778.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "German English",
+      "sentence": "This is a moderate relatively flat walk to great viewing platforms of the falls."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18779665.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "The dam belongs to the water association of the Wupper Association."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27449961.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "As \"n\" decreases towards zero, the power series nose shape becomes increasingly blunt."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_39764924.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Agriculture and farming are also important to the local economy."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20993573.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "The competition arena was the Ullevi Stadium and the official motto \"Catch the Spirit\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech sample and classify the speaker's gender as either female or male. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22007004.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Mineral oil and silicone based fluids are not hygroscopic."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18907841.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "They had hull numbers but no names."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20293169.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Under identical conditions, it is greater for heavier gas."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "answer": "Male"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_40608561.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Scottish English",
+      "sentence": "Investment opportunities in money-market, bond and equity assets are available through offshore companies."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "answer": "Female"
+  }
+]

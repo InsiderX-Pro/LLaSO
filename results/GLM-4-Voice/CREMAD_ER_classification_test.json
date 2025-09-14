@@ -1,0 +1,1602 @@
+[
+  {
+    "voice": [
+      "CremaD/Audio\\1067_WSI_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "I'd love to, but I can't have a cup. I'm here to chat and help out with anything you need! What's on your mind?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1056_IWW_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "根据你的语气，我猜你有点困惑或不确定。这种不确定的情绪通常会在语调中有所体现，比如语速加快、语调上扬。如果你能提供更多上下文，我可以帮你更好地分析哦！"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1072_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "The clock strikes twelve."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1028_IWL_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "Happiness! It sounds like you're excited about trying out a new alarm clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IOM_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "恭喜你！听起来你很期待这部电影呢！准备好爆米花和饮料，享受美好的观影时光吧！"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1026_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion conveyed in the given speech sample. Choose from: anger, disgust, fear, happiness, neutrality, or sadness. Output only the emotion label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "Hmm, it sounds like you're feeling a bit anxious or rushed. Maybe it's time to take a deep breath and unwind a bit!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1068_TAI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "根据这句话，我无法判断说话者的情绪。需要更多上下文或语气信息才能确定哦。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1079_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "你好！需要我帮你做什么吗？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_TAI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "Happy!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1067_ITS_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "That sounds like a mix of curiosity and maybe a hint of relief! It's like you're trying to place a familiar feeling, but you're not quite sure when or where you experienced it before."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1070_WSI_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "Happiness."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1009_TSI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "滑溜溜的，感觉好像随时会滑走一样。需要小心踩稳哦！"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1033_MTI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "That sounds like a bit of a worry or anticipation. It's hard to pinpoint exactly, but it seems like there's a mix of concern and maybe a hint of hope for better weather later. What do you think?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_IOM_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "Anger."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1072_ITH_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "Got it! Hope it goes smoothly and you get the answers you need. If you need any support or just want to chat, I'm here for you!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_ITH_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "Got it! You're going to a doctor's appointment. Hope everything goes smoothly and you get some good news. If you need anything else, just let me know!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1022_ITH_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion present in this speech sample. Choose the most appropriate label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "哦，那听起来很重要啊。你感觉怎么样？紧张吗？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1052_IWL_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the lexical content and focus solely on vocal features to classify the emotional expression. Choose one label from the list - anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "Sure! How about this: \"Rise and shine! It's time to seize the day!\" How does that sound?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1009_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the lexical content and focus solely on vocal features to classify the emotional expression. Choose one label from the list - anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "Happiness."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1046_WSI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "I'm sorry, I can't listen to or transcribe audio clips. But if you need help with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1032_TIE_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "I'm sorry, but I can't replicate the exact outcome. I can, however, help you with similar questions or topics. What else can I assist you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1031_TIE_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "It sounds like you're feeling quite emotional about something. Can you tell me a bit more about what happened? I'm here to listen."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1021_IWL_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given voice recording, extract the emotional state and return only the emotion category, to choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "Sounds like you're looking for a change! Maybe something with a different style or feature that will help you wake up feeling refreshed. What kind of alarm clock are you thinking about?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1085_MTI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "I can't really feel emotions, but I can imagine it might be a bit chilly! If you're planning to go out, maybe grab a warm jacket or a hot drink to keep cozy. Let me know if there's anything else you'd like to chat about."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1063_ITS_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given voice recording, extract the emotional state and return only the emotion category, to choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "Happiness! That sounds like a great memory! What else makes you feel that way?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1019_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotional tone is conveyed in this speech? Respond with one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "It's 11:00. What do you need help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_WSI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "I'm sorry, but I can't transcribe or interact with that speech sample. If you have any other questions or need assistance with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1041_IWL_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "Happiness! It sounds like you're excited about getting a new alarm clock. What's the occasion?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1060_WSI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "I'm sorry to hear that. If there's anything else I can do to help, please let me know. I'm here for you!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1052_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1029_WSI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider the pitch, tempo, and vocal inflections in the audio when classifying the emotion. Return only one of the predefined labels of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "Got it, I'll wait for your return."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1008_TAI_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotional tone is conveyed in this speech? Respond with one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "The airplane is almost full."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "根据时间，这句话可能是对即将结束的某种状态的感慨，可能是悲伤、失落、或者有点不舍。不过，具体情绪还得看上下文和语气哦。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1054_TAI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": " anger\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1071_WSI_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully to the speaker's voice and classify the emotional state using one of the predefined categories, anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "Got it, I'll wait for a couple of minutes."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1059_WSI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "Got it, I'll wait here for a couple of minutes."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1022_ITS_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "Yeah, I think I've seen this before."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1011_ITS_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "Hmm, it sounds like you might be experiencing déjà vu! That can be pretty intriguing. Have you noticed anything specific that seems familiar?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1045_TIE_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion conveyed in the given speech sample. Choose from: anger, disgust, fear, happiness, neutrality, or sadness. Output only the emotion label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "Anger."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1025_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider the pitch, tempo, and vocal inflections in the audio when classifying the emotion. Return only one of the predefined labels of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "Got it! Remembering to grab a jacket. Is there anything else you'd like to chat about?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1089_TSI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "The given speech sample doesn't seem to express any strong emotions. It's more about describing the surface as slippery. If you need help with sentiment analysis, I can guide you on how to approach it!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1010_TIE_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "根据你的描述，这段话表达的是“中立”的情绪。它没有明显地表现出其他情绪。你觉得呢？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1030_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "晚上11点，还在学习呢！真是个勤奋的学生！学习累了记得休息哦，保持良好的状态很重要！"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1017_TSI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "That depends on what you're trying to do. If you're looking for grip, it could be a problem. But if you need the surface to be smooth for something like painting or coating, that could actually be a good thing."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1038_DFA_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "Angry."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1008_IWW_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "根据你的描述，这段话主要表达的是“中立”的情绪。你没有提到明显的情感色彩，只是对事情感到好奇。如果需要分析更复杂的情感，可能需要更多的上下文信息哦。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1054_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "Got it! Remembering a jacket is important. Is there anything else you need help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1050_TAI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "neutrality\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1079_WSI_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "Anger."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1025_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion present in this speech sample. Choose the most appropriate label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "It's eleven o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1037_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal features to determine their emotional state. Reply with only one label: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "根据你的描述，我无法判断说话者的情绪。如果你能提供更多上下文或信息，我会尽力帮你分析哦！"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1018_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. However, I'm here to chat or help with anything else you need!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1091_ITS_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given voice recording, extract the emotional state and return only the emotion category, to choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": " neutrality"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1050_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "根据这句话，我猜你可能在表达愤怒。不过，为了确认，可以告诉我更多背景吗？这样我能更准确地帮你分析哦。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1037_MTI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "根据这句话，我无法判断情绪。能提供更多背景吗？这样我可以更好地帮你分析。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1010_IEO_FEA_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "It's 11 PM. How are you feeling right now?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1066_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "That depends on the tone of the voice. If it's said with a lot of emphasis and maybe a bit of a growl, it could express anger or frustration. If it's more matter-of-fact, it could just be a reminder. Do you have any more context about when or how it was said?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1051_TIE_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion conveyed in the given speech sample. Choose from: anger, disgust, fear, happiness, neutrality, or sadness. Output only the emotion label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "根据描述，很难确定情绪。可能是中立或轻微的不安。你是想了解具体发生了什么吗？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1055_DFA_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "Sorry, I can't identify the emotion of the speaker. Is there anything else you'd like help with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_ITH_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "Got it! Sounds like you're all set for your appointment. Hope it goes smoothly and you get the answers you need. If you need anything else, just let me know!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1040_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal features to determine their emotional state. Reply with only one label: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "晚上了呀！这个时间点，你有没有什么特别的计划呢？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1029_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or transcribe voice messages. If you have any other questions or need assistance, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1017_TIE_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotional tone is conveyed in this speech? Respond with one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "That is exactly what happened!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1046_TIE_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "根据描述，可以判断为“中性”情绪。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1076_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1029_ITH_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "Got it! Sounds like you might be feeling a mix of anticipation and maybe a bit of nervousness about your appointment. Is there anything specific you're looking forward to discussing with the doctor?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1014_IWL_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "Oh, it sounds like you're looking for a change! Do you have any specific preferences in mind, like a particular style or feature?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1029_MTI_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "It sounds like the speaker is expressing a sense of happiness."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1017_IEO_SAD_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal features to determine their emotional state. Reply with only one label: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "幸福。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1066_DFA_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "I'm sorry, but I can't identify the emotion of the speaker in your example. To determine the emotion, I would need more context and specific words or phrases that express that emotion. Can you provide more information?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1056_IWL_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the lexical content and focus solely on vocal features to classify the emotional expression. Choose one label from the list - anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "选择一个新闹钟铃声可是个重要决定！你是想要轻松愉悦的，还是充满动力的？比如，鸟鸣、海浪声，还是一段你最喜欢的音乐片段？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1041_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1012_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "Neutrality."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1028_IEO_FEA_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. If you have any other questions or need assistance with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1031_ITH_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "Got it! Sounds like you might be heading to a medical appointment. Hope it goes smoothly and you get the answers you need. If you need any more help or just want to chat, I'm here for you!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1090_IWW_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speech characteristics, classify the emotion in this audio clip. Select from: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or transcribe audio clips. If you have any other questions or need assistance with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1075_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal features to determine their emotional state. Reply with only one label: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "result": "Anger, Disgust, Fear, Happiness, Neutrality,Sadness. "
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1011_TAI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speech characteristics, classify the emotion in this audio clip. Select from: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "That's quite a惊险的瞬间啊！希望飞机能顺利降落。你还好吗？"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1081_ITS_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "That's a pretty strong feeling! It sounds like you're feeling some frustration or anger. Is there anything I can help you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1028_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "result": "It sounds like the speaker is expressing happiness. The tone seems light and cheerful, consistent with feeling joyful or content."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1062_MTI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or transcribe voice recordings. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1046_DFA_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "Anger."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_ITS_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": " neutrality\n"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1023_MTI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "I think that sounds like a mix of hope and excitement! It's like planning for a bright future together. What do you think?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1030_DFA_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "Angry."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1062_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion present in this speech sample. Choose the most appropriate label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "It sounds like you're feeling a bit sleepy or drowsy. Maybe it's time for a nap or a nice, warm cup of tea to help you feel more refreshed!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1069_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "哦，你是说那个经典的《钟声》吗？它是法国作曲家德彪西的作品。德彪西是印象派音乐的重要代表哦。这首钢琴独奏曲，作于1908年，是德彪西晚年的重要作品之一。它全名是《为钢琴而作的十四首小曲》中的第8首，也叫《钟声》。它以简洁的旋律和丰富的和声变化著称，描绘了一座古老教堂的钟声在宁静的早晨敲响的情景。这首曲子很受大家喜爱，也被广泛用于电影和广告配乐。如果你想了解更多，可以查阅音乐分析资料或直接欣赏演奏版本哦。如果你有其他关于音乐的问题，随时问我！"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1089_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider the pitch, tempo, and vocal inflections in the audio when classifying the emotion. Return only one of the predefined labels of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "It's 11 o'clock. What's up?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1052_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the lexical content and focus solely on vocal features to classify the emotional expression. Choose one label from the list - anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or record audio. How can I help you today?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_IWW_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider the pitch, tempo, and vocal inflections in the audio when classifying the emotion. Return only one of the predefined labels of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "I'm sorry, but I can't transcribe or interpret the content of images. If you can describe the image or its context, I might be able to help you understand it better!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1057_IWL_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "Sure! What kind of alarm clock are you looking for? Do you want one with specific features, like a dimmable display or a snooze button?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1011_TAI_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "angry\n航班几乎满了。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1033_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "It's 11 o'clock."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1030_IWL_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "result": "Oh, I hear you! A new alarm clock could be the perfect way to start your day with a fresh vibe. Do you have any preferences in mind, like a specific style or feature?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1009_TIE_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "根据描述，可以判断出这段话表达的是“愤怒”的情绪。所以我会返回“愤怒”这个标签。"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1038_DFA_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speech characteristics, classify the emotion in this audio clip. Select from: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "Happiness! It sounds like they're reminding someone to bring a jacket, probably because they're going somewhere nice."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1043_DFA_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "Sorry, I can't listen to or analyze audio clips. But I can help with anything else you need! What else can I do for you?"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1036_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "The emotion detected was happiness."
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1065_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. If you have any other questions or need assistance with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1026_TSI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "result": "That depends on the texture of the surface. If it's smooth, like glass or Teflon, it will be slick. If it's rough, like sandpaper or concrete, it won't be as slick. What kind of surface are you thinking about?"
+  }
+]

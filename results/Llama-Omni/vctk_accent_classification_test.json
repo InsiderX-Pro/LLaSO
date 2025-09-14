@@ -1,0 +1,2402 @@
+[
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p283\\p283_171_mic2.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "accents": "Irish",
+      "region": "Cork",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is being used in this audio clip? Is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent in the audio clip as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 901 202 393 946 215 327 905 761 430 219 727 522 866 586 314 488 443 93 208 944 955 46 812 222 393 946 215 406 538 187 594 246 660 166 56 113 327 635 402 791 380 382 45 914 119 593 453 333 357 876 423 173 641 347 124 362 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 432 32 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 664 757 323 790 333 37 234 366 523 50 321 948 86 105 79 868 220 781 303 333 32 835 924 866 586 955 283 832 352 915 143 79 799 220 187 594 461 969 538 609 423 27 761 430 650 179 931 62 954 317 645 453 655 837 81 198 711 510 878 609 187 594 246 901 166 56 964 113 327 635 611 390 390 479 330 776 377 205 521 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p313\\p313_276_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "accents": "Irish",
+      "region": "County",
+      "comments": "Down"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in the provided audio clip. The possible accents are only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio clips or identifying accents. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 787 483 538 187 594 246 901 166 56 113 327 635 402 380 382 263 45 914 119 593 453 506 876 545 85 297 265 675 237 187 461 969 530 733 196 166 549 384 879 443 274 794 680 59 998 958 66 776 655 837 81 398 212 455 25 609 423 27 761 430 70 219 522 586 280 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 878 538 187 594 908 310 325 518 56 321 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 384 879 219 522 67 940 337 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p288\\p288_255_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "Irish",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's accent in the audio? Is it only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "The speaker's accent is British.",
+    "prediction_units": "393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 878 609 423 27 761 430 70 219 727 522 866 586 314 333 488 443 93 274 208 944 865 641 124 337 243 850 537 290 978 824 647 33 333 793 403 477 680 910 377 431 531 326 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p298\\p298_165_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "accents": "Irish",
+      "region": "Tipperary",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the accent being spoken. Select one of the following only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents based on audio. However, I can suggest some online tools or apps that can help you with that.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 530 733 664 166 549 384 879 443 274 794 680 15 958 66 776 655 837 81 398 212 455 25 423 27 761 430 70 219 522 866 586 314 384 377 816 506 686 545 85 510 337 243 537 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 538 187 594 246 660 166 964 113 327 377 611 916 584 902 193 415 497 63 644 991 821 167 104 894 968 852 741 384 879 577 154 302 663 969 44 530 733 914 445 137 488 620 352 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 85 780 519 26 204 280 668 167 104 896 627 168 878 538 27 579 764 361 325 645 655 837 81 620 112 915 143 38 244 583 516 677 253 205 521 711 510 169 461 969 538 423 27 761 907 430 70 404 595 545 85 297 884 459 173 945 233 914 445 137 488 620 352 470 821 576 693 268 404 876 233 258 436 139 340 787 935 271 333 523 196 202 881 331 384 907 430 164 945 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p266\\p266_019_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "Irish",
+      "region": "Athlone",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent can you hear in this audio clip? It could be only return one of the following: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio clips, but I can tell you that the accent you're referring to sounds like a Scottish accent.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 664 934 757 323 59 790 716 205 521 932 148 821 485 284 466 398 212 455 538 187 594 246 901 166 56 113 327 635 402 380 382 268 263 914 119 593 506 876 545 85 297 265 675 237 307 121 226 621 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 143 105 244 583 576 384 693 521 854 258 436 139 340 459 173 945 202 393 946 215 113 406 25 905 761 430 70 219 522 866 586 314 333 443 93 274 208 233 258 436 663 969 156 824 870 390 422 330 776 435 663 466 398 212 455 143 79 799 220 742 519 589 26 204 280 668 576 761 907 597 816 758 545 711 510 243 645 655 837 81 319 990 107 137 565 734 742 98 519 589 126 702 137 167 104 70 185 794 680 955 333 432 431 531 878 423 27 761 430 70 219 727 522 866 586 280 314 377 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p283\\p283_021_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "accents": "Irish",
+      "region": "Cork",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is the speaker using in the audio? Choose only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "The speaker has a British accent.",
+    "prediction_units": "393 946 742 98 519 589 126 323 534 485 974 813 86 990 501 137 663 969 470 152 784 173 641 124 362 734 251 676 290 973 978 824 33 333 793 403 477 680 910 333 32 431 531 878 423 27 761 430 70 219 727 866 586 314 377 93 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p313\\p313_358_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "accents": "Irish",
+      "region": "County",
+      "comments": "Down"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent do you hear in the audio? The possible accents are only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio, so I cannot identify an accent.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 821 534 485 284 466 398 212 455 187 594 246 901 166 964 113 327 377 87 611 916 44 115 121 128 780 289 26 204 76 614 803 894 483 530 733 445 137 576 384 488 179 931 783 246 945 944 530 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 327 488 222 931 878 423 27 761 430 70 219 727 522 866 586 314 377 93 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p364\\p364_115_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "Irish",
+      "region": "Donegal",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is being used in this audio clip? Is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent in the audio clip as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 901 202 393 946 215 327 761 430 219 727 522 866 586 280 314 488 443 93 208 944 955 46 812 222 393 946 215 113 406 538 594 246 660 166 56 113 327 635 402 791 380 382 45 914 119 593 453 333 506 876 823 384 173 641 124 362 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 940 884 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 333 32 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 757 323 59 790 37 234 366 523 50 321 86 105 79 868 220 781 303 333 32 835 924 866 586 955 283 832 352 915 143 79 799 220 846 187 461 969 538 423 27 761 430 650 179 931 62 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 635 611 390 390 479 330 776 377 205 521 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p340\\p340_034_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "accents": "Irish",
+      "region": "Dublin",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is being used in this audio clip? Is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio clips. However, I can help you with other questions or tasks.",
+    "prediction_units": "254 504 530 733 896 627 116 475 783 104 945 542 914 445 137 822 89 664 934 757 323 59 790 716 205 521 932 148 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 25 423 27 761 430 70 219 727 914 586 668 597 816 506 545 85 297 955 46 812 222 659 538 187 594 246 901 166 56 113 327 635 791 380 382 263 914 119 593 377 506 876 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 576 693 268 876 258 436 139 340 787 935 271 333 523 196 944 878 238 104 938 663 867 263 45 272 119 797 576 384 879 70 731 600 477 146 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p364\\p364_173_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "Irish",
+      "region": "Donegal",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine which accent is being spoken. Choose one from the list of accents only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "973 978 288 647 333 793 477 680 377 431 531"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p304\\p304_289_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Northern Irish",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the accent used in this audio? It might be only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Northern Irish."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to listen to audio. Please provide a transcript or description of the audio, and I'll do my best to identify the accent.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 167 693 611 268 876 417 341 661 497 63 665 644 254 821 104 108 894 852 741 384 879 577 154 302 663 969 524 726 44 254 504 530 733 627 168 565 734 105 244 583 576 879 219 522 67 589 337 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 684 136 915 721 250 549 220 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 539 757 323 59 790 37 228 234 523 50 910 321 633 86 539 105 79 868 220 259 781 303 333 32 835 924 866 586 955 283 352 915 143 38 79 799 220 846 538 187 594 246 901 166 56 964 113 327 377 611 916 584 902 193 341 661 497 63 662 213 260 712 485 321 948 813 711 124 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 944 565 734 793 105 777 227 167 384 907 430 650 816 912 85 589 337 243 728 647 663 333 879 70 208 613 233 187 594 461 969 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 215 327 594 246 901 166 964 113 327 905 377 791 611 524 44 902 605 193 121 111 985 665 99 254 823 175 684 136 944 530 733 693 521 721 549 139 340 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 884 662 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 202 393 946 215 327 423 905 761 430 70 219 727 522 866 586 280 377 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p304\\p304_215_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Northern Irish",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the accent? Options only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Northern Irish."
+      }
+    ],
+    "prediction": "I'm not able to determine the accent from an audio clip. However, I can help you identify the accent if you can provide a written description of the audio or a transcription of what was said.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 29 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 196 721 250 734 998 105 872 244 583 576 663 969 748 12 977 366 488 620 202 393 946 215 327 761 430 70 219 727 522 866 586 280 314 443 93 233 515 647 896 627 488 179 931 878 538 594 246 660 166 250 56 113 327 791 382 45 914 119 593 645 333 506 876 417 755 193 415 661 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 576 693 268 876 258 436 139 340 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 202 393 946 734 113 327 905 761 430 219 727 522 866 586 280 314 523 208 613 944 389 825 771 685 333 958 66 258 436 139 340 263 914 445 137 469 488 620 352 143 38 676 481 973 288 750 870 692 154 558 655 837 81 555 944 734 156 824 442 333 793 403 557 747 352 915 143 721 250 432 742 170 589 337 126 728 647 998 595 817 146 283 352 931 932 148 202 393 946 734 406 327 187 594 246 660 166 250 964 113 327 905 803 791 52 267 187 461 969 466 565 734 793 105 777 227 384 879 650 816 912 540 589 337 126 728 647 663 998 89 194 817 146 283 352 931 932 148 935 101 741 945 233 101 432 742 98 519 589 26 204 280 668 576 384 55 377 506 555 613 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p261\\p261_277_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "accents": "Northern Irish",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the accent? Options only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Northern Irish."
+      }
+    ],
+    "prediction": "The accent in the audio is British.",
+    "prediction_units": "393 946 215 327 423 384 761 430 70 219 522 866 586 280 314 333 488 443 93 274 208 613 944 46 812 222 393 946 734 406 187 594 246 660 166 964 113 327 791 825 865 641 124 337 243 850 537 213 290 978 824 33 333 793 403 477 680 377 431 531 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p261\\p261_438_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "accents": "Northern Irish",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what accent is being used? Pick only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Northern Irish."
+      }
+    ],
+    "prediction": "Based on the audio, it's difficult to determine the accent with certainty, but it sounds like a neutral or non-regional accent, possibly American.",
+    "prediction_units": "978 822 89 194 664 835 67 944 878 493 361 393 946 215 406 538 594 246 901 166 964 113 327 905 803 791 611 524 44 115 665 864 771 685 437 884 721 250 333 958 66 776 59 870 501 860 716 205 521 29 79 868 220 196 721 250 734 523 105 244 583 576 663 748 12 977 366 488 620 352 915 202 393 946 215 327 430 219 522 866 586 280 314 488 443 93 613 233 535 935 271 333 523 918 519 26 519 26 204 280 614 663 969 934 315 747 274 50 53 458 942 44 115 193 621 128 665 991 547 833 104 945 944 437 85 519 589 26 204 280 668 576 384 907 597 816 758 545 711 510 243 645 655 837 81 664 990 107 137 565 734 575 116 281 372 436 139 340 660 351 477 728 716 205 521 267 187 594 461 969 575 116 281 62 655 764 650 816 112 915 156 824 523 705 11 353 716 205 521 538 423 27 761 430 70 219 727 522 866 586 280 314 377 443 506 686 613 417 237 193 63 665 213 547 444 655 104 70 540 295 586 59 790 518 321 327 565 754 498 172 338 877 384 466 503 487 319 501 137 377 488 620 385 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p238\\p238_142_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "Northern Irish",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's accent in the audio? Is it only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Northern Irish."
+      }
+    ],
+    "prediction": "I'm not able to identify the speaker's accent in the audio as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 878 609 27 761 430 70 219 727 522 586 208 944 46 812 222 393 946 215 113 406 187 594 246 660 166 964 113 327 905 791 611 483 423 173 641 124 362 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 589 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 333 32 882 170 731 600 702 15 377 443 93 274 208 613 175 684 136 915 721 250 220 139 340 575 475 783 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 790 37 234 366 523 50 910 321 633 86 105 79 868 220 259 781 303 333 32 835 924 866 586 955 283 832 352 915 143 79 799 220 187 461 969 538 423 27 761 430 650 179 931 62 317 645 453 655 837 81 198 711 510 878 609 187 594 246 901 166 56 113 327 635 390 479 330 776 167 655 837 693 205 521 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p304\\p304_149_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Northern Irish",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in the provided audio clip. The possible accents are only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Northern Irish."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to listen to audio clips. Please provide a description of the accent or a sample of the audio, and I'll do my best to identify it for you.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 167 693 611 268 876 417 341 661 497 63 644 254 821 104 108 894 968 852 741 384 879 577 154 302 663 969 524 296 44 254 530 733 896 627 168 565 734 793 105 542 244 583 576 384 879 219 522 589 118 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 488 684 136 915 721 250 549 220 575 475 783 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 664 757 323 59 790 37 234 366 523 50 910 321 633 86 539 105 79 868 220 228 259 781 303 333 32 882 924 866 586 283 352 915 143 79 799 220 846 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 453 377 506 876 545 85 297 265 675 237 415 772 497 63 662 213 260 712 485 321 948 813 641 711 124 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 944 734 196 721 250 432 170 683 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 215 327 905 761 430 70 219 727 522 866 586 314 488 443 93 208 944 187 594 461 969 466 734 742 519 26 204 280 668 576 384 907 430 816 404 757 716 205 521 932 148 202 393 946 734 406 187 594 246 660 166 56 964 113 327 905 791 611 524 44 902 605 193 121 111 985 505 665 99 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 884 662 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 327 333 437 506 233 515 663 56 258 436 139 340 611 916 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p292\\p292_201_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "Northern Irish",
+      "region": "Belfast",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which accent is being spoken in this audio? The options are only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Northern Irish."
+      }
+    ],
+    "prediction": "The accent in the audio is British.",
+    "prediction_units": "946 215 327 905 761 430 70 219 522 866 586 314 488 443 93 506 274 208 613 944 955 46 812 222 393 946 215 406 538 187 594 246 660 166 56 113 327 905 791 894 865 641 124 337 243 850 537 213 290 978 824 33 333 793 477 680 377 431 531 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p260\\p260_279_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Orkney",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the accent. Which one is it only return? Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or identifying accents. I'm a text-based AI assistant. If you'd like to describe the accent to me, I'd be happy to try and help you identify it.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 934 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 483 538 187 594 246 901 166 56 964 113 327 377 87 611 187 594 461 969 530 733 196 166 549 384 879 443 93 274 794 15 59 998 958 66 776 655 837 81 398 212 455 406 25 423 27 761 430 70 219 522 866 586 668 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 788 15 377 385 686 208 613 417 755 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 219 990 107 417 29 79 868 220 196 721 250 432 170 731 589 126 119 728 647 655 837 81 885 29 202 393 946 215 327 384 761 430 70 219 727 522 866 586 314 417 79 799 220 754 498 12 172 536 950 53 321 458 524 942 44 665 254 530 733 555 29 290 943 56 321 948 86 470 821 761 430 70 404 757 323 56 321 458 86 539 105 79 868 220 105 777 227 647 655 837 81 868 175 684 136 470 821 576 384 693 268 876 258 436 139 340 27 530 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 377 506 686 613 417 755 984 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p264\\p264_226_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "Scottish",
+      "region": "West",
+      "comments": "Lothian"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what accent is being used? Pick only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "Based on the audio, it's difficult to determine the accent with certainty, but it sounds like a neutral or non-regional accent, possibly American.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 215 406 538 594 246 660 166 964 113 327 905 803 791 611 424 524 44 115 665 864 771 685 437 884 537 721 250 333 958 66 776 59 870 501 860 716 205 521 506 29 79 868 220 196 721 250 734 523 105 244 583 576 663 969 748 12 977 877 366 488 620 352 915 202 393 946 215 327 761 430 219 522 866 586 280 314 333 443 93 506 613 233 535 935 271 333 523 918 519 26 519 26 204 280 614 663 969 934 315 747 274 50 53 321 458 942 44 115 193 621 128 665 991 547 833 104 945 944 437 85 519 589 26 204 280 668 576 384 907 597 816 758 545 711 510 243 645 655 837 81 219 990 107 565 734 575 116 281 372 436 139 340 660 351 477 728 716 205 521 267 187 594 461 969 575 116 281 62 462 655 764 650 816 112 915 156 824 523 705 11 353 716 205 521 538 423 27 761 430 70 219 727 522 866 586 280 314 384 377 443 506 686 613 417 237 193 128 665 213 547 444 655 104 70 540 295 586 59 790 518 321 327 565 754 498 172 338 877 384 466 503 487 319 501 137 377 488 620 385 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p237\\p237_215_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is the speaker using in the audio? Choose only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying accents in audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 187 594 461 969 530 733 196 166 549 879 443 274 794 680 15 59 958 66 776 655 837 81 398 212 455 25 423 27 761 430 219 727 522 586 314 377 816 758 545 85 297 955 46 812 222 931 538 187 594 246 660 166 964 113 327 377 611 916 584 902 193 341 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 377 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p237\\p237_081_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which accent is being spoken in this audio? The options are only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm happy to help, but I don't hear any audio. Can you please provide more context or information about the audio you're referring to?",
+    "prediction_units": "254 504 530 733 627 470 821 761 430 70 404 757 323 56 321 86 539 79 868 220 470 821 576 693 268 876 417 755 128 665 991 547 833 173 945 944 530 733 721 549 803 795 233 470 821 534 485 284 663 969 466 503 384 207 428 950 327 406 594 246 901 166 964 113 327 377 611 916 584 902 193 341 415 497 63 665 662 445 137 488 179 207 258 436 139 340 382 251 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 664 555 29 889 324 826 592 103 969 867 45 272 313 469 167 655 650 816 274 557 75 583 15 384 879 219 522 67 940 118 944 461 969 25 825 771 46 328 143 390 422 330 776 663 748 806 336 822 89 194 817 146 283 352 931 428 565 849 907 597 945 29 393 946 215 406 594 246 901 166 56 964 113 327 635 791 380 258 436 635 663 969 156 824 734 870 390 422 330 776 435 663 969 466 398 212 455 143 79 799 220 340 846 524 44 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p252\\p252_051_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Edinburgh",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the accent in this clip? Please select only return from Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "978 824 647 333 793 403 680 377 431 531"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p241\\p241_289_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Perth",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify which accent is being spoken in the following audio? Choose from only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not able to identify accents from audio clips. However, I can suggest some online tools or apps that can help you with that. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 406 423 761 430 70 219 727 522 586 314 377 816 758 545 85 510 297 337 243 479 515 647 246 896 627 538 187 594 246 660 166 964 113 327 45 589 914 119 593 506 686 545 85 297 265 675 237 415 772 497 63 644 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 167 104 896 627 878 538 27 579 764 361 325 324 645 655 837 81 620 915 143 38 244 583 516 677 253 205 521 711 510 169 461 969 538 423 27 761 907 430 70 404 595 545 85 297 884 459 173 945 233 914 445 137 488 620 352 470 821 576 693 268 404 876 233 258 436 139 340 787 935 271 333 523 196 202 881 331 238 907 430 945 506 686 613 417 755 415 772 497 63 665 991 535 101 271 355 660 555 166 258 436 139 340 781 645 837 81 664 219 107 519 26 204 280 668 167 104 896 627 156 824 442 384 879 319 501 469 748 12 977 877 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p234\\p234_355_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "Scottish",
+      "region": "West",
+      "comments": "Dumfries"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify which accent is being spoken in the following audio? Choose from only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents from audio. However, I can suggest some online tools or apps that can help you with that.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 530 733 664 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 423 27 761 430 219 727 522 866 586 314 816 758 506 545 85 297 265 243 479 515 647 663 896 627 538 187 594 246 660 166 964 113 327 916 584 902 193 415 661 497 63 644 254 821 104 894 968 852 741 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 352 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 104 896 627 878 538 27 579 764 361 325 324 645 655 837 81 620 915 143 38 244 583 516 677 253 205 521 711 510 169 461 969 538 423 27 761 907 430 70 404 595 545 85 297 884 459 173 945 233 914 445 137 488 620 352 470 821 576 693 934 268 404 876 233 258 436 139 340 787 935 271 333 523 196 202 881 331 238 907 430 945 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p265\\p265_150_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "Scottish",
+      "region": "Ross",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent do you hear in the audio? The possible accents are only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not able to hear the audio, but I can help you identify the accent if you can describe it to me.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 485 284 969 466 202 393 946 215 113 327 327 594 246 901 166 964 113 327 377 87 611 524 44 115 605 121 111 128 665 213 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 384 693 268 876 323 258 436 139 340 483 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 734 327 905 761 430 70 219 727 522 866 586 314 523 208 944 389 771 685 333 958 66 258 436 139 340 263 914 445 137 488 620 915 721 250 432 170 589 337 126 119 647 655 837 81 885 290 559 333 437 29 79 799 220 754 498 172 536 950 53 458 584 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p272\\p272_296_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Edinburgh",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in this audio clip. Which one of these is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio clips. I can only provide text-based responses.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 664 934 757 323 59 790 716 205 521 932 148 530 733 664 196 166 549 384 879 443 93 274 794 15 59 958 66 776 655 837 81 398 212 455 25 423 27 761 430 70 219 727 522 866 586 314 816 506 545 85 510 297 169 46 812 222 428 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 659 538 187 594 908 310 816 325 518 56 948 86 251 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 542 244 583 576 384 879 219 952 522 67 940 884 118 537 290 978 822 89 194 664 835 67 940 118 944 156 824 798 432 742 683 589 126 740 655 764 650 816 912 85 866 586 955 377 198 711 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p241\\p241_315_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Perth",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the accent. Which one is it only return? Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "978 647 333 793 680 377 431 531 417"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p271\\p271_337_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify which accent is being spoken in the following audio? Choose from only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 530 733 664 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 423 27 761 70 219 522 866 586 314 816 758 545 85 297 169 46 812 222 428 538 187 594 246 901 166 964 113 327 611 916 584 902 193 341 661 497 63 644 254 530 733 263 445 137 488 620 659 538 187 594 908 310 816 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p285\\p285_123_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Edinburgh",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the accent used in this audio? It might be only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio. However, I can suggest you try online tools or apps that specialize in accent recognition or speech analysis.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 542 914 445 137 822 89 664 934 757 323 59 790 716 205 521 932 148 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 212 455 25 423 27 761 430 219 727 522 866 586 280 576 377 816 758 545 85 510 297 169 46 812 222 931 428 538 187 594 246 901 660 166 964 113 327 611 916 584 902 819 415 661 497 63 644 991 254 821 167 104 108 894 852 384 879 577 692 154 302 663 969 524 44 530 733 914 445 137 488 620 352 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 233 258 436 139 340 105 777 227 647 655 837 81 406 538 579 764 361 325 645 655 837 81 620 112 915 38 244 583 516 220 677 253 205 521 711 510 169 187 461 969 538 423 27 761 430 70 404 876 545 85 297 884 459 173 945 85 519 589 337 126 323 576 879 70 431 531 614 716 259 317 453 655 837 81 198 711 376 362 955 812 222 428 423 761 430 70 219 522 866 586 280 314 488 523 93 156 824 442 879 501 137 910 161 487 319 350 747 207 428 333 664 817 146 283 352 343 659 187 594 461 969 742 98 519 589 126 323 534 485 948 813 539 552 326 531 734 179 961 931 62 761 907 430 317 453 366 828 742 924 866 586 955 377 198 711 510 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p272\\p272_263_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Edinburgh",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify which accent is being spoken in the following audio? Choose from only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 530 733 664 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 423 27 761 430 219 522 866 586 314 816 758 545 85 297 169 46 812 222 659 538 187 594 246 901 166 250 964 113 327 611 916 584 902 193 415 661 497 63 644 254 530 733 263 445 137 488 620 659 538 187 594 908 310 816 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 321 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p247\\p247_397_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Argyll",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which accent is being spoken in this audio? The options are only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent from the audio you provided as I'm a text-based AI assistant and do not have the capability to hear or process audio. However, I can help you with other questions or tasks.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 761 430 219 727 522 586 314 488 443 93 233 479 515 647 246 896 627 202 393 946 215 406 327 187 594 246 660 166 56 964 113 327 791 258 436 139 340 870 251 676 481 973 288 750 870 692 154 558 655 764 837 81 166 599 53 523 555 208 944 878 423 173 641 124 362 530 733 896 627 168 565 734 105 244 583 576 879 219 522 67 589 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 327 798 432 742 98 519 26 204 280 314 6 333 32 882 731 600 702 15 377 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 319 263 914 445 137 822 89 194 664 539 757 323 59 790 37 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 113 284 663 969 187 594 461 969 251 676 412 973 288 750 246 104 70 346 540 866 586 314 432 32 835 67 169 878 609 187 594 246 901 166 56 964 113 327 905 377 87 611 916 584 902 341 661 497 63 644 254 821 27 104 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 352 470 821 384 693 268 876 258 436 139 340 787 935 271 333 196 944 878 538 238 104 954 938 663 969 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 711 510 362 461 969 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p234\\p234_172_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "Scottish",
+      "region": "West",
+      "comments": "Dumfries"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the accent being spoken. Select one of the following only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "Based on the audio, I would identify the accent as British.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 493 361 393 946 215 406 538 594 246 660 166 964 113 327 905 803 791 611 524 44 115 644 254 530 733 787 935 101 741 555 530 733 664 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 761 430 70 219 866 586 280 314 488 443 93 274 208 944 173 641 124 243 850 537 213 973 978 824 33 333 793 477 680 910 377 431 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p249\\p249_010_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "Scottish",
+      "region": "Aberdeen",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is the speaker using in the audio? Choose only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent of the speaker in the audio as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 196 202 393 946 215 327 905 761 430 219 727 522 866 586 314 488 443 93 274 944 932 148 202 393 946 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 25 771 46 812 222 393 946 215 113 406 594 246 660 166 56 113 327 791 483 173 641 347 124 362 530 733 896 627 168 565 734 105 244 583 576 879 219 522 589 940 118 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 432 742 98 519 26 204 280 314 6 432 882 170 731 600 702 15 283 488 443 93 274 208 613 175 684 136 915 721 250 549 220 139 340 575 475 783 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 664 757 323 790 37 234 366 523 50 321 948 86 105 79 868 220 259 781 303 333 32 835 924 866 586 955 283 832 352 915 143 79 799 220 846 187 461 969 538 423 27 761 430 650 179 931 62 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 113 327 635 402 390 479 330 776 167 655 837 81 693 205 521 611 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p260\\p260_087_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Orkney",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine which accent is being spoken. Choose one from the list of accents only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "973 978 647 333 793 680 377 531"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p247\\p247_161_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Argyll",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what accent is being used? Pick only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "973 978 824 647 333 793 680 377 431 531"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p271\\p271_144_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Fife",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is being used in this audio clip? Is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent from the audio clip you provided as it's not available to me. However, based on the phrase 'She died at her home', it's likely to be an American accent.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 761 430 70 219 727 522 866 586 280 314 488 443 93 233 479 515 647 246 896 627 393 946 734 538 187 594 246 660 166 250 56 113 327 635 791 380 382 268 45 914 119 593 453 333 357 506 876 258 436 139 340 870 251 676 481 973 288 750 687 870 692 154 558 655 837 81 166 599 53 555 944 173 641 347 124 362 955 437 85 884 116 475 783 104 246 945 29 734 692 526 559 822 89 194 317 402 790 716 205 521 867 79 799 220 754 12 172 536 950 53 458 942 902 193 415 772 497 63 644 991 821 167 104 894 968 852 384 879 577 154 302 663 969 524 44 665 662 213 978 833 822 89 194 664 835 67 940 118 944 878 493 361 393 946 734 390 479 330 647 822 89 194 198 347 711 124 531 534 321 948 86 721 250 549 655 837 81 664 555 944 173 70 944 233 821 663 969 470 821 246 908 380 896 627 168 343 942 115 224 864 825 771 685 437 337 243 781 645 655 837 81 219 990 107 518 321 633 86 539 105 79 868 220 943 321 327 488 179 961 931 428 734 498 172 871 877 384 466 503 487 990 501 137 488 620 352 931 659 25 609 423 27 761 430 70 219 727 522 866 586 280 314 377 93 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p260\\p260_046_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Orkney",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the accent. Which one is it only return? Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or identifying accents. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 29 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 964 113 327 377 87 611 187 461 969 530 733 196 166 549 384 879 443 93 274 794 15 59 998 958 66 776 655 837 81 398 212 455 406 25 423 27 761 430 70 219 522 866 586 668 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 384 879 219 522 67 940 884 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p275\\p275_055_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "Scottish",
+      "region": "Midlothian",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's accent in the audio? Is it only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Scottish."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 530 733 196 166 250 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 423 27 761 319 219 522 866 586 314 377 816 93 545 85 297 169 955 46 812 222 659 878 538 187 594 246 764 901 166 964 113 327 611 916 584 902 193 415 661 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 816 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 233 850 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p259\\p259_045_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Nottingham",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is the speaker using in the audio? Choose only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent of the speaker in the audio as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 944 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 901 202 393 946 215 327 761 430 727 522 866 586 280 314 488 443 93 274 208 944 932 148 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 25 771 46 812 222 393 946 215 113 406 594 246 660 166 56 964 113 327 791 483 423 173 641 124 362 530 733 896 627 168 565 734 105 244 583 576 879 219 522 589 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 81 432 742 98 519 26 204 280 314 6 432 882 170 731 600 702 15 488 443 93 274 208 613 944 175 684 136 915 721 250 220 139 575 475 783 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 664 757 323 790 333 37 234 366 523 50 321 86 105 79 868 220 259 781 303 333 32 835 924 866 586 955 283 832 352 915 143 79 799 220 846 187 594 461 969 538 423 27 761 430 650 179 931 62 259 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 113 327 635 390 479 330 776 167 655 837 81 377 693 205 521 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p273\\p273_322_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Suffolk",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent do you hear in the audio? The possible accents are only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio or identifying accents. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 534 485 284 466 398 212 455 187 594 246 901 166 250 964 113 327 377 87 611 267 187 461 969 530 733 196 166 549 384 879 443 93 274 794 15 998 958 66 776 655 837 398 212 455 25 609 27 761 430 70 219 522 866 586 280 668 576 377 506 686 545 85 297 265 675 415 772 497 63 644 254 530 733 914 445 137 488 620 931 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p250\\p250_438_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "British",
+      "region": "SE",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what accent is being used? Pick only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "The accent being used is Scottish.",
+    "prediction_units": "215 327 384 761 430 70 219 727 522 866 586 314 333 523 506 686 29 943 398 212 455 258 436 139 340 347 376 940 118 944 865 641 683 589 126 445 137 167 104 70 185 794 680 15 377 431 385 417 584 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/s5\\s5_271_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "British",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the accent used in this audio? It might be only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "The accent used in this audio is British.",
+    "prediction_units": "215 327 384 761 879 430 70 219 522 866 586 314 333 523 93 794 233 258 436 139 340 347 376 940 118 944 46 812 222 881 331 333 32 683 337 878 878 187 594 246 901 166 964 113 327 803 791 52 424 267 714 25 825 771 865 641 124 337 243 850 537 213 973 824 647 333 793 477 680 910 377 431 531 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p282\\p282_348_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "British",
+      "region": "Newcastle",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the accent being spoken. Select one of the following only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "973 978 824 647 333 793 680 377 431 531 417"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p282\\p282_035_mic2.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "British",
+      "region": "Newcastle",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the accent of the speaker in this audio? Choose only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 944 25 423 771 822 89 194 664 885 765 302 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 901 202 393 946 215 327 905 761 430 70 219 727 522 866 586 314 488 443 93 274 208 944 932 148 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 771 46 812 222 393 946 215 113 406 594 246 660 166 56 113 327 791 423 173 641 347 124 362 530 733 721 549 803 795 944 233 152 784 429 878 423 761 430 70 219 952 522 295 586 314 377 198 835 67 337 884 79 799 220 202 393 946 215 406 594 246 660 56 113 327 791 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p287\\p287_080_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "British",
+      "region": "York",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify which accent is being spoken in the following audio? Choose from only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents from audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 530 733 664 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 423 27 761 430 219 727 522 866 586 314 816 758 545 85 297 265 243 479 515 647 663 896 627 538 187 594 246 660 166 964 113 327 916 584 902 193 415 661 497 63 644 254 530 733 263 445 137 488 620 659 538 187 594 908 310 816 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p256\\p256_211_mic2.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Birmingham",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the accent used in this audio? It might be only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent from the audio you provided as it's not available to me. However, I can try to help you with other questions or tasks.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 901 202 393 946 215 327 905 761 430 219 727 522 866 586 314 488 443 93 233 479 515 647 246 896 627 202 393 946 734 327 538 187 594 246 660 166 964 113 327 791 258 436 139 340 251 676 481 973 288 750 870 692 154 558 655 837 81 166 599 53 555 208 944 423 173 641 347 124 362 955 437 85 589 884 116 475 783 104 246 945 29 734 692 526 559 822 89 194 317 402 790 716 205 521 867 79 799 220 754 498 12 172 536 950 53 458 902 193 415 497 63 644 991 254 821 167 104 894 852 384 879 577 154 302 663 969 524 44 254 530 733 445 137 488 620 352 143 777 227 655 837 81 664 793 79 868 220 470 821 384 693 268 876 258 436 139 340 787 935 271 333 523 196 918 878 238 104 938 663 969 263 45 272 119 797 576 384 879 70 170 731 600 477 146 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p274\\p274_020_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Essex",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine which accent is being spoken. Choose one from the list of accents only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "The accent being spoken is British.",
+    "prediction_units": "393 946 215 327 761 430 70 219 522 866 586 314 333 488 443 93 29 213 943 485 398 212 455 912 98 519 589 126 323 740 908 382 268 501 137 366 865 641 124 243 850 537 213 973 978 824 647 333 793 477 680 377 431 531 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p244\\p244_419_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "British",
+      "region": "Manchester",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is the speaker using in the audio? Choose only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "The speaker has a Scottish accent.",
+    "prediction_units": "734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 470 152 641 124 362 734 742 98 519 589 126 137 167 104 70 185 794 680 910 333 432 431 531 878 423 27 761 907 430 70 219 727 866 586 314 377 93 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p258\\p258_216_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Southern",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is the speaker using in the audio? Choose only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "The speaker appears to have an American accent.",
+    "prediction_units": "734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 538 565 734 404 0 260 323 534 485 974 284 663 969 198 711 510 884 79 868 220 152 784 429 488 179 931 734 498 172 871 877 384 466 503 487 319 501 137 488 352 659 428 25 423 27 761 430 70 219 727 522 866 586 280 314 377 93 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p256\\p256_278_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Birmingham",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify which accent is being spoken in the following audio? Choose from only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents from audio. However, I can help you with information on the survival business if you'd like.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 530 733 664 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 398 212 455 428 423 27 761 430 219 727 522 866 586 314 816 758 545 85 297 265 243 479 515 647 663 896 627 538 187 594 246 660 166 964 113 327 611 916 584 902 193 415 661 497 63 644 254 821 167 104 894 968 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 576 384 693 268 876 258 436 139 340 787 935 271 333 523 196 918 944 333 328 143 390 422 776 435 663 748 806 336 877 822 89 194 664 817 146 283 352 931 659 493 361 393 946 734 519 26 204 280 614 663 870 692 526 558 655 837 81 577 154 716 205 521 382 537 290 978 333 347 975 747 428 53 198 711 510 169 955 333 998 958 66 258 436 139 340 660 555 781 645 655 837 81 664 990 107 417 755 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p256\\p256_017_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Birmingham",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in this audio clip. Which one of these is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "The accent in this audio clip is British.",
+    "prediction_units": "215 327 384 761 430 70 219 522 866 586 314 333 488 443 93 274 208 613 944 955 46 812 222 202 881 331 333 873 32 683 337 878 609 187 594 246 901 166 56 113 327 635 803 791 380 382 867 45 914 119 593 333 357 506 876 389 865 641 124 243 850 537 213 290 978 824 647 333 793 477 680 377 431 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p267\\p267_036_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "British",
+      "region": "Yorkshire",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the accent? Options only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not able to determine the accent from an audio clip, but I can help you identify the accent if you can provide a description of the audio or the words spoken.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 29 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 196 721 250 734 998 105 872 244 583 576 803 969 748 12 977 488 620 202 393 946 215 327 327 761 430 70 219 727 522 866 586 280 314 488 443 93 506 233 479 515 647 366 896 627 488 179 931 878 187 594 246 660 166 250 56 113 327 791 380 382 45 914 119 593 333 506 876 417 755 237 193 111 63 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 915 470 821 576 384 693 934 268 404 876 258 436 139 483 530 733 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 734 113 406 905 761 430 487 727 522 866 586 280 314 333 523 93 208 944 389 825 771 685 333 958 66 258 436 139 340 263 914 445 137 488 620 352 143 38 676 481 973 288 750 870 692 154 558 655 837 81 555 944 734 196 721 250 432 170 589 337 126 426 647 333 998 595 817 146 283 352 931 932 148 202 393 946 734 327 594 246 660 166 56 964 113 327 905 803 791 52 267 187 461 969 202 393 946 734 787 935 101 741 803 969 660 506 545 85 510 169 90 519 589 337 126 323 740 908 380 382 268 501 137 377 385 584 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p243\\p243_227_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "British",
+      "region": "London",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what accent is being used? Pick only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "Based on the audio, it's difficult to pinpoint the accent with certainty, but it sounds like a neutral or non-regional accent, possibly American or Canadian.",
+    "prediction_units": "978 822 89 194 664 835 67 944 878 493 361 393 946 215 406 538 594 246 660 166 964 113 327 905 803 791 611 424 524 44 115 605 121 665 864 771 685 437 884 537 721 250 333 958 66 776 59 870 501 860 716 205 521 506 29 79 868 220 870 251 676 260 323 333 488 352 915 676 0 260 41 740 797 89 81 664 202 393 946 215 487 319 219 522 586 280 314 506 233 535 935 271 333 523 918 519 26 519 26 204 280 614 663 969 934 315 747 274 50 53 321 458 942 115 193 621 128 665 991 547 833 173 945 944 437 85 519 589 26 204 280 668 576 384 907 597 816 758 545 711 510 243 645 655 837 81 664 990 107 137 565 734 575 116 281 372 436 139 340 660 351 477 728 716 205 521 267 187 594 461 969 575 116 281 62 462 655 764 650 816 112 915 156 824 705 11 353 716 205 521 423 27 761 430 70 219 727 522 866 586 280 314 384 377 443 506 686 613 417 237 193 63 665 213 547 444 655 104 70 540 295 586 59 790 518 321 327 565 754 498 172 338 877 384 466 503 487 319 501 137 377 488 620 352 654 931 659 187 594 461 969 263 45 445 469 179 961 428 822 89 194 664 166 964 113 377 385 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/s5\\s5_285_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "British",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in this audio clip. Which one of these is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio clips. However, I can help you with other questions or tasks.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 530 733 196 166 549 384 879 443 93 274 794 15 59 998 958 66 776 655 837 81 398 212 455 25 423 27 761 430 219 727 522 866 586 314 377 816 758 545 85 510 297 169 46 812 222 659 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 686 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 576 384 693 268 876 258 436 139 787 935 271 333 523 196 918 944 878 538 238 104 938 663 867 263 45 272 119 797 576 384 879 70 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p254\\p254_277_mic2.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Surrey",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what accent is being used? Pick only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "Based on the audio, it appears to be a British accent.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 493 361 946 215 406 538 594 246 660 166 964 113 327 905 803 791 611 424 524 44 115 665 864 771 685 437 734 357 251 676 0 260 323 534 485 284 663 969 198 711 510 884 79 868 220 943 327 565 734 251 412 290 978 824 647 333 793 477 680 910 333 32 431 531 423 27 761 430 70 219 727 522 866 586 280 314 377 93 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p258\\p258_072_mic1.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Southern",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify which accent is being spoken in the following audio? Choose from only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not able to identify accents from audio clips. However, I can suggest some online tools or apps that can help you with that. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 733 196 166 549 384 879 443 93 274 794 680 15 998 958 66 776 655 837 81 406 423 27 761 430 70 219 727 522 586 314 377 816 506 545 85 297 337 243 479 515 647 896 627 538 187 594 246 660 166 964 113 327 519 589 914 119 593 506 876 686 545 85 297 265 675 237 415 772 497 63 644 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 352 915 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 167 104 896 627 878 538 27 579 764 361 325 324 645 655 837 81 620 112 915 143 38 244 583 516 677 253 205 521 711 510 169 461 969 538 423 27 761 907 430 70 404 595 545 85 297 884 459 173 945 233 914 445 137 488 620 352 470 821 576 693 268 404 876 233 258 436 139 340 787 935 271 333 523 196 202 881 331 384 907 430 164 945 506 686 613 417 755 415 772 497 63 665 991 535 101 271 355 660 555 166 258 436 139 340 781 645 837 81 664 219 107 519 26 204 280 668 167 104 896 627 156 824 442 384 879 319 501 469 748 12 977 877 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p240\\p240_267_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "accents": "British",
+      "region": "Southern",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent do you hear in the audio? The possible accents are only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio or identifying accents. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 821 534 485 284 466 398 212 455 187 594 246 901 166 56 964 113 327 377 87 611 267 187 594 461 969 556 530 733 664 196 166 549 384 879 443 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 423 27 761 430 70 219 727 522 586 119 607 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p273\\p273_341_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Male",
+      "accents": "British",
+      "region": "Suffolk",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine which accent is being spoken. Choose one from the list of accents only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "The accent being spoken is British.",
+    "prediction_units": "393 946 215 327 384 761 430 70 219 522 866 586 314 488 443 93 29 943 485 398 212 455 143 912 98 519 589 126 323 740 908 380 382 268 501 137 366 865 641 124 243 850 537 213 973 978 824 647 333 793 477 680 377 431 531 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p239\\p239_252_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Female",
+      "accents": "British",
+      "region": "SW",
+      "comments": "England"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in this audio clip. Which one of these is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "British."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "978 647 333 793 680 377 531"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p326\\p326_382_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "accents": "Australian",
+      "region": "British",
+      "comments": "Sydney"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent do you hear in the audio? The possible accents are only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Australian."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying accents in audio. I'm a text-based AI assistant.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 934 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 187 594 461 969 530 733 196 166 549 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 25 423 27 761 430 70 219 727 522 866 586 314 816 758 545 85 297 169 955 46 812 222 659 538 187 594 246 901 166 964 113 327 377 87 611 916 584 902 819 415 661 497 644 254 530 733 896 627 168 565 734 105 244 583 576 879 219 522 589 940 118 537 213 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 32 170 731 600 702 15 377 385 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p326\\p326_317_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "accents": "Australian",
+      "region": "British",
+      "comments": "Sydney"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in the provided audio clip. The possible accents are only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Australian."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio clips or identifying accents through speech. However, I can help you with information on different accents if you'd like.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 29 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 787 538 187 594 246 901 166 56 113 327 635 402 380 382 263 45 914 119 593 453 506 876 545 85 297 265 675 237 594 461 969 530 733 196 166 549 384 879 443 274 794 680 15 998 958 66 776 655 837 81 398 212 455 25 609 423 27 761 430 70 219 522 586 280 576 377 816 506 545 85 297 265 675 237 307 665 780 256 728 220 340 846 828 742 98 519 589 126 323 534 485 321 948 539 686 552 326 531 417 675 755 584 193 415 772 497 63 644 991 254 821 167 104 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 576 384 693 268 876 258 436 139 340 787 935 271 333 523 196 918 944 771 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 878 538 493 361 915 721 250 333 958 66 776 663 488 443 93 29 878 609 423 27 761 430 219 727 522 866 586 314 377 443 93 545 85 297 169 955 389 333 873 958 66 258 436 139 340 660 555 233 781 645 655 837 81 664 990 107 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p343\\p343_331_mic1.flac"
+    ],
+    "metadata": {
+      "age": 27,
+      "gender": "Female",
+      "accents": "Canadian",
+      "region": "Alberta",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the accent. Which one is it only return? Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Canadian."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "978 288 647 333 793 680 333 377 431 531 417"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p303\\p303_296_mic2.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "accents": "Canadian",
+      "region": "Toronto",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in the following audio clip. Please choose the accent from the following options only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Canadian."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent in an audio clip. However, I can suggest some online tools or apps that can help you with that. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 944 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 215 327 905 761 430 219 727 522 586 314 488 443 93 208 944 46 812 222 428 488 222 931 659 538 187 594 246 660 166 56 113 327 635 791 380 382 263 45 914 119 593 453 333 506 876 415 661 497 63 644 254 821 761 104 894 852 741 384 879 577 154 302 663 969 44 254 530 733 914 445 137 488 620 352 915 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 104 896 627 168 878 538 27 579 764 361 325 781 645 655 837 81 620 112 915 143 38 244 583 516 677 253 205 521 711 510 169 461 969 538 423 27 761 907 430 70 404 595 545 85 297 884 459 173 945 233 914 445 137 488 620 352 470 821 576 693 268 404 876 258 436 139 340 787 935 271 333 523 196 202 881 331 238 384 907 430 945 506 686 613 417 755 415 772 497 665 991 535 101 271 355 660 555 166 258 436 139 340 259 781 645 655 837 81 664 219 107 519 26 204 280 668 167 104 896 627 156 824 442 384 879 319 501 469 748 12 977 877 488 443 93 801 549 822 89 194 817 146 283 832 758 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p363\\p363_354_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Canadian",
+      "region": "Toronto",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in the following audio clip. Please choose the accent from the following options only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Canadian."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio clips. However, I can help you with other questions or tasks.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 530 733 664 196 166 549 384 879 443 93 274 794 15 59 958 66 776 655 837 81 398 212 455 25 423 27 761 430 70 219 727 522 866 586 314 816 758 545 85 297 169 46 812 222 428 538 187 594 246 901 166 250 56 113 327 635 402 380 382 263 914 119 593 377 506 686 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 384 693 268 876 258 436 139 340 787 935 271 333 523 196 944 878 538 238 104 938 663 969 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 711 510 362 461 969 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p312\\p312_318_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "accents": "Canadian",
+      "region": "Hamilton",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the accent being spoken. Select one of the following only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Canadian."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "978 824 647 333 793 680 377 431 531 417"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p317\\p317_021_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "Canadian",
+      "region": "Hamilton",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is being used in this audio clip? Is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Canadian."
+      }
+    ],
+    "prediction": "The accent in this audio clip is British.",
+    "prediction_units": "393 946 215 327 761 430 70 219 522 866 586 280 314 333 488 443 93 274 208 613 944 955 46 812 222 202 881 331 333 32 683 337 878 609 187 594 246 901 166 250 56 113 327 905 803 791 380 382 45 914 119 593 333 506 876 865 641 124 243 850 537 213 973 978 824 647 333 793 403 477 680 377 431 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p363\\p363_107_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Canadian",
+      "region": "Toronto",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent can you hear in this audio clip? It could be only return one of the following: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Canadian."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio clips. I'm a text-based AI assistant.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 233 542 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 485 284 814 466 398 212 455 538 187 594 246 901 660 166 56 113 327 635 402 380 382 268 263 914 119 593 453 506 876 545 85 297 265 675 237 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 788 15 377 385 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p307\\p307_147_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "Canadian",
+      "region": "Ontario",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in this audio clip. Which one of these is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Canadian."
+      }
+    ],
+    "prediction": "The accent in this audio clip is Scottish.",
+    "prediction_units": "215 327 761 430 70 219 522 866 586 314 333 488 443 93 274 208 613 944 955 46 812 222 202 881 331 333 873 32 683 337 878 878 609 187 594 246 901 166 250 56 113 327 635 791 380 382 914 119 593 333 357 506 876 389 771 865 641 124 589 126 137 167 462 104 70 793 794 680 377 431 326 531 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p303\\p303_305_mic1.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "accents": "Canadian",
+      "region": "Toronto",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the accent spoken in this audio? Select only return one from the list: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Canadian."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "973 978 647 333 680 377 431 531 417"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p307\\p307_357_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "Canadian",
+      "region": "Ontario",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent do you hear in the audio? The possible accents are only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Canadian."
+      }
+    ],
+    "prediction": "I'm not able to hear the audio, but I can try to help you identify the accent based on the text you provide. Can you please read the text again?",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 29 25 423 771 822 89 194 664 765 302 716 205 521 79 868 220 470 821 485 284 969 202 393 946 215 113 327 594 246 901 166 964 113 327 905 377 87 611 524 44 115 224 111 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 143 105 777 227 655 837 81 664 793 79 868 220 470 821 576 384 693 268 876 258 436 139 483 530 733 664 196 166 549 384 879 443 274 794 15 59 998 66 776 655 837 81 901 202 393 946 215 327 761 430 70 219 522 866 586 314 523 29 537 290 978 822 89 194 664 835 67 940 118 944 878 493 361 393 946 734 105 244 583 576 384 879 219 952 522 67 940 118 233 258 436 139 340 870 251 676 481 973 288 750 870 692 154 558 655 837 81 377 53 506 686 208 613 417 755 193 415 772 497 662 445 137 576 488 620 179 207 258 436 139 340 251 676 412 260 712 321 948 198 711 510 337 243 156 824 56 485 321 948 86 555 202 393 946 734 793 105 244 583 576 384 879 219 952 522 67 940 118 998 319 350 836 384 907 597 620 112 343 44 902 819 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p301\\p301_326_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "American",
+      "region": "North",
+      "comments": "Carolina"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the accent used in this audio? It might be only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "The accent used in the audio is British.",
+    "prediction_units": "393 946 215 327 905 384 761 430 70 219 522 866 586 314 333 488 443 93 794 233 258 436 139 340 198 347 376 940 118 944 46 812 222 393 946 215 406 538 187 594 246 660 964 113 791 865 641 124 337 243 850 537 213 290 973 824 647 333 793 477 680 377 431 531 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p329\\p329_176_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "American",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is the speaker using in the audio? Choose only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "The speaker appears to have a British accent.",
+    "prediction_units": "734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 538 565 734 870 404 676 260 323 534 485 284 663 969 198 711 510 884 79 868 220 152 784 429 565 734 251 537 290 973 978 824 333 793 477 680 910 333 32 431 531 169 423 384 761 907 430 219 727 522 866 586 314 377 93 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p361\\p361_222_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "accents": "American",
+      "region": "New",
+      "comments": "Jersey"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent do you hear in the audio? The possible accents are only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio, but I can help you identify an accent if you can describe the audio to me.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 534 485 284 466 398 212 455 187 594 246 901 166 964 113 327 377 87 611 916 44 115 605 121 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 384 693 934 268 876 258 436 139 483 530 733 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 327 812 222 931 27 761 430 70 727 522 866 586 280 314 523 944 389 685 333 958 66 258 436 139 340 263 914 445 137 488 620 915 721 250 432 170 731 589 337 126 119 728 647 655 837 81 885 876 559 202 393 946 734 327 594 246 660 166 56 964 113 327 905 791 380 660 79 799 220 498 12 172 536 950 53 458 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p294\\p294_142_mic1.flac"
+    ],
+    "metadata": {
+      "age": 33,
+      "gender": "Female",
+      "accents": "American",
+      "region": "San",
+      "comments": "Francisco"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in this audio clip. Which one of these is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio clips. However, I can help you with information on different accents if you'd like.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 530 733 664 196 166 549 384 879 443 93 274 794 15 59 958 66 776 655 837 81 398 212 455 25 423 27 761 430 70 219 727 522 866 586 314 816 758 545 85 510 297 169 46 812 222 428 538 187 594 246 901 166 56 113 327 635 402 380 382 263 914 119 593 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 470 821 576 384 693 268 876 258 436 139 340 787 935 271 333 523 196 944 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 931 878 538 493 361 915 721 250 333 958 66 776 663 488 443 506 29 878 609 423 27 761 430 219 522 866 586 280 314 443 93 506 545 85 510 297 169 955 389 771 685 333 958 66 258 436 139 340 555 781 645 655 837 81 664 377 990 107 417 755 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p333\\p333_079_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "accents": "American",
+      "region": "Indiana",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in the provided audio clip. The possible accents are only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio clips. However, I can tell you that the phrase 'It was the turn of the carnival' doesn't sound like a specific accent. Could you please provide the audio clip or more context?",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 945 29 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 530 733 196 166 549 384 879 443 93 274 794 15 958 66 776 655 837 81 398 212 455 25 423 27 761 430 70 219 727 522 866 586 280 314 377 816 758 545 85 297 169 46 812 222 659 538 187 594 246 901 166 56 113 327 635 402 382 263 914 119 593 377 506 686 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 915 143 105 244 583 576 384 104 693 521 854 258 436 139 340 846 459 173 945 393 946 734 390 479 330 647 822 89 194 664 198 711 124 333 437 935 101 741 641 124 884 202 393 946 734 105 244 583 576 663 969 620 931 932 148 202 393 946 734 263 914 272 119 607 655 764 969 449 62 577 692 154 302 716 205 521 549 167 462 104 70 347 124 975 362 795 93 85 519 26 204 280 668 576 761 907 597 816 325 915 233 781 645 655 837 81 664 990 501 107 137 565 734 742 98 519 589 337 126 260 323 241 432 882 924 866 261 230 333 958 66 852 910 333 487 990 107 878 423 27 761 430 70 219 727 522 866 586 314 377 443 506 686 613 417 755 415 772 497 63 665 662 914 119 469 220 333 523 555 258 436 139 340 870 251 676 0 260 712 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 202 393 946 215 594 246 660 166 250 56 113 327 905 635 791 380 382 263 45 914 119 593 333 713 506 876 187 461 969 498 324 826 592 103 969 867 263 45 272 313 469 367 167 655 764 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p294\\p294_408_mic2.flac"
+    ],
+    "metadata": {
+      "age": 33,
+      "gender": "Female",
+      "accents": "American",
+      "region": "San",
+      "comments": "Francisco"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is the speaker using in the audio? Choose only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not capable of finding an accent in an audio file. I'm a text-based AI assistant and do not have the ability to access or analyze audio files.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 29 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 390 479 330 776 655 837 81 325 801 398 212 455 428 488 812 222 931 27 761 430 219 727 522 866 586 314 93 506 208 944 46 812 222 428 812 222 931 878 538 187 594 246 660 166 56 964 113 327 791 380 390 479 330 776 167 655 837 81 693 205 521 611 916 584 902 193 415 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 15 377 488 443 93 208 613 169 175 684 136 915 721 250 220 139 340 575 475 783 945 944 470 152 784 429 202 393 946 215 327 734 790 333 37 234 366 523 50 910 321 633 86 539 105 79 868 220 483 538 423 27 761 430 70 219 522 866 586 668 576 384 879 198 835 67 297 265 169 878 187 461 969 538 609 423 27 761 907 650 179 931 62 402 259 317 645 655 837 81 198 711 510 878 609 187 594 246 901 166 56 113 327 635 402 380 382 390 479 330 776 167 655 837 81 693 205 521 611 545 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p334\\p334_188_mic2.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Male",
+      "accents": "American",
+      "region": "Chicago",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is being used in this audio clip? Is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent in the audio clip as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 761 430 70 219 727 522 866 586 280 314 488 443 93 208 944 46 812 222 393 946 215 113 406 406 538 594 246 660 166 56 113 327 635 402 791 380 382 45 914 119 593 647 453 333 506 876 823 423 384 173 641 347 124 362 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 940 884 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 333 32 170 731 600 702 15 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 757 323 59 790 37 234 366 523 50 910 321 86 105 79 868 220 781 303 333 32 835 924 866 586 955 283 832 352 915 143 79 799 220 846 187 594 461 969 538 423 27 761 430 650 179 931 62 954 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 635 611 390 390 479 330 776 837 693 205 521 711 510 297 265 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p306\\p306_230_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "accents": "American",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the accent of the speaker in this audio? Choose only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent of the speaker in the audio as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 59 958 66 776 655 837 81 901 202 393 946 215 327 905 761 430 70 219 727 522 866 586 314 488 443 93 208 944 932 148 202 393 946 734 432 98 519 589 337 126 323 534 485 948 86 990 501 137 663 969 406 25 46 812 222 393 946 215 113 406 406 594 246 660 166 56 113 327 791 423 173 641 124 362 530 733 896 627 168 565 734 105 244 583 576 879 219 522 589 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 432 742 98 519 26 204 280 314 6 432 882 170 731 600 702 15 283 488 443 93 274 208 613 175 684 136 915 721 250 220 139 340 575 475 783 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 664 757 323 790 37 234 366 523 50 321 948 86 105 79 868 220 781 303 333 32 835 924 866 586 955 283 832 352 915 143 79 799 220 846 187 594 461 969 538 609 423 27 761 430 650 179 931 62 259 317 645 453 655 837 81 198 711 510 878 609 187 594 246 901 166 56 113 327 635 402 390 479 330 776 167 655 837 81 377 693 205 521 611 545 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p294\\p294_061_mic2.flac"
+    ],
+    "metadata": {
+      "age": 33,
+      "gender": "Female",
+      "accents": "American",
+      "region": "San",
+      "comments": "Francisco"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent do you hear in the audio? The possible accents are only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying accents in audio. I'm a text-based AI assistant.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 233 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 534 485 284 466 398 212 455 187 594 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 958 66 776 655 837 81 398 212 455 25 423 27 761 430 219 727 522 586 280 314 816 832 758 545 85 510 297 169 46 812 222 428 538 187 594 246 901 166 250 964 113 327 377 611 916 584 902 819 415 661 497 644 254 530 733 896 627 168 565 734 105 244 583 576 879 219 522 67 940 118 537 213 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 194 327 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p297\\p297_104_mic2.flac"
+    ],
+    "metadata": {
+      "age": 20,
+      "gender": "Female",
+      "accents": "American",
+      "region": "New",
+      "comments": "York"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the accent? Options only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio, but I can help you identify an accent based on a written description or a text transcript.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 233 542 914 445 137 822 89 664 934 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 787 538 187 594 246 901 166 56 964 113 327 377 87 611 524 44 115 605 121 621 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 576 693 268 876 258 436 139 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 327 812 222 931 659 27 761 430 70 219 727 522 866 586 280 314 523 29 213 978 822 89 194 664 835 67 940 118 944 493 361 428 565 734 156 824 333 793 403 557 747 352 915 143 721 250 798 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 461 969 565 734 793 105 244 583 576 384 879 70 219 522 67 940 118 647 167 384 907 650 816 912 589 337 126 119 728 647 663 377 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p333\\p333_021_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "accents": "American",
+      "region": "Indiana",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify which accent is being spoken in the following audio? Choose from only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "The accent in the audio is British.",
+    "prediction_units": "393 946 215 406 327 905 384 761 430 70 219 522 866 586 280 314 333 488 443 93 274 208 944 955 46 812 222 393 946 734 406 538 594 246 660 166 113 791 865 641 124 337 243 850 537 213 973 824 647 333 793 477 680 377 431 531 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p341\\p341_279_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "accents": "American",
+      "region": "Ohio",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the accent used in this audio? It might be only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I need more information about the audio you're referring to. Could you please provide more context or details about the audio, such as the sport or game it's from?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 167 693 268 876 417 341 661 497 63 644 991 254 821 167 104 108 894 968 852 741 384 879 577 154 302 663 969 524 726 44 254 530 733 575 116 372 485 948 86 555 233 889 324 826 592 103 969 466 503 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 931 428 565 849 907 597 945 29 393 946 215 327 594 246 660 166 56 964 113 327 905 803 791 380 258 436 635 969 156 824 734 870 390 422 330 776 435 663 969 466 398 212 455 143 38 79 799 220 846 611 916 584 902 193 415 661 497 63 662 914 119 677 220 333 523 555 166 258 436 139 340 357 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 29 324 826 592 103 969 867 263 45 272 313 469 167 655 650 816 274 794 75 583 15 576 384 879 219 952 522 940 118 461 969 196 721 250 485 948 86 539 557 75 583 15 822 89 284 635 693 205 521 711 510 362 734 849 907 597 29 202 393 946 215 113 327 594 246 901 166 56 964 113 327 905 377 791 611 524 44 902 111 128 665 780 519 26 204 280 668 167 104 70 185 552 955 333 198 641 124 884 202 393 946 734 742 98 519 589 126 41 740 592 103 969 660 506 613 417 187 594 461 969 537 416 836 822 89 194 896 627 168 871 877 333 437 85 337 243 479 330 647 246 896 627 168 309 44 902 819 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p333\\p333_356_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "accents": "American",
+      "region": "Indiana",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which accent is being spoken in this audio? The options are only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to listen to audio. Please provide a description of the accent or a sample of the audio, and I'll do my best to identify it for you.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 693 268 876 417 341 661 497 63 644 254 821 104 108 894 968 852 741 384 879 577 154 302 663 969 524 296 44 254 504 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 589 940 118 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 488 684 136 915 721 250 220 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 664 757 323 59 790 333 37 234 366 523 50 910 321 633 86 105 79 868 220 228 259 781 303 333 32 835 924 866 586 283 352 915 143 79 799 220 846 538 187 594 246 901 166 964 113 327 905 377 87 611 916 584 902 193 341 661 497 63 662 213 260 712 485 321 948 813 711 683 124 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 944 565 734 196 721 250 432 170 683 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 215 327 905 761 430 219 727 522 866 586 314 488 443 93 208 944 594 461 969 466 565 734 742 519 26 204 280 668 576 384 907 430 650 816 404 757 716 205 521 932 148 202 393 946 215 406 187 594 246 901 166 250 964 113 327 905 377 791 611 524 44 902 605 193 121 985 505 665 99 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 884 662 79 868 220 483 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 437 506 233 515 663 56 258 436 139 340 611 916 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p360\\p360_033_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "accents": "American",
+      "region": "New",
+      "comments": "Jersey"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the accent used in this audio? It might be only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to hear or analyze audio. Please provide a transcript or description of the audio, and I'll do my best to assist you.",
+    "prediction_units": "254 504 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 384 693 268 876 417 341 661 497 63 665 644 254 821 104 108 894 968 852 741 384 879 577 154 302 663 969 524 726 44 254 530 733 627 168 565 734 105 244 583 576 384 879 219 522 67 589 337 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 488 684 136 915 721 250 549 220 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 885 757 323 59 790 37 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 284 969 187 594 461 969 538 609 423 27 761 907 430 179 931 62 954 317 645 453 655 837 81 198 711 510 878 609 187 594 246 901 166 56 964 113 327 377 611 916 584 902 193 341 661 497 63 662 213 260 712 485 321 948 813 711 683 510 337 243 850 973 288 750 870 692 154 558 655 837 81 555 944 565 734 793 105 777 227 647 167 761 430 650 816 912 589 337 243 728 647 663 70 613 417 187 594 461 969 196 721 250 432 742 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 215 113 327 594 246 901 166 964 113 327 905 377 791 611 524 44 902 605 193 121 985 665 99 254 823 175 684 136 944 530 733 693 521 721 549 139 340 498 324 338 359 655 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 884 79 868 220 483 734 432 742 519 26 204 280 314 6 333 32 683 940 600 118 702 477 258 436 139 340 611 916 584 902 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p360\\p360_211_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Male",
+      "accents": "American",
+      "region": "New",
+      "comments": "Jersey"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is the speaker using in the audio? Choose only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent of the speaker in the audio as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 274 794 680 59 998 958 66 776 655 837 81 901 202 393 946 327 905 761 430 219 727 522 866 586 314 488 443 93 274 944 932 148 202 393 946 734 432 98 519 589 126 323 534 485 974 86 990 501 137 663 969 25 771 46 812 222 393 946 215 113 406 594 246 660 166 964 113 327 791 483 423 173 641 347 124 362 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 81 432 742 98 519 26 204 280 314 6 333 32 170 731 600 702 15 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 575 475 783 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 664 757 323 790 37 234 523 50 321 633 86 105 79 868 220 228 781 303 333 32 882 924 866 586 955 283 832 352 915 143 79 799 220 187 461 969 538 609 423 27 761 430 650 179 931 62 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 635 390 479 330 776 167 655 837 81 377 693 205 521 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p341\\p341_193_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Female",
+      "accents": "American",
+      "region": "Ohio",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's accent in the audio? Is it only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not able to identify the speaker's accent from the audio. Can you please provide more context or information about the audio?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 196 202 393 946 734 432 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 124 878 609 27 761 430 70 219 727 586 443 93 233 479 515 647 246 896 627 202 393 946 215 406 327 187 594 246 660 166 964 113 327 611 916 584 902 193 415 661 497 63 662 445 137 488 620 179 207 258 436 139 340 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 263 45 272 313 469 367 167 655 650 816 274 557 794 75 583 15 384 879 219 522 67 940 118 461 969 25 771 46 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 659 428 565 734 849 907 597 945 29 393 946 215 327 594 246 901 166 56 964 113 327 905 611 916 44 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p299\\p299_218_mic2.flac"
+    ],
+    "metadata": {
+      "age": 25,
+      "gender": "Female",
+      "accents": "American",
+      "region": "California",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine which accent is being spoken. Choose one from the list of accents only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 59 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 964 113 327 377 87 611 916 584 902 193 341 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p318\\p318_276_mic2.flac"
+    ],
+    "metadata": {
+      "age": 32,
+      "gender": "Female",
+      "accents": "American",
+      "region": "Napa",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the accent. Which one is it only return? Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or identifying accents. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 59 398 212 455 143 38 79 799 220 538 187 594 246 660 166 964 113 327 377 87 611 267 187 594 461 969 530 733 664 196 166 549 384 879 443 93 274 794 15 998 66 776 655 837 81 398 212 455 406 25 423 27 761 430 70 219 522 866 586 314 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 337 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 377 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p361\\p361_286_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "accents": "American",
+      "region": "New",
+      "comments": "Jersey"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent is being used in this audio clip? Is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, or New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent in the audio clip as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 609 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 483 530 733 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 202 393 946 215 327 761 430 70 219 522 866 586 314 488 443 93 208 944 955 46 812 222 393 946 215 113 406 406 538 187 594 246 660 166 56 113 327 635 402 791 380 382 45 914 119 593 453 333 357 876 823 384 173 641 347 124 362 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 940 884 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 432 32 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 757 323 790 37 234 366 523 50 321 86 105 79 868 220 781 303 333 32 835 924 866 586 955 283 832 352 915 143 79 799 220 187 461 969 538 423 27 761 430 650 179 931 62 954 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 964 113 327 635 611 390 390 479 330 776 377 205 521 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p339\\p339_277_mic1.flac"
+    ],
+    "metadata": {
+      "age": 21,
+      "gender": "Female",
+      "accents": "American",
+      "region": "Pennsylvania",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent can you hear in this audio clip? It could be only return one of the following: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "American."
+      }
+    ],
+    "prediction": "I'm sorry, I'm a text-based AI and do not have the capability to hear audio clips. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 912 519 26 204 280 668 655 246 764 466 503 53 321 458 942 44 605 254 504 530 733 896 627 168 565 734 793 105 542 244 583 576 879 219 522 67 589 118 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 530 837 81 733 327 488 684 136 915 721 250 220 575 475 783 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 539 757 323 59 790 37 228 234 523 50 910 321 633 86 539 105 79 868 220 470 821 534 485 284 969 538 187 594 246 901 166 56 113 327 635 402 380 382 263 45 914 119 593 453 377 506 545 85 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 931 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p335\\p335_362_mic2.flac"
+    ],
+    "metadata": {
+      "age": 25,
+      "gender": "Female",
+      "accents": "New Zealand",
+      "region": "British",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what accent is being used? Pick only return from: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "New Zealand."
+      }
+    ],
+    "prediction": "It's difficult to determine the accent based on the audio alone, but I can try to help you narrow it down. Can you please provide more context or information about the audio, such as the words or phrases spoken?",
+    "prediction_units": "85 337 884 721 250 333 958 66 776 59 870 501 860 716 205 521 506 29 79 868 220 196 721 250 734 523 793 105 244 583 576 663 748 12 336 366 620 352 915 202 393 946 215 406 761 430 70 219 522 866 586 280 314 29 537 290 978 822 89 194 664 835 67 940 118 944 878 493 361 393 946 734 406 538 187 594 246 660 166 964 113 327 905 791 734 781 645 246 563 380 611 385 942 115 224 121 111 666 621 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 915 143 105 777 227 655 837 81 664 793 79 868 220 470 821 384 693 268 876 258 436 139 340 575 116 281 428 384 907 466 402 791 380 660 333 437 29 721 549 384 907 597 611 385 309 584 902 193 415 497 63 665 662 914 445 137 488 620 179 207 258 436 139 340 382 251 676 0 260 712 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 889 324 826 592 103 969 867 867 45 272 313 469 167 655 764 650 816 274 794 75 583 15 384 879 219 522 67 940 118 461 969 25 825 771 46 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 734 849 907 597 506 29 393 946 215 327 594 246 901 166 250 964 113 327 905 377 791 611 524 44 128 665 780 519 26 204 280 668 104 70 185 552 955 333 198 641 124 884 202 393 946 734 787 935 101 741 803 969 660 555 545 85 510 169 461 969 390 479 330 647 822 89 194 664 347 376 955 333 198 711 683 510 940 169 884 609 519 589 337 126 323 740 908 380 382 268 501 137 366 488 620 352 385 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p376\\p376_139_mic2.flac"
+    ],
+    "metadata": {
+      "age": 22,
+      "gender": "Male",
+      "accents": "Indian",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the accent. Which one is it only return? Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Indian."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "978 288 647 333 793 680 377 431 531"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p251\\p251_064_mic2.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "accents": "Indian",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in this audio clip. Which one of these is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Indian."
+      }
+    ],
+    "prediction": "The accent in the audio clip is British.",
+    "prediction_units": "215 327 905 761 430 70 219 522 866 586 280 314 384 488 443 93 274 208 613 944 955 46 812 222 393 946 215 406 538 594 246 901 166 56 113 327 905 635 791 380 382 45 914 119 593 333 506 876 865 641 124 337 243 850 537 213 978 824 647 33 333 793 477 680 910 377 431 531 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p248\\p248_132_mic1.flac"
+    ],
+    "metadata": {
+      "age": 23,
+      "gender": "Female",
+      "accents": "Indian",
+      "region": "",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the accent spoken in this audio? Select only return one from the list: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Indian."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent in the audio as I'm a text-based AI assistant and do not have the capability to listen to or analyze audio files.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 901 196 202 393 946 215 327 905 761 430 70 219 727 522 866 586 314 488 443 93 506 208 613 944 46 812 222 393 946 215 406 327 594 246 660 166 56 113 327 905 791 423 173 641 347 124 362 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 432 882 170 731 600 702 15 283 488 443 93 274 208 613 944 175 684 136 915 721 250 549 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 790 37 234 366 523 50 321 86 105 79 868 220 781 303 333 32 882 924 866 586 955 283 832 352 915 143 79 799 220 187 594 461 969 538 423 27 761 430 650 179 931 62 259 317 645 453 655 837 81 198 711 376 510 878 609 187 594 246 901 166 56 113 327 635 791 390 479 330 776 837 377 693 205 521 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p323\\p323_322_mic1.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "accents": "South Africa",
+      "region": "Pretoria",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the accent being spoken. Select one of the following only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "South Africa."
+      }
+    ],
+    "prediction": "I'm not able to identify the accent based on the audio as I'm a text-based AI assistant and do not have the capability to hear or process audio.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 483 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 196 202 393 946 215 327 761 430 219 727 522 866 586 280 314 443 93 29 537 213 978 833 822 89 194 664 835 67 940 118 944 878 493 361 393 946 734 327 187 594 246 660 166 964 113 327 423 173 641 124 362 530 733 627 168 565 734 105 244 583 576 879 219 522 67 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 798 432 742 98 519 26 204 280 314 6 333 32 882 170 731 600 702 15 377 488 443 93 208 613 878 175 684 136 915 721 250 549 220 139 340 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 790 37 234 366 523 50 910 321 633 86 539 105 79 868 220 470 821 485 284 663 969 187 594 461 969 382 251 676 412 973 288 750 246 104 70 346 540 866 586 314 432 32 835 67 22 169 878 609 187 594 246 901 166 56 964 113 327 377 87 611 916 584 902 341 661 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p336\\p336_417_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "accents": "South Africa",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent do you hear in the audio? The possible accents are only return Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "South Africa."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to hear audio. Please provide more context or information about the audio you're referring to.",
+    "prediction_units": "254 504 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 803 693 268 876 417 341 661 497 63 644 991 821 104 894 968 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 194 327 488 684 136 915 721 250 549 220 575 475 783 764 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 664 757 323 790 37 234 366 523 50 321 86 105 79 868 220 470 821 534 485 284 969 538 187 594 246 901 166 56 964 113 327 377 87 611 916 584 902 341 661 497 63 662 213 260 712 485 321 948 813 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 324 826 592 103 969 867 263 45 272 313 469 367 167 655 764 650 816 274 794 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 822 89 194 817 146 283 352 385 659 428 565 734 849 907 597 29 393 946 215 113 327 594 246 901 660 166 964 113 327 905 791 611 258 436 635 969 156 824 734 870 390 422 330 776 435 663 969 466 398 212 455 143 38 79 799 220 340 846 611 916 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p336\\p336_335_mic1.flac"
+    ],
+    "metadata": {
+      "age": 18,
+      "gender": "Female",
+      "accents": "South Africa",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the accent in this audio clip. Which one of these is it only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "South Africa."
+      }
+    ],
+    "prediction": "I'm not capable of identifying accents in audio clips. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 530 733 196 166 549 384 879 443 93 274 794 680 15 958 66 776 655 837 81 398 212 455 25 423 27 761 430 70 219 727 522 866 586 314 816 506 545 85 510 297 169 46 812 222 659 538 187 594 246 901 166 56 113 327 635 791 380 382 263 914 119 593 377 506 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 263 914 445 137 488 620 659 538 187 594 908 310 816 325 518 56 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 466 53 321 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p323\\p323_113_mic2.flac"
+    ],
+    "metadata": {
+      "age": 19,
+      "gender": "Female",
+      "accents": "South Africa",
+      "region": "Pretoria",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent can you hear in this audio clip? It could be only return one of the following: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "South Africa."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio clips, but I can help you identify an accent based on a written description or a text transcript.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 934 757 323 59 790 716 205 521 932 148 821 485 284 466 398 212 455 538 187 594 246 901 166 56 113 327 635 402 380 382 268 263 914 119 593 453 506 876 545 85 297 675 237 307 226 666 621 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 576 384 693 934 268 876 258 436 139 530 733 664 196 166 549 384 879 443 274 794 680 15 59 998 66 776 655 837 81 327 812 222 931 659 27 761 430 70 727 522 866 586 280 314 523 29 290 978 822 89 194 664 835 67 940 118 944 878 493 361 428 565 734 156 824 333 793 403 557 747 352 915 143 721 250 798 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 385 461 969 565 734 793 105 244 583 576 384 879 219 522 67 940 118 233 850 213 469 167 907 650 816 912 589 337 119 728 647 663 377 93 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p347\\p347_048_mic1.flac"
+    ],
+    "metadata": {
+      "age": 26,
+      "gender": "Male",
+      "accents": "South Africa",
+      "region": "Johannesburg",
+      "comments": ""
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine which accent is being spoken. Choose one from the list of accents only return: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "South Africa."
+      }
+    ],
+    "prediction": "British",
+    "prediction_units": "973 978 647 333 793 680 377 531"
+  },
+  {
+    "voice": [
+      "vctk/wav48_silence_trimmed/p313\\p313_296_mic2.flac"
+    ],
+    "metadata": {
+      "age": 24,
+      "gender": "Female",
+      "accents": "Irish",
+      "region": "County",
+      "comments": "Down"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What accent can you hear in this audio clip? It could be only return one of the following: Scottish, British, Northern Irish, Irish, Indian, American, Canadian, South African, Australian, New Zealand.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Irish."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio clips. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 534 485 284 466 398 212 455 538 187 594 246 660 166 56 113 327 635 402 380 382 263 45 914 119 593 453 506 876 545 85 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 878 538 187 594 908 310 325 518 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  }
+]

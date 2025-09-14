@@ -1,0 +1,1602 @@
+[
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_065-055-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a stringed instrument that produces sound by plucking strings, which are then shaped into a cone. The instrument is typically played by plucking the strings, which are usually made of metal or plastic. The sound produced by the guitar is often described as a \"blow\" or \"blow\" sound, which is a result of the sound produced by the strings."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_000-087-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music classification project, identify the primary instrument in this audio. Return only one of the following: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The primary instrument in the 'Stadillo' keyboard is the bass guitar."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_002-068-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It has a unique sound that is quite different from other instruments, including the bass, keyboard, and violin. The guitar's strings are typically made of steel or aluminum, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves are made of copper. The strings themselves are made of copper, and the strings themselves"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_088-066-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The primary instrument in this audio clip is the bass drum. It is the main instrument that plays the bass, which is the sound produced by the bass drum when it is struck. The bass drum is also the main instrument that produces the sound of the guitar, which is the main instrument that produces the sound of the guitar."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_060-043-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "result": "The guitar, keyboard, and bass are all part of the keyboard and bass synthesizer. The guitar is the main instrument, while the keyboard is used to play the bass. The bass is used to play the guitar."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_068-053-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "The sound identification task you described is a sound recognition system. It uses a combination of sensors, such as a microphone and a camera, to detect and identify the sound of a particular audio input. This allows the system to accurately recognize and respond to various audio inputs, such as voice commands, text, and images."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_075-035-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The instrument in the provided audio is a guitar."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_036-066-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the instrument is correctly classified based on its unique sound characteristics. Respond with only the appropriate label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "result": "It sounds like you're describing the keyboard keyboard. The instrument you're referring to is the Fender Fender Stratocaster. It's a popular choice for both solo and keyboard music, known for its distinctive sound and distinctive sound effects."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_025-085-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a crucial part of the guitar, often used in country music and blues."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_002-087-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "result": "The bassdrums, guitar, and keyboard are all part of the acoustic instrument family. The bassdrums are the main instrument, while the guitar is used to play the bass. The keyboard is used to play the bass."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_032-061-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It is often played in the acoustic style and is known for its rich, rich sound and expressive nature."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_114-047-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The keyboard, guitar, and bass are all essential components of a musical instrument. The guitar is a stringed instrument that produces sound by plucking strings, while the keyboard is a keyboard instrument that uses a stylus to press keys. The bass is a percussion instrument that produces sound by vibrating the strings. All three of these instruments are used together to create a full sound."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_020-102-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the instrument is correctly classified based on its unique sound characteristics. Respond with only the appropriate label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "It sounds like you're referring to the specific instrument you're talking about. The instrument you're mentioning is the bass drum, which is a key part of the keyboard and is often used in various musical genres. The bass drum is typically a smaller, more compact instrument compared to the larger drums, and it's often used in orchestras and small orchestras. The instrument is also known for its unique sound and distinctive sound, which can be quite different from the sounds of other instruments."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_002-034-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It is a stringed instrument that produces sound by plucking strings with a mouthpiece. The strings are typically made of metal or plastic and are used to produce different pitches and tones. The mouthpiece is usually attached to the guitar and is used to pluck the strings."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_017-072-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "Yes, if you have multiple instruments present, you can use a keyboard, mallet, or reed string to create a synthelated vocal. Each instrument has its own unique sound and can be used to create a unique sound. For example, a keyboard can create a different pitch or tone, while a mallet can create a different sound. Additionally, you can use a reed string to create a different sound or to create a different pitch."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_060-052-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "result": "Yes, if you have multiple instruments present, turn only the dominant one, respond strictly with the correct label from bass brass flute, keyboard, mallet, or reed string, single, vocal, or any other instrument."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_015-070-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music classification project, identify the primary instrument in this audio. Return only one of the following: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Vocal"
+      }
+    ],
+    "result": "The primary instrument in the audio recording of bass brass, guitar, keyboard, and mallet is the bass. The bass is the lowest and lowest-pitched sound in the audio. It is typically played on the bottom of the instrument, and it is used to create the sound of the instrument. The other instruments are used to add texture and volume to the audio."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_005-027-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. The sound of the guitar is typically described as \"strumming\" or \"strumming.\" The specific label you're looking for is \"Loud.\""
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_034-057-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The bass drum, keyboard, and guitar are all part of the dominant instrumental section in the track. The bass drum is the main instrument, the keyboard is the main instrument, and the guitar is the main instrument."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_030-059-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "result": "The violin is a versatile instrument that can be played in various genres, including classical, jazz, and contemporary music. It is known for its rich, rich sound and is often used in orchestras, chamber music, and even in solo performances. The violin's unique sound is characterized by its rich, resonant tone, which can be quite different from other instruments. It is also known for its versatility, allowing it to be played in various settings, from orchestras to soloists. Additionally, the violin's rich, deep tone can be quite soothing and calming, making it a calming instrument to play. Overall, the violin is a versatile and powerful instrument that has a wide range of uses and is highly valued in music."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_007-041-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The instrument played in the video is a guitar. The bass is played on the guitar, and the drums are played on the drum. The guitar is a stringed instrument that produces sound when plucked or strummed. It is a popular instrument in many cultures and is often used in music and entertainment."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_006-054-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "The instrument you are referring to is the guitar. It is a stringed instrument that is commonly used in various musical genres, including rock, pop, and classical music. The guitar is typically played with a plucking body and a mouthpiece, and it is usually played in a bow and plucking motion. The strings are usually made of metal and are attached to the fretboard. The mouthpiece is usually used to pluck the strings and to produce sound."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_005-084-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a key instrument that produces sound and is commonly used in various musical genres. The instrument's sound is determined by the tuning of the strings, which are typically tuned to a specific pitch. The guitar's sound is crucial for creating different pitches, which are essential for different musical styles."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_021-024-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on the instrumental characteristics and determine the correct classification. Output just one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "result": "Got it. I'll start by researching the different types of instruments and their characteristics. I'll also look into the different types of vocal techniques used in bass and brass flute music. After that, I'll compile a list of the instruments and their corresponding vocal techniques. Finally, I'll provide a comparison of the different types of instruments and their vocal techniques."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_058-045-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a crucial part of the guitar, playing a crucial role in producing sound and playing music."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_synthetic_000-032-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-assisted composer tool, detect the instrument used in this segment. Output only one of the predefined labels - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "It sounds like you're looking for a keyboard that can detect the instrument used in a guitar, keyboard, and read strings. A good option would be a digital keyboard that can recognize the instrument and its position in the instrument. This would allow you to play the instrument without having to manually touch it. Additionally, you could use a digital keyboard that can read the instrument's position in the instrument, which would make it easier to play."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_034-026-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-assisted composer tool, detect the instrument used in this segment. Output only one of the predefined labels - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "It sounds like you're describing a keyboard keyboard. The instrument you're referring to is the \"Fender Stratocaster\" or \"Fender Stratocaster.\" It's a popular and versatile keyboard that has been used for decades. It's known for its versatility and can be used for a wide range of music and sound effects. If you have any specific questions about using it, feel free to ask!"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_099-047-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A digital music library is categorizing tracks by instrument. Identify and return the instrument name from the given list - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The digital music library you're referring to is likely the Digital Music Archive. It is a vast collection of music from various genres, including classical, jazz, rock, and pop. The archive includes a wide range of music from different eras and genres, making it a valuable resource for music lovers."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_014-053-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "The instrument you're referring to is the bass drum. It's a crucial part of the bass drum, which is the main instrument in many electronic music tracks."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_010-062-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Vocal"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a crucial part of the guitar, often used for playing strings and amplification."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_000-096-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "The bass drum is classified as a \"bass\" keyboard in the metalcore band Metallica."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_011-085-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music classification project, identify the primary instrument in this audio. Return only one of the following: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The primary instrument in this audio return is the bass guitar, keyboard, and mallet. The bass guitar is the main instrument, the keyboard is used for playing the bass, and the mallet is used for playing the bass."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_027-083-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the instrument is correctly classified based on its unique sound characteristics. Respond with only the appropriate label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "result": "It sounds like you're describing the instrument you're referring to. The instrument you're mentioning is the guitar, specifically the Fender Stratocaster. It's a popular choice for many people due to its versatility, sound quality, and versatility in various music genres."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_008-090-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The sound you're referring to is the bass-brass flute, which is a type of electric guitar. It is typically played with a mouthpiece and a stringed or electric guitar. The bass is the lower, hollowed instrument, while the string is the higher, electric guitar. The bass is usually played in a low, low-pitched sound, while the string is usually played in a high, high-pitched sound. The bass is usually played in a low, low-pitched sound, while the string is usually played in a high, high-pitched sound."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_106-070-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "Yes, multiple instruments are present, including the dominant one. The dominant is the instrument that produces the most sound or vibrato, and it is often the most important instrument in a musical composition. The other instruments, like the bass, guitar, and piano, are also present but are used in different ways."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_026-103-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument and return only the corresponding label. No additional text or explanation. Choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It is a stringed instrument that produces sound by plucking strings, which are then shaped into a fretboard. The strings are usually made of metal and are used to produce different pitches and tones. The guitar is played by plucking the strings with a plucking mouthpiece, which is then struck with a pick or a similar tool. The sound produced by the guitar is what makes it sound like a guitar."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_015-053-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument and return only the corresponding label. No additional text or explanation. Choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It is a stringed instrument that produces sound by plucking strings, which are then shaped into a cone. The instrument is typically played by plucking the strings, which are then shaped into a cone. The strings are usually made of metal or plastic and are attached to the fretboard. The sound produced by the strings is what makes the guitar sound."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_009-062-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a crucial part of the guitar, playing a crucial role in producing sound and playing music."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_018-063-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "result": "The primary instrument in this audio clip is the guitar. It is the main instrument that plays the bass, which is the main sound in the music video. The other instruments are used to add texture and volume to the video."
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\keyboard_electronic_002-107-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A digital music library is categorizing tracks by instrument. Identify and return the instrument name from the given list - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The digital music library you're referring to is likely the Digital Music Archive. It is a vast collection of music from various genres, including classical, jazz, rock, and pop. The instruments included in the library include the piano, guitar, bass, drums, and synthesizers. It's a great resource for music lovers and enthusiasts who want to explore and appreciate the diverse range of music genres."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_053-059-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It is a stringed instrument that is commonly used in various musical genres, including rock, blues, and jazz. The guitar's strings are typically made of metal or plastic, and it has a hollow body with a hollow body cavity. The strings are usually made of brass or steel, and they are shaped like a cylinder. The strings are played by plucking or strumming them, and the sound is produced by the mouthpiece. The sound is produced by the vibrating of the strings, which are then amplified and shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and the sound is then amplified and shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouthpiece, and then shaped by the mouthpiece. The sound is then amplified and shaped by the mouth"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_063-030-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument do you hear in this recording? Reply using only one of the predefined labels, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. The guitar is a stringed instrument that produces sound by plucking strings, which are then tuned to produce a sound."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_023-076-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "result": "The bass brass flute, guitar, and keyboard are all types of vocal instruments. The bass is a stringed instrument that produces sound by vibrating the strings, while the guitar is a stringed instrument that produces sound by plucking the strings. The keyboard is a keyboard instrument that produces sound by pressing the keys."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_048-032-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a popular instrument known for its versatility and versatility in various genres."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_000-029-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-assisted composer tool, detect the instrument used in this segment. Output only one of the predefined labels - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "It sounds like you're describing a keyboard keyboard. These instruments are commonly used in the guitar, keyboard, and even in the context of music. The specific instruments you're referring to are the Fender Stratocaster, Fender Fender Stratocaster, and the Fender Stratocaster. Each of these instruments has its own unique features and uses."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_035-053-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Brass"
+      }
+    ],
+    "result": "The sound of the bassdrums, guitar, and keyboard is distinctly acoustic, with a rich, rich, and melodic quality. The bassdrums are the most prominent, with their distinctive, melodic tone. The guitar is also a key instrument, with its distinctive, melodic tone. The bass is the most important part of the sound, with its distinctive, melodic tone. The keyboard is a secondary instrument, with its distinctive, melodic tone. The bass is the most important part of the sound, with its distinctive, melodic tone. The guitar is the second most important part of the sound, with its distinctive, melodic tone. The bass is the most important part of the sound, with its distinctive, melodic tone. The keyboard is the third most important part of the sound, with its distinctive, melodic tone. The bass is the most important part of the sound, with its distinctive, melodic tone. The keyboard is the most important part of the sound, with its distinctive, melodic tone."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_000-075-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The sound of the bassdrums, guitar, and keyboard is distinctly vocal. The bassdrums are the primary instrument, while the guitar is used to produce the sound. The bass is usually played with a mouthpiece, while the guitar is played with a plucking mouthpiece. The bass is usually played in a low, low-pitched voice, while the guitar is usually played in a high-pitched voice. The bass is usually played in a low, low-pitched voice, while the guitar is usually played in a high-pitched voice."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_015-027-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Vocal"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a key instrument that produces sound and is commonly used in various musical genres. The instrument is typically played with a plucking body and is often used in solo or ensemble settings."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_118-104-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "Yes, the instrument you're referring to is the guitar. It's a key instrument that is commonly used in various musical genres, including rock, blues, and jazz. The guitar's sound is often described as rich, full of timbre, and it's often played with a plucked body. It's a versatile instrument that can be used for a variety of purposes, from solo playing to playing in a band."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_013-066-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Vocal"
+      }
+    ],
+    "result": "Yes, the double bass flute, keyboard, and multi-instrumental are all instruments that are present in the present. The double bass flute is a stringed instrument that is used to play a variety of sounds, including bass, treble, and double bass. The keyboard is a musical instrument that is used to play a variety of sounds, including strings, woodwinds, and percussion. The multi-instrumental is a musical instrument that is used to play a variety of sounds, including strings, woodwinds, and percussion."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_075-076-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on the instrumental characteristics and determine the correct classification. Output just one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "Got it. I'll start by researching the different types of guitar keys, such as Fender Fender Fender Stratocaster, Fender Fender Stratocaster, and Fender Stratocaster 8. I'll also look into the different types of strings and how they affect the sound of a guitar. After that, I'll compare the different types of strings and how they affect the sound of a guitar. Finally, I'll provide a summary of my findings and a list of recommendations for you to consider."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_014-054-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "The bass guitar, keyboard, mouth, and reed strings are all types of vocal parts. The bass guitar is a stringed instrument that produces sound by plucking the strings, while the keyboard is a keyboard instrument that uses the keys to press the strings. The mouth is a part of the mouthpiece that is used to press the strings, and the reed is a part of the reed mechanism that is used to press the strings."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_092-041-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The bass brass flute, also known as the \"bass\" or \"bass\" flute, is a key instrument in the classical music repertoire. It is a brass instrument that produces sound by vibrating the air inside the flute. The instrument is typically played with a mouthpiece and a stringed instrument, such as a violin or a cello. The bass is the lower register of the flute, while the string is the higher register. The strings are usually made of wood or metal and are attached to the mouthpiece. The mouthpiece is usually placed on the head of the flute, and the string is attached to the mouthpiece. The strings are then played by pressing them down with the mouthpiece, and the sound is produced by the vibration of the air inside the flute."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_021-076-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Flute"
+      }
+    ],
+    "result": "The keyboard, guitar, and violin are all instruments that are commonly used in music. The keyboard is a musical instrument that is used to play a variety of sounds, such as strings, keys, and notes. The guitar is a musical instrument that is used to play a variety of sounds, including strings, strings, and percussion. The violin is a musical instrument that is used to play a variety of sounds, including strings, strings, and percussion."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_synthetic_006-066-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The keyboard, guitar, and violin are all essential components of a musical instrument. The keyboard is the main instrument, while the guitar is used to play the strings. The violin is used to play the strings. The other instruments are used to produce sound."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_synthetic_001-067-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Flute"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a popular instrument that produces a rich, deep sound and is often used in various musical genres."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_030-026-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A digital music library is categorizing tracks by instrument. Identify and return the instrument name from the given list - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "result": "The digital music library you're referring to is likely the Digital Music Archive. It's a vast collection of music from various genres and artists, including classical, jazz, rock, and pop. The archive includes music from various artists and genres, including the Beatles, The Beatles, The Rolling Stones, The Beatles, The Rolling Stones, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The Beatles, The"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_031-035-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The bass, flute, keyboard, and guitar are all types of instruments that are commonly used in music production. The bass is a stringed instrument that produces sound by vibrating the strings, while the flute is a brass instrument that produces sound by blowing air through the mouthpiece. The guitar is a stringed instrument that produces sound by plucking the strings."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_028-058-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music recommendation engine needs to identify the instrument in this clip. Provide only the correct category from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "result": "A music recommendation engine that identifies the instrument in a music clip provides only the correct category from bass brass flute, guitar, keyboard, mallet, ocarcello, cymbal, and vocal."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_012-083-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The bass drum is classified as a metal, specifically a metal restringent, in the vocal group."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_100-057-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "Yes, if multiple instruments are present, you can use a keyboard, mallet, or even a synthesizer to play the same songs. This way, you can play the same songs repeatedly without needing to switch between different instruments."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_042-030-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "The keyboard, guitar, and violin are all essential components of a musical instrument. The keyboard is the primary instrument used for playing music, while the guitar is used for playing strings. The violin is used for playing the violin, and the keyboard is used for playing the keyboard. The other instruments are used for different purposes, such as the piano, flute, and recorder."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_022-081-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The guitar, keyboard, and needle are all essential components of a guitar. The guitar is the main instrument, while the keyboard is used to play the strings. The needle is used to pluck the strings, and the guitar is used to play the sound."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_027-061-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "result": "The instrument you are referring to is the guitar. The sound of the guitar is typically described as a hollowed-out, hollowed-out sound, with a flat, hollowed-out body. The strings are typically made of metal, and the metal is coated with a thin layer of plastic. The guitar is typically played by plucking the strings with a plucking motion, and the sound is produced by the vibration of the strings."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_079-079-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument do you hear in this recording? Reply using only one of the predefined labels, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a key instrument that is commonly used in acoustic guitar playing."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_043-048-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a key instrument that produces sound and is commonly used in various musical genres. The instrument's name is \"guitar,\" and it's often referred to as \"guitar\" or \"guitar.\" It's a versatile instrument that can be played on a variety of strings, including strings, woodwinds, and brass. The guitar's sound is often described as a \"blow-pop\" or \"blow-pop\" sound, which is characterized by its distinctive, high-pitched tone. It's a versatile instrument that can be used for a variety of musical purposes, from solo playing to composing and performing."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_012-042-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music classification project, identify the primary instrument in this audio. Return only one of the following: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Organ"
+      }
+    ],
+    "result": "The primary instrument in the audio recording of bass brass, flute, guitar, mallet, and clarinet is the bass. The bass is the lowest and lowest-pitched instrument, and it is typically played in a bass drum. The other instruments mentioned, such as the trumpet, trombone, and bassoon, are all used in different musical contexts."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_011-021-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For an AI-assisted composer tool, detect the instrument used in this segment. Output only one of the predefined labels - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Mallet"
+      }
+    ],
+    "result": "It sounds like you're describing a keyboard keyboard. The keyboard you're referring to is the A10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_110-059-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The sound identification task you described is called \"Reverb.\" It involves identifying the instrument in the audio snippet and then reading the stringed lyrics to determine the specific audio signal. This helps in accurately identifying the sound and understanding the context of the audio."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_036-066-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The keyboard, guitar, and violin are all essential components of modern music. The keyboard is the primary instrument used in many musical instruments, including the piano, guitar, and violin. The guitar is used to play a variety of instruments, including the guitar, bass guitar, and drums. The violin is used to play a variety of instruments, including the violin, viola, and cello. The keyboard and guitar are used to create a wide range of sounds and textures, and the violin is used to create a variety of sounds and textures."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_013-079-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Flute"
+      }
+    ],
+    "result": "The bass brass flute, keyboard, organ, and violin are all instruments that are commonly used in music. The bass is a stringed instrument that produces sound by vibrating the strings, while the organ is a brass instrument that produces sound by vibrating the strings. The violin is a stringed instrument that produces sound by vibrating the strings. The bass is typically played in a bass line, while the organ is typically played in a bass line. The violin is typically played in a bowline, while the bass is typically played in a bow line. The bass is typically played in a bow line, while the organ is typically played in a bow line. The violin is typically played in a bow line, while the bass is typically played in a bow line."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_107-083-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a crucial part of the guitar, often used in country music and blues. The instrument's sound is often described as rich and complex, with a deep, resonant tone. The guitar's strings are typically made of metal, which gives it a rich, resonant feel. The strings are usually made of brass or steel, and they are often tuned to produce a wide range of tones. The guitar's tuning is usually a single, flat string, which allows for a wide range of notes. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The tuning of the strings is usually a single, flat string, which allows for a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or metal, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of brass or steel, and they are often tuned to produce a wide range of pitches. The strings themselves are usually made of wood or steel"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_021-026-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Do not provide any explanation—simply return the instrument name that matches the sound in this clip. You can choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The instrument you're referring to is the bass flute. It is a key part of the keyboard, keyboard, and other instruments. The bass flute is a small, hollowed instrument that produces a rich, deep sound. It's often used in music and is known for its distinctive sound and rich, rich tone. The instrument is typically played with a bow and a mouthpiece, and it's often used in orchestras and chamber music."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_039-075-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The primary instrument in this audio clip is the bass bass flute. It is the main instrument that plays the bass, which is the sound produced by the flute. The bass is also the main instrument that produces the sound of the guitar, which is the main instrument that produces the sound of the guitar."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_054-069-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "String"
+      }
+    ],
+    "result": "It sounds like you're looking for a keyboard that can play a variety of music genres, including classical, blues, and folk. You might want to consider a mix of different genres to find the perfect fit. Look for a keyboard that has a wide range of keys and can play a variety of notes. Brands like Yamaha, Yamaha, and Yamaha are known for their high-quality keyboards. Additionally, consider the keyboard's portability and ease of use. If you're looking for something more versatile, you might want to look into a keyboard with a built-in sound system or a digital audio workstation."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_039-021-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on the instrumental characteristics and determine the correct classification. Output just one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "Got it. I'll start by researching the most popular guitar strings and vocal chords in the world. I'll also look into the most popular and well-known guitar strings and vocal chords. I'll then compile a list of the most popular and well-known guitar strings and vocal chords."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_007-021-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music recommendation engine needs to identify the instrument in this clip. Provide only the correct category from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synth lead"
+      }
+    ],
+    "result": "A music recommendation engine typically identifies instruments by their sound quality, volume, and sound intensity. It looks at factors like the instrument's sound, the volume it produces, and the sound intensity. This helps determine if the instrument is suitable for use in a specific context, such as music production, recording, or music performance. It also helps identify the instrument's compatibility with other instruments, like guitars, pianos, or even certain types of instruments. By analyzing these characteristics, the engine can provide recommendations based on the best match for the instrument's intended use."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_002-061-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Synth lead"
+      }
+    ],
+    "result": "The instrument played in the video is a bass guitar. The bass guitar is a stringed instrument that produces sound by vibrating the strings. It is typically played in a bass line, which is the line of the string that is struck against the fretboard. The sound produced by the bass guitar is usually a loud, high-pitched sound that is heard by the listener."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_025-065-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The sound of the bass, brass, flute, keyboard, and mallet is distinctly acoustic. The instrument is typically played with a mouthpiece and a stringed instrument, such as a guitar or a piano. The bass is the highest-pitched sound, while the other instruments are lower-pitched. The stringed instrument is the most common, and the mouthpiece is the most common. The mouthpiece is usually placed on the neck of the instrument, and the string is placed on the head of the instrument. The mouthpiece is usually placed on the neck of the instrument, and the string is placed on the head of the instrument. The mouthpiece is usually placed on the neck of the instrument, and the string is placed on the head of the instrument. The mouthpiece is usually placed on the neck of the instrument, and the string is placed on the head of the instrument. The string is placed on the head of the instrument, and the mouthpiece is placed on the neck of the instrument."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_139-032-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The primary instrument in this haiku is the harpsichord. It is a stringed instrument that is often used in traditional Japanese music."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_026-086-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument and return only the corresponding label. No additional text or explanation. Choose from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Flute"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It is a stringed instrument that produces sound by plucking strings, which are then shaped into a fretboard. The strings are usually made of metal or plastic and are attached to the fretboard. The fretboard is the raised metal part of the guitar that is used to pluck the strings. The strings themselves are usually made of metal or plastic and are shaped into a fretboard. The fretboard is then used to pluck the strings, which are then played back to the fretboard."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_041-064-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The guitar, keyboard, and bass are all essential components of a guitar. The guitar is the main instrument, while the keyboard is used to play the strings. The bass is used to provide sound and is typically played by pressing the strings. The guitar is also used to play other instruments such as the drums, electric guitars, and synthesizers."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_093-028-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The instrument you are referring to is the guitar. It is a stringed instrument that is played by plucking the strings with a plucking mouthpiece. The instrument is typically played in a specific way, such as by plucking the strings with a plucking mouthpiece, or by playing the strings with a plucking mouthpiece. The sound produced by the instrument is determined by the tuning of the strings, which is determined by the pitch of the strings."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_037-100-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the instrument in this audio clip. Choose only from: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a crucial part of the guitar, often used for playing strings and amplification."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_006-069-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the instrument in the provided audio. Respond with only one of the following labels: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The instrument you are referring to is the guitar. It is a stringed instrument that is commonly used in various musical genres, including rock, jazz, and classical music. The guitar is typically played with a plucking body and a mouthpiece, and it is usually played in close proximity to the player. The strings are usually made of metal and are attached to the body of the guitar. The mouthpiece is usually used to pluck the strings and to produce sound."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_015-044-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the sound and determine the instrument type. Respond with only the correct category name from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The sound you're referring to is likely a bass drum. Bass drums are a type of electric drum that produces a high-pitched sound when played. They are commonly used in various musical instruments, including guitars, pianos, and drums. Bass drums are typically played with a mouthpiece and are typically played in close proximity to the instrument. They are known for their distinctive, high-pitched tones and are often used in orchestras and bands."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_020-071-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The instrument you are referring to is the keyboard. It is a key instrument that is used for playing music, writing, and playing other musical instruments. It is a versatile instrument that can be played on a variety of keys, including the F1, F2, F3, F6, F8, F9, F10, F20, F11, F20, F12, F14, F16, F18, F19, F20, F21, F22, F23, F24, F25, F26, F27, F28, F29, F30, F31, F32, F33, F34, F35, F36, F37, F38, F39, F40, F41, F42, F43, F44, F45, F46, F47, F48, F49, F50, F51, F52, F53, F54, F556, F566, F576, F586, F596, F60, F61, F62, F63, F64, F65, F66, F67, F68, F69, F70, F700, F701, F702, F703, F704, F705, F706, F707, F708, F709, F701, F7010, F7011, F7012, F7013, F7014, F7015, F7016, F7017, F7018, F7019, F7012, F7013, F7014, F7015, F7016, F7017, F7018, F7019, F7012, F7011, F7012, F7013, F7014, F7015, F7016, F7017, F7018, F7019, F7012, F7013, F7014, F7015, F7016, F7017, F7018, F7019, F7012, F7013, F7014, F7015, F7016, F7017, F7018, F7019, F7012, F7013, F7014, F7015, F7016, F7017, F7018, F7019, F7012, F7013, F7014, F7015, F7016, F7017, F7018, F7019, F7018, F7019, F7012, F7013, F7014, F7015, F7017, F7018, F7019, F7018, F7019, F7018, F7019, F7018, F7019, F7018, F7019, F7018, F7019, F7018, F7019, F7018, F7019, F7018, F7019, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7018, F7"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_038-022-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a crucial part of the guitar, often used for playing strings and strings, and is also used in various musical instruments."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_063-036-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple instruments are present, return only the dominant one. Respond strictly with the correct label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "Yes, the double strings are indeed the dominant one in bass drum music. The double strings are the two strings that are played in the middle of the drum, and they are the two strings that are played in the middle of the bass drum. The double strings are the two strings that are played in the middle of the bass drum, and they are the two strings that are played in the middle of the double drum."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_024-021-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument do you hear in this recording? Reply using only one of the predefined labels, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. The re-stringed guitar, also known as the electric guitar, is a popular choice for its versatility and versatility in different genres."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_032-045-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which instrument is being played in this audio? Choose only from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal. Output just the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It's a popular instrument known for its versatility and versatility in various musical genres."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_062-050-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sound identification task, classify the instrument in this audio snippet and return only one label from the predefined options - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The sound identification task you described is a sound detection and identification system. It uses a combination of sensors, such as cameras and sensors, to detect and identify the sound of an audio input. The system then uses this information to classify the sound into different categories, such as volume, pitch, and intensity. This allows for accurate identification and interpretation of the audio input."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_045-071-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and identify the instrument played. Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Guitar"
+      }
+    ],
+    "result": "The instrument played in the video is a guitar. The guitar is a stringed instrument that is used to produce sound. It is typically made of metal and is used to produce a wide range of sounds. The strings are usually made of brass or steel, and the strings themselves are made of wood or metal. The strings are then used to produce sound waves that are amplified by the guitar's mouthpiece. The mouthpiece is usually made of metal or plastic and is used to produce sound waves that are amplified by the guitar's mouthpiece. The sound waves are then amplified by the guitar's mouthpiece, which produces sound."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_004-031-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a music production system, classify the dominant instrument in this track. Respond with only one label from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The bass drum is classified as a metal chord instrument in the music production system."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_130-031-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A music recommendation engine needs to identify the instrument in this clip. Provide only the correct category from bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "A music recommendation engine typically identifies the instrument in a music clip by analyzing the sound patterns and characteristics of the instrument. It looks for the specific notes, timbres, and other characteristics that are most relevant to the music. The engine then uses this information to determine the best fit for the music."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_070-055-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary instrument in this audio clip? Respond only with one of: bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, or vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Keyboard"
+      }
+    ],
+    "result": "The primary instrument in this audio clip is the guitar."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_027-046-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The keyboard, guitar, and violin are all essential components of a musical instrument. The keyboard is the primary instrument used for playing music, while the guitar is used for playing strings. The violin is used for playing the violin, and the other instruments are used for playing the drums, drums, and other percussion instruments. Each instrument has its own unique sound and technique, and each has its own set of rules and regulations."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_electronic_016-028-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It is a stringed instrument that is commonly used in various musical genres, including rock, blues, and jazz. The guitar is typically played with a plucking body and a mouthpiece. It has a rich, deep sound and is known for its versatility and ability to produce a wide range of sounds."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_028-037-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the instrument featured in this sound clip. Reply with only the appropriate label from the given list. List - bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Reed"
+      }
+    ],
+    "result": "The instrument you're referring to is the guitar. It is a stringed instrument that is commonly used in various musical genres, including rock, blues, and jazz. The strings are typically made of metal or plastic, and the strings themselves are made of wood or metal. The strings themselves are usually made of a metal or plastic material, and the strings themselves are made of a metal or plastic material. The strings themselves are usually made of a metal or plastic material, and the strings themselves are made of a metal or plastic material. The strings themselves are usually made of a metal or plastic material, and the strings themselves are made of a metal or plastic material."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_030-025-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the instrument being played. Choose only from the given categories and output just the label, bass, brass, flute, guitar, keyboard, mallet, organ, reed, string, synth lead, vocal.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bass"
+      }
+    ],
+    "result": "The instrument being played is a guitar, keyboard, and mallet. The bass is a string instrument, the flute is a wind instrument, and the xylophone is a percussion instrument. The output is a string, and the output of the keyboard is the mallet."
+  }
+]

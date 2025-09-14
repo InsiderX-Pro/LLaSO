@@ -1,0 +1,2102 @@
+[
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia301_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "Oh God."
+    },
+    "result": "I'm sorry, but I can't identify speakers based on voice alone. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia533_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Yeah, well Betty is kinda sad. Which is why I believe I can lure her away with these chocolates.  Now, while I distract her,"
+    },
+    "result": "Monica! Ross! Chandler! Phoebe! Joey! I can't believe I got everyone out of the office! Now, let's do this!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia195_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Okay, great."
+    },
+    "result": "Got it! I'm ready when you are. Let's dive into that audio and see who it belongs to!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia853_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Because! Because, it-it-its Itd be like you having this guitar  and-and never playing it. Okay, this guitar"
+    },
+    "result": "That sounds like Chandler's voice! He's known for his love of music and his enthusiasm for playing the guitar. Do you have a favorite episode of \"Friends\" where Chandler shines?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia89_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "This sucks! I didnt know I had to stay up all night before I went to this stupid sleep clinic! Im so tired!"
+    },
+    "result": "Joey: \"Oh, come on, it's not that bad. You just have to stay awake and listen to some boring stuff. It'll be over before you know it!\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia9_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh well, its not so bad."
+    },
+    "result": "Got it! Let's see if I can identify the speaker. Is this Joey, Ross, Rachel, Phoebe, Monica, or Chandler?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia264_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Okay, are you aware unagi  is an eel?"
+    },
+    "result": "I'm sorry, but I can't listen to or transcribe audio clips. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia344_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh no-no-no, I wasn't waving at you lady."
+    },
+    "result": "Got it! So, for the purpose of this exercise, we'll focus on the characters from \"Friends.\" Let's see who this voice might belong to. Is it:\n\n1. **Joey** - The confident, rich guy with a dry sense of humor.\n2. **Ross** - The easy-going, science guy who loves his family.\n3. **Rachel** - The sweet, sometimes shy girl who dreams of becoming an astronaut.\n4. **Phoebe** - The quirky, creative artist who has a unique view on life.\n5. **Monica** - The neat freak, perfectionist who loves cooking.\n6. **Chandler** - The laid-back,聪明, and often clueless guy who works at a radio station.\n\nWho do you think it could be?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia385_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "You have chalk on your face."
+    },
+    "result": "That sounds like Chandler's voice from \"Friends!\" He's known for his dry humor and funny one-liners. What else do you remember about Chandler?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia165_utt17.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "How bout I fix you two up?"
+    },
+    "result": "I'm already fixed! I'm here to chat and help out with whatever you need. What's on your mind?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia100_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "sent": "negative",
+      "utt": "Where is Leslie?"
+    },
+    "result": "I'm not sure who Leslie is, but if you have any more context or information, I'd be happy to help figure it out!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia122_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "disgust",
+      "sent": "negative",
+      "utt": "I mean that aint a pretty picture in the morning, yknow what I mean."
+    },
+    "result": "Joey: \"Hey, everyone! It's so great to see you all! I've been missing the gang. So, what's new in the world of Monopoly?\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia339_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Enough!"
+    },
+    "result": "这是Monica的声音。"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia88_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Good for you Pheebs!"
+    },
+    "result": "That's awesome, Phoebe! Sounds like you're taking control of your life and making some great changes. What's next on your list?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia147_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Oh yeah!"
+    },
+    "result": "抱歉，我没法进行语音分析。不过，如果你有其他问题或者需要聊天，我很乐意帮忙！"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia759_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice characteristics and identify the speaker. Reply with one of these names only: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Chelsea."
+    },
+    "result": "Hey there! It seems like you're looking for a specific character. Do you want to know more about them or maybe talk about something else? Let me know!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia740_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Well, not right now."
+    },
+    "result": "I can't identify the speaker from that clip alone. Could you share more details or give me another clue?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia0_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "That I did. That I did."
+    },
+    "result": "嘿！有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1015_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "You have to give 'em something, you know."
+    },
+    "result": "I can't listen to or analyze audio clips, but I can help with lots of other things! What else can I do for you?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia757_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Right!"
+    },
+    "result": "I can't listen to or analyze audio clips, but I can help with lots of other things! What else can I do for you?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia261_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "And it can't be Joey."
+    },
+    "result": "Got it! Not Joey. Let me try again. Is the speaker Ross?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia886_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Hey!"
+    },
+    "result": "嘿！你是哪个角色呢？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia145_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Hey ladies! What are you in here for?"
+    },
+    "result": "Hey, I'm here to chat and have some fun! What brought you by today?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia15_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Yeah! Sure! Yep!  Oh, y'know what? If I heard a shot right now, I'd throw my body on you."
+    },
+    "result": "Oh my gosh, you just scared me! What was that about? I thought you said shot! I was ready to jump out of my seat!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia604_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "So you told her there was somebody else so she would agree to work with you, so cause you figure oh if you spent a lot of time together, maybe something might happen, and..."
+    },
+    "result": "Well, I didn't exactly tell her there was someone else, but I did hint at the idea. You know, just to throw her off the trail. I mean, who wouldn't want to work with someone they think might be their soulmate? It's all about keeping things interesting, right?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia529_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Ross, I am telling you that she is using you to get back at me!"
+    },
+    "result": "Monica! "
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia424_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "She lives so close."
+    },
+    "result": "Joey: \"She lives so close!\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia460_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "No-no, itll be fun! We can come back and we can haunt these guys!"
+    },
+    "result": "这个声音听起来像是Monica。她总是很冷静、有条理，而且喜欢做饭。你觉得呢？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia252_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "No?"
+    },
+    "result": "I'm sorry, but I can't perform voice analysis or identify specific individuals based on their voices. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia26_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Man, this is gonna be kinda weird."
+    },
+    "result": "It's going to be quite the experience, isn't it? I mean, who would've thought we'd all be living in a world where we can order groceries delivered to our doorsteps, and chat with friends across the globe in real-time? It's a whole new ballgame!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia568_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Okay but what about y'know my pinchable butt and my bulging bicepsShe knows!"
+    },
+    "result": "Joey! That sounds like him, always showing off his muscles and trying to impress everyone with his bodybuilding routine."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia510_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half."
+    },
+    "result": "Well, if dogs experience jet lag like we do, then flying from New York to Los Angeles would be quite the adventure for them! At least they'd get to see some cool飞机 and maybe even some nice飞机餐。 But who knows, maybe they just sleep through the whole thing and land as relaxed as can be!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia147_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice characteristics and identify the speaker. Reply with one of these names only: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "So what're you saying here? I should shave again, pick up some wine, what?"
+    },
+    "result": "That sounds like Chandler, from \"Friends.\" He's known for his love of wine and his laid-back, often humorous approach to life. It's definitely his style!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia245_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Youll have a last kiss."
+    },
+    "result": "I'm sorry, but I can't perform imitations or voice impressions of any public figures, including characters from TV shows. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia833_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal features, classify the speaker as one of the following: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output the correct name only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "I mean come on, that is just noise!"
+    },
+    "result": "That's just noise!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia128_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Great, lets begin.  Hows the pressure?"
+    },
+    "result": "Hey, I'm not feeling any pressure at all. Just excited to hang out with you! What's on your mind?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia614_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "We can get--what are those--those patches!"
+    },
+    "result": "I'm not sure which \"The Z's\" patch you're referring to, but typically, patches are sold by the maker or a third-party vendor. You can check out websites like Z's Patches or custom patch makers for a variety of options. Is there a specific show or character you're thinking of?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1026_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "What?"
+    },
+    "result": "I'm sorry, but I can't perform imitations or voice impressions of public figures or characters. Is there anything else I can help you with? I'm here to chat about a variety of topics!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia11_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "This is my wedding."
+    },
+    "result": "这是《老友记》里的角色。你想要哪个角色的名字？我可以告诉你。"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia445_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Im sorry I wont be able to make it to your imaginary wedding, but Im"
+    },
+    "result": "Oh, that's a bummer! I'm sure it would have been a fun celebration. If you need someone to chat with or just want to share some laughs, I'm here for you!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia116_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure speaker verification considers pitch, speech rate, and intonation. Identify the speaker as Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "I think you would have to clean a whole lot of apartments to go all the way to India."
+    },
+    "result": "That's right! India is a big country, so it would take a lot of travel to get all the way there. Are you planning a trip to India soon?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia551_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "What are you doing?"
+    },
+    "result": "嘿，我是小智，你有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia309_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Kathy! Kathy! Hi!! Kathy! Kathy! (She doesn't hear him and keeps running, Chandler starts chasing her as the theme to"
+    },
+    "result": "I'm sorry, but I can't identify the speaker's voice based on the provided example. Could you give me more information or context about the speaker? That would help me determine the category."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia830_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Varrrrrroom!"
+    },
+    "result": "I'm sorry, but I can't perform voice analysis or identify specific individuals based on their voices. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia58_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "So you uh, want to do something tonight?"
+    },
+    "result": "Hey, I'd love to hang out! What's on your mind? We could watch a movie, play some board games, or just chat. What do you think?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia369_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to verify who is speaking in this clip. Select from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "!"
+    },
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia424_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "Oh yeah! With who?"
+    },
+    "result": "嘿，你是在模仿《老友记》里的角色吗？听起来很有趣！你最喜欢哪个角色呢？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia630_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Thanks Monica!"
+    },
+    "result": "Hey, I think you've got it! It's Monica! What do you think about her? Do you like her character on \"Friends\"?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia108_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Ow!"
+    },
+    "result": "I'm sorry, but I can't identify specific characters from the \"Friends\" series just by their voices. Is there anything else you'd like to know or talk about?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1038_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal features, classify the speaker as one of the following: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output the correct name only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "disgust",
+      "sent": "negative",
+      "utt": "It made me nuts."
+    },
+    "result": "嘿，你是在模仿《老友记》里的角色吗？听起来很有趣！不过，我可不是莫妮卡，但我可以和你聊聊《老友记》哦！你最喜欢剧里的哪个角色呢？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia2_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "What are you talkin about? I never left you! Youve always been my agent!"
+    },
+    "result": "That's right! I've been here a while, taking care of all your needs. What can I do for you today?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia212_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure speaker verification considers pitch, speech rate, and intonation. Identify the speaker as Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Huh, well, the girls in the satin nighties on the commercial dont seem to think its that bad."
+    },
+    "result": "Oh, you mean the \"I Love New York\" commercial with the iconic song and dance? Yeah, that's a classic! It's been around for ages and is super recognizable. Do you remember the lyrics? They go, \"I love New York, city so fine, I love the way it rhymes, I love the way it signs!\" Pretty catchy, huh?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia218_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "I say we go with"
+    },
+    "result": "哈哈，这个声音听起来像是Ben！他的语气很自信又有点调皮，对吧？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia47_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Quick, aim him at that pack o' babes over there."
+    },
+    "result": "Sure thing! Here's a quick round of \"Name That Pack of Bebes\":\n\n1. \"The One With the Five-Year Old\" - Chandler and his baby,"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia770_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Look, these clowns are trying to take us for a ride and I'm not gonna let 'em!"
+    },
+    "result": "Joey: \"Hey, don't be a afraid! It's just a little ride. I promise it'll be fun!\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia135_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Hi, here's the deal."
+    },
+    "result": "Hey there! It seems like you're looking for a specific name. I'm not able to provide that information, but I'm here to chat or help with anything else you need!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia833_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Its not even a song!"
+    },
+    "result": "Got it! It sounds like you're looking for the name of a character from a TV show or movie. Can you give me more details about the recording? Maybe a plot summary or some specific lines? That might help me narrow it down!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia506_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Look, look, theres got to be a way we can work past this."
+    },
+    "result": "Joey\n\nGot it, we can work past this, okay?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia936_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Look, Rachel, if you go, youre just gonna mess with his head and ruin his wedding!"
+    },
+    "result": "Oh, you know, the classic \"Joey's gonna mess this up\" line! It's always a good laugh in the gang!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia47_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "So I, I told Rachel it was just gonna be the two of us."
+    },
+    "result": "Got it! So, you've told Rachel that just the two of you will be going to the party. Anything else you'd like to add or plan for the night?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia883_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Yeah, shes gay."
+    },
+    "result": "Got it! So, who's speaking in this audio recording? Is it Joey, Ross, Rachel, Phoebe, Monica, or Chandler?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia99_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Hey!"
+    },
+    "result": "Hey there! It seems like you're looking for a specific name. I'm not able to identify the speaker based on their voice alone, but I'm here to chat or help with anything else you need! What else can I do for you?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia398_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to verify who is speaking in this clip. Select from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Pheebs, if I had never met him this never would have happened!"
+    },
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. If you have any other questions or need help with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia446_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Look, is there something wrong with me?"
+    },
+    "result": "Hmm, I think you might be asking about a specific character from \"Friends.\" Are you thinking of Phoebe? She often asked Ross if something was \"up\" with her. If not, let me know who you're thinking of!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia927_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "What are you talking about? If you get married in Vegas youre married everywhere."
+    },
+    "result": "Well, if you get married in Vegas, you're probably just there for the fun and the show, right? Vegas is all about excitement and娱乐, so getting married there could just mean you want a big celebration with lots of friends and family. Or maybe you just want a quick, romantic婚礼. Either way, it's all about making memories in the city of dreams!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia14_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh, all right."
+    },
+    "result": "嘿！听起来像是“Chandler”！他的声音很有特点，是不是他呢？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia84_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Not after this!"
+    },
+    "result": "I can't listen to or analyze audio clips, but I can help with information about the characters or plot if you're interested! Or maybe we can chat about something else?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia6_utt20.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Be mad at him!"
+    },
+    "result": "That's a classic line from Chandler on \"Friends.\" It's hard to pin down exactly who said it, since it's a running joke between Chandler and Rachel about him not knowing where he is. But we know it's one of those iconic Chandler moments!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia29_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "sent": "negative",
+      "utt": "Look, we have enough, just walk away."
+    },
+    "result": "Joey: \"We have enough, just walk away!\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia946_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "No!"
+    },
+    "result": "I can't listen to or analyze audio clips, but I can help with information or questions you have about the characters from \"Friends.\" Who do you want to know more about?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia177_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Okay."
+    },
+    "result": "I'm sorry, but I can't identify specific speakers from voice clips alone. If you have any other questions or need help with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia7_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Oh we did, but my mom got us the greatest gift of all."
+    },
+    "result": "Oh, that's awesome! What kind of gift did she get? What do you think is the best gift ever?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia770_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice characteristics and identify the speaker. Reply with one of these names only: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "What did you say?"
+    },
+    "result": "嘿，我是小智，很高兴认识你！需要聊些什么吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia832_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "15?  Your personal best! (Ross takes an"
+    },
+    "result": "I'm glad you enjoyed it! What would you like to talk about next?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia789_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Okay?"
+    },
+    "result": "嘿，我是小智！很高兴认识你！需要聊些什么吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia51_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "The"
+    },
+    "result": "I can't actually listen to or analyze audio clips. But I can definitely help with questions about \"The Only Problem\" or anything else you'd like to chat about!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia135_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Yes!"
+    },
+    "result": "Joey: \"Hey, everyone! It's great to see you all! Let's have a fun night out!\" "
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia821_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Umm, no. No."
+    },
+    "result": "Oh, well, I was going to offer you some virtual coffee or tea! How about we chat about something fun instead?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia30_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Yeah, youre great! Okay, lets take it from"
+    },
+    "result": "Oh my gosh, you're hilarious! I can totally see why everyone loves you so much. What's next on the agenda?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia389_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "Huh? Whatd ya say Joe? Ill be right there."
+    },
+    "result": "Hey, I'm here! What do you need?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia368_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Im, Im sorry you didnt get to go to Spacecamp, and Im hoping that maybe somehow, this may make up for it."
+    },
+    "result": "That sounds like a blast! I bet it's going to be an unforgettable experience. Do you have a favorite part of the camp yet?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia113_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "I mean were not, were not gonna live together anymore?"
+    },
+    "result": "Joey: What do you mean? We've been through so much together!\n\nRoss: I know, but I just... I need some space. I think we both do.\n\nRachel: I get it. I really do. But it's hard to hear you say that. \n\nPhoebe: Maybe this is a good thing? Sometimes, you gotta go your separate ways to find your own paths.\n\nMonica: It's not that simple, Phoebe. We've shared so much, and it's gonna be tough to let go.\n\nChandler: Maybe we can still be friends? We've had some great times together.\n\nJoey: I'm not sure if I can do that. I miss you all so much. \n\nRoss: I feel the same way. Let's just take some time apart and see where things go."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia980_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Where in Cuba?"
+    },
+    "result": "Great! We're in Cuba. What do you want to do next?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia518_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Because I sure as hell cant figure it out!"
+    },
+    "result": "That's Chandler, right? He always says things like that!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia249_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "I mean, Thanksgiving with no turkey is like-like Fourth of July with no apple pie!"
+    },
+    "result": "That's right! Thanksgiving without turkey is like Fourth of July without apples pie. It just wouldn't be the same! Is there anything else you're curious about?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia46_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "I dont know. Ooh! Ooh! Look it!  Ah-ha!"
+    },
+    "result": "That sounds like Ross to me! He's always full of enthusiasm and has a distinctive laugh. What do you think?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia930_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to verify who is speaking in this clip. Select from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Well, John McClane had plans!"
+    },
+    "result": "That was Chandler from \"Friends.\" He often had elaborate plans, even if they sometimes went awry!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia737_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Deep Impact"
+    },
+    "result": "Deep Impact was a 1998 American sci-fi drama film, while Armageddon was a 1998 American action drama film. Deep Impact focused on an asteroid threat to Earth, showcasing a President and a scientist working together to save humanity. Armageddon had a similar theme but with a more dramatic and explosive approach, involving a team of oil drillers going into space to save the Earth. Both films were big box-office hits."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia430_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "No"
+    },
+    "result": "I can't identify the speaker based on their voice alone, but I'm here to chat or help with anything else you need! What's on your mind?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia804_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Ummm. Oh! Im sorry.  Its a little old but"
+    },
+    "result": "Haha, got it! Alright, here's your reminder: \"I'll be there, I'll be there!\" Remember, no more \"I'll be there, I'll be there!\" from you!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia167_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before."
+    },
+    "result": "That's awesome! I'm glad you enjoyed it. If you ever want to hear more wordplay or anything else, just let me know!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia799_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Tho?"
+    },
+    "result": "这是谁的声音？是Joey、Ross、Rachel、Phoebe、Monica，还是Chandler？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia50_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "Okay, thats why you didnt want me to touch him right?"
+    },
+    "result": "Joey: Yeah, that's why I didn't want you to touch him. He's... special. You know, like... a pet rock. But, like, a really cute one."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia623_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "And the guys from work had a blast."
+    },
+    "result": "That sounds like Chandler, from \"Friends.\" He's known for his dry humor and laid-back attitude!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia849_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Really? That's great!"
+    },
+    "result": "Joey!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia617_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "You're sure? You're absolutely sure?"
+    },
+    "result": "I'm sorry, but I can't identify or classify speakers based on their voice alone. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia646_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Hypothetically!"
+    },
+    "result": "Hi! Let me guess, are you asking which character from \"Friends\" this is? It could be any one of them, so I'll go with Chandler, since he's known for his dry humor and love for poker. What do you think?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia148_utt17.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Aw, I know all about Kip!"
+    },
+    "result": "That sounds like Chandler, from \"Friends.\" He's always full of interesting facts and has quite the knowledge about all sorts of things!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia316_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Hello."
+    },
+    "result": "Hey there! It seems like you're trying to figure out which character from \"Friends\" this is. Let's see... Joey? Ross? Rachel? Phoebe? Monica? Or Chandler? Any guesses? Or maybe you're just saying \"hello\" in your best Friends voice?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia108_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh, honey, dont worry. She's gonna make it on time."
+    },
+    "result": "Joey!"
+  }
+]

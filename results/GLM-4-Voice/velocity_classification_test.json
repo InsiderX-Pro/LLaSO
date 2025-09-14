@@ -1,0 +1,1602 @@
+[
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_045-025-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the velocity from the provided audio and return only one of the valid MIDI velocity values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "抱歉，我无法直接获取或处理音频文件。不过，你可以使用一些音频编辑软件，比如Audacity，来分析音频信号并提取速度值。如果你有其他问题或需要不同的帮助，请随时告诉我！"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_025-078-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "这个音符的频率是440赫兹，所以它的速度是每秒440个音分。换算成秒速就是440除以60，大约是7.5秒每分钟。根据这个速度，我们可以算出它的速度值是每分钟100拍。所以答案是100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_011-092-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "根据声音的力度，我觉得应该是“50”这个级别。声音听起来比较适中，没有特别用力或者柔和。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_037-033-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the softest note in the given audio and classify its velocity. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "这个音符的频率大约是440赫兹，属于中音区。根据它的频率，我可以把它归类为“中音区”。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_039-089-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_106-081-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity of this note. Select one of the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "这个音符的音高是 60，音名是 C。它的速度大约是每分钟 120 拍，所以这个音符的速率是 120。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_110-085-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI velocity category. Select one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "根据音频的力度，我把它归类为“127”。这表示声音的力度是最大的，也就是全力度。谢谢你提供的音频！如果还有其他问题，随时问我哦。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_143-051-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity of this note. Select one of the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "这个音符的音高是C4，也就是小字组的C键。根据音高，我们可以确定它的速度大约是每分钟120拍，也就是120bmp。因此，音符的速度值应该是120。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_synthetic_003-032-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "从这些数值来看，只有100是正确的MIDI速度值。MIDI速度值范围是0到127，100表示中等速度，其他数值如25表示很慢，127表示最快。所以答案是100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_033-046-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "要分析这个音符的音高，我们需要知道它的频率。频率越高，音高越高。如果音符的频率是440赫兹，那就是小字组的a，也就是A4。如果频率是220赫兹，那就是小字组的c，也就是C5。如果频率是440赫兹，那就是大字组的a，也就是A5。根据这些信息，我们可以算出音高。如果音符的频率是440赫兹，它的音高是A4。如果频率是220赫兹，那就是C5。如果频率是440赫兹，那就是A5。所以，根据你提供的信息，这个音符的音高是A4，也就是440赫兹。那么它的速度呢？我们用每分钟的拍数来表示速度。如果是一分钟60拍，每拍半秒，那么速度就是每秒一拍。如果是每分钟120拍，每拍半秒，那么速度就是每秒两拍。如果是每分钟100拍，每拍半秒，那么速度就是每秒两拍。所以，如果音符的音高是A4，频率440赫兹，那么它的速度是每秒两拍。这个速度适中，既不太快也不太慢。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_027-051-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "要计算音符的音高，我们需要知道音名和音阶。比如，A大调的音阶是A、B、C、D、E、F、G。如果音符是C，那就是中间C，频率大约是261.63赫兹。如果音符是G，那就是G4，频率大约是392赫兹。你需要提供具体的音符信息，才能确定它的速度哦。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_020-080-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "在数字音乐分析工具中，确定合适的MIDI速度水平取决于多种因素，比如音乐风格、乐器和演奏方式。一般来说，速度值在100到120之间比较常见，对应于每分钟100到120拍。所以，如果你想要一个适中的速度，可以选择100。如果想要更慢一些，可以选75。太快的话，可以选125。不过，最终还是要根据音乐的实际需求和情感表达来决定。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_007-087-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "这个MIDI音符的力度值是100哦。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_046-026-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "你听到的声音频率大概是127赫兹，这属于高频范围。这样的声音可能听起来尖锐或刺耳。需要更多信息的话，可以告诉我具体用途哦！"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_032-032-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI velocity category. Select one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "抱歉，我无法直接分析音频并确定它的MIDI速度。不过，你可以使用音频编辑软件或在线工具来查看和调整MIDI速度哦。如果你有其他问题，随时问我！"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_026-088-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "好的，我来帮你设计一个基于MIDI的作曲系统，可以根据音符的MIDI速度值来分类。系统会使用机器学习模型来学习不同速度值之间的关系，并自动分类音符的力度。你可以通过MIDI键盘或其他设备输入音符，系统会自动分类并显示结果。这个系统还可以通过分析音乐作品，为用户提供创作建议，甚至自动生成音乐作品。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_076-025-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "这个声音的音量大约是75分贝。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_050-056-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the velocity and return only one of the following numbers: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "根据你提供的音频内容，我无法直接获取速度信息。不过，如果你能告诉我具体的音频内容或者用途，我或许能帮上忙哦！"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_010-104-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "MIDI 速度值范围从0到127。如果速度是100，那MIDI速度值就是100。如果速度是50，MIDI速度值就是50。所以，这个录音的MIDI速度值可能是50。不过，还需要看其他因素，比如MIDI设备设置和录音软件。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_009-041-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the softest note in the given audio and classify its velocity. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "抱歉，我无法直接处理音频或检测声音的音量和频率。如果你有具体的问题或需要帮助，可以告诉我，我会尽力帮你。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_002-092-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI velocity category. Select one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "抱歉，我无法直接分析音频并确定它的MIDI速度。不过，你可以使用音频编辑软件或在线工具来分析音频的MIDI速度。如果需要，我可以提供一些建议或工具推荐。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_050-042-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the softest note in the given audio and classify its velocity. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "这个音符的频率大约是261.63赫兹，属于小字组的a音。它的速度大约是每分钟60拍，可以归类为速度适中的音乐。具体来说，这个音符既不高也不低，速度适中，非常适合旋律的发展。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_066-058-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "这个声音的音量大约是75分贝。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_033-055-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the dynamic expression in this recording and return the closest matching MIDI velocity from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "这个声音听起来像是有人在轻声哼唱。根据这种动态，我选择 25 的 MIDI 速度来匹配这种柔和和轻声的表现。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_028-096-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "这个声音的音量大概是50。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_004-101-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "根据声音的力度，我觉得应该是“50”这个级别。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_133-101-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "这个音符的音高是 A4，也就是 440 Hz。根据音高和速度的关系，我们可以算出它的速度大约是每分钟 110 拍，也就是 110 bpm。所以答案是 100。"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\reed_acoustic_018-057-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "I can't play sounds or music directly, but I can help you with information about music theory or composition! If you have any other questions, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_012-034-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity in the given audio sample. Respond with one of the following values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "这个声音听起来像是“100”，可能是某种节奏或音高变化。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_091-019-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the dynamic expression in this recording and return the closest matching MIDI velocity from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I'm sorry, but I can't analyze or process audio recordings. However, if you need help with anything else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_014-069-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "I can't hear the sound you played, but I can help you with other questions or tasks. What else would you like to do?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_006-039-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "这个音符的音高是 A4，也就是 440 Hz。根据音高和速度的关系，它的速度大概是每分钟 120 拍。所以答案是 120。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_028-067-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "从这些数字中找出正确的MIDI速度值。MIDI速度值通常在0到127之间，表示音符的播放速度。127代表最快，0代表最慢。在这组数字中，75是最接近标准MIDI速度的，也就是120拍每分钟（BPM）。所以，正确的MIDI速度值是75。答案是75。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_027-067-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "好的，请告诉我你想要分类的音符速度，我会帮你分类。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_024-088-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "从这些数值来看，只有100是正确的MIDI速度值。MIDI速度值范围是0到127，100表示中速，其他数值分别表示慢速、更慢、慢极慢、中速、快、更快和极快。所以正确答案是100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_018-106-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity of this note. Select one of the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "这个音符的音高是 A4，也就是 440 Hz。根据音高和音速的关系，我们可以算出这个音符的速率大约是每秒 110 周。这个速率在音乐中相当于 g2。所以答案是：g2。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_036-086-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "MIDI 速度值范围从0到127。如果你听到的音符非常轻柔，可能用的是25或50。如果是中等力度，那就是100。如果是比较响亮，大概是127。不过，只听声音很难确定，还需要看具体的MIDI序列。你能提供更多细节吗？比如MIDI文件或者演奏的音符名称？这样我可以更准确地帮你分析。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_064-061-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "要计算音符的音高，我们需要知道它的频率。假设我们用中间C的频率作为基准，大约是261.63赫兹。如果音符比中间C高，它的频率会更高，反之则更低。比如，A音的频率大约是440赫兹。你可以告诉我具体的音符名字或频率，我可以帮你计算它的音高。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_013-063-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "听起来像是中等偏上的速度，大概在120到150BPM之间。对应的中等MIDI值大概是70。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_033-061-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the velocity and return only one of the following numbers: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "根据你提供的音频内容，我无法直接感知速度。不过，如果你能告诉我音频中具体是什么场景或活动，我或许能帮你分析出大概的速度哦！"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_054-089-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "要找出这个音符的音高，我们需要知道它的频率。频率越高的音符，音高越高。如果音符的频率是440赫兹，那就是小字组的a。如果频率是220赫兹，那就是小字组的c。如果频率是293.66赫兹，那就是小字组的g。如果频率是329.63赫兹，那就是小字组的d。如果频率是440赫兹，那就是小字组的a。如果频率是587.35赫兹，那就是小字组的e。如果频率是639.99赫兹，那就是小字组的f。如果频率是739.99赫兹，那就是小字组的g。如果频率是880赫兹，那就是小字组的a。所以，我们需要知道这个音符的频率，才能确定它的音高。如果频率是440赫兹，那就是小字组的a。如果频率是220赫兹，那就是小字组的c。如果频率是293.66赫兹，那就是小字组的g。如果频率是329.63赫兹，那就是小字组的d。如果频率是440赫兹，那就是小字组的a。如果频率是587.35赫兹，那就是小字组的e。如果频率是639.99赫兹，那就是小字组的f。如果频率是739.99赫兹，那就是小字组的g。如果频率是880赫兹，那就是小字组的a。所以，我们需要知道这个音符的频率，才能确定它的音高。如果频率是440赫兹，那就是小字组的a。如果频率是220赫兹，那就是小字组的c。如果频率是293.66赫兹，那就是小字组的g。如果频率是329.63赫兹，那就是小字组的d。如果频率是440赫兹，那就是小字组的a。如果频率是587.35赫兹，那就是小字组的e。如果频率是639.99赫兹，那就是小字组的f。如果频率是739.99赫兹，那就是小字组的g。如果频率是880赫兹，那就是小字组的a。所以，我们需要知道这个音符的频率，才能确定它的音高。如果频率是440赫兹，那就是小字组的a。如果频率是220赫兹，那就是小字组的c。如果频率是293.66赫兹，那就是小字组的g。如果频率是329.63赫兹，那就是小字组的d。如果频率是440赫兹，那就是小字组的a。如果频率是587.35赫兹，那就是小字组的e。如果频率是639.99赫兹，那就是小字组的f。如果频率是739.99赫兹，那就是小字组的g。如果频率是880赫兹，那就是小字组的a。所以，我们需要知道这个音符的频率，才能确定它的音高。如果频率是440赫兹，那就是小字组的a。如果频率是220赫兹，那就是小字组的c。如果频率是293.66赫兹，那就是小字组的g。如果频率是329.63"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_069-071-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "在音乐制作中，MIDI 速度决定了音符的播放速度。通常，速度值在0到255之间，0表示音符不播放，255是最大速度，音符以最快速度播放。所以，如果你要把一个音符播放得尽可能快，MIDI 速度应该设为255。因此，答案是255。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_029-075-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI velocity category. Select one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "根据音频分析，这声音的MIDI速度大概是120。有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_012-106-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "要找出这个音符的音高，我们需要知道它的频率。频率越高的音符，音高越高。如果音符的频率是440赫兹，那就是小字组的a。如果频率是220赫兹，那就是小字组的c。如果是330赫兹，那就是小字组的e。如果频率是440赫兹，那就是小字组的a。如果是880赫兹，那就是小字组的d。根据音高，我们选择正确的频率。如果音高是a，频率是440赫兹。如果音高是c，频率是220赫兹。如果音高是e，频率是330赫兹。如果音高是a，频率是440赫兹。如果音高是d，频率是880赫兹。所以，答案是880赫兹。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_024-030-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "好的，我明白了。请告诉我音符的名称和它的速度，我会帮你分类。例如，C4 at 60 bpm。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_030-066-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the velocity from the provided audio and return only one of the valid MIDI velocity values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "抱歉，我无法直接获取或处理音频文件。如果你有具体的MIDI信息，我可以帮你处理或提供相关的帮助。如果需要更多帮助，随时告诉我哦！"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_084-047-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "这个声音的音量大约是75。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_000-100-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the softest note in the given audio and classify its velocity. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "抱歉，我无法直接识别或处理音频文件。不过，如果你能告诉我音频中的主要声音元素或特点，我可以试着帮你分析。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_015-071-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "这个音符的MIDI速度值是100。需要再确认一下吗？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_029-060-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple notes are present, classify the dominant note’s velocity. Respond with only: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "25。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_040-085-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify the MIDI velocity. Choose only from: 127, 100, 75, 50, or 25. Output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "25。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_023-029-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "要计算音符的音高，我们需要知道音名和音阶。比如，从A到G有7个音阶。如果给出一个音符，我们可以通过计算它的音名和音阶来确定音高。你能提供具体的音符吗？这样我才能帮你更准确地计算。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_032-029-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "这个音符的播放速度是每秒100个半音符。所以它的速度是100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_099-037-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I didn't hear any notes played. Can you play a note or describe the sound you're referring to? That way, I can give you a more accurate response."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_013-105-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "从这些数值来看，只有100是正确的MIDI速度值。MIDI速度值范围是0到127，100表示中等速度，其他数值如25表示很慢，127表示最快。所以答案是100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_052-050-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify the MIDI velocity. Choose only from: 127, 100, 75, 50, or 25. Output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "25。"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\bass_synthetic_034-049-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the velocity classification is based on the actual played note dynamics. Choose only from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I can't play music or identify notes, but I can help with other questions or topics. Is there anything else you'd like to chat about?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_001-072-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "从这些数值来看，只有100是正确的MIDI速度值。MIDI速度值范围是0到127，100表示中等速度，而其他数值如127、75、50或25都不在正常范围内。所以答案是100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_003-063-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "根据声音的力度，我觉得应该是“50”这个级别。声音听起来比较适中，没有特别用力或者柔和。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_121-088-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the velocity from the provided audio and return only one of the valid MIDI velocity values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "抱歉，我无法直接获取或处理音频文件。如果你有一个音频文件，可以尝试使用音频编辑软件来提取它的速度，或者使用像节拍器这样的工具来感受它的速度。如果你有其他问题或需要帮助，随时告诉我哦！"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_049-089-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "为了在数字音乐分析工具中正确表示力度，我们使用MIDI速度。MIDI速度范围是从0到127，0表示静止，127表示最大速度。所以，如果你要找到一个合适的MIDI速度来表示“响亮”的力度，127是一个很好的选择。答案是127。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_062-056-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "这个声音的音量大约是50分贝。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_005-068-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "这个声音的音量大约是75。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_052-077-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the velocity classification is based on the actual played note dynamics. Choose only from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "根据你提供的音频内容，我无法直接进行音量级别的判断。不过，通常情况下，如果一段音乐或声音的动态范围较大，包含从安静到响亮的音量变化，那么它的动态范围评分可能会较高，比如75或100。如果大多数音量都比较接近，那么评分可能会低一些，比如25。不过，具体评分还需要结合音频内容本身来分析哦。如果你有更多的信息或想讨论的内容，随时告诉我！"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\bass_synthetic_033-081-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity in the given audio sample. Respond with one of the following values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I can't listen to or analyze audio samples. However, if you tell me the context or describe the sound, I might be able to help you figure out what it could be."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_002-072-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "I can't play sounds or music directly, but I can help you with information about music theory or composition! What else would you like to know?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_009-071-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "根据声音的力度，我觉得这应该是“中弱”的力度。在MIDI中，中弱对应大约70的值。所以答案是70。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_008-084-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "为了在数字音乐分析工具中正确表示一个音符的力度，我们使用MIDI消息中的“速度”字段。这个值范围从0到127，0表示最弱，127表示最强。所以，如果你要表示一个“中等的”力度，127的一半，也就是64，通常是一个不错的选择。因此，答案是64。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_024-059-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "这个音符的音高是A，也就是La。根据音高A来计算，它的频率大约是440赫兹。所以呢，这个音符的播放速度是每秒440个周期。这表示它以接近真实乐器演奏的速度播放。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_074-048-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "这个节拍器的速度是每分钟120拍，也就是120拍每分钟。所以每个音符的持续时间是半秒。那么，音符的速率是每秒两个音符。因此，答案是50。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_039-059-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "100!"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_014-078-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple notes are present, classify the dominant note’s velocity. Respond with only: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "25。这个音符的力度最小。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_020-023-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "要计算音乐中的音符速度，我们需要知道每分钟有多少个半音。最常见的是每分钟60个半音，也就是我们说的“60拍”。那么，根据你提供的选项，我们可以算出每个音符的持续时间。比如，如果速度是60拍每分钟，那么每个音符持续100毫秒。不过，这只是大致的估算，实际速度可能会不同。需要更精确的话，可以用专业音乐软件来测量。"
+  },
+  {
+    "voice": [
+      "nsynth-test/audio\\bass_synthetic_135-093-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "从这些数值来看，只有100是正确的MIDI速度值。MIDI速度值范围是0到127，100表示中等速度，而其他数值不符合标准。所以答案是100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_112-098-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "在音乐制作中，MIDI 速度决定了音符的播放速度。一般来说，速度值在0到255之间，0表示音符不播放，255是最大速度，音符以最快速度播放。所以，如果你要把一个音符以中间速度播放，你可以设置MIDI速度为127。因此，答案是127。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_071-026-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "根据声音的力度，我觉得应该是“50”这个级别。声音听起来比较适中，没有特别用力或柔和。你觉得呢？"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_085-084-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "根据声音 clip 的力度，我觉得应该是 75。这表示声音的力度中等。如果声音 clip 很柔和，那就是 25；如果非常响亮，那就是 100。所以，75 是比较合适的 MIDI 值。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_096-051-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple notes are present, classify the dominant note’s velocity. Respond with only: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "25。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_046-095-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity in the given audio sample. Respond with one of the following values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "这个声音听起来像是“100”，所以答案是100公里每小时。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_010-053-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify the MIDI velocity. Choose only from: 127, 100, 75, 50, or 25. Output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "25。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_130-078-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "这个音符的音高是 A4，也就是 440 Hz。根据音高和速度的关系，它的速度大概是每分钟 120 拍，也就是每秒 2 拍。所以答案是 100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_035-081-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "要计算音符的音高，我们需要知道音名和音阶。比如，从A到C有四个半音，每个半音是两个音分。所以A到C是738音分。要计算C到G，我们用公式：频率等于2的幂次乘以音分值。已知C的频率是261.63赫兹，我们算出G的频率。结果是391.99赫兹。那么，C到G的音高是G4。所以答案是G4。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_008-037-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_028-059-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "你的速度是127公里每小时。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_017-097-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the dynamic expression in this recording and return the closest matching MIDI velocity from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "要匹配动态表达，我们通常会用MIDI的力度值。力度值范围从0到127，0表示没有声音，127表示最大音量。听这段声音，感觉像是75力度左右。所以，我会选75这个力度值来匹配。当然，这只是个主观判断，不同的人可能会有不同的选择。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_005-061-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "好的，请告诉我你想要分类的音符速度，我会把它们转换成相应的数值。比如，一个音符速度为120，我会把它分类为速度值100。现在你可以开始输入音符速度了。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_065-055-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "50。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_045-060-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "抱歉，我没法直接获取或分析上传的音频文件。如果你能提供更多信息或上下文，我会尽力帮你。另外，关于MIDI速度，它表示MIDI消息的传输速度，不是音量大小。要了解具体的MIDI速度，你可能需要使用专业的MIDI编辑软件来查看。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_002-089-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the velocity classification is based on the actual played note dynamics. Choose only from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "根据你提供的音频片段，我无法直接进行速度分类。不过，通常来说，如果一段音乐节奏明快、旋律活泼，可能属于快节奏；如果旋律柔和、节奏舒缓，那可能就是慢节奏。你可以根据音乐的感觉来判断一下哦！如果需要更精确的速度分类，可能需要借助一些专业的音乐分析工具。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_114-059-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "这个声音的音量大约是50分贝。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_016-102-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "这个音符的音高是 60，时值是 4。根据这些信息，它的速度大约是每分钟 120 拍，每拍 3/4 的速度。所以答案是 120。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_022-043-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the velocity classification is based on the actual played note dynamics. Choose only from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "根据你提供的音频，我把它分类为127。这表示动态范围很大，声音变化非常明显。比如，从很弱到很响的声音都有。这通常意味着音乐或语音内容有明显的情绪变化和动态起伏。希望这对你有帮助！"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\guitar_electronic_028-094-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity in the given audio sample. Respond with one of the following values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "The given audio sample doesn't have any clear speech or recognizable content to extract the velocity from. Can you provide more context or information about the specific audio content?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_043-079-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify the MIDI velocity. Choose only from: 127, 100, 75, 50, or 25. Output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "25。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_090-078-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "抱歉，我无法直接处理MIDI信息。不过，你可以告诉我音符的名称或频率，我可以帮你分类。比如，一个音符 A4 的速度是 440 Hz，而 C4 的速度是 261.63 Hz。你有什么具体的音符或速度范围吗？我可以帮你分析。"
+  },
+  {
+    "voice": [
+      "nsynth-test/audio\\bass_synthetic_033-035-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "要找出这个音符的音高，我们需要知道它的频率。频率越高的音符，音高越高。如果音符的频率是440赫兹，那就是小字组的a。如果是220赫兹，那就是小字组的c。如果频率在110到220赫兹之间，就是小字组的e或f。如果频率在55到110赫兹之间，就是大字组的d或e。如果频率在27.5到55赫兹之间，就是大字组的c或d。如果频率在13.9到27.5赫兹之间，就是大字组的g或a。如果频率在7.5到13.9赫兹之间，就是大字组的f或g。如果频率在3.9到7.5赫兹之间，就是大字组的d或e。如果频率在1.9到3.9赫兹之间，就是大字组的c或d。如果频率低于1.9赫兹，那就是超低音区的音符了。不过，你给的信息并没有提到具体的频率，所以无法准确判断这个音符的音高。如果你能提供更多的信息，比如它的音名或者频率，我可以帮你分析得更准确。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_127-024-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "从这些数值来看，只有100是正确的MIDI速度。其他数值都不在合理的范围（0到127）内。所以答案是100。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_013-032-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "The correct MIDI velocity value is 100."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_014-060-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple notes are present, classify the dominant note’s velocity. Respond with only: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "25。"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_008-044-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "这个音符的音高大约是 A4，也就是 440Hz。根据音高和速度的关系，它的速度大概是每分钟 220 拍。所以答案是 220。"
+  }
+]

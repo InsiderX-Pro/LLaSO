@@ -1,0 +1,2202 @@
+[
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22030285.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "Many notable Caliphs have had their share of ruling over the Kiswah."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "I'm not capable of identifying a speaker's gender based on their vocal attributes. However, I can tell you that many notable vloggers have had their share of controversy, including Shane Dawson, Jeffree Star, and PewDiePie, among others.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 870 790 716 205 521 453 932 148 530 733 196 166 250 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 428 565 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 510 243 705 11 576 384 879 443 325 801 549 663 969 870 818 290 978 822 89 194 664 835 67 940 118 944 878 609 187 493 361 202 881 331 327 663 969 870 692 526 302 908 380 382 268 501 119 716 205 521 538 423 27 761 430 70 185 794 728 663 998 523 139 340 506 686 545 85 297 265 675 237 415 772 497 63 644 254 821 27 104 108 894 852 741 384 879 577 154 663 969 524 44 254 530 733 914 445 137 488 620 352 143 244 583 576 384 693 521 854 258 436 139 340 459 173 945 29 73 172 871 877 384 879 179 961 207 950 948 86 116 281 783 803 380 660 351 944 402 790 716 205 521 692 526 56 485 948 327 259 781 645 246 764 660 577 350 663 969 198 711 510 152 429 470 821 152 784 430 901 555 29 202 881 331 663 969 432 742 431 531 314 576 284 249 969 932 148 272 313 367 104 650 816 203 728 663 870 692 154 302 663 969 346 540 866 586 976 534 53 321 458 942 44 115 605 193 111 63 644 389 771 46 328 409 38 45 468 253 340 660 398 212 455 143 431 531 576 822 89 194 664 620 112 915 143 721 549 167 104 835 85 866 586 283 377 620 352 385 343 942 63 662 705 11 576 384 879 70 390 66 330 56 321 948 707 32 742 519 589 702 576 655 764 969 164 524 726 44 254 823 175 684 136 143 38 260 323 436 139 340 196 537 721 549 238 655 837 81 664 357 251 759 260 547 444 821 655 837 81 194 633 458 44 644 254 504 565 108 498 324 338 359 246 816 325 538 27 104 938 377 969 377 198 711 510 297 265 675 755 584 415 341 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_24982737.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "In some recipes, ingredients including nuts, onions, or garlic may be added."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the speaker in this recording have a female or male voice? Provide only the correct classification.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker has a male voice.",
+    "prediction_units": "202 393 946 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 470 152 173 641 124 362 734 498 889 172 338 871 877 822 89 327 905 693 205 521 382 692 526 302 592 103 81 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38282320.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "The observance of the festivals was supposed to ensure a plentiful harvest."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech sample and classify the speaker's gender as either female or male. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker's gender is male.",
+    "prediction_units": "432 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 337 884 705 11 576 384 879 488 443 325 801 549 663 969 714 25 825 865 641 683 243 889 172 338 871 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_28079535.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Such an atmospheric environment inhibits precipitation."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For automatic call routing, classify the speaker's gender into female or male based on their vocal features.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Yes, an atmospheric environment can inhibit precipitation. For example, high pressure systems can suppress precipitation, while low pressure systems can enhance it.",
+    "prediction_units": "920 384 879 70 835 67 206 265 675 237 99 254 823 175 684 931 428 430 901 185 29 747 172 871 432 882 683 589 337 126 776 384 466 487 990 107 137 955 771 46 328 915 143 692 526 558 655 837 81 466 663 754 748 12 671 877 488 443 93 274 208 613 417 755 914 445 137 384 488 620 46 328 222 915 470 821 333 523 290 794 15 333 523 793 506 29 561 213 213 973 33 432 742 519 26 204 280 314 333 357 757 323 523 403 794 75 583 822 89 194 817 146 283 385 584 193 415 772 497 662 515 663 466 503 487 319 219 852 975 668 576 384 907 430 409 757 740 716 205 521 916 44 902 63 991 470 821 655 837 81 664 251 759 973 288 796 384 879 70 431 531 663 969 432 742 519 26 204 280 314 333 432 32 170 731 600 702 788 366 896 627 758 711 510 337 243 914 445 137 469 488 620 352 98 519 26 280 734 870 676 481 973 288 796 33 384 879 70 835 67 337 243 850 213 973 288 796 33 432 742 519 26 280 314 998 357 757 323 523 793 403 794 75 583 15 822 89 194 664 817 146 283 352 343 942 115 224 121 665 991 535 101 741 837 693 521 781 645 908 791 380 382 251 676 412 973 288 796 33 879 70 431 531 663 432 742 98 519 26 204 280 314 6 333 32 170 731 600 702 788 874 366 896 627 758 545 711 510 337 243 914 445 137 488 620 931 428 812 222 915 470 821 384 907 430 443 816 912 545 85 866 586 955 377 437 506 686 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26235.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Just by looking at them."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm not capable of visually observing or hearing the speaker, so I cannot classify their gender.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 29 233 542 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 537 526 559 333 347 11 74 716 205 518 321 948 327 734 870 404 595 975 614 663 969 692 398 212 455 659 187 594 461 969 470 821 534 485 284 466 398 212 455 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 107 137 663 969 164 524 726 44 63 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 430 179 961 475 783 246 430 945 233 542 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 202 881 331 327 969 541 196 705 11 576 384 879 443 325 801 549 377 969 164 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_28527947.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Hunter occupied Staunton, Virginia."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the audio, I would classify the speaker as male.",
+    "prediction_units": "978 822 89 194 835 67 940 944 878 493 361 393 946 215 406 187 594 246 660 964 113 327 905 803 791 611 521 524 44 902 605 121 63 254 504 530 733 787 935 101 741 660 555 542 914 119 593 384 761 430 70 540 866 586 59 958 66 776 655 837 81 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 423 565 173 641 683 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_32267470.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Dartmouth finished fourth in the Ivy League."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the vocal attributes, I would identify the speaker as male.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 692 526 302 908 382 268 501 119 716 205 521 267 538 423 27 761 907 430 70 185 794 680 59 998 53 377 506 686 545 85 297 265 675 237 307 128 99 254 504 530 733 787 935 101 741 660 555 530 733 196 166 549 384 879 443 93 274 794 680 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 423 173 641 124 337 243 889 172 338 877 822 89 284 327 377 693 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_32877045.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Originally meetings of Sligo County Council were held at Sligo Courthouse."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm not able to access or analyze audio recordings or meetings. However, I can provide general information on gender classification models or tools if that's what you're looking for.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 944 25 423 771 822 89 194 664 885 765 302 205 521 867 79 868 220 483 538 423 27 761 430 70 219 522 866 586 314 576 384 879 198 835 67 700 362 461 969 538 423 384 761 907 430 179 931 62 954 317 645 453 655 837 81 198 711 376 510 878 538 609 187 594 246 901 166 56 964 113 327 635 382 156 824 734 263 45 272 119 607 592 103 969 660 166 398 212 455 758 545 711 510 878 461 969 498 889 172 536 485 948 86 539 680 398 212 455 545 711 510 297 265 675 237 415 772 497 63 644 991 254 821 167 104 894 852 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 915 143 38 481 973 288 750 870 692 154 558 655 837 81 664 555 537 705 11 576 384 879 179 961 62 466 716 205 521 25 771 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 659 878 538 187 493 361 915 143 705 11 576 384 879 443 325 801 549 663 870 867 263 445 593 167 761 430 70 540 866 586 59 66 910 487 319 501 137 822 89 194 664 817 146 283 352 915 889 338 359 655 764 901 921 716 205 521 711 510 297 675 237 461 969 691 561 244 583 516 677 253 205 521 711 510 675 169 389 771 685 333 958 66 884 881 331 430 945 85 337 243 935 101 741 945 29 233 258 436 663 969 781 645 355 660 268 351 501 398 212 455 143 390 515 592 103 611 164 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20715886.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "It is a Cooperative Bulk Handling receival site."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the provided information, it is not possible to determine the speaker's gender.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 870 251 676 481 973 288 750 687 870 692 154 558 655 837 81 166 599 161 523 555 944 25 771 328 143 390 422 776 663 748 806 336 877 822 89 194 817 146 283 377 385 343 942 44 115 193 121 63 665 864 771 685 437 641 124 243 116 475 783 104 945 29 260 547 444 655 104 70 346 540 295 586 59 790 716 205 521 691 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 620 202 393 946 734 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 243 705 11 576 384 879 443 325 801 549 663 969 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27989585.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "She shrank within herself in a coil of torture."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and classify the speaker's gender. Your response should be either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker's gender is female.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 488 443 325 801 549 663 969 714 25 825 865 641 683 589 337 243 126 323 534 485 948 86 12 172 536 877 822 377 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20449350.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "His wife, friends, co-workers, and mother all deny knowing him."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice modulation, pitch range, and vocal fold vibration patterns to determine gender. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 172 977 877 822 89 284 905 693 611"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23953482.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "It has since borrowed some words from French and from other West African languages."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the speaker's language use, it's likely they are male.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 940 944 878 493 361 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 337 243 781 645 761 907 430 194 816 325 852 101 741 333 523 555 705 326 258 436 139 340 828 835 67 297 265 675 237 307 63 665 864 771 685 437 243 781 645 655 837 81 664 990 107 29 518 321 948 86 202 881 331 89 194 327 579 969 498 889 338 877 822 89 284 327 377 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22720694.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "It is run on its behalf by a Board of Curators."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the vocal characteristics, I would classify the speaker as male.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 870 692 526 302 908 382 268 501 119 716 205 521 382 867 45 914 445 137 576 761 466 487 219 952 315 477 788 663 466 824 503 333 32 882 683 731 940 600 702 680 15 333 487 990 107 85 297 265 675 237 307 407 63 254 530 733 787 935 101 741 660 555 233 914 887 593 167 761 907 430 70 835 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 423 173 641 683 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 415 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23936133.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Tributary streams are listed in order from north to south."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the audio, I would classify the speaker's gender as male.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 734 406 538 187 594 246 660 166 250 964 113 327 905 791 52 524 44 115 63 254 530 733 787 935 101 660 555 233 914 119 887 593 167 384 761 430 70 540 866 586 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 337 884 705 11 576 384 879 443 325 801 549 663 969 423 565 173 641 835 683 589 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_691092.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "I don't blame him."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to hear or analyze audio. I can only respond to text-based queries. If you can provide a transcript of the speech, I'd be happy to assist you with gender classification.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 105 79 868 220 470 821 576 384 693 268 876 417 341 661 497 63 644 991 821 104 894 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 327 488 684 136 915 721 250 575 475 783 764 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 664 539 757 323 59 790 37 693 234 366 523 50 910 321 633 86 79 868 220 470 821 534 284 969 187 594 461 969 382 538 423 384 761 907 650 179 931 62 954 317 645 453 655 837 81 198 711 376 510 878 538 609 187 594 246 901 166 56 964 113 327 635 791 916 584 902 193 341 661 497 63 644 254 530 733 914 445 137 488 620 878 538 187 594 908 310 816 325 518 56 948 86 156 824 798 432 742 170 519 589 126 740 167 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497 63 63 644 864 771 685 333 873 958 66 258 436 139 340 263 914 445 137 488 620 143 38 676 481 973 288 750 870 692 154 558 655 837 81 664 555 944 565 734 105 777 227 167 384 907 430 650 816 912 85 589 337 243 126 119 647 663 879 70 208 944 932 148 202 393 946 734 742 98 519 589 126 323 534 485 321 948 86 539 506 552 326 531 417 755 237 665 644 254 504 530 733 555 29 290 943 321 948 470 821 761 430 70 404 757 323 321 948 86 105 79 868 220 483 734 742 98 519 26 204 280 314 333 32 882 683 67 940 118 233 258 436 139 340 787 935 271 333 523 196 233 537 705 11 576 384 879 443 325 801 549 663 870 263 45 914 445 887 593 167 761 430 70 835 540 866 586 59 958 66 910 161 487 319 501 137 822 89 194 664 817 146 283 377 385 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20399.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "Two darkskinned children staring while the people behind them mix dust in their floral clothing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "male",
+    "prediction_units": "889 172 338 877 822 89 284 377 693 611 521 916"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38582340.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Goldfish come in many varieties."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The voice in the audio belongs to a male.",
+    "prediction_units": "393 734 870 692 526 302 592 103 81 194 664 835 22 700 169 46 812 222 393 946 215 406 594 246 660 964 113 327 791 290 978 259 781 645 246 764 816 325 758 545 711 510 297 884 79 799 220 483 565 734 498 889 172 338 877 822 89 284 905 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22728546.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The game ends with Hoborg telling Klaymen \"Man, things are good\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker's voice is male.",
+    "prediction_units": "393 946 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 243 692 526 302 592 103 81 194 664 835 67 297 169 865 641 683 337 243 889 172 338 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_90527.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "Canadian English",
+      "sentence": "The little group of people from the city dispersed."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For automatic call routing, classify the speaker's gender into female or male based on their vocal features.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I can help you with that. To classify the speaker's gender, I'll need to analyze their vocal features, such as pitch, tone, and rhythm. Please provide the audio clip or a sample of the speaker's voice.",
+    "prediction_units": "530 733 445 137 488 620 470 821 576 693 268 404 876 323 258 436 139 340 787 935 271 333 523 196 555 29 202 881 331 238 907 430 945 506 686 208 613 417 755 193 415 341 772 497 63 665 662 79 868 220 263 914 119 593 462 761 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 524 726 44 902 605 63 254 27 530 733 693 521 116 372 485 321 948 86 555 79 868 220 483 538 423 27 761 907 430 179 931 62 317 645 655 837 81 198 711 124 884 202 881 331 663 969 870 692 526 302 908 380 382 268 501 860 716 205 521 382 390 479 330 776 534 485 948 86 539 557 477 326 74 663 969 198 711 510 675 237 307 128 665 780 519 26 204 280 668 173 70 185 552 955 333 873 32 683 337 243 850 213 260 323 822 333 506 686 326 531 417 884 662 244 583 576 167 803 563 380 620 112 385 343 44 115 752 644 254 823 175 684 136 143 156 824 442 333 523 196 166 921 549 366 377 611 896 627 385 309 584 902 193 415 661 497 63 662 213 260 712 485 321 948 813 711 683 337 243 850 973 288 750 870 692 154 558 655 837 81 664 555 29 202 393 946 215 406 538 187 594 246 660 166 56 113 327 635 791 380 382 914 119 593 645 453 506 187 594 461 969 466 565 734 742 98 519 26 204 280 668 576 384 907 430 816 409 404 757 716 205 521 453 932 148 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 337 243 526 302 592 103 81 194 53 835 67 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37921663.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "South African accent",
+      "sentence": "The first nine rounds would have seen each team play each other once."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the first nine rounds, the team with the most wins is Team A, and the team with the fewest wins is Team C.",
+    "prediction_units": "978 822 89 194 664 835 67 493 361 393 946 734 390 422 330 776 663 969 70 835 67 940 118 116 281 62 655 837 81 620 915 156 824 556 238 907 597 816 758 545 711 510 297 265 675 237 307 128 665 202 393 946 734 793 105 244 583 534 485 974 948 813 627 168 787 935 271 333 523 793 403 29 202 393 946 734 498 324 789 6 908 380 828 835 67 940 118 243 535 935 101 741 333 120 488 620 758 711 510 169 865 641 683 337 884 244 680 534 485 321 948 813 627 143 38 44 605 63 254 823 175 684 136 202 393 946 734 105 244 680 534 485 321 948 627 168 787 935 271 333 523 793 403 29 202 393 946 734 390 479 330 776 436 139 340 787 483 333 32 835 67 940 118 233 243 935 101 741 333 488 620 758 545 711 510 169 955 389 865 198 641 683 589 884 680 583 534 485 321 948 813 627 915 912 589 26 204 280 976 534 485 321 458 584 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27227811.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "A study conducted afterwards found its impacts to be much greater than anticipated."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The study found that the speaker's voice was female.",
+    "prediction_units": "393 946 432 742 519 589 600 702 874 576 104 901 166 56 948 86 319 390 479 422 330 776 576 384 907 597 816 325 202 459 173 945 29 202 393 946 215 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 337 243 537 526 302 592 103 81 194 664 835 67 297 337 675 237 101 641 683 337 243 850 330 776 534 485 948 86 12 977 877 822 377 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_33459578.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Scottish English",
+      "sentence": "Sue ware and pottery from the Kofun and Heian periods were also found."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the provided audio, the speaker's gender is male.",
+    "prediction_units": "213 290 978 833 822 89 194 664 835 67 944 878 493 361 393 946 734 870 251 676 973 288 750 687 870 692 154 558 655 837 81 599 161 555 233 944 878 609 187 594 246 660 166 250 964 113 327 905 791 611 382 524 44 115 63 665 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 107 137 663 969 198 711 124 243 705 11 576 384 879 443 325 801 549 663 969 865 641 683 243 889 172 338 871 877 822 89 284 327 693 611 916 584 902 819 415 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_40609916.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Scottish English",
+      "sentence": "However, its location in the video game is different from its actual location."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Yes, the location in the virtual game can be different from the actual location.",
+    "prediction_units": "258 113 920 384 879 70 835 67 206 265 675 237 665 202 393 946 215 228 781 645 402 380 382 268 501 137 822 89 194 664 817 146 283 352 385 343 659 25 825 771 46 812 222 393 946 734 692 526 302 663 969 660 351 477 728 614 716 205 521 382 416 836 822 89 194 664 627 168 143 45 914 445 137 488 620 915 943 321 948 86 537 721 250 333 998 958 66 776 663 366 93 506 208 233 479 515 647 896 627 393 946 215 327 538 423 761 907 430 70 219 952 477 728 614 716 205 521 781 645 402 24 382 268 501 137 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37900188.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "South African accent",
+      "sentence": "He spent his early years in Cuba on his father's estate."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The voice in the audio belongs to a male.",
+    "prediction_units": "393 734 870 692 526 302 592 81 194 664 835 67 22 700 169 46 812 222 393 946 215 406 187 594 246 660 964 113 327 791 382 290 978 259 781 645 246 764 816 325 758 545 711 510 297 884 79 799 220 483 734 498 889 338 877 822 89 284 327 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26578910.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Police investigations found no evidence that an offence had been committed."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, it's difficult to determine their gender with certainty, as voices can vary greatly between individuals. However, some studies suggest that female voices tend to have a higher pitch and more harmonic content, while male voices tend to have a lower pitch and more bass content. But without more information or context, it's impossible to make a definitive determination.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 337 243 537 526 302 908 382 268 501 860 716 205 521 867 45 914 137 167 761 466 487 219 952 315 477 788 663 466 824 333 32 882 683 940 600 702 680 15 333 219 990 107 85 297 675 237 307 121 63 665 864 771 685 437 124 884 537 721 250 333 958 66 776 59 870 501 860 716 205 521 506 29 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 877 488 620 352 915 202 881 331 663 969 523 196 705 11 576 384 879 443 325 801 663 969 787 935 271 523 918 519 26 912 519 26 280 614 663 969 934 315 747 274 50 53 321 458 942 115 193 63 254 823 27 175 173 641 124 243 692 526 302 592 81 664 32 835 924 866 586 955 333 198 711 510 337 850 914 445 137 488 620 352 915 143 692 859 384 690 86 416 426 824 822 89 194 664 539 557 29 518 321 948 86 357 290 978 161 523 403 477 852 56 321 948 620 112 771 46 812 328 915 721 250 998 692 526 559 333 934 852 74 716 205 521 711 510 297 265 675 755 237 415 772 497 63 644 254 821 27 104 108 894 852 741 384 879 577 154 663 969 524 726 44 780 519 26 204 280 668 167 104 896 627 912 98 519 589 702 874 576 104 933 901 166 56 321 198 711 510 884 780 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 613 417 884 459 173 945 233 479 330 776 485 948 86 12 172 336 877 822 327 905 693 205 521 692 526 302 592 81 664 32 924 866 586 955 333 198 711 510 589 884 244 583 576 384 879 488 443 93 274 208 613 417 884 79 868 220 429 565 734 470 821 655 837 81 327 663 969 251 676 412 260 323 333 793 403 326 169 175 684 136 889 324 826 592 103 969 538 470 821 655 969 748 872 336 877 384 179 961 333 487 219 990 107 561 914 445 469 367 167 655 650 816 274 557 794 75 583 15 576 377 93 506 208 613 417 237 307 621 128 665 991 535 101 741 837 693 521 2 889 172 338 871 877 822 89 284 327 693 205 521 692 526 302 592 81 664 32 924 866 586 955 333 198 711 510 589 884 244 583 576 384 879 488 443 93 274 208 613 417 884 79 868 220 152 784 429 565 734 781 645 908 894 483 969 870 251 260 323 333 793 403 326 531 362 823 175 684 136 324 826 592 103 969 290 978 822 89 194 32 835 67 589 337 243 850 914 445 469 167 655 764 650 816 274 794 75 583 15 377 93 506 686 613 417 755 415 772 497 63 665 662 991 833 173 945 535 935 271 523 196 921 238 761 907 597 506 29 324 826 592 103 969 406 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 931 659 461 969 867 263 45 272 313 469 167 655 104 650 816 274 557 75 583 15 384 377 879 219 952 522 67 940 118 613 417 755 237 307 985 128 665 864 771 685 437 85 878 25 771 328 409 38 0 444 655 104 764 346 540 295 586 59 790 716 205 521 867 79 868 220 498 172 871 822 89 664 990 107 137 565 734 196 721 250 734 958 66 776 6 333 179 961 428 161 523 471 737 333 885 148 721 250 161 523 793 244 663 12 977 961 428 822 89 194 817 146 283 377 385 584 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26980548.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "South African accent",
+      "sentence": "A few whiffs of the raw, strong scent of phlox invigorated her."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 337 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19695948.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "He made a name for himself at Getafe after emerging through Real Madrid's \"cantera\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the audio, I would classify the speaker as male.",
+    "prediction_units": "978 822 89 194 664 835 67 940 878 493 361 946 406 538 187 594 246 660 166 964 113 327 905 635 791 52 524 44 605 121 63 665 254 530 733 787 935 101 741 660 555 914 119 887 593 384 907 430 70 835 866 586 59 998 958 66 776 655 837 81 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 423 173 641 683 589 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27094040.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The Maastunnel was the world's first rectangular shaped underwater tunnel built in this way."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The Masurian Canal, the world's first triangular-shaped underwater tunnel, was built in this way.",
+    "prediction_units": "393 498 889 338 359 384 907 430 70 835 67 118 663 969 113 327 488 620 352 915 143 914 445 137 469 167 655 764 650 179 931 62 238 907 693 205 521 916 44 902 605 63 665 991 202 393 946 734 787 935 101 741 466 693 205 521 506 545 85 510 337 243 479 330 776 663 969 828 835 67 940 884 777 227 167 837 81 327 905 384 488 350 74 366 259 663 969 358 742 431 531 314 822 89 664 876 686 208 944 878 538 823 27 650 816 325 801 663 935 741 246 660 351 788 663 660 105 244 583 167 104 650 179 449 62 716 205 521 524 44 902 605 63 665 991 535 101 741 366 641 124 243 850 290 978 693 205 521 506 208 613 944 46 812 222 881 331 333 32 683 67 337 243 935 101 741 822 89 194 458 726 584 902 193 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_30719002.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Their only other loss was to Michigan State."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The voice in the audio belongs to a male.",
+    "prediction_units": "393 734 870 692 526 302 592 103 81 194 664 32 835 67 22 700 169 46 812 222 393 946 215 406 246 660 166 56 113 327 635 791 894 290 978 259 781 645 246 764 816 325 758 545 711 510 297 884 79 799 220 483 734 498 889 172 338 877 822 89 284 327 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_530822.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "Australian English",
+      "sentence": "They voted Carlos down!"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and classify the speaker's gender. Your response should be either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker of the given text is male.",
+    "prediction_units": "393 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 932 148 202 393 946 734 487 319 416 836 333 885 692 154 559 366 620 352 915 143 38 105 244 583 576 384 879 219 952 522 940 118 944 955 865 641 124 337 243 889 172 871 877 822 89 284 327 377 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21285117.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Taking on the title of the \"Boy Scouts of Ireland\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the speaker in this recording have a female or male voice? Provide only the correct classification.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker in this recording has a male voice.",
+    "prediction_units": "734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 25 825 771 46 812 222 881 331 333 32 683 589 337 243 156 824 607 998 263 45 119 607 592 103 660 166 398 212 455 470 152 173 641 347 124 362 565 734 498 889 172 338 877 822 89 284 905 693 205 521 692 526 302 592 103 81 377 835 67 297 206 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19592576.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The novels were praised by writers as diverse as Aragon, Bernanos, and Malraux."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker in this audio is male.",
+    "prediction_units": "393 946 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 825 771 46 812 222 331 333 873 32 683 589 337 878 609 594 246 901 166 56 964 113 327 905 803 791 52 424 267 714 865 641 124 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41612200.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Scottish English",
+      "sentence": "Below is a list of extant manuscripts and scattered passages."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker's voice is female.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 860 137 663 198 711 124 337 243 526 302 592 103 81 194 664 835 67 297 265 169 865 641 683 589 337 243 126 330 776 534 485 948 86 12 172 977 877 822 377 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38582465.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "It is a decapod, with eight arms and two longer tentacles, all with suckers."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the description, it's likely a male decapod, such as a crab or a lobster, due to the presence of eight arms and two longer tentacles.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 734 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 385 343 942 902 193 121 111 63 665 864 771 685 437 243 781 645 837 81 664 990 107 518 321 14 406 565 734 479 330 776 534 86 498 172 338 877 822 284 905 693 521 244 250 384 879 70 319 501 445 137 998 404 0 323 655 764 87 506 208 613 944 417 755 237 605 63 665 780 519 26 204 280 668 167 70 185 552 362 173 641 347 124 362 734 263 45 914 119 647 907 430 164 506 876 187 594 461 969 734 259 781 645 246 655 764 404 290 118 702 302 663 377 969 942 44 63 662 537 721 250 436 139 340 846 660 867 79 799 220 202 393 946 734 870 251 676 481 973 288 796 33 384 879 975 59 832 758 545 85 510 297 700 362 932 148 878 423 822 89 194 664 506 208 233 609 27 579 655 764 969 896 627 758 545 711 510 362 175 684 136 143 38 105 244 240 808 220 340 846 781 645 246 816 325 968 836 663 691 244 583 576 384 879 443 93 274 794 788 15 59 319 263 501 119 716 205 521 545 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17847675.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "England English",
+      "sentence": "His bark is louder than his bite."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the dominant vocal traits, I would classify the bark as louder.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 196 721 549 167 655 104 764 748 872 336 877 366 179 961 428 333 523 506 233 537 526 302 908 382 268 501 119 716 205 521 660 691 105 777 326 728 227 647 822 89 194 664 506 686 85 297 265 675 237 307 63 665 254 504 530 733 787 935 101 660 555 233 914 119 593 167 761 430 70 540 866 586 59 958 66 776 655 837 81 901 202 393 946 734 870 290 978 833 655 764 969 70 219 107 417 878 865 641 124 337 243 781 645 238 907 597 660 166 549 377 969 164 916 726 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19700137.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Also, there were a few chill flowers, in pale cold bud."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the description, it's likely a female speaker.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 215 196 721 250 798 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 385 343 942 115 193 121 985 63 665 644 864 771 685 437 243 781 645 837 81 664 990 501 107 518 321 406 565 734 390 479 330 776 534 485 948 86 12 172 877 822 327 905 693 521 828 98 519 589 126 323 534 485 321 948 86 990 501 107 137 663 969 164 916 726 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19752796.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The company also claims that its greases will never dry out or set."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch, resonance, and speech patterns to determine the speaker's gender. Reply with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the pitch, resonance, and speech patterns, it's difficult to determine the speaker's gender with certainty, but the tone and cadence suggest a female speaker.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 870 251 676 260 323 333 793 506 686 326 531 417 755 237 665 991 156 824 442 879 347 975 955 59 179 961 428 377 832 758 545 85 510 297 265 675 237 644 254 823 175 684 136 912 98 519 589 126 323 534 485 948 86 539 552 326 243 850 260 547 444 384 761 907 430 70 185 477 788 663 832 758 711 510 297 265 675 237 864 771 685 437 884 537 721 250 333 958 66 776 59 37 501 860 716 205 521 29 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 877 488 620 352 915 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 801 663 969 787 935 271 523 918 519 26 912 519 26 204 280 614 663 969 934 315 747 274 50 53 458 942 115 193 63 128 665 991 547 833 173 945 29 202 393 946 734 105 244 583 576 803 380 179 112 931 175 684 136 143 233 45 914 445 137 822 89 194 664 166 488 832 93 545 85 510 85 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 944 565 734 390 479 330 776 485 948 86 12 172 336 877 822 327 905 693 205 521 828 98 519 589 337 126 323 534 485 948 86 990 501 107 137 377 969 164 916 726 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17566895.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "New Zealand English",
+      "sentence": "The TNT blows up the granite, forming a tunnel to the coal and iron ore."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 337 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_33982716.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "Alauddin planned to assassinate Amir Barid on one of their monthly visits."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For automatic call routing, classify the speaker's gender into female or male based on their vocal features.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal features, I would classify the speaker as male.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 944 878 493 361 393 946 734 742 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 510 243 243 537 526 302 6 908 380 382 268 501 860 716 205 521 382 390 479 422 330 776 534 485 948 86 539 477 74 663 969 198 711 510 297 265 675 237 307 254 530 733 787 935 101 741 660 555 233 45 914 119 887 593 167 761 430 70 540 866 586 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 107 137 663 969 423 173 641 683 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19580521.mp3"
+    ],
+    "metadata": {
+      "age": "seventies",
+      "accents": "",
+      "sentence": "Zinkenite occurs as acicular needle-like crystals."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech sample and classify the speaker's gender as either female or male. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Male",
+    "prediction_units": "889 172 338 877 822 89 284 327 693 611"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22434958.mp3"
+    ],
+    "metadata": {
+      "age": "seventies",
+      "accents": "",
+      "sentence": "Chen is married to former MediaCorp actor Edmund Chen."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on Edmond Jannings' voice, I would classify him as male.",
+    "prediction_units": "978 822 89 194 664 835 67 613 944 878 187 493 361 428 25 423 384 879 523 555 488 896 627 915 537 705 11 576 879 430 179 961 428 488 711 510 243 243 526 302 592 103 81 194 664 835 67 297 265 675 237 307 665 254 504 530 733 787 935 101 555 233 542 914 119 887 593 167 462 761 430 70 540 866 586 362 734 958 66 776 655 837 81 470 821 333 488 896 627 168 659 173 641 124 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23754810.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "More often than not, an employer's refusal to bargain was the issue."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice and determine their gender. Respond only with either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "More often than not.",
+    "prediction_units": "73 324 826 592 103 969 594 246 70 390 66 776 488 620 352 915 202 881 331 384 488 620 116 281 783 462 104 764 87 164 506 686 613 417 755 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19703208.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "Canadian English",
+      "sentence": "Lockett became a cult figure in Sydney."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, it's difficult to determine their gender with certainty, as voices can vary greatly. However, I can try to help you narrow down the possibilities. Can you provide more context or information about the speaker's voice?",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 215 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 243 692 526 302 6 908 382 268 501 119 716 205 521 867 45 914 137 761 466 487 219 952 315 477 788 663 466 824 333 32 882 683 940 600 702 15 377 487 990 107 85 297 675 237 307 985 665 864 771 685 437 884 721 250 333 958 66 776 59 870 501 860 716 205 521 29 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 488 620 352 915 202 881 331 663 969 523 196 705 11 576 384 879 443 325 801 663 969 787 271 333 523 918 85 519 26 912 519 26 204 280 614 663 969 934 315 747 274 50 53 321 942 115 63 254 823 423 173 641 124 243 526 302 592 81 32 924 866 586 955 333 198 711 510 337 243 850 914 445 137 488 620 352 915 143 692 859 384 690 86 416 426 824 822 89 194 664 403 29 518 321 86 458 584 902 193 415 661 497 63 644 991 821 167 104 894 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 914 445 137 488 620 915 143 777 227 655 837 81 664 691 79 868 220 470 821 384 693 268 876 258 436 139 340 575 116 281 62 428 384 907 430 466 791 380 660 196 721 549 384 907 597 816 325 202 393 946 734 251 676 0 547 444 655 764 70 540 295 586 362 59 790 228 234 523 50 534 321 53 198 711 510 297 265 675 237 415 772 497 63 665 662 445 137 488 179 961 207 258 436 139 340 382 251 251 676 481 973 288 750 870 692 306 558 655 837 81 664 555 29 889 324 826 592 103 969 867 263 45 272 313 469 367 167 655 650 816 274 557 794 75 583 15 384 879 219 522 67 940 118 233 220 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 659 565 734 849 907 597 660 29 393 946 734 742 519 589 126 323 534 485 86 990 501 137 663 969 198 711 510 337 243 692 526 302 592 103 81 194 664 835 67 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_32115557.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Many of the islands are forested."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm not capable of identifying a speaker's gender based on their vocal attributes. However, I can tell you that many of the islands you're referring to are indeed forested.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 530 733 196 166 250 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 428 565 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 870 290 978 822 89 194 664 835 67 940 118 208 944 878 609 187 493 361 202 881 331 663 969 870 692 526 302 908 380 382 268 501 119 716 205 521 538 423 27 761 430 70 185 794 728 663 998 523 793 939 139 340 506 686 545 85 297 265 675 237 415 772 497 63 644 254 821 27 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 143 38 105 244 583 576 384 693 521 854 258 436 139 340 846 459 173 945 29 29 889 172 871 877 384 879 179 961 207 950 327 932 148 202 393 946 215 406 538 27 655 837 81 317 453 366 377 832 758 545 85 510 258 436 635 663 969 156 824 402 870 390 422 330 776 435 663 969 466 398 212 455 143 38 79 799 220 846 483 579 969 196 915 721 250 485 321 948 86 555 233 390 479 330 435 592 246 466 366 432 835 67 940 118 702 53 506 208 613 755 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27312156.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "Australian English",
+      "sentence": "Warp yarns are floated over weft yarns, for example four over and one under."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice and determine their gender. Respond only with either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the provided text, it's not possible to determine the speaker's gender.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 944 878 493 361 393 946 734 870 251 676 481 973 288 750 870 692 154 558 655 837 81 166 599 56 523 555 29 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 63 665 864 771 685 437 116 475 783 104 945 29 260 547 444 368 655 104 764 70 346 540 295 586 59 790 716 205 521 691 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 620 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 337 243 705 11 576 384 879 443 801 549 663 969 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27803578.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The vast majority of attendees are industry insiders, rather than players."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker's voice is female.",
+    "prediction_units": "393 742 98 519 589 126 323 534 485 974 813 86 990 501 137 663 198 711 124 243 692 526 302 592 103 81 194 664 835 67 297 265 169 865 641 683 337 243 330 776 485 948 86 12 977 877 822 377 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27449595.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "There are nine in the United Kingdom."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm not capable of evaluating a speaker's gender based on audio clips. However, I can provide information on the nine countries in the United Kingdom if that's what you're looking for.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 734 526 384 879 693 317 852 635 787 101 822 89 194 664 539 398 212 455 428 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 659 878 538 609 187 594 246 901 166 250 964 113 327 635 791 380 382 45 914 119 593 647 506 876 686 545 85 297 265 675 237 415 772 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 914 445 137 488 620 143 38 481 973 288 750 870 692 306 558 655 837 81 664 555 944 771 328 143 409 390 422 776 663 748 806 336 877 822 89 194 817 146 283 352 931 659 493 361 393 946 215 575 116 281 62 462 655 837 81 664 620 112 915 143 38 914 445 469 167 650 816 325 274 477 728 663 56 321 198 711 510 362 46 812 222 393 946 215 258 436 139 179 961 281 62 238 837 81 934 166 599 161 523 555 29 445 137 333 212 455 325 801 852 549 366 896 627 168 389 771 333 958 66 881 331 761 907 430 945 85 337 243 935 101 741 945 29 233 258 436 663 969 781 645 402 24 268 501 398 212 455 143 390 515 592 103 611 164 916 726 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17955715.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "She decided against it."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 683 337 243 889 172 338 877 822 89 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18660369.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "A fine night, and a bright large moon, and multitudes of stars."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sociolinguistic study, categorize the speaker's gender based on their voice. Return only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the description, it's likely a male speaker.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 196 721 250 432 170 731 589 337 126 426 647 333 998 219 595 817 146 283 377 385 343 942 115 193 121 63 665 644 864 771 685 437 243 781 645 655 837 81 219 990 107 518 321 14 406 565 734 498 889 172 338 877 822 89 327 905 693 205 521 98 519 589 126 323 534 485 321 948 86 990 501 107 137 663 969 164 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19810508.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "The language is certainly endangered."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 337 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27149749.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "As Minister, he created the National Health Service."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, it is difficult to determine their gender with certainty. However, the speaker's tone and pitch suggest a male speaker.",
+    "prediction_units": "978 833 822 89 194 664 835 67 940 944 878 493 361 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 243 290 526 302 6 908 380 382 268 501 860 716 205 521 867 45 914 445 137 167 761 466 487 219 952 315 477 788 663 466 824 333 32 882 683 731 600 702 680 15 333 377 487 990 107 85 297 265 675 237 307 407 985 128 665 864 771 685 437 865 641 124 884 721 250 333 958 66 776 59 870 501 860 716 205 521 29 79 868 220 196 721 250 734 523 105 244 583 576 663 969 748 12 977 488 620 352 915 202 881 331 663 969 523 196 705 11 576 384 879 443 325 801 663 969 787 935 271 523 918 85 519 26 98 519 589 26 204 280 614 663 969 934 315 747 274 50 53 458 584 902 193 415 772 497 63 644 254 821 104 894 852 741 384 879 577 154 302 663 969 524 44 665 991 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 337 884 244 583 576 803 791 380 179 112 659 428 175 684 136 143 38 412 260 323 822 333 793 539 403 552 326 780 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 944 565 734 498 889 172 338 877 822 89 284 327 905 693 205 521 828 98 519 589 126 323 534 485 948 86 990 501 107 137 377 969 164 916 726 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38718464.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "Canadian English",
+      "sentence": "The area that is now Cherokee was once populated by the Maidu."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The area you're referring to, Cherki, is in Morocco, and according to available data, the majority of the population in Cherki is male.",
+    "prediction_units": "393 946 215 406 25 423 685 384 249 466 964 113 327 572 494 513 258 436 635 663 969 156 824 734 870 390 422 330 776 435 663 969 466 398 212 455 143 38 79 799 220 524 44 326 531 576 663 969 934 867 501 107 501 476 534 321 458 44 865 641 124 362 46 812 222 324 789 402 156 824 556 655 764 70 501 137 1 87 513 726 44 254 823 175 684 136 565 734 404 45 272 119 607 592 103 660 166 398 212 455 143 79 799 220 483 734 692 526 559 6 822 89 327 317 402 790 716 205 521 537 721 250 822 89 194 664 539 75 788 1 494 809 513 524 44 605 128 665 202 393 946 734 498 338 877 734 523 196 705 11 614 246 466 234 523 50 910 321 327 932 148 393 946 734 870 251 676 0 547 444 655 104 108 404 757 852 74 228 259 453 822 89 194 664 817 146 283 352 46 812 222 915 143 326 531 668 576 663 969 934 867 501 107 327 865 641 683 337 243 889 172 338 871 877 822 89 284 905 693 611 916 584 902 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37478277.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "The club will be forced to sell their spot in Primera division."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice modulation, pitch range, and vocal fold vibration patterns to determine gender. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 776 948 86 12 172 877 822 89 284 327 693 611"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37234843.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Some of her work has been translated into Russian."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sociolinguistic study, categorize the speaker's gender based on their voice. Return only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the provided text, I cannot determine the speaker's gender.",
+    "prediction_units": "978 833 822 89 194 664 835 67 940 878 493 361 393 946 734 870 251 676 973 288 750 687 870 692 154 558 655 837 81 166 599 161 523 555 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 307 128 644 254 504 530 733 914 445 137 576 761 650 179 475 783 104 945 506 233 29 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 620 915 202 393 946 734 432 742 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 243 705 11 576 384 879 443 325 801 549 663 969 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38552188.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "They were later sentenced to life imprisonment."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sociolinguistic study, categorize the speaker's gender based on their voice. Return only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot categorize the speaker's gender based on their voice.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 470 821 534 485 284 663 466 398 212 455 659 187 594 461 969 538 423 27 761 430 179 931 62 954 259 317 645 655 837 81 664 347 376 398 212 455 538 187 594 246 901 166 964 113 327 635 791 611 524 44 115 121 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 761 650 179 475 783 246 430 945 506 233 914 445 137 576 761 430 70 185 794 788 15 998 350 836 402 663 466 824 655 837 81 198 711 124 884 202 393 946 734 432 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 337 243 705 11 576 384 879 443 325 801 549 663 969 870 290 978 822 89 194 664 835 67 940 118 944 878 609 187 493 361 202 881 331 663 969 870 692 526 302 592 103 81 53 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19966809.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "Filipino",
+      "sentence": "He is renamed as Doubledare."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the vocal characteristics, I would classify the speaker as male.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 940 944 878 493 361 946 734 870 692 526 302 908 382 268 501 860 119 716 205 521 382 914 445 137 384 761 466 487 219 952 315 477 59 663 156 824 333 32 882 683 731 940 600 702 680 15 377 219 990 107 85 297 675 237 307 121 63 254 530 733 787 935 101 741 660 555 233 914 119 887 593 167 761 430 70 835 540 866 586 59 998 958 66 776 655 837 81 901 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 107 137 663 969 423 565 173 641 683 337 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37811171.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "During his career he served in the artillery."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the information provided, it's not possible to determine the gender of the person who served in the artillery.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 215 327 328 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 143 38 412 973 288 750 687 870 692 154 558 655 764 837 81 166 599 53 555 208 613 417 755 237 193 665 864 771 685 437 243 116 475 783 104 945 29 260 547 444 368 655 104 764 70 346 540 295 586 59 790 716 205 521 691 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 620 112 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 215 870 251 676 260 973 241 663 969 722 346 540 295 586 283 352 470 821 677 355 358 98 519 26 204 280 668 614 803 663 969 692 148 208 944 46 812 222 393 946 215 406 542 583 576 576 453 402 663 466 53 458 584 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18372188.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The ambulance drove quickly to the hospital."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch, resonance, and speech patterns to determine the speaker's gender. Reply with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the audio, I would guess the speaker is male.",
+    "prediction_units": "213 290 978 822 89 194 664 835 67 944 878 493 361 393 946 406 187 594 246 660 964 113 327 905 803 791 52 524 44 902 605 254 504 530 733 935 101 741 660 555 416 836 576 384 879 835 67 940 884 202 393 946 734 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 337 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23802083.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Nine stories were crafted, but two of them were dropped for being too comedic."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, I would identify their gender as female.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 243 537 526 302 908 382 268 501 860 716 205 521 867 45 914 137 167 761 466 523 219 952 315 477 788 663 466 824 503 333 32 683 940 600 702 15 377 487 990 107 85 297 265 675 237 307 985 99 254 504 530 733 787 935 101 741 660 555 233 530 733 664 166 250 549 384 879 443 274 794 680 15 998 958 66 776 655 837 81 901 202 881 331 327 969 523 196 705 11 576 384 879 443 325 801 549 663 969 423 173 873 32 683 589 337 243 126 323 534 485 948 86 12 977 536 877 822 377 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_28697488.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Using the response spectra and force spectra, a transfer function can be obtained."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, it's difficult to determine their gender with certainty. However, I can tell you that the speaker's voice appears to be androgynous, meaning it doesn't clearly sound male or female.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 337 243 537 526 302 908 382 268 501 860 716 205 521 382 867 45 914 445 137 761 466 503 487 219 952 315 477 788 663 466 824 503 333 432 32 683 940 600 702 680 15 333 487 990 107 85 297 675 237 307 121 63 665 864 771 685 437 884 721 250 333 958 66 776 59 870 501 860 716 205 521 506 29 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 488 352 915 202 881 331 327 663 969 523 196 705 11 576 384 879 488 443 801 663 969 787 935 271 523 918 519 26 912 98 519 26 204 280 614 663 934 93 274 50 53 458 584 902 193 415 772 497 63 644 254 821 27 104 108 894 852 384 879 577 154 302 663 969 524 726 44 254 504 530 733 914 445 137 488 620 143 38 244 583 576 384 693 521 854 258 436 139 340 459 173 945 29 393 946 215 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 337 243 526 302 592 103 81 194 664 32 835 67 362 734 870 251 676 0 260 323 534 485 284 663 198 711 510 884 79 868 220 943 321 948 406 175 684 136 156 556 655 764 901 705 11 59 179 961 428 377 198 835 67 297 265 675 237 307 128 665 991 162 73 172 536 485 948 813 179 961 398 212 455 428 437 721 549 104 70 347 975 362 795 233 850 561 914 887 485 284 969 663 259 518 321 86 707 32 742 519 26 204 280 668 576 761 907 597 816 325 208 233 889 172 338 877 822 89 284 327 905 693 205 521 267 187 594 461 969 390 479 330 776 485 948 86 12 977 336 877 822 377 693 611 916 584 902 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_678642.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "He should respect tradition."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "99 254 530 733 896 627 116 475 783 104 945 609 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 803 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 406 25 46 812 222 393 946 215 113 406 594 246 660 166 964 113 327 905 791 483 423 173 641 347 124 362 530 733 196 721 549 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 297 337 884 79 799 220 202 393 946 215 406 538 187 594 246 901 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37941056.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "South African accent",
+      "sentence": "It is the largest town in Carter County."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The largest town in Cáceres county is Plasencia, and the speaker of this audio is a male.",
+    "prediction_units": "202 393 946 734 734 259 781 645 246 764 969 934 705 11 955 333 32 835 67 940 118 884 244 583 576 384 761 907 597 620 112 931 428 46 812 222 915 143 38 914 445 137 764 430 70 663 466 198 711 510 337 850 914 445 137 167 761 907 597 816 274 794 680 910 534 321 633 14 406 771 865 243 822 89 194 664 32 835 866 586 362 443 93 912 586 87 164 605 193 63 99 254 823 175 684 136 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 932 148 202 881 331 333 32 683 589 878 187 594 246 166 964 113 327 635 791 894 25 865 641 124 362 734 498 889 172 338 877 822 89 284 377 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18378970.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Australian English",
+      "sentence": "Have you met Peter?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "I'm not capable of meeting people or making audio recordings, so I cannot evaluate a speaker's gender.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 506 542 914 445 137 822 89 194 664 757 323 59 870 790 716 205 521 932 148 73 889 172 536 485 948 539 398 212 455 143 38 412 260 323 534 485 948 86 539 757 740 716 205 521 267 187 594 461 969 498 889 172 871 877 822 89 194 664 990 501 398 212 455 538 187 594 246 660 166 964 113 327 635 791 894 382 156 824 734 870 263 45 272 119 607 592 103 969 660 166 398 212 455 758 545 711 510 297 265 675 237 307 226 621 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 761 430 179 475 783 104 430 945 944 734 526 384 761 907 693 317 854 964 74 787 101 483 822 89 194 664 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 377 164 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23987683.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "These changes gradually faded."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or determining voice characteristics. I can only provide text-based responses.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 664 757 323 59 870 790 716 205 521 932 148 781 303 333 432 32 882 924 866 586 955 398 212 455 143 38 79 799 220 846 483 538 187 594 246 901 166 56 964 113 327 905 791 267 187 461 969 196 721 250 523 793 105 244 583 576 663 969 748 12 977 179 398 212 455 143 692 526 302 592 81 194 664 835 67 850 914 445 137 576 384 907 466 503 219 315 477 788 663 466 503 333 432 32 882 683 940 600 702 680 15 377 990 545 85 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 816 325 518 56 321 948 86 251 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 542 244 583 576 384 879 219 952 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 156 824 442 432 742 170 519 589 337 126 740 167 655 764 650 816 912 85 866 586 955 377 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23852001.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The inhabitants of the Mekong Delta region are predominantly ethnic Viet."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The inhabitants of the Mekong Delta region are predominantly ethnic Vietnamese.",
+    "prediction_units": "202 393 946 215 215 327 328 879 577 154 559 998 793 403 15 488 832 758 545 85 510 362 932 148 202 393 946 734 498 889 338 871 877 384 879 70 219 501 445 137 167 764 816 325 915 143 721 250 549 384 693 660 351 794 944 788 366 663 156 824 442 485 321 948 86 11 283 620 352 385 343 659 254 579 969 870 251 676 973 288 796 196 721 549 167 104 748 12 872 336 961 428 488 93 29 518 56 321 406 609 423 384 879 70 958 66 747 428 333 487 990 107 29 526 485 113 905 523 793 747 281 428 754 12 172 536 950 321 377 758 545 85 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_39590820.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "He subsequently joined Getafe."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The voice is male.",
+    "prediction_units": "393 946 734 870 692 526 302 592 103 81 194 664 835 22 169 955 865 641 683 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20026928.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "In Denmark, other Terma facilities are located at Grenaa and Herlev."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm not able to access real-time information or location-based data. However, I can suggest some popular gender classification models and APIs that you can use for your speech-based marketing tool. Would you like some recommendations?",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 233 423 771 822 89 194 664 885 765 302 205 521 867 79 868 220 483 538 423 27 761 430 70 219 522 866 586 314 384 879 198 835 67 337 243 156 824 56 485 948 327 635 205 521 691 105 244 583 874 167 655 764 837 81 896 627 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 187 594 461 969 228 781 645 402 24 382 268 501 137 822 89 194 817 146 283 352 915 143 290 978 822 89 194 664 835 67 940 118 721 250 822 89 194 664 934 921 788 291 377 87 164 584 902 193 341 661 497 63 644 991 254 821 167 104 894 968 852 741 384 879 577 154 302 663 969 524 44 254 530 733 445 137 488 620 352 912 519 26 204 280 314 59 523 196 705 11 576 384 879 70 835 67 940 118 780 519 26 204 280 668 104 896 627 143 38 412 260 547 444 167 104 70 404 757 323 74 635 259 453 663 969 541 537 705 11 576 384 879 488 443 325 801 549 663 969 867 914 445 593 761 430 70 540 866 362 59 910 487 319 501 137 822 89 664 817 146 283 352 915 889 324 338 359 655 764 246 934 921 716 205 521 711 510 362 175 684 136 878 25 423 771 89 194 664 676 0 323 534 485 113 327 905 655 764 837 194 198 711 510 884 459 173 945 233 258 436 139 340 263 445 137 488 620 352 915 258 436 139 340 198 711 376 510 243 515 663 258 436 663 969 742 519 589 126 323 534 485 948 813 86 539 552 326 243 850 537 213 290 978 822 89 194 664 835 67 940 118 233 889 338 359 655 764 969 934 185 501 137 910 523 793 398 212 455 143 38 45 244 583 516 677 253 103 611 309 584 902 193 415 772 497 63 665 991 535 101 271 355 660 555 258 436 139 340 781 645 655 837 81 664 990 107 29 519 26 204 280 668 167 104 896 627 156 824 442 384 879 219 501 469 59 748 12 671 877 488 443 93 801 549 822 194 817 146 283 832 758 545 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21277283.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "The album was distributed by Atco Records, a division of Atlantic Records."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the voice in the audio belongs to a female or a male. Return only one of these labels.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "I'm not able to determine the voice in the audio as I don't have access to the audio file. However, I can suggest some online tools that can help you identify the voice.",
+    "prediction_units": "254 530 733 896 627 116 475 783 104 430 945 233 25 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 793 105 244 583 576 803 663 969 748 12 977 877 366 488 352 915 202 393 946 734 692 526 302 592 103 81 664 835 22 866 169 812 222 393 946 215 113 406 538 594 246 660 166 964 113 327 905 87 611 267 483 423 173 641 347 124 362 530 733 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 314 377 198 835 67 337 884 79 799 220 202 393 946 215 406 538 594 246 901 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 726 44 530 733 445 137 488 620 915 912 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 85 519 26 204 280 668 167 104 896 627 878 538 27 579 764 361 325 324 645 655 837 81 620 143 38 244 583 516 677 253 205 521 711 510 884 459 173 945 233 914 445 137 488 620 352 470 821 576 384 693 268 404 876 233 258 436 139 787 483 483 530 733 664 196 166 549 384 879 443 274 794 680 59 958 66 776 655 837 81 901 202 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22495649.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "Indian English",
+      "sentence": "two"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot classify a voice as male or female.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 29 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 470 821 534 485 284 466 398 212 455 187 594 461 969 538 423 27 761 430 650 931 62 259 317 645 453 655 837 81 347 376 398 212 455 538 187 594 246 901 166 250 964 113 327 635 791 380 611 524 44 115 121 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 761 430 179 475 783 246 945 506 233 542 914 119 887 593 167 761 907 430 70 540 866 586 59 734 958 66 776 655 837 81 327 734 870 692 526 302 592 103 81 194 664 835 22 297 362 173 198 32 683 589 337 243 889 172 871 877 822 89 284 327 905 693 205 521 267 187 594 461 969 479 330 776 485 948 86 12 977 877 377 611 916 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38337221.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "South African accent",
+      "sentence": "The new facilities were funded by the Town of Cambridge and the State Government."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 432 742 519 589 126 323 534 485 974 948 86 990 501 137 663 969 25 865 641 124 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 415 341 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26965622.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Electronic documents can be stored in a much less space than paper documents."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Electronic documents can be stored in a much less space than paper documents, typically taking up only a few kilobytes of storage space, whereas paper documents require physical storage space.",
+    "prediction_units": "565 781 645 565 879 219 952 315 477 728 647 655 764 650 961 931 428 487 990 29 561 721 549 167 655 764 70 185 501 852 910 74 748 671 877 488 832 93 545 85 510 297 243 850 914 445 137 576 488 620 915 943 321 948 707 742 519 589 702 788 614 592 103 969 555 944 825 771 46 812 222 428 565 734 498 889 324 338 359 104 70 185 552 326 531 243 781 645 384 879 70 835 67 940 118 589 126 323 822 89 194 664 835 67 884 881 331 488 620 352 915 143 38 676 260 547 241 822 89 664 757 323 663 523 196 721 549 238 655 764 70 934 501 852 910 74 748 671 377 832 758 545 85 297 675 237 307 128 662 244 583 15 333 357 757 323 333 487 319 990 501 107 518 321 948 86 105 244 583 822 89 194 664 990 398 212 455 905 167 655 764 108 404 876 594 246 908 816 325 518 56 321 113 327 565 734 390 479 330 776 258 436 139 340 914 445 137 333 635 259 453 402 24 382 290 833 837 81 664 506 686 85 297 362 932 148 519 589 600 702 788 614 592 103 466 503 333 523 555 705 326 519 589 126 323 576 822 89 194 664 835 67 297 265 675 237 307 128 665 991 535 935 101 741 120 249 969 466 173 198 641 683 337 243 850 260 547 444 241 822 89 194 664 885 757 323 663 196 721 549 167 655 764 70 934 501 852 910 754 748 671 877 488 832 758 545 85 510 337 243 156 824 734 998 263 45 272 119 387 655 837 81 327 969 390 422 776 333 347 975 59 998 319 501 716 205 521 828 98 519 589 702 614 592 103 466 503 333 523 555 705 326 589 126 323 576 822 89 194 664 835 67 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18708913.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "A scholarship was later inaugurated in his honor."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm an AI, I don't have a gender.",
+    "prediction_units": "99 254 504 530 733 896 627 488 620 112 659 25 423 822 89 194 284 327 905 579 764 837 81 194 726 44 63 254 504 530 733 196 537 721 549 803 795 208 233 152 784 429 565 734 705 11 576 384 879 443 325 801 549 377 969 164 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_508643.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "Disinterested brunette woman walks through bust city street"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker's voice is female.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 243 692 526 302 592 103 81 194 664 32 835 67 297 169 865 641 683 337 243 126 330 776 534 485 948 86 12 172 877 822 377 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18395139.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "Thomas one first place in the competition."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on Thomas' voice, I would classify him as male.",
+    "prediction_units": "978 822 89 194 664 835 67 940 878 493 361 143 38 244 583 167 655 764 896 336 877 333 432 32 835 683 67 243 526 302 592 103 81 194 664 835 67 297 265 675 237 307 254 504 530 733 787 935 101 660 555 233 45 914 119 887 593 167 761 430 70 540 866 586 59 998 958 66 776 655 837 81 664 821 333 754 896 627 168 173 641 347 124 337 243 889 172 338 877 822 89 284 327 377 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17298709.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "England English",
+      "sentence": "Who was using this lab when the necklace was still here?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice modulation, pitch range, and vocal fold vibration patterns to determine gender. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The user is a female.",
+    "prediction_units": "202 393 946 258 436 139 340 347 376 975 362 663 969 825 865 641 124 362 565 734 390 479 330 776 534 485 948 86 12 172 338 877 822 89 284 377 693 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17296011.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "Malaysian English",
+      "sentence": "Does this mean he will go to jail?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the audio, I'm unable to determine the speaker's gender. The provided text is too short and lacks contextual information. Can you provide more audio or context?",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 940 944 878 493 361 393 946 734 406 187 594 246 660 964 113 327 905 635 791 524 44 115 605 63 254 504 530 733 896 627 538 27 104 650 179 961 931 428 822 89 194 664 765 302 716 205 521 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 366 488 620 915 202 393 946 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 377 663 969 164 726 584 902 819 341 661 497 63 665 991 202 393 946 734 251 676 973 288 750 687 870 692 154 558 655 837 81 166 599 333 523 555 29 244 583 576 384 879 219 522 67 940 118 944 865 641 683 337 884 240 808 220 340 431 531 614 592 103 969 660 506 686 208 613 417 755 237 609 823 175 684 136 781 645 238 761 907 430 70 219 107 85 297 445 469 328 143 244 583 576 384 879 219 522 884 477 728 614 716 205 521 267 538 25 423 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 193 415 772 497 662 445 137 488 620 179 207 258 436 139 340 382 251 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 29 889 324 826 592 103 969 538 187 594 246 901 166 56 113 327 905 803 791 52 424 267 461 969 45 914 272 313 469 167 104 650 816 274 794 75 583 576 384 879 219 952 522 67 940 118 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_26790071.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "He was cremated at the San Isidro cemetery in Madrid."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the pitch, resonance, and speech patterns to determine the speaker's gender. Reply with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the provided text, it is not possible to determine the speaker's gender.",
+    "prediction_units": "213 290 978 822 89 194 664 835 67 944 878 493 361 393 946 870 251 676 481 973 288 750 870 692 154 558 655 837 81 599 523 555 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 307 63 665 864 771 685 437 641 124 243 116 475 783 104 945 29 260 547 444 655 104 70 346 540 295 586 59 790 716 205 521 691 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 243 705 11 576 384 879 443 325 801 549 663 969 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27356568.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "He arrived with the Brenham Light Guards to negotiate a settlement."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, it's difficult to determine their gender with certainty, but the tone and pitch suggest a male speaker.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 337 243 692 526 302 908 382 268 501 860 716 205 521 867 45 914 137 167 761 466 523 219 952 315 477 788 663 466 824 503 333 32 683 940 600 702 680 15 377 487 990 107 545 85 297 265 675 237 307 985 128 665 864 771 685 437 884 721 250 333 958 66 776 59 870 501 860 716 205 521 29 79 868 220 196 721 250 734 793 105 244 583 576 663 969 748 12 977 488 620 352 915 202 881 331 663 969 523 196 705 11 576 384 879 488 443 801 663 969 787 935 271 523 918 519 26 912 519 26 204 280 614 663 969 934 315 747 274 50 53 321 942 115 193 63 128 665 991 833 173 945 29 202 393 946 105 244 583 576 803 791 380 179 931 428 175 812 684 136 143 38 412 260 323 333 793 403 552 326 780 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 944 565 734 889 172 338 871 877 822 89 327 905 693 205 521 519 589 337 126 323 534 485 948 86 990 501 107 137 377 969 164 916 726 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23594084.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Flint Creek flows through the central portion of Field Township."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker's voice is male.",
+    "prediction_units": "393 946 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 337 243 537 526 302 592 103 81 194 664 835 67 297 169 865 641 683 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_611862.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "What's all this horseplay about?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to hear or identify vocal attributes. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 693 268 876 417 341 661 497 63 644 254 821 104 894 968 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 627 168 565 734 105 244 583 576 384 879 219 522 67 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 194 327 488 684 136 915 721 250 220 575 475 783 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 885 757 323 59 790 37 228 234 523 50 910 321 633 86 105 79 868 220 470 821 534 485 284 969 187 594 461 969 530 733 196 166 721 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 664 692 526 302 6 908 380 382 268 501 119 716 205 521 267 538 423 27 761 430 70 185 794 777 728 663 998 139 377 545 85 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 816 325 518 56 321 86 156 824 442 432 742 519 589 126 740 655 764 650 816 325 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_10208972.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "Hunger is the best sauce."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Reply only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker of this audio is male.",
+    "prediction_units": "202 393 946 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 932 148 202 881 331 333 32 683 337 878 609 187 594 246 901 660 166 964 113 327 905 803 791 52 424 25 825 685 865 641 124 337 243 889 172 871 877 822 89 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38023609.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "Glenn presented the award to James Earl Jones as its first recipient."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice modulation, pitch range, and vocal fold vibration patterns to determine gender. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 734 742 98 519 589 126 323 534 485 974 813 86 990 501 107 137 663 969 25 825 771 865 641 124 337 243 889 172 338 877 822 89 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23352999.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "",
+      "sentence": "Memorial Gym is well known for its unusual design."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a sociolinguistic study, categorize the speaker's gender based on their voice. Return only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the voice, I would categorize the speaker as female.",
+    "prediction_units": "822 89 194 835 67 118 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 297 265 675 237 307 128 665 254 530 733 787 935 101 741 660 555 233 542 914 445 137 576 167 761 430 70 185 794 788 15 59 998 350 836 402 663 466 824 655 837 81 198 711 124 884 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 466 423 565 173 641 683 589 337 243 479 330 534 485 948 86 12 172 536 877 822 377 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18231527.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "After the accident, his bicycle had to be repaired."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based marketing tool needs gender classification. Identify the speaker as female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "I'm happy to help. However, I need more information about the speaker. Can you please provide an audio clip or a description of the speaker's voice?",
+    "prediction_units": "254 504 530 733 627 470 821 761 430 70 404 757 323 321 948 86 539 79 868 220 470 821 576 693 268 876 417 341 661 497 63 644 254 821 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 575 116 372 485 948 86 555 233 889 324 826 592 103 969 466 503 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 931 428 565 849 907 597 29 393 946 742 98 519 589 126 323 534 485 948 86 990 501 107 137 663 969 164 916 726 584 902 193 341 661 497 63 665 662 914 445 137 576 488 179 961 207 258 436 139 340 382 251 676 0 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 555 944 812 575 931 62 187 594 246 660 166 56 113 327 905 635 791 380 382 914 119 593 453 268 876 594 461 969 565 734 196 721 250 432 170 731 589 337 126 647 663 333 998 219 595 817 146 283 352 931 932 148 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 243 537 526 302 592 103 81 194 664 835 67 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38784502.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "South African accent",
+      "sentence": "Hoffman's version, however, had little in common with the true event."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a voice assistant personalization system, classify the speaker's gender as either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker's gender is male.",
+    "prediction_units": "432 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 488 443 325 801 549 663 969 714 25 865 641 683 337 243 889 172 338 871 877 822 89 327 905 693 611 916 584 902 193 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37906291.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "German English",
+      "sentence": "The church is located in front of the Rose and Alex Pilibos Armenian School."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A biometric security system requires gender identification. Determine if the speaker is female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "I'm not capable of determining the speaker's gender as it's not possible to identify a person's gender from their voice alone. Additionally, the location of the church is not relevant to the task at hand.",
+    "prediction_units": "99 254 530 733 896 627 116 475 783 104 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 721 250 734 523 105 244 583 576 663 969 748 12 977 179 961 398 212 455 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 337 243 705 11 576 384 879 443 325 801 549 663 969 538 423 565 173 641 347 124 975 362 955 437 85 700 884 116 475 783 104 945 29 759 260 547 444 167 655 104 70 540 295 586 59 790 716 205 521 691 79 868 220 483 81 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 327 565 734 251 676 260 973 288 796 663 969 722 346 540 295 586 283 832 352 758 711 124 337 705 11 576 384 879 443 325 801 549 663 969 390 479 515 647 896 627 202 881 331 327 663 969 692 526 302 592 103 81 194 664 835 67 297 362 565 734 781 645 803 563 380 611 385 584 902 193 415 772 497 644 254 823 565 734 196 166 250 333 817 146 283 353 716 205 518 53 321 880 524 44 752 63 665 991 202 393 946 734 781 645 402 380 382 268 501 137 822 89 194 664 817 146 283 352 931 932 148 202 393 946 734 105 326 531 576 663 969 660 351 552 326 865 641 124 243 116 475 783 430 945 156 824 384 879 693 259 317 453 402 24 577 692 154 559 366 443 93 506 208 417 79 799 220 202 393 946 734 793 105 244 583 576 761 907 430 70 835 67 940 118 107 423 173 945 944 470 821 384 907 377 385 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20861859.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Saint Hubert's, Domaine Chandon and Yeringberg are located to the east in neighbouring Coldstream."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a voice assistant personalization system, classify the speaker's gender as either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 432 742 519 589 126 323 534 485 974 86 990 107 137 663 969 865 641 124 337 243 889 172 338 877 822 89 284 327 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19765935.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "For more information see Wieringen."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech sample and classify the speaker's gender as either female or male. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "I'm happy to help. However, I'm a text-based AI and do not have the capability to listen to speech samples. Please provide a transcription of the speech sample, and I'll do my best to classify the speaker's gender.",
+    "prediction_units": "99 254 530 733 627 470 821 761 430 70 404 757 323 321 948 86 539 79 868 220 470 821 576 693 611 268 876 417 341 661 497 63 644 254 821 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 896 627 168 565 734 793 105 542 244 583 576 384 879 219 522 67 940 118 850 537 213 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 488 684 136 915 721 250 549 220 139 575 475 783 764 945 944 470 152 784 429 202 393 946 734 319 263 914 445 137 822 89 194 664 539 757 323 59 734 790 37 234 523 50 910 321 633 86 539 105 79 868 220 781 303 333 432 32 835 924 866 586 955 283 352 915 143 79 799 220 742 519 589 126 323 534 485 948 86 539 552 326 519 589 26 204 280 576 384 907 430 816 409 757 716 205 521 611 711 510 297 265 675 237 415 772 497 63 662 213 712 485 321 948 813 198 711 510 337 243 850 973 288 750 870 692 154 558 655 837 81 555 944 565 734 793 105 777 647 384 879 650 816 912 540 589 337 126 728 647 998 219 817 146 283 352 931 932 148 202 393 946 734 742 98 519 589 126 323 534 485 321 948 813 539 506 552 326 243 26 204 280 668 384 907 430 816 409 757 716 205 521 916 524 44 902 605 985 665 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 498 324 338 359 655 733 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 319 263 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 98 519 589 337 126 323 534 485 948 86 990 501 137 663 969 198 711 124 337 243 705 11 576 384 879 443 325 801 549 377 969 164 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17837833.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "My foster son is a sleepwalker."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a gender-adaptive speech synthesis model, classify the speaker's voice as female or male. Provide no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "I'm not capable of classifying a speaker's voice as female or male based on a single sentence. However, I can tell you that the sentence you provided does not contain any audio or voice data, so it's not possible for me to make a classification.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 850 45 914 119 593 167 761 907 430 70 835 540 866 586 362 59 66 776 167 655 837 81 398 212 455 734 742 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 124 337 243 537 526 302 592 103 81 194 664 835 67 22 297 169 362 173 198 32 683 337 243 479 330 776 534 485 948 86 12 977 336 877 822 284 327 693 521 187 594 461 969 889 338 877 822 89 327 693 521 290 978 822 89 194 664 835 67 940 118 944 878 493 361 931 428 565 734 742 98 519 26 204 280 314 333 212 325 765 852 968 716 205 521 828 98 519 26 204 280 576 384 879 443 274 794 75 788 15 377 832 758 545 85 297 265 675 755 415 772 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 663 969 524 44 254 504 530 733 914 445 137 488 620 915 143 38 244 583 576 384 693 521 854 258 436 139 340 459 173 945 393 946 734 742 519 26 204 280 576 384 879 443 93 274 794 75 788 15 333 488 832 758 545 85 510 337 258 436 139 340 870 357 251 676 481 973 288 750 24 870 692 558 655 837 81 664 166 599 523 555 721 250 549 641 347 124 116 475 783 104 945 29 233 914 445 469 328 915 274 794 583 15 822 89 194 620 112 25 423 384 179 207 428 950 948 406 538 594 246 901 166 964 113 327 635 791 894 521 267 187 461 969 692 526 302 592 103 81 194 664 32 835 67 721 250 822 89 194 664 539 75 788 291 494 87 513 44 63 665 780 289 26 204 76 668 803 894 483 333 437 85 337 243 116 475 783 104 945 29 260 547 444 655 104 764 70 346 540 295 586 59 790 716 205 521 390 515 663 748 12 172 536 950 321 948 86 105 79 868 220 498 172 871 877 822 89 664 990 107 137 565 734 319 263 445 593 167 761 879 70 540 866 586 59 958 66 161 319 501 137 822 89 194 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20184093.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "George Hoffman headed the fund."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For automatic call routing, classify the speaker's gender into female or male based on their vocal features.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on George Hoffman's voice, I would classify him as male.",
+    "prediction_units": "290 978 833 822 89 194 835 67 118 944 878 187 493 361 915 915 705 11 74 592 103 969 660 555 705 326 470 821 246 70 66 498 872 172 871 877 333 488 832 758 545 711 510 243 537 526 302 592 103 81 194 664 835 67 297 265 675 237 307 985 505 254 530 733 787 935 101 660 555 233 914 119 887 593 167 761 907 430 70 540 866 586 59 998 958 66 776 655 837 81 664 470 821 333 488 896 627 168 173 641 347 124 337 243 889 172 871 877 822 89 284 327 377 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_39580009.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "There were several reasons why Roosevelt chose Butt."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's gender by analyzing frequency range, timbre, and articulation. Output only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the available information, it is not possible to determine the speaker's gender.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 187 493 361 393 946 215 734 870 692 526 559 822 89 934 317 402 790 716 205 521 267 25 771 46 328 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 942 44 115 193 121 63 665 864 771 685 437 865 641 124 243 116 475 783 104 246 945 412 260 547 444 655 104 70 346 540 295 586 59 790 716 205 521 867 691 79 868 220 846 196 721 250 734 793 105 244 583 576 803 969 748 12 977 877 488 620 352 202 393 946 734 432 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 243 705 11 576 384 879 443 325 801 549 663 969 726 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37640778.mp3"
+    ],
+    "metadata": {
+      "age": "fifties",
+      "accents": "German English",
+      "sentence": "This is a moderate relatively flat walk to great viewing platforms of the falls."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, I would identify their gender as male.",
+    "prediction_units": "290 978 822 89 194 664 835 67 944 878 493 361 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 337 692 526 302 908 382 268 501 860 716 205 521 867 45 914 137 167 761 466 487 219 952 315 477 59 663 466 824 503 333 432 32 882 683 940 600 702 680 15 377 219 990 107 85 297 265 675 237 307 121 985 99 254 504 530 733 787 935 101 741 660 555 530 733 664 166 250 549 384 879 443 274 794 680 15 998 958 66 776 655 837 81 901 202 881 331 327 969 196 705 11 576 384 879 443 325 801 549 663 969 423 173 641 835 683 589 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18779665.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "",
+      "sentence": "The dam belongs to the water association of the Wupper Association."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, I would identify their gender as male.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 243 537 290 526 302 6 908 382 268 501 860 716 205 521 382 867 45 914 137 384 761 466 503 487 219 952 315 477 788 663 466 824 333 32 882 683 731 600 702 680 15 333 219 990 107 85 297 675 237 307 985 254 530 733 787 935 101 555 530 733 664 166 250 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 202 881 331 327 969 523 196 705 11 576 384 879 443 325 801 549 663 969 714 423 173 873 641 683 589 243 889 172 338 877 822 89 284 327 693 611 916 584 902 819 415 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27449961.mp3"
+    ],
+    "metadata": {
+      "age": "twenties",
+      "accents": "",
+      "sentence": "As \"n\" decreases towards zero, the power series nose shape becomes increasingly blunt."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the given statement, I would classify the speaker's gender as male.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 319 416 836 333 885 692 559 488 352 915 143 912 98 519 589 702 576 822 89 194 664 539 557 747 671 877 377 443 93 506 686 208 613 417 755 237 193 985 63 644 254 530 733 787 935 101 660 555 233 914 119 593 167 761 430 70 540 866 586 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 423 173 641 835 683 589 243 889 172 338 871 877 822 89 284 327 905 693 611 916 584 902 819 415 341 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_39764924.mp3"
+    ],
+    "metadata": {
+      "age": "thirties",
+      "accents": "",
+      "sentence": "Agriculture and farming are also important to the local economy."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's gender using vocal pitch, tone, and resonance. Reply with only female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 25 825 865 641 124 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20993573.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "The competition arena was the Ullevi Stadium and the official motto \"Catch the Spirit\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech sample and classify the speaker's gender as either female or male. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "The speaker's gender is male.",
+    "prediction_units": "734 742 98 519 589 126 323 534 485 974 813 86 990 501 137 663 198 711 337 884 705 11 576 384 879 443 325 801 549 663 969 406 25 825 865 641 124 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22007004.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Mineral oil and silicone based fluids are not hygroscopic."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speaker's vocal characteristics, identify their gender. Choose between female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the speaker's vocal characteristics, it's difficult to determine their gender with certainty, but I can tell you that the speaker's voice sounds more masculine.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 940 613 944 878 493 361 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 337 692 526 302 908 382 268 501 860 119 716 205 521 867 45 914 137 761 466 487 219 952 315 477 788 663 466 824 333 32 683 940 600 702 680 15 333 487 990 107 85 297 265 675 237 307 407 985 128 665 864 771 685 437 124 884 721 250 333 958 66 776 59 870 501 860 716 205 521 506 29 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 488 352 112 915 202 881 331 327 663 969 523 196 705 11 576 384 879 443 801 663 969 787 935 271 333 523 918 519 26 204 912 519 26 204 280 614 663 934 315 747 93 274 50 53 458 942 115 193 63 128 665 213 833 173 945 29 530 733 914 445 137 488 620 915 143 38 244 583 576 384 693 521 854 258 436 139 340 459 173 945 29 202 393 946 734 742 98 519 589 126 323 534 485 974 813 86 990 501 137 663 969 198 711 510 243 526 302 592 103 81 194 664 32 835 67 884 780 519 26 204 280 668 576 761 907 597 816 758 545 711 510 243 889 324 826 592 103 969 498 172 871 384 879 835 683 589 337 126 476 534 59 484 228 259 453 377 377 385 584 415 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18907841.mp3"
+    ],
+    "metadata": {
+      "age": "teens",
+      "accents": "",
+      "sentence": "They had hull numbers but no names."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the voice contains mixed characteristics, classify based on the dominant vocal traits. Return either female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the voice, I would classify it as male.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 692 526 302 592 103 81 194 664 835 67 265 675 237 254 530 733 787 935 101 660 555 233 914 887 593 167 761 907 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 327 333 437 944 878 423 173 641 683 337 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20293169.mp3"
+    ],
+    "metadata": {
+      "age": "sixties",
+      "accents": "",
+      "sentence": "Under identical conditions, it is greater for heavier gas."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker's gender based on their vocal attributes. Choose from female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "prediction": "Based on the vocal attributes, I would identify the speaker as male.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 878 493 361 393 946 734 870 692 526 302 908 382 268 501 860 716 205 521 538 423 27 761 907 430 70 185 794 477 728 998 939 53 506 686 545 85 297 265 675 237 307 985 128 99 254 504 530 733 787 935 101 660 555 530 733 664 166 549 384 879 443 274 794 680 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 423 173 641 347 124 337 243 889 172 338 871 877 822 89 284 905 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_40608561.mp3"
+    ],
+    "metadata": {
+      "age": "fourties",
+      "accents": "Scottish English",
+      "sentence": "Investment opportunities in money-market, bond and equity assets are available through offshore companies."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on the vocal characteristics for gender classification. Respond with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "prediction": "Based on the vocal characteristics, I would classify the speaker as male.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 870 692 526 302 908 382 268 501 860 716 205 521 382 867 45 445 137 167 761 466 503 219 952 315 477 788 663 466 824 503 333 32 882 683 731 940 600 702 680 15 333 487 990 107 85 297 675 237 307 63 99 254 504 530 733 787 935 101 741 660 555 233 45 914 887 593 167 761 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 423 565 173 641 683 243 889 172 338 871 877 822 89 284 327 693 611 916 584 902 819 736 661 497"
+  }
+]

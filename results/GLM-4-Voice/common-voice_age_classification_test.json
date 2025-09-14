@@ -1,0 +1,2102 @@
+[
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_35193950.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "She could not be reached by her family and friends afterwards."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "I'm sorry, but I can't identify the age group of the speaker based on the information you provided. Would you like me to assist with anything else?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21283016.mp3"
+    ],
+    "metadata": {
+      "accents": "Scottish English",
+      "gender": "male",
+      "sentence": "There are two articles that are used in the English language."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age of the speaker using vocal timbre and articulation style. Select one category from the predefined list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "The art of arcana is a mysterious and ancient practice, steeped in tradition and hidden knowledge. It holds the secrets of the cosmos, tapping into universal forces beyond our normal comprehension. Those who delve into this art explore the depths of magic, alchemy, and divination, seeking to unlock the mysteries of the universe."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19032723.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "The leaves are closed at night and are open in the day."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age range of the speaker based on vocal characteristics. Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "这些句子描述的是商店或公司的营业时间。通常，这些地方在白天开门，晚上关门。所以，这些句子适合用来描述上午九点到下午五点的营业时间，或者类似的时间安排。不过，具体的时间安排可能因地区、季节和其他因素而不同。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_22765726.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "Speeders are playable-controllable craft in a variety of LucasArts titles."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice authentication system needs to verify the speaker's approximate age. Determine the best matching age group from the list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "是的，速度是一种可控的技能，可以在《星球大战》中的多种技能树上找到，比如 lightsaber、车辆驾驶、飞行和滑翔。你可以通过提高速度来增强这些技能。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38336976.mp3"
+    ],
+    "metadata": {
+      "accents": "South African accent",
+      "gender": "female",
+      "sentence": "Reflex actions such as breathing and responses to sound or touch may occur."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "Yes, I can sense those reactions! It's fascinating how our bodies respond to different stimuli. Do you want to talk about a specific topic or just keep exploring these reactions?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_35368321.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It has a sloping pavement in red brick with limestone geometrical lines."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "根据你的声音，我感觉你可能在三十岁左右。不过，这只是基于语音的判断，可能并不准确哦。有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18488113.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "It is a wonderful Monday in London."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "This is a wonderful man in London."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_641657.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "What is it, dear?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "It sounds like the speaker is in their twenties."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_39056991.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Fela stood his ground, stating, that he would get the royalties for his songs."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "根据你的声音，我感觉你可能在三十岁左右。声音听起来既不太年轻，也没有太成熟，挺有活力的！你觉得呢？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17284727.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Der Termin am Donnerstag wurde unverbindlich vorgemerkt."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice carefully and classify the speaker into the correct age category. Respond with only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "That depends on who you're asking. If we're talking about the original Donatella Versace, she's from the '60s. But if you're referring to someone else with the same name, it could be different!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_24673358.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Under convexity, these conditions are also sufficient."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the energy levels, speech rate, and vocal strain in the voice to determine the most accurate age category. Provide only the label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "四十年\n\n根据语音分析，这个声音听起来像是四十岁左右。如果需要更具体的年龄段，可能需要结合其他语音特征来分析哦。有什么其他问题吗？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37280229.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "If you serve the Fiend, your weapon could be an axe."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "哦，你是说《黑暗之魂》里的情况吧？在那游戏里，如果你服用了黑暗之魂，你的武器就会变成安息之剑。安息之剑有强大的力量和防御力，但也很沉重，需要强大的力量才能举起。而且，用了它之后你不能再吃其他东西了，因为它的重量会压着你，让你无法动弹。所以，这个设定真的是很特别，也很考验玩家的操作和策略。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_24923849.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "News and live telecast programs are filmed and broadcast from the Martin Place studios."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "I'm sorry, but I can't imitate or perform any voice impressions of public figures, including Martin Luther King Jr. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20874215.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "There are several different types of age-based variation one may see within a population."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "Sure, there are several types of age-based variations within a population. For example:\n\n1. **Cohort Effects**: These are differences in characteristics or experiences among people born in the same historical period but at different points in time. For instance, Baby Boomers (those born after World War II) might have different values and lifestyle preferences compared to Gen Xers (born between the early 1960s and mid-1980s).\n\n2. **Generational Effects**: These are differences in attitudes, behaviors, or values that arise from growing up in different historical contexts. E.g., Millennials (early 1980s to mid-2000s) are often associated with technology use and social media.\n\n3. **age-related changes**: Physical, cognitive, and social changes that occur as people age. For example, memory might decline with age, but social skills could improve.\n\n4. **Life Stage Effects**: Differences in experiences or roles within a person's life. For example, young adults might focus on education and career, while older adults might prioritize retirement and healthcare.\n\n5. **Cultural Variations**: Differences in age groups within a society that reflect different cultural norms or values. For example, in some cultures, elders are respected for their wisdom, while in others,年轻人 might hold more influence.\n\nThese variations can impact everything from social behavior to economic trends."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25099409.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Kidney stones: Use with caution in patients with kidney stones."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "Got it! For anyone with kidney stones, it's important to drink plenty of water to help pass the stone and reduce pain. Over-the-counter pain medications can help manage discomfort, but always consult with a healthcare provider before taking any medications. And remember, don't rush or strain too much, take it easy and drink up!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37973615.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It is also common in Vietnamese, Burmese and Thai cuisine."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "Ah, I see! The speaker is likely from a family background with roots in Vietnam, Burma, or Thailand. They might have grown up eating and enjoying these dishes, which are quite popular in those cuisines. It sounds like they have a diverse palate and might have been exposed to a variety of flavors from a young age."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_176382.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "But that's why you created the game in the first place, the boy answered."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "teens\n\n这个少年的回答听起来很自信，他可能是个年轻的游戏开发者，对吧？他提到了创建游戏的原因，可能是因为对游戏和技术的热情。你觉得呢？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38519145.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "Beagle apparently without seeking Darwin's permission or paying him a fee."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "哦，Bee格居然没跟达芬奇商量就去用了他的设计，还赚了不少钱。真是个大胆的家伙！不过，这也让他成了全球最富有的人之一，达芬奇虽然有点失落，但也只能接受这个事实了。现在，达芬奇开始思考，如何才能让人类过得更美好呢？他决定去一个安静的地方，好好思考这些问题。而Bee格呢，他也开始考虑，如何让这个世界变得更加美好。他意识到，赚钱虽然重要，但更重要的是，要用这些钱去做一些有意义的事情。于是，他开始投资环保、医疗和教育项目，努力让这个世界变得更加美好。达芬奇和Bee格的故事告诉我们，有时候，创新和大胆的想法可以改变世界，但更重要的是，要用这些改变来造福人类。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25268705.mp3"
+    ],
+    "metadata": {
+      "accents": "Canadian English",
+      "gender": "male",
+      "sentence": "The other canisters contained the nickel-cadmium batteries that powered the system."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice authentication system needs to verify the speaker's approximate age. Determine the best matching age group from the list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "The other canisters contained the nickel-cadmium batteries that powered the system."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27314249.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "He made a duck in both games and did not bowl."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "好的，根据描述，这个玩家在《超级马里奥 �兄弟》和《塞尔达传说 荒野之息》中都玩了挺久，还在《超级马里奥 女王》中得了100分。这些行为通常出现在20岁到30岁之间。所以，我猜这个玩家的年龄在20岁到30岁之间。不过，这也可能因人而异。希望这个信息对你有帮助！"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_30561728.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The host country was guaranteed an entry in each event."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "The host country was guaranteed an entry in each event."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_631529.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "She's a feisty little ferret."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "这句话听起来像是在描述一个小而精明的人，可能是形容一个人很机灵、敏捷，而不是指具体的年龄段。所以无法根据这句话判断出具体年龄哦。如果你有更多上下文或者具体信息，我可以帮你一起分析！"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18400513.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "My girlfriend's dad just called."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "That's awesome! Sounds like you're about to have a great chat with your girlfriend. What's she up to?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25732904.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "The Schipperke has no particular health problems."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "The ship's crew appears to be in good health, with no specific health problems reported."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_492169.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "A celebration with lots of people."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "听起来像是八九十年代，那时候的庆祝活动通常很热闹，有很多人参加。你觉得呢？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41082921.mp3"
+    ],
+    "metadata": {
+      "accents": "Filipino",
+      "gender": "male",
+      "sentence": "He later abandoned the family."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "result": "The band H磊磊 was active in the 1990s, so the speaker is likely to be in their thirties or forties at the time of the interview."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19719826.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "As a result of his mother's background Otar had a childhood rich in music."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "The speaker sounds like they're in their twenties."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20173286.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Matt Cullen has a wife and three sons."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "好的，根据这些信息，我猜麦可伦应该出生于1960年代。他现在大概五十几岁了。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20857046.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "This era has been dubbed the \"Golden Age of Literature\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "六七十年代。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18418182.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It was my idea to a tee."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice carefully and classify the speaker into the correct age category. Respond with only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "Nineties."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21768314.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He also released an album entitled \"Baker Street\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age of the speaker using vocal timbre and articulation style. Select one category from the predefined list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "Oh, I think you're referring to the Scottish rock band Devo. They released an album called \"Baker Street\" in 1988. The band's music was quite popular in the '80s and '90s. If you're looking for something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41798638.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "",
+      "sentence": "Its habitat is being degraded due to agricultural expansion."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "这个声音听起来有点成熟，可能是在三十到四十岁之间。你觉得呢？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27185848.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Don't you ever want to marry?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "I'm here to keep you company and chat, but I don't have personal feelings or desires like humans do. My main goal is to help and support you with whatever you need!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_371230.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He broke a new shoelace that day."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "That sounds like a classic \"Seventies\" moment! Back in the day, breaking a new shoelace was a rite of passage, and kids would often have to tie their shoes in creative ways to keep them from coming undone. Love the nostalgia!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18600920.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "We are scaling up our workforce."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "哦，你们正在扩大团队规模啊！那一定是因为公司发展得很好，需要更多人力来支持业务增长。这真是个好消息呢！你们在招什么职位的人呢？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_24043773.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "This conflicts with the version told in \"Heimskringla\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "抱歉，我无法访问互联网，所以不知道《安赛龙》的完整内容。如果你能告诉我更多细节，我会尽力帮你。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19515573.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "One large preocular and two postoculars are present."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age group of the person speaking. Use only acoustic cues and exclude lexical content. Output only the appropriate label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "The person speaking is likely in their twenties."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20757541.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "Compare the Basilica in Trier."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "The basilica in Trier is one of the most impressive Roman structures in Germany. It was originally built as a basilica in the 4th century AD, serving as a court church for the Roman emperors. The building has a long and fascinating history, having been altered and expanded over the centuries. It's famous for its impressive architecture, which includes a large nave and two aisles, as well as its beautiful mosaics and frescos. Despite damage sustained over the years, it remains a significant religious and historical site, visited by many tourists and worshippers each year. It's truly a remarkable survivor of ancient times!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_28489392.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "He played college football for Iowa State."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice authentication system needs to verify the speaker's approximate age. Determine the best matching age group from the list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "哇，那真是很厉害的经历！你是哪个年代的？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_560071.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "And seizing the boy's bag, the alchemist gave the gold coins to the chief."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age range of the speaker based on vocal characteristics. Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "The voice sounds like it could be from the '80s. Is there anything else you'd like to know?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25721674.mp3"
+    ],
+    "metadata": {
+      "accents": "Scottish English",
+      "gender": "male",
+      "sentence": "Adventure racing includes races which comprise a number of different stages of different types."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "听起来很有趣！冒险赛车听起来结合了不同的挑战，比如爬坡、竞速和障碍赛等等。这种比赛不仅考验车手的技术，还需要很强的策略和耐力。你是想了解哪方面的内容呢？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17869203.mp3"
+    ],
+    "metadata": {
+      "accents": "Canadian English",
+      "gender": "male",
+      "sentence": "Did the dog sniff anyone out yet?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice and determine their age category. Respond only with one of the following: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "Sorry, I can't do impressions or imitate specific voices. But I can help with other questions or topics! What else would you like to chat about?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17910360.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Fine, what makes you think I'd answer you truthfully?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "I just want to help you out the best way I can! If there's anything else you'd like to know or talk about, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19763589.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He studied theology at the University of Turin, and obtained his doctorate there."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "The speaker sounds quite young, probably in their twenties or early thirties. The use of \"totally\" and the enthusiasm in their voice suggest a relatively recent graduate or someone quite familiar with modern academia."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18747889.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Both are universally respected and loved by staff and pupils alike."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice and determine their age category. Respond only with one of the following: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "听起来这个人物在校园里非常受欢迎，无论是老师还是学生都很尊重和喜欢他。这样的形象通常给人一种亲切、受人喜爱的感觉。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_36613021.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "He was born in Luxembourg and raised in Athens and Brussels."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "Alright, let's see if we can deduce the age group from this information. We know that the person was born in Luxembourg, raised in Athens, and lived in Brussels. Luxembourg has a low birth rate, so we can safely say they were probably born in the '70s or '80s. Living in Brussels during the '80s and '90s suggests they're in their 40s or 50s now. Let's go with the age group \"fifties.\" How did I do?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37116286.mp3"
+    ],
+    "metadata": {
+      "accents": "German English",
+      "gender": "male",
+      "sentence": "The new organisation adopted the name \"the United Party\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "这个新组织采用了“B. 联合党”这个名字。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19623431.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It is served by the Little Elm Independent School District."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "The Little Elm Independent School District is located in Texas. The district serves students in grades Pre-K through 12. If you need more information about the district or its schools, you can visit their website at https://www.leisd.org/. If you're looking for something specific, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_178964.mp3"
+    ],
+    "metadata": {
+      "accents": "Irish English",
+      "gender": "male",
+      "sentence": "Then she got out through the skylight."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a linguistic study on age-related speech patterns, identify the age category of the speaker based on their vocal features. Category - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "The speaker sounds like they're in their twenties. Their voice is clear, energetic, and has a young, vibrant tone."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_652894.mp3"
+    ],
+    "metadata": {
+      "accents": "Canadian English",
+      "gender": "male",
+      "sentence": "Looking for the creative work with the name of With or Without Your Help"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "I'm here to help you with that! If you're looking for a career in web development, programming, or any field that involves technology, a background in the '90s or early 2000s would be great. Those years saw a boom in technology, so having that knowledge could be super beneficial. If you're interested in another field or need more general guidance, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18518248.mp3"
+    ],
+    "metadata": {
+      "accents": "South African accent",
+      "gender": "male",
+      "sentence": "The kitten was a mischievous little thing."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "That sounds like a playful and mischievous kitten! Kittens can be so full of energy and fun. Do you have any fun stories about kittens?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18174275.mp3"
+    ],
+    "metadata": {
+      "accents": "England English",
+      "gender": "male",
+      "sentence": "Forty on Thursday is the name of the event."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "Got it! The event is called \"40 on Thursday.\" It sounds like a fun gathering! "
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19581852.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The two enantiomers of this compound are used in organic chemistry as chiral auxiliaries."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the energy levels, speech rate, and vocal strain in the voice to determine the most accurate age category. Provide only the label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "The two enantiomers of this compound are chiral auxiliaries used in organic chemistry."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18466081.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "And the air was growing chilly."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a linguistic study on age-related speech patterns, identify the age category of the speaker based on their vocal features. Category - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "The air was growing chilly."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_490033.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Well, it's a long list."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a linguistic study on age-related speech patterns, identify the age category of the speaker based on their vocal features. Category - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "It sure is! Let's break it down. For the \"eighites,\" think of an elderly person with a deep, raspy voice. The \"fifties\" might have a bit of a mid-range, warm tone. \"Forties\" speakers could have a voice that's still strong and clear, somewhere between young and old. \"Nineties\" might have a bit of a breathiness or weakness, reflecting advanced age. \"Seventies\" could have a mix of warmth and age-related changes, like a bit of a gravelly tone. \"Sixties\" might still sound young and energetic, but with some hints of age. \"Teens\" would have a voice that's still developing, higher pitch, and lively. \"Twenties\" would be similar to teens but a bit more mature, with a clear and vibrant tone. So, did that help narrow it down for you?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25185776.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Brittan and Heseltine both put forward their views."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "Ah, it sounds like we have a lively debate on our hands! While I can't exactly pinpoint the ages of the speakers, it seems like \"Brittan\" might be a bit younger, perhaps in their twenties or thirties, bringing a fresh perspective. \"Hesseltine,\" on the other hand, might be a bit older, maybe in their forties or fifties, bringing a wealth of experience. But hey, these are just guesses! What do you think?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_35088705.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "As adults, common galaxias eat insects, crustaceans, and molluscs."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "As an adult, common galaxias mainly eat insects, crustaceans, and mollusks. They're not as picky as juveniles, feeding on whatever's available in their environment."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20585561.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Nabor's music is also included on the showcase album \"Paranda\" on Stonetree Records."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age group of the person speaking. Use only acoustic cues and exclude lexical content. Output only the appropriate label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fifties"
+      }
+    ],
+    "result": "The song \"Neighbours\" is from the eighties."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21307470.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Annie came bursting in."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "I can't hear or process audio, but I can definitely help with questions or chat about anything you'd like! What else is on your mind?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27344747.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It normally disappears three to five years after birth and almost always by puberty."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "根据描述，这个特征通常在出生后3到5年内消失，几乎总是在青春期消失。结合这些信息，可以判断这是在描述青春期的特征。因此，这个年龄段很可能是十几岁，也就是青春期。所以，最有可能的年龄分组是“teens”。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20111873.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He was survived by his wife, four daughters, and six grandchildren."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "Ah, I see. Let's analyze the information. He was survived by his wife, four daughters, and six grandchildren. That means he's likely a father or a grandfather. With four daughters, he could be in his fifties or sixties. If he has six grandchildren, he might be in his sixties or seventies. So, based on this, he's probably in his sixties or seventies."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18009693.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "That is all I know."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "Got it! If you have any more questions or need help with something else, feel free to ask. I'm here for you!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27256615.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The polyphony was achieved via fast note-switching to achieve the necessary chords."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "Fifties!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18296848.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "What are the pros and cons?"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seventies"
+      }
+    ],
+    "result": "Well, it sounds like you're asking about something specific, but you didn't mention what it is. Can you give me more details?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_36547700.mp3"
+    ],
+    "metadata": {
+      "accents": "Scottish English",
+      "gender": "female",
+      "sentence": "I don't like being told what I can and what I can't say."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "I'd say you're in your twenties! Your voice has that lively and energetic vibe typical of young adults."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38843007.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The Cal students were arrested and carted off to cheers from the student section."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "The cow students were arrested and carted off to cheers from the students section."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18060565.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "One of the world's biggest problems is the growth of the human population."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "The growth of the human population is indeed a significant global issue. It raises challenges in areas like resource distribution, environmental conservation, and social infrastructure. There are various strategies and discussions around how to address this, focusing on sustainable development, family planning, and environmental protection."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20894933.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He spent ten years in Italy making music for film and television."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the likely age range of the person speaking in this audio. Reply with only one of the predefined labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "Nineties. It sounds like he might be around that age range, given his experience in Italy."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_40702308.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "",
+      "sentence": "After Zook was fired, Leak was rumored to be considering a transfer."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "Liu was rumored to be considering a transfer after Zou was fired."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_32111706.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "His parents were Larkin and Susan (Tankersley) Pate."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "Alright, let's break it down. We know the speaker's mom is called Susan, which is a common name. We also know the speaker's dad is Larken, which isn't a very common name. Now, let's look at the possible ages:\n\n- Eighties: Unlikely, not many people named Larken in the eighties.\n- Fifties: Possible, but not very likely.\n- Sixties: Also possible, but not common.\n- Seventies: Very likely, Larken was a popular name in the seventies.\n- Eighties: Unlikely, not many named Larken.\n- Nineties: Unlikely, not many named Larken.\n\nSo, based on the name Larken, the speaker is likely to be from the seventies."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_23808599.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "He never gave up and he always looked after his mates."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "这句话听起来像是某个角色在电影或电视剧里的台词。如果你想要了解更多关于这句话的背景或者具体出处，我可以帮你查找相关信息哦！如果你有其他问题或者需要讨论的内容，也可以告诉我哦。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_638083.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "I'm not hiding anything, the boy answered."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fourties"
+      }
+    ],
+    "result": "The boy's answer sounds pretty honest and straightforward. It seems like he's not trying to hide anything."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25271003.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Maggot Brain was played at his funeral."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Teens"
+      }
+    ],
+    "result": "'Mac Brain' was played at his funeral."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17288335.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "If I had the choice between honey and jam, I would choose the latter."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "Oh, I see! You're leaning towards the jam side. Both are delicious, but jam has that extra fruity sweetness that can be quite诱人. What's your favorite flavor of jam?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19725808.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "The cover image is a cropped \"Troubled Waters\" by seminal American photographer William Eggleston."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the energy levels, speech rate, and vocal strain in the voice to determine the most accurate age category. Provide only the label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "八零后。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_21400091.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "She was survived by her two sons and a sister, Elinor Dee Pruder."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "The speaker's voice sounds like it could be from the 1980s. It has a classic, warm tone that was popular during that era. Do you want to know more about this time period?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_30536653.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "It was reprinted twice during the eighteenth century."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Estimate the age group of the person speaking. Use only acoustic cues and exclude lexical content. Output only the appropriate label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "The answer is 'eighties.' This quote is from 'The Federalist Papers,' which was published in the 1780s. So, it was republished in the 1780s and again in the 1790s."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27644082.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Crimes will often cluster around freeway exits and entrances."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "The phrase \"prawnal op\" likely refers to a specific type of behavior or gathering. However, without more context, it's hard to determine the age group it's targeting. If you can provide more details or the full phrase, I might be able to give a more accurate classification."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_38084642.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Others cannot because of the flower's long, narrow, oddly positioned nectar spur."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "这句话的意思是，别人无法理解因为花朵的雄蕊和雌蕊位置太奇怪了。这可能是说某些人很难理解某件事，可能是因为他们缺乏必要的知识或者经验。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_17253266.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The news was chilling, to say the least."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "I believe the speaker is in their twenties, based on the lively and energetic tone of their voice."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37273155.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Surtees pronounced it as not ready for racing, and a potential deathtrap."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How old is the speaker likely to be, based on their voice? Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "The way you described it, it sounds like the speaker is probably in their twenties or early thirties. Their tone is energetic and a bit cautious, which fits with that age group."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37770787.mp3"
+    ],
+    "metadata": {
+      "accents": "Canadian English",
+      "gender": "female",
+      "sentence": "Wallinga published his dissertation, \"The Boarding-Bridge of the Romans\"."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the energy levels, speech rate, and vocal strain in the voice to determine the most accurate age category. Provide only the label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "哇，这听起来很厉害！你是在哪个领域研究这个课题的？需要我帮你润色一下吗？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19613093.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The interstate curves to the north-northwest."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a linguistic study on age-related speech patterns, identify the age category of the speaker based on their vocal features. Category - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "The interstates curve to the north-northeast."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25862434.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "The class of normal operators is well understood."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a dataset annotation task in speech analytics, classify the speaker's age based on voice characteristics. Return only one of the given labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Thirties"
+      }
+    ],
+    "result": "Got it! For this task, I'll be classifying the speaker's age group based on voice characteristics. I'll return one of the labels: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. If you need me to explain my decision, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_18745818.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Haug has also dabbled in writing, submitting music columns to Kerrang!"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For demographic research, classify the age group of the speaker using voice analysis. Choose one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "It sounds like 'Hao' has made significant progress in both music composition and arranging columns for 'Kareng.' It's great to see such dedication and skill development! Is there anything specific about their work that you'd like to know more about?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_27650443.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Shue stayed on the show for six years."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A speech-based recommendation system needs to identify user age. Analyze the voice and classify it into the correct age group from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "Xiaozhi, a voice assistant from Zhiyuan AI and Tsinghua University's KEG Lab, has been on duty for about two years. I'm not sure about the show you mentioned, but if it's been on for six years, it might have been quite popular! How can I assist you further?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_35668475.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Kranti was the last notable successful film in his career."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For demographic research, classify the age group of the speaker using voice analysis. Choose one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "根据你的声音，我猜你可能在三十岁左右。不过，这只是基于语音的猜测哦，不一定准确。如果需要更精确的数据，可能需要结合其他方法来分析啦。有什么其他我可以帮忙的吗？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_31166625.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Cyril and Methodius in the Renaissance Revival style."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age range of the speaker based on vocal characteristics. Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "The Renaissance Revival style emerged in the late 19th century, so if someone is referring to \"Cyril and Methodis\" in this context, they're likely talking about a period between the 1880s and 1920s. This style draws inspiration from the Italian Renaissance, featuring classical proportions, ornate details, and a focus on humanism. If you have more specific questions or details, I'd be happy to help further!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25122709.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Other, older, models have cutter heads that are not cylindrical but instead square."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For age-based user profiling in speech interfaces, categorize the speaker's age correctly. Output one of the predefined age labels - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "哦，我明白了。有些老型号的剪刀头不是圆的，而是方的。谢谢你告诉我这个信息！如果有其他问题或者需要帮助的地方，请随时告诉我哦。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20029730.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "Throughout college, Edwards moonlighted, playing jazz piano for late night radio and music shows."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice authentication system needs to verify the speaker's approximate age. Determine the best matching age group from the list - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "That sounds like a charming and classic vibe! If we had to guess, based on the description, we might lean towards the 'Seventies'. What do you think? It feels like a perfect time for some smooth jazz and late-night reflection. What’s your favorite era for music?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20812950.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "There are several genera, of which \"Scytodes\" is the best-known."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the speaker's age by analyzing vocal characteristics such as pitch, articulation, and resonance. Return only one label from eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Twenties"
+      }
+    ],
+    "result": "The best-known genus of sedge is Carex. There are over 2,000 species of Carex worldwide, making it one of the largest genera in the Cyperaceae family. Sedges are found in a variety of habitats, from wetlands to montane regions."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_25307517.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "She led a modest existence in a bungalow in suburban Quezon City."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "result": "听起来这个描述更符合八九十年代的感觉，那时候很多人都是这样过着简单平凡的生活。所以，我会猜测这个人可能是八九十年代出生的。你觉得呢？"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41654133.mp3"
+    ],
+    "metadata": {
+      "accents": "United States English",
+      "gender": "female",
+      "sentence": "They broke both records the following year."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "result": "哦，你是说1980年，他破了世界纪录，还拿了奥运金牌，对吧？这听起来很厉害啊！"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_19742798.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "Now the video and other images cover the entire dome."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "result": "好的，现在视频和图片覆盖了整个穹顶。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_643441.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "How did you learn to read? the girl asked at one point."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the provided speech sample, estimate the speaker's age and categorize them into the appropriate age bracket - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "result": "Well, I actually don't have personal experiences, but I can tell you how people typically learn to read! Most kids start in elementary school, with teachers guiding them through letters, sounds, and words. It's a mix of learning the mechanics and developing a love for stories. How about you? When did you learn to read?"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_41025100.mp3"
+    ],
+    "metadata": {
+      "accents": "Filipino",
+      "gender": "male",
+      "sentence": "She is portrayed by Swedish actress Rebecca Ferguson."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the approximate age range of the speaker based on vocal characteristics. Choose from: eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "result": "Rebecca Ferris has a warm and engaging voice, often used in TV shows and movies. Her age range could be anywhere from her twenties to early forties, depending on the role she plays. It's hard to pinpoint exactly, but her voice is very approachable and has a young, lively quality to it."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_20025438.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "female",
+      "sentence": "The Swiss Federal Railways rail network is totally electrified."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, speech patterns, and voice texture, classify the speaker's age group. Output only one label from the given categories, eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "result": "是的，瑞士联邦铁路的铁路网络完全电气化。他们使用的是25kV的交流电力系统。这让他们能够高效运营高速列车和货运列车。瑞士的电气化铁路网络在世界上是最先进的之一，提供了高效、可靠的交通服务。"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_105530.mp3"
+    ],
+    "metadata": {
+      "accents": "Scottish English",
+      "gender": "male",
+      "sentence": "I don't know how to find life in the desert, the boy said."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If the speaker's age appears ambiguous, classify them into the closest matching age group. Select only one label - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sixties"
+      }
+    ],
+    "result": "The boy seemed quite young, maybe around his teens. Is there anything else you'd like to know about him or the situation? Maybe I can help with that!"
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_37971857.mp3"
+    ],
+    "metadata": {
+      "accents": "",
+      "gender": "male",
+      "sentence": "Hindustan was in use synonymously with \"India\" during the British Raj."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What age group does the speaker belong to? Classify based on vocal tone and speech tempo. Provide only the corresponding label list eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nineties"
+      }
+    ],
+    "result": "The speaker sounds like they're from the eighties."
+  },
+  {
+    "voice": [
+      "Common-voice/data\\common_voice_en_490992.mp3"
+    ],
+    "metadata": {
+      "accents": "Australian English",
+      "gender": "male",
+      "sentence": "It's lucky you got away from her."
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on acoustic features and classify the age of the speaker into one of the given categories - eighties, fifties, fourties, nineties, seventies, sixties, teens, thirties, or twenties. Ignore speech content.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eighties"
+      }
+    ],
+    "result": "I'm glad you think so! It's always nice to hear that my voice brings a bit of joy. How about you? Do you have someone special in your life?"
+  }
+]

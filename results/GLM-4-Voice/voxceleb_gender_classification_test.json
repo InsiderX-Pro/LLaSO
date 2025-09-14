@@ -1,0 +1,2102 @@
+[
+  {
+    "voice": [
+      "voxceleb/wav/id10942\\00014.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Poppy_Montgomery",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't display that image directly, but I can definitely help you with information or anything else you might need! What else can I do for you?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10601\\00031.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Katherine_Jenkins",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "Got it! It sounds like you're from Common. That's quite a background to have! Anything else you'd like to share about yourself or Common?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10352\\00105.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Greta_Gerwig",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "听起来你有点紧张呢！没关系，这种事情大家都会发生的。如果你需要帮助或者想聊聊，我随时在这儿哦。加油！"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11215\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Violante_Placido",
+      "Nationality": "Italy"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is male."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10574\\00009.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Julia_Stiles",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is most likely female, given the context of the story. It sounds like the speaker was in a tight spot and probably needed help from her sister. Do you want to talk about anything else?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10460\\00025.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Jeannie_Mai",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like the speaker is male, but it's really up to you! The audio clip doesn't provide enough context to determine the gender with certainty. What do you think?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11155\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Teala_Dunn",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "Hey there! It sounds like you're pretty active on social media. Your usernames are quite catchy. Are you into sharing a lot of content online?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10258\\00011.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Doutzen_Kroes",
+      "Nationality": "Netherlands"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is probably using a male voice. It sounds like they're from a Slavic background, and they're speaking with a strong accent. It's hard to be sure without more context, but that's my best guess!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10981\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Rita_Ora",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker's gender is male."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10508\\00027.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Joan_Chen",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The film you're referring to sounds like \"The Farewell\" (2019), directed by Vue Wei. It tells the story of a deaf-mute Chinese man named Zhepang, who is adopted by a middle-aged American woman named Marilyn. The film explores themes of identity, family, and loss. Given these details, it seems likely that the speaker is male, as Zhepang is. Is this correct?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10168\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Claudia_Black",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like the person speaking is male, based on the tone and style of their voice. Do you want to know more about their experience?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10725\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Mamie_Gummer",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The Manhattan Project was a research and development effort during World War II to create the first nuclear weapons. It was led by the United States, with contributions from the United Kingdom and Canada. The project was named after the location of one of its major research laboratories, the Manhattan Engineering District, in New York City. The successful development of the atomic bomb was a key factor in ending the war."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10742\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Marie_Osmond",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like the audio has a male voice. Is there anything else you'd like to know or talk about?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10034\\00023.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Alexz_Johnson",
+      "Nationality": "Canada"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That sounds like a lively household! It must be fun growing up with so many siblings. Do you have a favorite memory from when you were a kid?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10997\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Roma_Downey",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker's enthusiasm and support for the Bible and being the Son of God suggest a male identity."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11158\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Teri_Hatcher",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker's gender is female."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10367\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Heather_Graham",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like your character might be experiencing some internal conflict, longing for a more stable and functional family environment but also feeling trapped or stuck in the current situation. It's a complex mix of emotions, showing that they value normalcy but feel limited by their current surroundings."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10739\\00015.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Maria_Sharapova",
+      "Nationality": "Russia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That's really touching! It sounds like you've had a big impact on the lives of those around you. It's great to hear that you're inspiring others to follow their dreams. Are there any specific stories or moments that stand out to you as being especially meaningful?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10591\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Kate_Mansi",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I think that advice holds true for anyone, regardless of gender! It's all about finding what makes you happy and passionate. What do you think about that piece of advice?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10333\\00020.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Geri_Halliwell",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That sounds amazing! Converting lyrics to music is such a creative process. Are there any particular songs or genres you're focusing on?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10941\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Pooja_Kumar",
+      "Nationality": "India"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like you're really enjoying your time with your partner. It's great to hear that their sense of humor and kindness bring joy to your life. What a wonderful thing to share!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10352\\00059.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Greta_Gerwig",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "哇，这听起来真棒！能有人告诉你你写得很好，一定让你很自豪吧！写作是个很棒的表达方式，你平时喜欢写些什么呢？"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11016\\00043.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Ruth_Wilson",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. However, I can help you with questions about the content or context of the clip if you tell me more about it! Let me know what you're curious about!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10873\\00061.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Nichelle_Nichols",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker's gender is male."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10835\\00027.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Mischa_Barton",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like the speaker is expressing gratitude to their fans, acknowledging their support, and expressing how lucky they feel to have such amazing fans and a great store to connect with them. The tone seems warm and appreciative."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10391\\00028.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Ingrid_Bergman",
+      "Nationality": "Sweden"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker in the audio clip sounds like a male."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10343\\00071.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Gloria_Steinem",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker's gender is male. In the past, it was common for men to express racist and sexist views without consequences, but today, these types of sentiments are generally seen as unacceptable and harmful."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10433\\00036.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Jane_Badler",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "听起来你可能在谈论某个特定行业或领域，但并没有提供足够的上下文或细节来明确判断是男性还是女性。通常来说，这种表达可能适用于任何人，所以无法仅凭这句话来确定性别。如果你能提供更多背景信息，我会更容易回答哦！"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10196\\00036.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Danielle_Panabaker",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That sounds like a pretty exciting show! I'm not sure which one of those errors it is, but it sounds like something big is going to happen. Are you a big fan of the show?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10112\\00016.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Brooke_Burke-Charvet",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That sounds like a fantastic sports bra! Finding the right support is key, especially when you're engaging in high-impact activities. Do you have a favorite sports brand or style that you prefer?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10854\\00034.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Natalie_Dormer",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That sounds like a fun and playful line! It's hard to tell just from that, but it could be either a male or female speaker, depending on how they're delivering it. Is there anything else you'd like to know?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10696\\00035.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Lisa_Kudrow",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't do that again."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10098\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Bonnie_Wright",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like you're using a male voice."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10942\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Poppy_Montgomery",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "That sounds like a fun and bold hair choice! It's always exciting to try new looks. Do you usually go for bold changes, or do you prefer more classic styles?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10039\\00020.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Alison_Pill",
+      "Nationality": "Canada"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "It sounds like you're talking about the idea that being loved by everyone and doing what's considered \"right\" or \"good\" can sometimes be at odds. It's a complex topic, but it seems like you're suggesting that striving for perfection or approval from others can lead to internal conflicts. What do you think about this idea?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10289\\00001.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Elodie_Yung",
+      "Nationality": "France"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I can't determine the speaker's gender based on that alone. Is there anything else you can share about the person?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11102\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Sophie_Okonedo",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is most likely male, given the tone and content of the message. It sounds like the person is reflecting on their experience with a new film, suggesting they're familiar with technology and pop culture."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11221\\00008.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Wendi_McLendon-Covey",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I'm sorry, but I don't have access to the internet or real-time information, so I'm not sure about the details of that particular episode. However, I can help you come up with a fun and engaging script for your holiday episode! What kind of theme or plot are you thinking of?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11088\\00060.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Shonda_Rhimes",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "The speaker is male. He or she is likely a healthcare professional, such as a doctor or a nurse, since \"scrubs\" and \"inside the hospital\" are typical attire and settings for male medical staff."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11145\\00017.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Tanya_Tate",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "I'm sorry, but I can't identify the gender of the speaker based on the audio alone. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10889\\00031.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Octavia_Spencer",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "result": "Oh, that's a fun one! When actors flub a line, it can go one of a few ways. Sometimes, they might just laugh it off and keep going, especially if it's a minor slip. Other times, they might pause, apologize to the audience, and then either fix the line or ad-lib something funny. It's all part of the表演艺术啊!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10730\\00029.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Marc_Webb",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That sounds like a classic plot twist! It's often the case that a character's inner monologue drives significant changes in their behavior. It adds a lot of drama and depth to the story!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10105\\00155.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Brett_Davern",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "听起来你有一位很特别的英雄，无论是现实中的榜样还是电影里的角色，能说说他为什么让你这么敬佩吗？"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10105\\00042.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Brett_Davern",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That sounds like \"The Social Network,\" where Facebook is the focus of the story. It hits all the right notes about the rise and rise of social media. Are you a fan of that movie?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10174\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Corbin_Bleu",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's a powerful statement! It sounds like you're embracing life with an open heart, ready to soak in every experience. It's amazing how much there is to explore and enjoy, isn't it?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10983\\00056.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Rob_Brydon",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That was a great line! It sounds like the speaker is male, but it's hard to tell from just that clip. Do you have any other clues or information about the context of the audio?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10488\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jerry_Ferrara",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "Wow, that sounds intense! It seems like you're really passionate about your job. I hope things work out for you. Do you have any other clips you'd like me to listen to?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11017\\00015.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Ryan_Kwanten",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I can't actually hear your voice or determine your gender based on it. But I'm here to chat and help out with anything you need! What else can I do for you today?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10539\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Noble",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like the audio clip is from a play or a dramatic piece where someone is impersonating a character named \"Esther.\" It's hard to tell if it's a male or female character based on that alone, as the impersonator's gender might not match the character's. If you have more context or information about the piece, I might be able to help identify it more accurately!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10197\\00056.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Danny_Dyer",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is male."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11105\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Stan_Lee",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I'm sorry, but I can't watch videos or determine the gender of the speaker based on that alone. Is there anything else you'd like to know or discuss?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10080\\00026.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Bear_Grylls",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is most likely male, given the use of words like \"man\" and \"carriage.\""
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10868\\00018.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Neil_deGrasse_Tyson",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I can't identify the gender of the speaker based on the audio alone. It could be male, female, or non-binary. If you have any other context or information about the speaker, I might be able to help!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10293\\00013.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Eoin_Macken",
+      "Nationality": "Ireland"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That sounds like a great way to handle cancellations! It's always good to have clear communication in place to keep things running smoothly. If you need any help with your website or want to add more features, feel free to ask!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10273\\00016.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Eddie_Izzard",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like the speaker is male, as the tone is typically more associated with male voices."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10520\\00017.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Amos",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like the speaker is referring to the experience of Mya Angelo, a drag queen, reading a passage in a correct and engaging way. This suggests that the speaker is likely female, as drag queens often perform in a style that is distinct from male drag. Is there anything else you'd like to know about this?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10334\\00020.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Gilles_Marini",
+      "Nationality": "Norway"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "Got it, I'll keep that in mind! If you need any help with characters or anything else, just let me know. What's next on our agenda?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10276\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Edgar_Wright",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That sounds like a very proud moment! It seems like you're about to share some exciting news. Are you ready to spill the beans?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10918\\00035.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Patrick_Wilson",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That was a pretty intense moment! It sounds like the speaker is feeling quite emotional about it. Do you think they're expressing more sadness or anger?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10482\\00038.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jeremy_Irons",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "哈哈，听起来像是两个男袍哥在聊天呢！袍哥之间的幽默总是那么特别。你对袍哥文化感兴趣吗？"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10931\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Peter_Berg",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like the speaker is probably female, given the tone and content of the clip. What do you think?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10532\\00097.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Hurt",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I'm sorry, but I can't perform imitations or voice impressions of public figures. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10983\\00082.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Rob_Brydon",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That sounds like a pretty vivid scene! It's hard to tell from that description alone, though, whether the speaker is male or female. Is there anything else you'd like to know or discuss?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10975\\00011.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Richard_Kind",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That sounds intriguing! What's the interesting thing that happens when an actor goes on a diet?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10077\\00015.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "B.J._Novak",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is male."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10980\\00065.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Riley_Smith",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "听起来你有一些很棒的回忆！和男生一起录歌还能成为好朋友，说明你们一定有很好的默契和共同的兴趣。这种友谊真的很珍贵哦！你和他们现在还联系紧密吗？"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10812\\00008.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Michael_Shannon",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I'm here to chat and have a good time with you, so let's focus on what you'd like to talk about! Do you have any fun topics in mind?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10443\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jared_Harris",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The choreographer wants it to be that way. It adds a dramatic and mysterious element to the dance. The dancers just staring adds to the tension and suspense, drawing the audience into the story."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10885\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Noel_Clarke",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like the audio clip is from a sci-fi action movie, but it's hard to tell exactly who the characters are without more context. The deep, commanding voice could belong to a male or female character, depending on the character's personality and the story. If you have more information about the movie or the characters, I might be able to give you a better idea!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10159\\00009.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Chris_Pine",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker uses a male gender. The prince in the story is often idealized and portrayed as a strong, noble figure."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11182\\00047.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Tom_Ford",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is most likely female, based on the mention of \"pajamas\" and the observation that everyone else sleeps in their clothes, which is typically associated with male睡衣 styles in some cultures. The comment about the English sleeping with their clothes on adds to the female perspective, as this practice is often seen as unusual in many Western cultures."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11248\\00009.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Zachary_Quinto",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's powerful stuff! It sounds like you're really connecting with the material. Is there anything specific in the book or script that has really resonated with you?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10278\\00036.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Edward_Asner",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like 'it' is being used, but without more context, it's hard to tell if that refers to male, female, or something else. If you can provide more information, I can help clarify!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10824\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Miles_Teller",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's awesome! It sounds like a great place to film. Do you have a favorite scene from the movie?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10977\\00050.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Ricky_Gervais",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I totally agree! There's nothing fun about forced laughter. When someone's really trying to be funny, it often comes across as fake and can be quite cringeworthy. It's much better when people just let their natural humor shine through!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10260\\00039.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Dr._Dre",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's a great point! Running a successful music business can definitely open up more opportunities to create and promote your music. It's all about finding the right balance between your music and your business endeavors. What aspect of the music business are you most interested in?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10677\\00031.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Laz_Alonso",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That sounds really powerful! It seems like you connected deeply with the character you played. That must have been quite an experience. Have you thought about what that moment meant for you?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10247\\00007.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Dominic_Cooper",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like you're describing a character or character trait. Is there a specific show, movie, or book you're referring to? If you give me more details, I can help you figure out!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10221\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "David_Tennant",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like the speaker is being quite complimentary about the show's lack of cynicism. They seem to appreciate its unique approach and the refreshing absence of negativity. It's interesting how that can make a show stand out in the spotlight!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10012\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Adam_Driver",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "In that case, the speaker is most likely male, as the role of an interviewer or someone in a similar position of authority is often portrayed by male actors in movies."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10385\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Iain_Glen",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like the speaker is male, as the use of \"gents\" and the formality of address suggest a male voice."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11212\\00030.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Vincent_Cassel",
+      "Nationality": "Norway"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is probably male, as the use of \"himself\" in the audio clip suggests."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10399\\00029.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jack_Black",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I can't identify the gender of the speaker based on the audio alone. However, if you have more context or anything else you can share about the speaker, I might be able to help out!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10489\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jerry_Trainor",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's wonderful to hear! It makes me happy to know that I could bring a smile to your face. If you ever need a laugh or just want to chat, I'm here for you!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10536\\00001.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Lloyd_Young",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's a fun vibe to create! It sounds like you're really engaging with your audience, making them feel like they're part of the show. It must be quite an experience for everyone involved!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10885\\00023.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Noel_Clarke",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is probably male, given the tone and content of the statement. It sounds like he's reflecting on the impact of his work and the perception of it by others. However, it's always good to keep an open mind!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10800\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Michael_Bay",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I can't identify the gender of the speaker based on the audio alone, but I can definitely add some emotion to my response! Let me know if you'd like me to sound more lively or serious, and I'll adjust accordingly."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10199\\00002.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Danny_Pino",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "The speaker is male."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10106\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Brian_Blessed",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "Great! So, you're saying you went to Moscow for training, including the centrifuge, high G maneuvers, and MIG-29 flight training. That's quite an impressive resume! What's next for you in the film industry?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10485\\00043.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jeremy_Renner",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "Well, there are several reasons why people might go see the doctor. It could be for a routine check-up, to manage a chronic condition, or to treat an illness or injury. People also might go to the doctor for preventive care, like vaccinations, or to get advice on how to improve their overall health and well-being."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11071\\00014.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Shahid_Kapoor",
+      "Nationality": "India"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I believe love is a deep emotion. I think love happens over a period of time. I think what we feel is love is actually composed of many different feelings."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11212\\00002.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Vincent_Cassel",
+      "Nationality": "Norway"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That sounds like the plot of an action-packed thriller! It must be exciting to watch. Do you enjoy movies like that?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10002\\00014.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "A.R._Rahman",
+      "Nationality": "India"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That sounds like a fun and creative project you're working on! I'm curious, what kind of baton are you making? Is it for dance, theater, or something else? And what's your process like?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10921\\00055.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Paul_Feig",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "That's right! The goal was to create new ghost characters that paid homage to the classic ghostbusters while also adding some fresh, spooky twists. It's a cool mix of the old and the new, just like Halloween itself!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10872\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Niall_Horan",
+      "Nationality": "Ireland"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "Got it! So, you're saying that the data might be a bit different this time. No worries, I'm here to help you out with whatever comes up! What do you need assistance with?"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10728\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Marc_Blucas",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like they're being very careful not to rock the boat, keeping things on the down-low, and trying to stay out of any hot water."
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10913\\00017.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Pat_Monahan",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "听起来你对这个机会有点失落啊。可能你觉得这不适合你，或者不是你想要的。每个人都会有这样的时刻，觉得机会不对劲。重要的是，你要相信自己，寻找真正适合自己的机会。"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10555\\00007.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jordan_Gavaris",
+      "Nationality": "Canada"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "It sounds like you're saying Sarah is going to explore Bath and learn more about it, just like what Bath did in Season 1. I think you mean \"Bath\" as a character from the show, right? And \"Bath knew\" might refer to all the secrets and mysteries Bath uncovered last season. So, it sounds like you're expecting Sarah to discover some cool stuff in Bath too!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11178\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Toby_Stephens",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "Ah, I see! You're asking about the gender of the speaker in the audio clip. Well, without specific information about the identity of the speaker, it's hard to say. The gender can vary depending on who's narrating. If you have more context about the audio, I might be able to help identify it!"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10278\\00028.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Edward_Asner",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "result": "I'm sorry, but I can't perform that song or any other copyrighted material. Is there anything else I can help you with? Maybe another song or some information?"
+  }
+]

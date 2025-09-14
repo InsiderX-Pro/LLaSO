@@ -1,0 +1,1702 @@
+[
+  {
+    "voice": [
+      "speechcommand/data\\5e3dde6b_nohash_2_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "result": "好的，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d962e5ac_nohash_0_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "result": "好的，停止了。还有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4f8ef132_nohash_0_happy.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happy."
+      }
+    ],
+    "result": "Happy to chat! What can I do for you today?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5f814c23_nohash_0_eight.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      }
+    ],
+    "result": "Hello! How can I help you today?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4c6167ca_nohash_2_eight.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      }
+    ],
+    "result": "8。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b97c9f77_nohash_0_bird.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bird."
+      }
+    ],
+    "result": "你好！需要我帮你什么吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1fe4c891_nohash_0_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "result": "好的，这是您要的6。还需要什么吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\43fc47a7_nohash_0_bed.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bed."
+      }
+    ],
+    "result": "好的，晚安，祝你做个好梦！如果需要聊天或者有任何问题，随时叫我哦。祝你有个美好的一天！"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\9a7c1f83_nohash_4_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "result": "好的，'left' 是指向左转。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\18f8afd5_nohash_0_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？如果你有数学问题，或者想要聊聊其他话题，都可以告诉我哦。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\692a88e6_nohash_4_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "result": "Sure, I'll be here for you. How can I assist you today?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_1_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "result": "Sure, what do you need help with? Give me some details!"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b1f8326d_nohash_0_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "result": "好的，我往左转。需要继续帮忙吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\83957201_nohash_0_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "result": "7"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\bfd26d6b_nohash_0_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "result": "你好！需要我帮你什么吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_12_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？如果你有任何问题或者需要帮助，请随时告诉我。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_9_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_10_no.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "result": "Sure! What can I do for you today?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f292725f_nohash_0_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "result": "你好，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\7192fddc_nohash_0_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "result": "3. 是的，这是一个数字。需要帮忙吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a8e25ebb_nohash_2_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "result": "你好，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\ca48dc76_nohash_0_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "result": "好的，有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6f689791_nohash_0_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "result": "Sure, what do you need help with? Give me some details!"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4620dc14_nohash_0_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "result": "4"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\91b03183_nohash_0_no.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "result": "好的，有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\e49428d9_nohash_1_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "result": "你好！需要什么帮助吗？有具体问题还是需要一般信息？告诉我，我会尽力帮你。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d962e5ac_nohash_2_follow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Follow."
+      }
+    ],
+    "result": "好的，有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3b4f8f24_nohash_0_two.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Two."
+      }
+    ],
+    "result": "你好，需要什么帮助吗？可以问关于中国的事情，或者让我帮你做事。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f0ae7203_nohash_0_sheila.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sheila."
+      }
+    ],
+    "result": "你好，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4fd1443e_nohash_0_bird.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech instruction in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bird."
+      }
+    ],
+    "result": "鸟儿在歌唱，风儿在树叶间穿梭。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f0ae7203_nohash_0_tree.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Tree."
+      }
+    ],
+    "result": "Sure, I'll play the treble clef. It's like this: **C D E F G A B C**. Need anything else?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\cfbedff9_nohash_3_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "result": "好的，我明白了。你想要什么帮助呢？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\9e2ce5e3_nohash_0_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？如果你有任何问题或者需要聊天，随时告诉我哦。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\dfdabe19_nohash_0_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speech command in this audio. Respond with only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "result": "好的，有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\adebe223_nohash_0_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？你可以随时问我问题哦。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4fd1443e_nohash_1_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need to know?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3659fc1c_nohash_1_four.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Four."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\63f7a489_nohash_2_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "result": "好的，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\68dd409e_nohash_1_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech instruction in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "result": "Got it! I'll keep it short and sweet from now on. What can I help you with?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\40c4e774_nohash_0_cat.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cat."
+      }
+    ],
+    "result": "喵~ 你是在跟我玩“喵”的游戏吗？好有趣！需要我帮你做些什么吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a1533da4_nohash_0_down.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the command spoken in this audio. Return only the command, no extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Down."
+      }
+    ],
+    "result": "\"Down.\""
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3cbd76a3_nohash_0_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "result": "Sure, here's the command: 5."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\0cb74144_nohash_0_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need to know?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5c8af87a_nohash_0_house.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "House."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need to know about houses?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_0_wow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Wow."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8494fba8_nohash_1_five.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Five."
+      }
+    ],
+    "result": "Sure, I'll give you a five-second countdown: Five, four, three, two, one!"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1acc97de_nohash_3_no.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "No."
+      }
+    ],
+    "result": "好的，如果你有其他问题或需要帮助，随时告诉我哦！"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\40c4e774_nohash_0_follow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Follow."
+      }
+    ],
+    "result": "好的，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\c9b5ff26_nohash_0_one.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One."
+      }
+    ],
+    "result": "好的，现在开始记事。您需要记录什么内容？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1acc97de_nohash_1_eight.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Eight."
+      }
+    ],
+    "result": "8。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\43fc47a7_nohash_0_cat.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Cat."
+      }
+    ],
+    "result": "喵~ 你是在跟我玩“喵”的游戏吗？好有趣哦！需要我帮你做些什么吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\68dd409e_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "result": "你好，需要什么帮助吗？告诉我你的问题，我会尽力回答。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4c6167ca_nohash_0_visual.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Visual."
+      }
+    ],
+    "result": "好的，贝斯沃。有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8769c34c_nohash_0_visual.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Visual."
+      }
+    ],
+    "result": "Sure, I can help with that. What would you like to know or do?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_2_learn.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Learn."
+      }
+    ],
+    "result": "你好，有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\cfbedff9_nohash_0_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "result": "停。有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1cb788bc_nohash_0_one.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a4383927_nohash_1_left.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Left."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3b4f8f24_nohash_2_backward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Backward."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need to know?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\189cbabe_nohash_2_stop.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Stop."
+      }
+    ],
+    "result": "好的，停止了。还有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\c22d3f18_nohash_0_one.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "One."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4fd1443e_nohash_0_sheila.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sheila."
+      }
+    ],
+    "result": "好的，有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f2e59fea_nohash_1_backward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Backward."
+      }
+    ],
+    "result": "\"barkugar\" might be a misspelling. Did you mean \"bark collar\"? If so, I can help with information about dog collars or any other questions you might have!"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a6f2fd71_nohash_1_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "result": "好的，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\1acc97de_nohash_0_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speech command in this audio. Respond with only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\964e8cfd_nohash_3_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "result": "你好！需要我帮你什么吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\63f7a489_nohash_4_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need to know?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\f264e0df_nohash_0_wow.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Wow."
+      }
+    ],
+    "result": "Hello! How can I assist you today? Is there anything specific you'd like to know or discuss?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\553f1a79_nohash_0_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "result": "好的，现在开始播放音频。请确认设备已连接并且音量适中。祝您收听愉快。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6f2f57c1_nohash_0_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "result": "9"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\837a0f64_nohash_1_up.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Up."
+      }
+    ],
+    "result": "Sure, I'm here to help with anything you need. What can I do for you today?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a6f2fd71_nohash_1_forward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Forward."
+      }
+    ],
+    "result": "你好！需要我帮你什么吗？有具体问题还是需要一些建议？告诉我，我会尽力帮你。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\bb05582b_nohash_1_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond with the command only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "result": "9"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8625475c_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "result": "好的，已经关闭了。需要帮助随时说哦。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\893705bb_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "result": "你好，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\881583a6_nohash_0_dog.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Dog."
+      }
+    ],
+    "result": "狗！"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d5b963aa_nohash_2_three.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Three."
+      }
+    ],
+    "result": "3"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4c6167ca_nohash_0_off.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Off."
+      }
+    ],
+    "result": "好的，现在设备已经关闭。再见！"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b7e9f841_nohash_0_learn.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Learn."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d1a4fb3f_nohash_0_nine.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the spoken command in this audio. Return only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Nine."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？如果你有问题或者需要聊天，随时告诉我哦！"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\aa80f517_nohash_3_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "result": "你好，需要什么帮助吗？有具体问题还是需要一般信息？告诉我，我会尽力帮你。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\5170b77f_nohash_3_seven.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command in this audio. Return only the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Seven."
+      }
+    ],
+    "result": "七。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\d5b963aa_nohash_0_marvin.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Marvin."
+      }
+    ],
+    "result": "Hello! How can I help you today? If you have any questions or need assistance, feel free to ask."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\80c45ed6_nohash_0_six.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Six."
+      }
+    ],
+    "result": "好的，这是6。还有别的问题吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\840c366d_nohash_0_marvin.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech instruction in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Marvin."
+      }
+    ],
+    "result": "Hello! How can I help you today? If you have any questions or need assistance, feel free to ask."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\837a0f64_nohash_0_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "result": "Sure, what can I do for you today?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\4a0e2c16_nohash_0_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6379c6a2_nohash_0_forward.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Forward."
+      }
+    ],
+    "result": "你好，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8769c34c_nohash_2_right.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Right."
+      }
+    ],
+    "result": "写。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\2d82a556_nohash_0_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need to know?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\b83c1acf_nohash_0_bed.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Bed."
+      }
+    ],
+    "result": "好的，晚安，祝你做个好梦！如果需要聊天或者有其他问题，随时叫我哦。"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\3b4f8f24_nohash_3_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "result": "Sure, what can I do for you today?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8494fba8_nohash_1_happy.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the spoken command in this audio. Respond only with the command word.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happy."
+      }
+    ],
+    "result": "抱歉，我听不懂这个。有什么需要帮忙的吗？"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\8769c34c_nohash_4_yes.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Yes."
+      }
+    ],
+    "result": "Hello! How can I assist you today? Is there anything specific you'd like to talk about or explore?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\7e1054e7_nohash_1_house.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Return only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "House."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need to know about houses?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\a6f2fd71_nohash_1_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the command in this audio. Respond only with the command, no extra text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "result": "On!"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\6021f08b_nohash_0_tree.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the spoken command in this audio. Respond with only the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Tree."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need to know about trees?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\0cb74144_nohash_0_on.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the speech command in this audio. Respond with only the command, no explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "On."
+      }
+    ],
+    "result": "Sure, I can help with that. What do you need to know?"
+  },
+  {
+    "voice": [
+      "speechcommand/data\\2fa39636_nohash_0_dog.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Recognize the command spoken in this audio. Return only the command, nothing else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Dog."
+      }
+    ],
+    "result": "I can't understand that. Repeat it, please."
+  },
+  {
+    "voice": [
+      "speechcommand/data\\9a69672b_nohash_0_zero.wav"
+    ],
+    "metadata": [],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speech command in this audio. Respond only with the command.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Zero."
+      }
+    ],
+    "result": "你好！有什么我可以帮你的吗？如果你有任何问题或者需要聊天，随时告诉我哦！"
+  }
+]

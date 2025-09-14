@@ -1,0 +1,2202 @@
+[
+  {
+    "voice": [
+      "voxceleb/wav/id10942\\00014.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Poppy_Montgomery",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The gender being used is male.",
+    "prediction_units": "393 734 196 537 721 705 11 576 384 879 443 325 801 549 663 969 870 290 943 485 398 212 455 915 258 436 139 340 198 347 376 940 118 944 955 865 641 124 243 889 338 877 822 89 284 377 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10601\\00031.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Katherine_Jenkins",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 172 536 822 89 327 693 521"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10352\\00105.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Greta_Gerwig",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 172 977 877 822 89 284 905 693 611"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11215\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Violante_Placido",
+      "Nationality": "Italy"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker in the audio clip is a male.",
+    "prediction_units": "393 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 25 46 812 222 393 946 215 406 538 187 594 246 660 166 56 113 327 905 635 791 380 382 914 119 593 357 506 876 389 771 865 641 124 362 734 498 889 172 338 877 822 89 284 327 377 693 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10574\\00009.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Julia_Stiles",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm happy to help, but I'm a large language model, I don't have access to your personal information or emails. I can provide general information on the topic, but I cannot identify the gender of a specific speaker.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 693 268 876 417 755 605 128 665 991 547 833 173 945 944 530 733 896 627 168 565 734 781 645 246 764 969 934 555 705 326 243 781 645 761 907 81 816 325 968 852 101 741 333 523 555 705 326 243 889 324 338 359 655 764 246 660 921 716 205 521 524 44 902 605 63 644 254 530 733 196 537 721 549 803 795 506 208 233 152 784 429 423 27 761 430 70 219 952 522 295 586 314 377 198 32 835 67 337 884 79 799 220 258 436 663 969 251 676 260 973 241 663 969 722 346 540 295 59 353 716 205 521 25 825 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 659 187 461 969 466 25 771 485 948 86 498 12 172 338 877 822 89 284 377 693 205 521 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 143 38 676 481 973 288 750 687 870 692 306 154 558 655 837 81 664 555 29 537 705 11 576 384 879 179 961 62 466 716 205 521 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 659 538 609 493 361 393 946 734 523 793 105 244 583 167 104 764 108 404 757 323 377 990 107 417 755 193 63 665 991 547 833 173 945 944 530 733 914 445 137 576 384 761 650 179 475 783 104 430 945 944 530 81 733 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 196 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 742 98 519 589 126 323 432 882 924 261 230 314 333 958 66 852 333 487 990 107 522 519 589 126 323 534 485 948 86 990 501 107 137 377 969 164 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10460\\00025.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Jeannie_Mai",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 86 12 172 977 877 822 377 693 611"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11155\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Teala_Dunn",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Based on the username, it appears to be a male speaker.",
+    "prediction_units": "290 978 822 89 194 664 944 878 493 361 393 946 734 258 436 139 340 347 376 575 961 931 428 822 89 194 664 627 143 343 44 63 389 864 771 685 437 734 357 676 0 260 323 534 485 974 284 663 969 198 711 510 884 79 868 220 943 321 948 565 734 498 172 338 877 822 89 327 905 693 205 521 828 98 519 589 126 323 534 485 948 86 990 501 107 137 377 969 164 916 726 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10258\\00011.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Doutzen_Kroes",
+      "Nationality": "Netherlands"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker in the audio is a male.",
+    "prediction_units": "393 742 519 589 126 323 534 485 974 813 86 990 501 137 663 969 25 46 812 222 393 946 215 327 538 594 246 660 166 964 113 327 905 803 791 483 825 771 865 641 683 124 362 734 498 889 172 338 877 822 89 284 327 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10981\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Rita_Ora",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 609 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 196 721 250 734 523 105 244 583 576 663 969 748 12 977 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 969 406 25 46 812 222 393 946 215 113 406 187 594 246 660 166 964 113 327 905 791 483 173 641 347 124 362 530 733 196 721 549 576 803 795 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 668 576 377 198 835 67 337 884 79 799 220 202 393 946 215 406 538 187 594 246 660 166 56 964 113 327 402 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10508\\00027.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Joan_Chen",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The film that comes to mind is 'The Joy Luck Club'. The main character, Lindo, is a Chinese-American woman.",
+    "prediction_units": "393 946 390 479 330 776 576 803 693 521 820 896 627 168 915 459 173 430 945 233 914 445 469 167 104 246 896 627 545 711 510 884 79 799 220 498 324 338 359 655 764 837 81 620 112 915 208 944 771 865 641 124 243 202 393 946 734 196 705 11 74 614 592 103 483 81 228 217 781 645 6 246 70 404 107 233 914 119 593 453 655 764 506 584 902 193 415 661 497 63 665 991 393 946 734 498 172 871 877 822 89 194 620 112 915 143 38 45 914 445 137 576 761 907 466 503 487 219 315 75 788 663 969 524 726 44 63 665 991 781 645 333 328 325 166 549 931 402 734 523 44 605 63 389 825 865 641 124 362 734 793 105 326 531 668 576 167 104 837 81 179 207 950 321 948 198 711 124 362 423 565 734 498 172 871 877 384 466 503 487 990 501 107 137 488 352 915 787 935 101 741 748 12 872 336 877 377 385 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10168\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Claudia_Black",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying audio clips. I'm a text-based AI assistant. If you'd like to describe the audio clip to me, I can try to help you identify the gender of the speaker.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 534 485 284 466 398 212 455 659 187 461 969 556 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 398 212 455 538 187 594 246 660 166 56 113 327 635 402 380 382 263 45 914 119 593 333 377 506 876 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 990 29 79 868 220 196 721 250 432 170 731 589 337 126 119 647 655 837 81 885 555 29 202 393 946 406 538 594 246 660 166 56 113 327 635 791 380 382 867 45 914 119 593 647 333 713 506 876 79 799 220 498 12 172 536 950 53 321 458 44 665 254 530 733 914 445 137 488 620 352 915 143 777 227 655 837 81 664 79 868 220 470 821 576 693 268 876 258 436 139 340 483 530 733 664 196 166 549 384 879 443 93 274 794 680 59 958 66 776 655 837 81 901 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 932 148 202 393 946 734 742 98 519 589 337 126 323 534 485 948 86 990 501 107 137 377 969 164 916 309 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10725\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Mamie_Gummer",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to listen to audio or access external links, but I can help you with information about the Manhattan Project if you'd like.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 945 506 233 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 228 781 303 333 32 882 924 866 586 955 283 352 915 143 38 79 799 220 787 483 538 187 594 246 660 166 250 964 113 327 905 377 611 267 187 594 461 969 538 423 27 761 430 70 219 952 522 866 586 314 333 198 32 835 683 67 337 362 161 487 219 522 589 600 702 788 576 663 466 179 353 716 205 521 781 645 53 212 455 506 107 545 85 297 265 675 237 307 121 621 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 384 693 934 268 876 258 436 139 340 787 935 271 333 196 944 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 565 734 849 907 597 29 202 393 946 734 498 338 877 384 430 443 274 470 821 761 907 430 70 185 747 143 38 676 481 973 288 750 246 104 901 934 705 11 377 219 952 333 958 66 258 436 139 340 660 555 781 645 655 837 81 664 107 417 755 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10742\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Marie_Osmond",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio or determining gender based on speech. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 534 485 113 284 466 398 212 455 538 187 594 246 901 166 250 964 113 327 905 803 791 611 267 187 594 461 969 196 721 250 523 793 105 244 583 576 663 969 748 12 977 179 961 398 212 455 915 143 537 705 11 576 384 879 443 325 801 549 663 969 870 412 290 978 822 89 194 664 835 67 940 118 944 878 609 187 493 361 912 519 589 126 323 534 485 321 948 86 539 552 326 417 755 584 415 772 497 63 644 254 530 733 445 137 576 488 620 878 538 187 594 908 310 325 518 321 948 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10034\\00023.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Alexz_Johnson",
+      "Nationality": "Canada"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of determining the speaker's gender from an audio clip. I can only provide text-based responses.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 934 757 323 59 870 790 716 205 521 932 148 721 250 734 523 793 105 244 583 576 663 969 748 12 977 179 961 398 212 455 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 390 515 647 896 627 488 222 931 659 187 594 246 660 166 56 113 327 635 791 380 382 519 589 914 119 593 647 506 876 755 193 415 341 772 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 251 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 29 542 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 156 824 432 742 519 589 126 740 167 655 764 650 816 912 85 866 586 955 377 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10997\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Roma_Downey",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker in this audio is a male.",
+    "prediction_units": "393 946 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 771 46 812 222 202 881 331 333 32 683 589 337 878 609 187 594 246 901 166 56 964 113 327 905 803 791 424 714 25 825 771 865 641 124 362 734 889 338 877 822 89 284 327 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11158\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Teri_Hatcher",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as I don't have access to the audio file.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 609 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 523 793 105 244 583 576 803 663 969 748 12 977 877 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 393 946 215 113 327 594 246 660 166 964 113 327 905 791 483 173 641 347 124 362 530 733 196 721 549 576 803 795 208 944 233 152 784 429 878 423 27 761 430 70 219 952 522 295 586 668 576 377 198 835 67 297 337 884 79 799 220 202 393 946 215 406 538 187 594 246 901 660 166 56 113 327 402 380 382 390 479 330 776 167 655 837 81 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10367\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Heather_Graham",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm happy to help, but I need more context about the audio and the characters. Can you please provide more information or clarify which characters you're referring to?",
+    "prediction_units": "254 504 530 733 896 627 470 821 761 430 70 404 757 323 56 321 948 86 79 868 220 734 470 821 576 384 693 268 876 417 755 605 128 665 991 547 833 173 945 944 530 733 575 116 372 485 321 948 86 555 233 889 324 826 592 103 969 867 263 45 272 313 469 167 655 764 650 816 274 794 75 583 15 384 879 70 219 522 67 940 118 944 734 870 849 907 597 660 29 202 393 946 734 406 538 187 594 246 660 166 964 113 327 905 803 791 52 424 267 538 823 175 684 136 202 393 946 734 319 263 914 445 137 576 384 761 907 466 879 487 219 952 315 75 788 663 969 198 711 510 297 265 675 755 415 772 497 63 662 445 137 576 488 620 179 207 258 436 139 340 382 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 687 870 692 154 558 655 837 81 664 555 233 889 324 826 592 103 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 931 461 969 867 45 914 887 167 462 761 907 430 466 663 390 958 66 776 655 837 81 787 935 271 333 523 552 326 850 914 445 137 167 761 430 466 503 487 219 952 315 788 663 969 198 711 510 243 258 436 635 969 156 824 734 870 390 422 330 776 435 663 466 398 212 455 143 79 799 220 340 846 524 44 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10739\\00015.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Maria_Sharapova",
+      "Nationality": "Russia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 977 877 822 284 327 377 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10591\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Kate_Mansi",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of determining the gender of a speaker based on an audio clip. However, I can help you with other questions or tasks.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 70 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 721 250 734 523 793 105 244 583 576 663 969 748 12 977 179 961 398 212 455 202 393 946 734 196 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 432 742 519 589 126 323 534 485 948 86 990 501 107 137 663 969 870 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 428 812 222 931 878 187 594 246 660 166 56 113 327 905 791 382 45 914 119 647 506 415 341 661 497 63 644 254 821 167 104 894 968 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 470 821 576 384 693 268 876 258 436 139 787 935 271 333 523 196 918 878 238 104 938 663 969 263 45 272 119 797 576 384 879 70 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10333\\00020.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Geri_Halliwell",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 12 172 977 877 822 89 327 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10941\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Pooja_Kumar",
+      "Nationality": "India"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker's gender is Male.",
+    "prediction_units": "734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 337 705 11 576 384 879 443 325 801 549 663 969 714 25 825 865 641 124 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10352\\00059.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Greta_Gerwig",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 25 825 865 641 124 683 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11016\\00043.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Ruth_Wilson",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "734 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 337 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10873\\00061.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Nichelle_Nichols",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 969 406 25 865 641 124 243 889 172 338 877 822 89 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10835\\00027.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Mischa_Barton",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 977 336 877 822 89 327 905 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10391\\00028.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Ingrid_Bergman",
+      "Nationality": "Sweden"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker of this audio clip is a male.",
+    "prediction_units": "393 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 932 148 202 881 946 333 32 683 589 700 878 609 187 594 246 901 166 56 113 327 905 635 791 380 382 45 914 119 593 333 506 876 389 771 865 641 124 362 734 498 889 172 338 877 822 89 284 905 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10343\\00071.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Gloria_Steinem",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Based on the audio, it appears the speaker is a male.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 940 944 878 493 361 393 946 734 113 406 594 246 660 166 56 964 113 327 905 803 791 611 52 524 69 44 902 605 121 665 864 771 685 437 565 734 357 251 676 260 323 534 485 284 663 969 198 711 510 884 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 865 641 683 362 565 734 498 889 172 338 877 822 89 284 327 693 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10433\\00036.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Jane_Badler",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 12 977 822 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10196\\00036.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Danielle_Panabaker",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker in the audio clip is a male.",
+    "prediction_units": "432 742 519 589 126 323 534 485 974 86 990 501 107 137 788 663 969 25 46 812 222 393 946 734 406 538 187 594 246 660 166 56 113 327 635 791 382 45 914 119 593 357 876 389 685 865 641 124 362 734 498 889 172 338 877 822 89 284 327 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10112\\00016.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Brooke_Burke-Charvet",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm just an AI, I don't have a physical body, so I don't wear sports bras.",
+    "prediction_units": "254 530 733 896 627 705 11 576 104 70 835 67 940 118 702 944 955 46 812 222 931 659 25 423 822 89 194 284 327 905 579 764 837 81 194 406 254 504 530 733 196 721 549 576 803 795 233 152 784 429 565 734 390 422 330 776 333 347 975 362 59 998 990 501 716 205 521 382 290 833 655 764 933 901 166 921 56 321 458 44 63 665 780 289 26 204 76 614 803 894 483 530 733 196 721 549 803 795 233 535 935 101 271 284 249 969 98 519 589 126 41 740 592 103 969 660 506 85 589 337 243 850 537 290 978 426 647 655 764 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10854\\00034.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Natalie_Dormer",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 172 977 877 822 89 327 905 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10696\\00035.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Lisa_Kudrow",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the speaker's gender in an audio clip. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 896 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 530 733 196 166 250 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 202 393 946 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 124 243 705 11 576 384 879 650 443 325 801 549 663 969 406 25 825 771 46 812 222 428 812 222 931 62 538 187 594 246 660 166 56 964 113 327 791 45 914 119 593 647 506 876 755 415 772 497 63 644 254 530 733 445 137 576 488 620 112 931 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10098\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Bonnie_Wright",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "In this world, the speaker is using the female gender.",
+    "prediction_units": "46 222 881 331 333 873 32 683 589 243 935 101 741 969 466 693 205 521 208 613 417 755 115 128 665 991 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 865 641 683 243 258 436 139 340 347 376 398 212 455 202 393 946 734 390 479 330 776 485 948 86 748 12 977 336 877 822 89 327 905 205 521 705 11 576 384 879 443 325 801 549 377 164 916 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10942\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Poppy_Montgomery",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 683 337 243 889 172 338 871 877 822 89 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10039\\00020.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Alison_Pill",
+      "Nationality": "Canada"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm happy to help, but I'm a large language model, I don't have the capability to identify the speaker's gender or access audio clips. I can provide general information on conflict resolution or communication strategies if that's helpful.",
+    "prediction_units": "99 254 504 530 733 896 627 470 821 761 430 70 404 757 323 321 948 86 539 79 868 220 734 470 821 576 693 268 876 417 755 605 121 111 128 665 547 833 173 945 944 27 530 733 896 627 168 565 734 259 781 645 246 764 969 934 555 705 326 417 243 781 645 761 907 81 816 325 968 852 101 741 333 523 555 705 326 243 889 324 338 789 359 655 764 246 660 921 716 205 521 524 44 902 605 63 644 254 504 530 733 196 537 721 549 803 795 208 944 233 152 784 429 202 393 946 215 319 914 445 137 822 89 194 664 885 757 323 59 790 333 37 234 366 523 50 910 321 86 105 79 868 220 483 81 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 734 742 519 589 337 126 323 534 485 974 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 187 594 461 969 538 423 27 761 430 70 219 952 522 586 314 198 32 835 683 67 878 609 187 594 246 901 166 56 113 327 635 791 380 382 263 914 119 593 453 333 377 506 876 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 143 38 676 481 973 288 750 687 870 692 154 558 655 837 81 664 555 29 537 705 11 576 384 879 179 961 62 466 716 205 521 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 878 609 187 594 493 361 143 38 45 272 313 469 167 655 764 650 816 143 390 66 712 593 453 366 333 219 952 686 233 156 824 442 879 347 975 614 402 259 854 677 340 817 146 283 352 385 343 659 187 594 461 969 867 263 45 272 445 469 754 12 977 950 139 179 207 950 161 487 319 501 137 822 89 194 664 817 146 283 832 758 912 98 589 884 702 728 227 647 384 879 430 70 185 852 161 523 261 705 11 534 53 321 198 711 510 297 675 169 389 825 771 685 333 958 66 881 331 430 945 85 337 470 821 576 246 693 268 876 29 233 479 330 435 205 611 916 584 902 736 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10289\\00001.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Elodie_Yung",
+      "Nationality": "France"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Based on the audio, it appears the speaker is a male.",
+    "prediction_units": "290 978 833 822 89 194 664 835 67 944 878 493 361 393 946 734 113 406 187 594 246 660 166 964 113 327 905 803 791 611 524 44 115 605 121 665 864 771 685 437 565 734 357 251 676 260 323 534 485 974 284 663 198 711 510 884 202 393 946 432 742 742 98 519 589 337 126 323 534 485 974 948 86 990 501 107 137 663 969 865 641 124 362 734 498 889 338 877 822 89 284 327 905 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11102\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Sophie_Okonedo",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm an AI, I don't have a gender.",
+    "prediction_units": "254 530 733 896 627 488 620 659 423 822 89 194 284 327 905 579 764 837 81 194 726 44 254 530 733 196 721 549 803 795 208 944 233 152 784 429 565 734 537 705 11 576 384 879 443 325 801 549 377 663 969 916 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11221\\00008.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Wendi_McLendon-Covey",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 337 243 889 172 338 877 822 89 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11088\\00060.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Shonda_Rhimes",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "The gender of the speaker is not specified in the audio, and it's not possible to determine it based on the provided text.",
+    "prediction_units": "202 393 946 196 721 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 865 641 124 243 116 475 783 104 430 945 519 589 337 126 323 576 384 879 70 924 866 586 59 998 958 66 776 655 837 81 664 555 944 46 812 222 393 946 215 406 538 187 594 246 901 660 166 964 113 327 905 377 791 611 916 524 44 115 605 121 407 128 644 254 823 175 684 136 333 437 85 884 116 475 783 104 430 945 260 547 444 655 104 70 540 295 586 59 790 716 205 521 867 691 79 868 220 196 721 250 734 523 105 244 583 576 663 969 748 12 977 877 488 179 961 659 428 333 437 29 537 290 978 822 89 194 664 835 67 940 118 944 878 493 361 393 946 734 251 676 973 288 750 870 692 154 558 655 837 81 166 599 161 523 555 29 244 583 576 384 879 70 219 952 522 67 940 118 613 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11145\\00017.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Tanya_Tate",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 977 877 822 89 284 327 905 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10889\\00031.wav"
+    ],
+    "metadata": {
+      "gender": "Female",
+      "Name": "Octavia_Spencer",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female."
+      }
+    ],
+    "prediction": "I'm not capable of watching videos or audio, but I can help you with other questions or tasks.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 787 935 101 741 655 104 70 185 552 326 398 212 455 143 537 526 559 333 196 166 56 964 113 327 635 803 791 380 198 711 510 362 187 461 969 538 187 594 246 660 166 250 964 113 327 905 803 791 380 524 44 115 121 111 128 665 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 576 693 934 268 404 876 258 436 139 340 787 935 271 333 523 196 921 944 878 238 104 938 663 969 263 45 272 119 797 384 879 70 170 731 600 477 283 832 758 711 510 362 461 969 660 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10730\\00029.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Marc_Webb",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 977 877 822 89 327 377 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10105\\00155.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Brett_Davern",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 337 243 889 172 338 877 822 89 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10105\\00042.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Brett_Davern",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender can you hear in this audio clip? It could be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing audio clips, but I can tell you that Twitter is a social media platform and does not produce shows. It's possible you're thinking of a different platform or show.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 944 542 914 445 137 822 89 194 664 934 757 323 59 790 716 205 521 932 148 470 821 485 284 814 466 398 212 455 538 187 594 246 660 166 56 113 327 635 402 380 382 45 914 119 647 506 876 686 545 85 297 675 237 307 121 226 621 128 665 991 547 833 173 945 944 530 733 445 137 488 620 352 143 105 244 583 576 384 693 521 854 258 436 139 340 202 459 173 945 29 542 244 777 728 101 797 333 793 788 663 406 25 865 641 124 362 734 742 98 519 26 204 280 614 803 380 660 934 431 477 716 205 521 498 889 172 536 485 948 86 166 964 113 327 734 870 251 676 0 260 593 167 761 430 70 185 233 479 330 435 592 103 969 896 627 168 823 175 684 136 721 549 173 641 347 124 475 783 104 430 945 759 973 288 750 33 998 523 196 166 705 74 139 340 198 835 22 589 884 531 576 803 791 380 198 711 510 297 265 675 237 415 772 497 63 644 864 771 685 333 437 85 589 337 850 213 260 547 444 368 655 104 70 346 540 295 586 59 790 716 205 521 258 436 663 969 432 256 314 333 212 455 501 398 212 455 932 148 565 734 196 721 250 333 958 66 776 647 663 366 523 506 29 412 260 712 593 167 761 907 430 70 185 233 479 330 435 103 969 896 627 168 187 594 461 969 742 431 531 668 576 803 791 611 916 584 902 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10174\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Corbin_Bleu",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker of the audio clip is a male.",
+    "prediction_units": "393 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 932 148 202 393 946 215 406 538 187 594 246 660 166 56 113 327 635 791 380 382 45 914 119 593 333 506 876 389 771 865 641 124 362 734 498 889 172 338 877 822 89 284 905 693 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10983\\00056.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Rob_Brydon",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker in the audio is male.",
+    "prediction_units": "734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 25 771 46 812 222 393 946 734 406 538 594 246 660 166 964 113 327 905 791 52 424 483 25 825 865 641 124 337 243 889 172 338 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10488\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jerry_Ferrara",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the following audio clip. Please choose only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 337 243 889 172 338 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11017\\00015.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Ryan_Kwanten",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying voices. I'm a text-based AI assistant. I don't have the ability to listen to audio or make audio-based identifications.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 398 212 455 915 143 526 302 592 81 664 32 835 924 866 586 955 377 198 711 510 297 265 675 237 415 772 497 63 644 254 504 530 733 627 168 565 734 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 32 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497 63 644 254 530 733 721 549 803 795 208 944 152 784 429 202 393 946 215 327 734 790 333 37 234 366 523 50 910 321 633 86 539 105 79 868 220 228 259 781 303 333 32 882 924 866 586 955 832 352 915 143 38 79 799 220 846 538 187 594 246 901 166 56 964 113 327 635 791 894 267 187 594 461 969 498 172 871 877 822 89 194 664 990 107 29 187 594 246 660 166 56 113 327 635 791 380 382 290 978 822 89 194 664 835 67 940 118 944 733 196 443 59 66 161 487 319 501 137 822 89 194 817 146 283 832 758 545 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10539\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Noble",
+      "Nationality": "Australia"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The gender used in the audio clip is male.",
+    "prediction_units": "393 734 196 105 705 11 576 384 879 443 325 801 549 663 969 258 436 139 340 198 347 376 940 118 944 46 812 222 393 946 734 406 538 187 594 246 901 166 250 56 113 327 905 635 791 380 382 914 119 593 333 357 404 876 865 641 683 337 243 889 172 871 877 822 89 284 377 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10197\\00056.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Danny_Dyer",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 977 877 89 284 327 905 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11105\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Stan_Lee",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 12 172 977 877 822 89 327 905 693 205 521"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10080\\00026.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Bear_Grylls",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 337 243 889 172 871 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10868\\00018.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Neil_deGrasse_Tyson",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker's gender is Female.",
+    "prediction_units": "742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 337 705 11 576 384 879 443 325 801 549 663 969 714 25 865 641 683 124 337 243 534 485 948 86 12 877 822 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10293\\00013.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Eoin_Macken",
+      "Nationality": "Ireland"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The gender of the person in the audio clip is not specified, it could be either male or female.",
+    "prediction_units": "393 946 734 196 537 705 11 576 384 879 488 443 325 801 549 663 969 538 932 148 202 393 946 734 676 260 973 241 796 663 969 722 346 540 295 586 283 488 352 659 25 825 771 46 812 222 393 946 215 538 187 594 246 901 166 56 113 327 905 635 791 380 382 263 45 914 119 593 333 357 506 876 865 641 683 243 116 475 783 104 430 945 85 519 589 126 323 576 384 879 70 924 866 586 59 998 958 66 776 655 837 81 664 555 208 417 755 237 605 121 111 63 665 864 771 685 437 914 445 469 220 555 29 943 321 948 86 406 538 27 104 837 81 901 921 331 366 663 969 498 889 172 871 877 822 89 284 327 693 205 521 267 187 594 461 969 390 479 330 776 534 485 948 86 12 336 877 822 284 377 693 611 164 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10273\\00016.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Eddie_Izzard",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the gender of a speaker in an audio clip. I can only provide text-based responses.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 398 455 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 428 812 222 931 878 538 187 594 246 660 166 56 113 327 905 635 791 380 382 263 45 914 119 593 453 377 506 876 415 341 661 497 63 644 254 530 733 445 137 576 488 620 659 538 187 594 908 310 325 518 56 321 948 86 357 251 676 481 973 288 750 870 692 306 154 558 655 764 837 81 664 555 542 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 156 824 442 432 742 170 519 589 126 740 167 655 764 816 912 85 866 586 955 377 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10520\\00017.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Amos",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker in the audio is a male.",
+    "prediction_units": "393 946 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 25 46 812 222 393 946 215 406 538 594 246 660 166 56 964 113 327 905 803 791 52 25 865 641 124 362 734 498 889 338 877 822 89 284 327 905 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10334\\00020.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Gilles_Marini",
+      "Nationality": "Norway"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The gender of the character in the audio clip is male.",
+    "prediction_units": "393 734 196 537 705 11 576 384 879 443 325 801 549 663 969 932 148 202 393 946 734 263 914 445 137 576 761 907 466 503 70 219 952 315 788 663 969 46 812 222 393 946 215 406 538 594 246 901 166 56 113 327 905 635 791 380 382 914 119 593 333 357 876 323 865 641 683 589 337 243 889 172 338 877 822 89 284 327 377 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10276\\00019.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Edgar_Wright",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The gender of the speaker in this audio is male.",
+    "prediction_units": "393 946 734 196 705 11 576 384 879 443 325 801 549 663 538 932 148 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 25 46 812 222 202 881 331 333 32 683 700 878 609 187 594 246 901 166 56 964 113 327 905 791 25 685 865 641 124 337 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10918\\00035.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Patrick_Wilson",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 12 977 877 822 89 284 327 905 693 521"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10482\\00038.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jeremy_Irons",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 86 12 977 877 822 89 327 905 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10931\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Peter_Berg",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you guess the gender of the speaker in this clip? Please select only return from Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 12 172 977 877 822 89 377 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10532\\00097.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Hurt",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Based on the audio, I cannot determine the speaker's gender.",
+    "prediction_units": "290 978 822 89 194 835 944 878 493 361 393 946 215 406 187 594 246 901 660 166 964 113 327 905 803 791 611 524 44 902 644 254 504 530 733 263 45 914 445 137 576 384 879 179 475 783 104 246 945 944 29 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 734 432 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 377 969 164 584 902 819 415 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10983\\00082.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Rob_Brydon",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Male",
+    "prediction_units": "889 172 338 877 822 89 284 377 693 611 385"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10975\\00011.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Richard_Kind",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Select only return one from the list: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm happy to help, but I don't have access to the audio you're referring to. Can you please provide more context or information about the audio?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 693 268 876 417 755 605 128 665 991 547 833 173 945 944 27 530 733 196 537 721 549 576 803 795 233 152 784 429 423 27 761 430 70 219 952 522 295 586 314 377 198 32 835 67 884 79 799 220 202 393 946 215 327 594 246 660 166 56 964 113 327 905 791 380 258 436 635 969 156 824 402 870 390 422 330 776 435 663 969 466 398 212 455 143 38 79 799 220 377 846 611 916 584 902 193 415 497 63 665 662 445 137 576 488 620 179 207 258 436 139 340 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 664 555 233 29 889 324 826 592 103 969 867 263 45 272 313 469 167 655 104 650 816 274 557 75 583 15 384 879 219 952 522 67 940 118 220 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 428 565 734 849 907 597 506 29 202 393 946 215 327 538 594 246 901 166 56 964 113 327 905 803 791 611 916 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10077\\00015.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "B.J._Novak",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 86 12 172 977 877 822 89 284 327 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10980\\00065.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Riley_Smith",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm happy to help, but I didn't record an audio. I'm a text-based AI assistant, I don't have the capability to record or play audio. If you'd like to discuss something else, I'm here to help.",
+    "prediction_units": "99 254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 470 821 576 384 693 268 876 417 755 605 121 111 128 665 991 547 833 173 945 944 530 733 196 721 250 333 555 795 143 156 824 734 998 263 45 272 119 607 592 103 969 555 944 812 222 931 878 538 594 246 764 660 166 56 113 327 905 377 791 611 916 584 902 193 341 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 952 522 67 589 940 118 850 537 290 978 822 89 194 664 835 67 940 118 944 15 822 89 284 327 905 579 837 81 327 798 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 15 377 93 506 208 613 417 755 237 193 111 63 665 644 254 530 733 196 537 721 549 803 795 208 944 233 470 152 784 429 202 393 946 734 263 914 445 137 822 89 664 357 757 323 734 790 333 37 234 366 523 50 910 321 86 539 79 868 220 156 824 734 998 263 45 272 119 607 592 103 969 660 555 944 233 878 187 594 461 969 251 251 676 412 260 712 593 822 89 194 406 538 187 594 246 660 166 250 964 113 327 377 611 916 584 902 193 341 497 63 63 644 864 771 685 333 873 958 66 258 436 139 340 660 555 781 645 655 837 81 219 990 29 79 868 220 196 721 250 432 170 731 589 126 137 167 104 70 835 67 884 519 26 204 668 104 650 816 409 918 743 15 333 212 455 25 423 384 693 828 835 67 510 297 265 675 237 307 665 644 254 530 733 627 470 821 534 485 113 284 969 867 311 79 868 220 470 821 576 384 693 506 876 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10812\\00008.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Michael_Shannon",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The audio clip is using the male gender.",
+    "prediction_units": "202 393 946 215 406 538 187 594 246 660 166 56 113 327 635 791 380 382 45 914 119 593 333 357 506 876 389 825 771 865 641 683 258 436 139 340 347 376 398 212 455 202 393 946 734 498 889 172 338 877 822 89 284 327 905 693 205 521 382 705 11 576 384 879 443 325 801 549 377 969 164 726 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10443\\00003.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jared_Harris",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 330 822 89 377 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10885\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Noel_Clarke",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The gender used in this audio clip is male.",
+    "prediction_units": "202 393 946 734 196 705 11 576 384 879 443 325 801 549 663 258 436 139 340 198 347 376 940 118 944 46 812 222 333 32 683 538 187 594 246 764 901 166 56 113 327 635 791 380 382 742 914 119 593 453 333 357 876 323 865 641 124 243 889 172 338 871 877 822 89 284 327 693 205 521 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10159\\00009.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Chris_Pine",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 825 771 865 641 683 243 889 172 338 877 822 89 284 327 377 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11182\\00047.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Tom_Ford",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the following audio, can you determine the speaker's gender? Options only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 683 337 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11248\\00009.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Zachary_Quinto",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the gender of the speaker. Choose only return one from the options: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 948 12 977 877 822 89 327 377 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10278\\00036.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Edward_Asner",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The gender of the speaker is male.",
+    "prediction_units": "393 946 734 196 721 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 25 865 641 683 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10824\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Miles_Teller",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or seeing, I'm a text-based AI assistant. I don't have the ability to watch videos or perceive audio.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 485 284 466 398 212 455 659 187 594 461 969 742 98 519 26 204 976 534 485 948 398 212 455 343 942 44 115 63 665 254 530 733 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 377 385 686 613 417 755 415 772 497 63 644 254 530 733 721 549 803 795 208 233 152 784 429 202 393 946 215 327 734 870 790 37 228 234 366 50 910 321 633 86 105 79 868 220 787 935 101 741 655 104 70 185 552 326 417 243 537 526 559 333 196 166 56 113 327 635 791 380 198 711 510 169 187 594 461 969 251 676 481 973 288 796 33 432 742 924 589 866 261 976 534 485 321 948 86 885 878 538 187 594 246 901 166 250 964 113 327 905 377 87 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10977\\00050.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Ricky_Gervais",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 946 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 825 865 641 683 124 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10260\\00039.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Dr._Dre",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to identify the speaker's gender based on the audio. The quote you provided does not contain any audio. Please provide more context or information.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 483 483 733 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 290 978 822 89 194 664 835 67 940 118 944 878 493 361 393 946 215 406 538 187 594 246 660 166 56 964 113 327 791 916 584 902 819 415 661 497 665 991 393 946 734 263 272 119 387 908 380 660 506 258 436 139 340 382 251 676 481 973 288 750 687 870 692 154 558 655 837 81 599 333 523 555 721 250 549 641 347 124 884 475 783 104 430 945 233 914 445 469 328 274 557 794 583 15 576 822 89 194 620 112 423 384 879 179 207 428 950 948 406 538 187 594 246 660 166 250 964 113 327 377 87 611 916 584 902 819 415 661 497 63 662 213 260 712 485 321 948 813 711 510 337 243 850 213 973 288 750 870 692 154 558 655 764 837 81 664 555 233 29 324 826 592 103 969 867 45 272 313 469 167 104 650 816 274 794 75 583 15 384 879 219 952 522 67 940 118 461 969 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10677\\00031.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Laz_Alonso",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 172 877 822 89 284 327 693 205"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10247\\00007.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Dominic_Cooper",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, what gender is being used? Pick only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Based on the audio, the gender is male.",
+    "prediction_units": "978 822 944 493 361 393 946 215 406 594 246 901 166 964 113 327 905 377 791 611 524 44 605 665 991 202 393 946 734 705 11 576 384 879 443 325 801 549 663 406 25 825 865 641 124 243 889 172 338 871 877 822 89 284 327 905 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10221\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "David_Tennant",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The gender of the speaker is not specified in the audio, but the quote itself is attributed to a male figure, Winston Churchill.",
+    "prediction_units": "393 946 734 196 705 11 576 384 879 443 325 801 549 663 969 932 148 202 393 946 734 432 742 98 519 589 126 323 534 485 974 990 501 137 663 969 865 641 124 243 116 475 783 104 430 945 85 519 589 337 126 323 576 384 879 70 924 866 586 362 59 998 958 66 776 655 837 81 664 555 944 46 812 222 393 946 215 406 538 187 594 246 660 166 56 964 113 327 905 803 791 611 611 916 524 44 115 605 121 111 128 665 991 547 833 173 945 202 393 946 734 263 45 272 119 387 908 380 660 506 208 613 944 771 333 437 85 519 589 26 204 280 668 576 693 390 66 865 641 124 362 734 793 105 777 728 647 333 939 56 903 165 539 599 333 523 555 29 105 79 799 220 483 565 734 498 889 172 338 877 822 89 284 905 693 205 521 390 479 330 776 333 350 836 74 377 969 164 524 726 44 605 63 665 991 535 935 101 741 333 443 325 912 85 589 118 702 15 955 46 812 352 143 105 326 531 614 663 969 351 531 614 716 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10012\\00006.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Adam_Driver",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 86 12 977 877 822 377 693 611 916"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10385\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Iain_Glen",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to listen to audio or access real-time information. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 25 423 771 822 89 194 664 765 302 716 205 521 867 79 868 220 228 781 303 333 432 32 882 924 866 586 955 283 352 915 143 79 799 220 787 483 538 187 594 246 660 166 964 113 327 377 611 267 187 461 969 538 423 27 761 430 70 219 522 866 586 314 245 333 198 32 835 67 337 243 156 824 485 113 327 635 205 521 691 105 244 583 167 655 837 81 627 168 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 377 385 584 193 415 772 497 63 644 254 530 733 445 137 488 620 931 878 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 233 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 377 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11212\\00030.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Vincent_Cassel",
+      "Nationality": "Norway"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not able to determine the gender of the speaker in the audio as it's not provided.",
+    "prediction_units": "254 504 530 733 896 627 116 475 783 104 945 506 233 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 196 721 250 734 523 105 244 583 576 663 969 748 12 977 488 620 915 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 137 663 969 25 46 812 222 393 946 215 113 406 187 594 246 660 166 964 113 327 905 791 611 483 173 641 347 124 975 955 437 85 884 116 475 783 104 945 29 759 973 288 750 870 692 154 558 655 764 837 81 166 599 377 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10399\\00029.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jack_Black",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the speaker's gender in the audio? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Based on the audio, I would identify the speaker as a male.",
+    "prediction_units": "978 822 89 194 118 944 878 493 361 393 946 215 113 327 594 246 964 113 327 905 803 87 611 521 524 44 115 121 665 644 254 504 530 733 787 935 101 660 555 233 530 733 664 196 166 250 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 519 589 126 323 534 485 974 948 86 990 501 137 663 969 423 173 641 347 124 362 734 498 889 338 877 822 89 284 327 905 693 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10489\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jerry_Trainor",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The audio clip appears to be using a male voice.",
+    "prediction_units": "202 393 946 406 538 187 594 246 660 166 56 113 327 905 635 791 380 382 45 914 119 593 333 357 506 876 565 734 870 357 251 676 260 323 534 485 948 284 663 969 198 711 510 884 79 868 220 943 321 948 258 436 139 340 347 376 398 212 455 565 734 498 889 172 338 877 822 89 327 905 693 205 521 692 526 302 592 103 81 53 835 67 297 206 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10536\\00001.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "John_Lloyd_Young",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is a female.",
+    "prediction_units": "742 98 519 589 126 323 534 485 974 813 86 990 501 137 663 969 25 865 641 124 362 734 390 479 330 776 485 948 86 12 172 977 877 822 89 327 905 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10885\\00023.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Noel_Clarke",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the audio, identify the speaker's gender. Select only return one of the following: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Based on the audio, I would identify the speaker as Male.",
+    "prediction_units": "290 978 822 89 194 664 835 944 493 361 393 946 215 406 538 187 594 246 660 166 964 113 327 905 803 791 611 524 44 115 644 254 504 530 733 787 935 101 660 555 233 530 733 664 196 166 549 384 879 443 274 794 680 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 423 173 641 683 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10800\\00005.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Michael_Bay",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you identify the gender of the speaker in the following audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the gender of a speaker based on an audio clip. I can only provide text-based responses.",
+    "prediction_units": "99 254 504 530 733 896 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 870 790 716 205 521 932 148 556 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 398 212 455 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 870 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 428 812 179 931 659 187 594 246 660 166 56 113 327 635 791 380 382 45 914 119 593 647 506 755 415 341 661 497 63 644 254 530 733 263 445 137 488 620 659 538 187 594 908 310 325 518 56 321 948 86 357 251 676 481 973 288 750 870 692 306 154 558 655 764 837 81 664 555 542 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 156 824 442 432 742 98 519 589 337 126 740 167 655 764 816 912 85 866 586 955 377 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10199\\00002.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Danny_Pino",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Which one of these is it only return: Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 734 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 825 865 641 124 337 243 889 172 338 877 822 89 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10106\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Brian_Blessed",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Which gender is being spoken in this audio? The options are only return: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker in this audio is male.",
+    "prediction_units": "202 393 946 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 825 46 812 222 202 881 331 333 873 32 683 67 700 878 187 594 246 901 660 166 964 113 327 905 791 52 424 267 483 25 825 865 641 124 337 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10485\\00043.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jeremy_Renner",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell the gender of the speaker in this audio? It might be only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of determining the gender of the speaker in an audio. However, I can suggest that you try to listen to the audio again or provide more context about the audio to help you make an educated guess.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 721 250 734 523 793 105 244 583 576 663 969 748 12 977 179 398 212 455 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 202 393 946 734 742 519 589 126 323 534 485 948 86 990 501 107 137 663 969 406 25 46 812 222 428 812 222 931 62 538 187 594 246 660 166 56 964 113 327 905 791 611 916 584 902 819 341 661 497 63 644 991 254 821 570 104 894 852 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 613 755 459 173 945 29 258 436 139 340 105 777 227 647 655 837 81 664 79 868 220 259 781 303 333 32 924 866 586 955 352 915 143 79 799 220 202 393 946 215 246 964 113 327 791 734 319 350 836 384 907 488 620 112 187 461 969 382 251 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 233 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 384 879 219 952 522 67 940 118 944 734 849 907 597 29 202 393 946 734 406 327 187 594 246 660 166 56 964 113 327 905 791 611 380 691 105 79 868 220 470 821 384 693 268 876 233 258 436 139 340 498 172 871 877 822 89 664 990 107 137 488 179 961 931 428 384 879 523 196 166 705 11 910 165 319 501 137 822 89 194 664 599 910 161 523 555 537 914 416 836 384 879 377 70 835 67 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11071\\00014.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Shahid_Kapoor",
+      "Nationality": "India"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I think you're right. Love is a complex emotion that can't be reduced to a single gender or time frame. It's a multifaceted feeling that can evolve and change over time.",
+    "prediction_units": "733 390 918 256 743 776 576 333 212 455 107 233 258 436 635 969 156 824 556 462 837 81 664 506 686 613 417 755 237 193 415 772 497 63 991 162 781 645 104 577 692 154 559 865 641 124 362 734 263 45 272 313 367 269 729 409 757 712 593 238 384 879 70 219 522 85 297 700 362 734 498 324 789 908 380 828 817 146 283 352 385 343 459 173 945 233 914 445 137 488 620 915 506 29 943 321 948 86 156 824 442 161 523 196 166 549 436 139 340 835 67 940 118 417 755 79 799 220 483 734 742 98 519 26 204 280 314 333 212 325 852 716 205 521 537 705 11 576 384 879 443 325 801 549 377 969 164 714 187 594 461 969 691 105 244 583 167 655 837 81 896 627 143 479 330 647 822 89 194 53 385 309 584 902 193 415 772 497 63 644 864 771 685 437 85 700 362 734 498 324 789 246 693 934 351 794 788 59 734 870 390 479 422 330 776 576 761 907 430 70 835 866 586 955 59 333 523 555 233 390 479 330 776 534 485 948 284 635 693 259 398 212 455 343 143 459 173 430 945 233 914 445 137 576 488 620 931 428 734 692 526 558 246 764 693 521 148 878 823 175 684 136 143 38 105 326 531 576 822 89 834 705 878 594 803 894 380 382 692 154 302 663 523 793 105 244 583 874 167 655 764 837 81 377 627 385 584 902 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11212\\00002.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Vincent_Cassel",
+      "Nationality": "Norway"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the provided audio clip. The possible options are only return Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of identifying the gender of a speaker in an audio clip. However, I can suggest some online tools or apps that may be able to help you with that.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 530 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 398 212 455 202 393 946 734 705 11 576 384 879 443 325 801 549 663 969 538 932 148 565 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 46 812 222 428 812 222 931 878 538 187 594 246 660 166 56 113 327 905 635 791 380 382 263 45 914 119 593 453 506 876 415 772 497 63 644 254 821 761 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 915 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 85 780 519 26 204 280 668 104 896 627 878 538 27 579 764 361 325 781 645 655 837 81 620 915 143 38 244 583 516 677 253 205 521 711 510 237 187 461 969 538 423 27 761 907 430 70 404 595 545 85 297 884 459 173 945 29 73 172 871 877 822 89 194 664 943 56 321 948 406 822 89 194 664 885 765 302 716 205 521 867 79 868 220 470 821 576 384 693 268 404 876 323 258 436 139 340 787 935 271 333 523 196 555 202 881 331 238 907 430 945 506 686 613 417 755 415 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10002\\00014.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "A.R._Rahman",
+      "Nationality": "India"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or determining a speaker's gender. I'm a text-based AI assistant.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 781 303 333 432 32 882 924 866 586 955 398 212 455 143 38 79 799 220 483 187 594 246 901 166 964 113 327 905 635 52 267 187 594 461 969 196 721 250 523 793 105 244 583 576 663 969 748 12 977 179 398 212 455 428 565 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 337 243 705 11 576 384 879 443 325 801 549 663 969 164 726 584 902 819 341 661 497 63 644 254 530 733 896 627 168 565 734 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 565 432 742 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10921\\00055.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Paul_Feig",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is being used in this audio clip? Is it only return Male or Female?<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The audio clip appears to be using male gender.",
+    "prediction_units": "202 393 946 406 538 187 594 246 660 166 56 964 113 327 635 803 791 380 382 45 914 119 593 333 357 876 565 734 870 404 676 0 260 323 534 485 948 284 663 969 198 711 510 884 79 868 220 943 948 258 436 139 340 347 376 398 212 455 889 172 338 877 822 89 327 905 693 521 537 705 11 576 384 879 443 325 801 549 377 164 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10872\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Niall_Horan",
+      "Nationality": "Ireland"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender do you hear in the audio? The possible genders are only return Male and Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or identifying audio, but I can help you with other questions or tasks.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 461 969 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 398 212 455 538 187 594 246 901 166 250 964 113 327 791 524 44 605 121 111 128 665 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 576 693 934 268 404 876 258 436 139 340 787 935 271 333 523 196 918 878 238 104 954 938 663 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 711 510 362 461 969 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10728\\00004.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Marc_Blucas",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 485 948 86 12 172 977 877 822 89 327 693"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10913\\00017.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Pat_Monahan",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "Female",
+    "prediction_units": "479 330 776 948 12 977 877 822 89 327 377 693 611"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10555\\00007.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Jordan_Gavaris",
+      "Nationality": "Canada"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and figure out the speaker's gender. Which one is it only return? Male or Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 683 337 243 889 172 871 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id11178\\00012.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Toby_Stephens",
+      "Nationality": "UK"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What gender is the speaker using in the audio? Choose only return from: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker is male.",
+    "prediction_units": "393 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 865 641 124 243 889 172 338 877 822 89 284 327 905 693 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "voxceleb/wav/id10278\\00028.wav"
+    ],
+    "metadata": {
+      "gender": "Male",
+      "Name": "Edward_Asner",
+      "Nationality": "USA"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio? Choose only return one: Male, Female.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male."
+      }
+    ],
+    "prediction": "The speaker in this audio is a male.",
+    "prediction_units": "393 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 969 406 25 825 771 46 812 222 881 333 32 683 589 337 878 609 594 6 246 901 166 56 964 113 327 905 803 791 52 424 267 714 609 825 771 685 865 641 124 362 734 498 889 338 877 822 89 284 327 693 611 916 584 902 819 415 497"
+  }
+]

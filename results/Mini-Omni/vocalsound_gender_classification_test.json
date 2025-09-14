@@ -1,0 +1,5002 @@
+[
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2750_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2750",
+      "gender": "female",
+      "speaker_age": 19,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2750"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the gender of the speaker in this clip and respond with either female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this clip is female. The speaker only provides the gender of the listener, which is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0805_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0805",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "m0805"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the vocal characteristics in this audio, return female or male. Do not include anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific song or musical. Could you please provide more context or specify which song or musical you're asking about? That way, I can give you a more accurate answer."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1142_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1142",
+      "gender": "female",
+      "speaker_age": 42,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1142"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Respond with either female or male based on the gender of the speaker in this audio. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't respond to that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0127_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0127",
+      "gender": "male",
+      "speaker_age": 58,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0127"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the sound of the voice in this clip, classify it as female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The sound of the voice in this clip is classified as female or male. The return of the gender is indicated by the sound of the female voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3027_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3027",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f3027"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and determine if the speaker is female or male. Respond only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The audio and the speaker are both female. The female speaker responds only with female or male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2142_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2142",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "United Kingdom",
+      "native_language": "DE",
+      "health_condition": "no",
+      "label": "m2142"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're discussing a topic related to gender and sexuality. It's important to approach this topic with sensitivity and respect for all individuals. If you have any specific questions or need help with something related to gender and sexuality, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0561_1_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0561",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0561"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Respond with either female or male based on the gender of the speaker in this audio. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm here to assist you with any questions or concerns you might have. If you have any specific questions or need help with something, please let me know."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_1_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1349"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1672_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1672",
+      "gender": "male",
+      "speaker_age": 21,
+      "country": "United States of America",
+      "native_language": "GU",
+      "health_condition": "no",
+      "label": "m1672"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this clip, return either female or male. Do not provide any additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't provide personal information like a phone number. If you need to contact someone, you might try reaching out through mutual contacts or social media platforms."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3004_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3004",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m3004"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It's important to approach this topic with sensitivity and respect for all individuals. The term \"female\" and \"male\" are not appropriate terms for all genders. It's crucial to use respectful language and avoid making assumptions about people based on their gender. If you have concerns about gender identity or expression, it's best to discuss them with a trusted person or professional."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3126_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3126",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f3126"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording from a female or a male? Respond with female or male. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "Yes, the voice in this recording is from a female voice. The female voice is the one who speaks the recording, and the male voice is the one who plays the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0886_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0886",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0886"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The speaker is female and male in this audio clip. The appropriate gender is not specified in the clip."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3250_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3250",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m3250"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell if the voice in this recording is female or male? Respond with one of these options and no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The voice in this recording is female or male. The voice is not specified in the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0733_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0733",
+      "gender": "male",
+      "speaker_age": 53,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0733"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker from this audio file. Choose either female or male and return only the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker from the audio file is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0429_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0429",
+      "gender": "male",
+      "speaker_age": 44,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0429"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the vocal characteristics in this audio, return female or male. Do not include anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio recording. Could you please provide more details or clarify what you mean by \"return female or male\"? This will help me understand better and assist you more effectively."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2768_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2768",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2768"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell if the voice in this recording is female or male? Respond with one of these options and no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The voice in this recording is female. The male voice is not male, but the female voice is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1307_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1307",
+      "gender": "female",
+      "speaker_age": 55,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1307"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker from this audio file. Choose either female or male and return only the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker from the audio file is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1023_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1023",
+      "gender": "female",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1023"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker based on the audio sample is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3203_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3203",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "India",
+      "native_language": "ML",
+      "health_condition": "no",
+      "label": "m3203"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the audio. Respond with female or male. Do not add anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in the audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2776_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2776",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2776"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3027_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3027",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f3027"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker is female. The gender of the male speaker is male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1481_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1481",
+      "gender": "female",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1481"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1563_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1563",
+      "gender": "male",
+      "speaker_age": 44,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "m1563"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell if the voice in this recording is female or male? Respond with one of these options and no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The voice in the recording is female, and the male voice is male. The female voice is female, and the male voice is male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3323_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3323",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f3323"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this recording, respond with female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't assist with that. If you have any other questions or need help with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1250_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1250",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1250"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1941_1_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1941",
+      "gender": "female",
+      "speaker_age": 45,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1941"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio clip? Respond with female or male, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in the haiku clip is not specified in the haiku. However, the haiku is a traditional haiku poem that is often used to express a feeling of being alone or isolated. The haiku is composed of three lines, each of which is a short poem. The first line is a haiku poem that is composed of three lines, each of which is a short poem. The second line is a haiku poem that is composed of three lines, each of which is a short poem. The third line is a haiku poem that is composed of three lines, each of which is a short poem. The haiku is a form of haiku poetry that is often used to express a feeling of being alone or isolated."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2354_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2354",
+      "gender": "female",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2354"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1382_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1382",
+      "gender": "male",
+      "speaker_age": 34,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "m1382"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording from a female or a male? Respond with female or male. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "Yes, the voice in this recording is from a female voice. The female voice is the one who speaks the recording, and it is the one who is speaking the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1641_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1641",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1641"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1023_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1023",
+      "gender": "female",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1023"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I understand your concern. It's important to approach this topic with sensitivity and respect for the individual's privacy. If you have concerns about someone's behavior or actions, it's best to address them directly and respectfully. If you need to discuss a specific issue, it's always best to approach it with empathy and understanding."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0154_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0154",
+      "gender": "male",
+      "speaker_age": 19,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0154"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It's important to approach this topic with sensitivity and respect for individual choices. The term \"gender\" is a deeply personal and sensitive topic, and it's crucial to understand that everyone's experience and identity are unique. It's important to respect and support people's choices, regardless of gender. If you have concerns or questions about gender, it's best to discuss them with a trusted person or professional."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1934_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1934",
+      "gender": "female",
+      "speaker_age": 29,
+      "country": "Italy",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1934"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio recording or video. If you're asking about the gender of the speaker, it's important to note that the gender of the speaker is not determined by the audio recording. The audio recording itself is the content of the recording, not the gender of the speaker. If you're referring to a specific audio recording, it's best to check the audio recording's source or the recording itself to determine the gender of the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1351_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1351",
+      "gender": "male",
+      "speaker_age": 51,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1351"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2183_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2183",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2183"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender based on the audio sample you provided is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0607_2_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0607",
+      "gender": "female",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0607"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1108_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1108",
+      "gender": "female",
+      "speaker_age": 49,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1108"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific context or situation. If you're talking about a specific event or situation, it's important to consider the context and the people involved. If you're referring to a specific event or situation, it's best to approach it with sensitivity and respect for the people involved."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2592_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2592",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "Brazil",
+      "native_language": "EN",
+      "health_condition": "yes",
+      "label": "f2592"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this clip, return either female or male. Do not provide any additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific film or movie. Could you please provide more details or clarify what you're asking about? That way, I can help you better."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2376_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2376",
+      "gender": "female",
+      "speaker_age": 42,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2376"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording from a female or a male? Respond with female or male. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "Yes, the voice in this recording is from a female voice. The female voice is the one who speaks the recording, and it is the one who responds to the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3249_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3249",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f3249"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and determine if the speaker is female or male. Respond only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio signal or sound. If you're talking about a female voiceover, it's typically a voiceover that is recorded by a female voice assistant. If you're referring to a male voiceover, it's a voiceover recorded by a male voice assistant."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2799_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2799",
+      "gender": "female",
+      "speaker_age": 18,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2799"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The speaker is female and male in this audio clip. The appropriate gender is not specified in the audio clip."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1216_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1216",
+      "gender": "female",
+      "speaker_age": 50,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1216"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "This is a complex and sensitive topic. It's important to approach it with empathy and understanding. If you have concerns about gender identity, it's crucial to approach this with sensitivity and respect for the individual's choices. It's also important to consider the context and the reasons behind their choices. If you're feeling unsure, it might be helpful to speak with a trusted friend or a counselor to gain more insight."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0208_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0208",
+      "gender": "female",
+      "speaker_age": 40,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0208"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The speaker is female and male in this audio clip. The appropriate gender is not specified in the audio clip."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1964_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1964",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1964"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're dealing with a situation where you're unsure about the answer to a question. It's important to approach this with empathy and understanding. If you're unsure about the answer, you might want to ask the person directly or seek clarification from someone you trust. Sometimes, a different perspective can help clarify things. Remember, it's okay to seek help when you need it."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1606_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1606",
+      "gender": "female",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1606"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the audio. Respond with female or male. Do not add anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in the audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0471_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0471",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0471"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio clip? Respond with female or male, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0866_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0866",
+      "gender": "female",
+      "speaker_age": 54,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0866"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the vocal characteristics in this audio, return female or male. Do not include anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio file. Could you please provide more context or specify what you're trying to understand or relate to? This will help me give you a more accurate and helpful response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1934_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1934",
+      "gender": "female",
+      "speaker_age": 29,
+      "country": "Italy",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1934"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The term \"Chu\" is a slang term used to refer to a female speaker. It is derived from the Chinese word \"chu,\" which means \"woman.\" In the context of the audio clip, it is likely a female speaker who is speaking in a more informal or casual manner."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1515_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1515",
+      "gender": "female",
+      "speaker_age": 22,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1515"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The recording is a recording of a female voiceover artist. The recording is recorded by a female voiceover artist and then edited to create a sound effect. The female voiceover artist then uses a microphone to record the sound effect. The female voiceover artist then uses a sound editing software to combine the audio and create a final recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3197_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3197",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "m3197"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to audio or respond with either female or male. However, I can help you find a female or male who can answer your question."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0861_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0861",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0861"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker can vary widely depending on the context. In many settings, the speaker is male, while in others, it might be female. For example, in a classroom, the male speaker might be the teacher, while in a social setting, the female speaker might be the teacher. It's important to consider the context and the specific situation to understand the gender of the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0801_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0801",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0801"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this recording, respond with female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The recording you're referring to is likely a song or a video. If you're looking for a specific answer, could you please provide more details or context?"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3209_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3209",
+      "gender": "male",
+      "speaker_age": 22,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "m3209"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording from a female or a male? Respond with female or male. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "Yes, the voice in this recording is recorded from a female or a male. The female voice is used to respond to the male voice, while the male voice is used to respond to the female voice."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1575_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1575",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "m1575"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to audio or respond with either female or male. However, I can help you find a female or male who can answer your question."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1957_1_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1957",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1957"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio or response in a conversation. If you're asking about a specific audio or response, could you please provide more context or specify what you're referring to? That way, I can give you a more accurate and helpful response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3250_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3250",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m3250"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio clip? Respond with female or male, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in a haiku is determined by the syllable structure of the poem. In this case, the haiku is a line that consists of three syllables. The first syllable is masculine, the second is feminine, and the third is singular. Therefore, the gender of the speaker in this haiku is male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0968_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0968",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "f0968"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell if the voice in this recording is female or male? Respond with one of these options and no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The voice in the recording is female or male. The voice is not specified in the description."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1906_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1906",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "m1906"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and determine if the speaker is female or male. Respond only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio recording. If you're talking about a female voiceover, it's important to ensure that the voice is clear and easy to understand. If you're referring to a male voiceover, it's crucial to ensure that the voice is clear and that the audience can hear it easily."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1994_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1994",
+      "gender": "female",
+      "speaker_age": 52,
+      "country": "Canada",
+      "native_language": "FR",
+      "health_condition": "no",
+      "label": "f1994"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the sound of the voice in this clip, classify it as female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The sound of the voice in this clip is classified as female or male. The return of the gender is also classified as \"hush.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2043_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2043",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2043"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Respond with either female or male based on the gender of the speaker in this audio. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't respond with that information. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0592_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0592",
+      "gender": "female",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0592"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're asking about the gender of a speaker. If the speaker is female, then the gender of the speaker is typically male. If the speaker is male, then the gender of the speaker is typically female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1305_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1305",
+      "gender": "female",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1305"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this clip, return either female or male. Do not provide any additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't provide personal information about individuals. If you need to contact someone, you might try reaching out through mutual contacts or professional networks."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2345_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2345",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "m2345"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and determine if the speaker is female or male. Respond only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The term \"female\" is a gender-neutral term that refers to a person's gender, regardless of their sexual orientation. It's not a specific gender, but rather a term that can be used to describe any person regardless of their gender."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2345_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2345",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "m2345"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Respond with either female or male based on the gender of the speaker in this audio. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't respond to that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1835_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1835",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1835"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the sound of the voice in this clip, classify it as female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The sound of the voice in this clip is quite distinctive and is often described as a female voice. The female voice is characterized by its soft, soothing tone and the use of soft, mellow tones. The male voice is described as a male voice, with a soft, mellow tone. The female voice is described as a female voice, with a soft, mellow tone. The male voice is described as a male voice, with a soft, mellow tone."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0942_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0942",
+      "gender": "female",
+      "speaker_age": 41,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0942"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the audio. Respond with female or male. Do not add anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in the audio is not specified in the audio. However, the audio does not provide any information about the gender of the speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0731_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0731",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0731"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific context or situation. If you're talking about a specific context, like a conversation or a story, it's important to consider the context and the characters involved. If you're referring to a specific situation, like a conversation or a story, it's crucial to understand the background and the dynamics of the characters. If you need more specific information or clarification, feel free to ask!"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_1_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1349"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker based on the audio sample is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2388_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2388",
+      "gender": "female",
+      "speaker_age": 28,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2388"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio clip? Respond with female or male, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female. The speaker responds with \"female\" and \"male\" without any other explanation."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1334_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1334",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1334"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and determine if the speaker is female or male. Respond only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The audio and the female speaker are both female speakers. The audio is likely a mix of female and male speakers, and the female speaker is likely speaking in a more formal or formal tone. The female speaker is likely speaking in a more formal or formal tone, and the male speaker is likely speaking in a more casual or informal tone."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0585_1_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0585",
+      "gender": "female",
+      "speaker_age": 54,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0585"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0431_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0431",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0431"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Respond with either female or male based on the gender of the speaker in this audio. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't respond with that kind of information. It's important to respect people's privacy and personal boundaries. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1029_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1029",
+      "gender": "male",
+      "speaker_age": 22,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1029"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this clip, return either female or male. Do not provide any additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The voice in this clip is likely a male voiceover artist or a voice actor. The female voiceover is likely a female voiceover artist or a female voiceover artist."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3143_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3143",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "India",
+      "native_language": "TE",
+      "health_condition": "no",
+      "label": "f3143"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The recording, \"I'm sorry, I'm not able to answer this question.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1049_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1049",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1049"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker or male speaker can vary based on the context and the specific situation. In many cases, the gender of the speaker or male speaker is determined by the context and the speaker's background. For example, if the speaker is a male, the gender of the speaker may be male. On the other hand, if the speaker is a female, the gender of the speaker may be female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0739_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0739",
+      "gender": "female",
+      "speaker_age": 55,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0739"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the audio. Respond with female or male. Do not add anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in the audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1299_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1299",
+      "gender": "female",
+      "speaker_age": 44,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1299"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the gender of the speaker in this clip and respond with either female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this clip is female. The speaker responds with \"Either female or male\" and only provides the gender \"Huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh huh h"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3220_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3220",
+      "gender": "female",
+      "speaker_age": 45,
+      "country": "India",
+      "native_language": "MR",
+      "health_condition": "no",
+      "label": "f3220"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker can vary widely depending on the context. In a professional setting, female speakers often speak in a more formal and authoritative manner, while male speakers might use more casual language and may not be as formal. It's always a good idea to ask the speaker directly or use a pronoun to clarify their gender."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2047_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2047",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "m2047"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2499_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2499",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "m2499"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker based on the audio sample is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1964_2_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1964",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1964"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0510_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0510",
+      "gender": "female",
+      "speaker_age": 65,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0510"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this recording, respond with female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The voice in this recording is a female voice. The male voice is the only one returned to the answer."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3337_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3337",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m3337"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1330_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1330",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1330"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell if the voice in this recording is female or male? Respond with one of these options and no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The voice in the recording is female, and the male's voice is male. The female's voice is female, and the male's voice is male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1049_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1049",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1049"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Respond with either female or male based on the gender of the speaker in this audio. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't respond to that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0756_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0756",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0756"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the gender of the speaker in this clip and respond with either female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1164_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1164",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1164"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0638_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0638",
+      "gender": "female",
+      "speaker_age": 39,
+      "country": "United Kingdom",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "f0638"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The speaker is female, and the male in this audio clip responds with the appropriate gender, no extra details."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2634_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2634",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2634"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of a speaker can vary widely depending on the context and the specific situation. In many cases, the female speaker might respond with just the gender of the person speaking, while the male speaker might respond with a more formal or gender-specific response. It's important to consider the context and the audience when determining the gender of a speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0595_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0595",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0595"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell if the voice in this recording is female or male? Respond with one of these options and no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The voice in this recording is female, and the male voice is male. The recording is recorded in a studio with a female voice and a male voice. The recording is then edited and recorded, and the audio is then mixed and mastered. The audio is then released to the public, and the recording is shared with the public."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2733_1_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2733",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "ML",
+      "health_condition": "no",
+      "label": "m2733"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell if the voice in this recording is female or male? Respond with one of these options and no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The voice in the recording is female or male, and the female voice is the one that responds with one of the options. The male voice is the one that responds with no extra details."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1823_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1823",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "m1823"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio clip? Respond with female or male, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in the 'Hadioclick' response is typically male. This is because the speaker is addressing a female, and the female is the one who is being addressed."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0177_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0177",
+      "gender": "female",
+      "speaker_age": 73,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0177"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0787_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0787",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "Romania",
+      "native_language": "RO",
+      "health_condition": "no",
+      "label": "m0787"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the sound of the voice in this clip, classify it as female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The sound of the voice in this clip is classified as female or male. The return of the gender is not specified in the clip."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1199_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1199",
+      "gender": "female",
+      "speaker_age": 28,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1199"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The recording you're referring to is likely a recording of a female voiceover. The female voiceover is typically the first line of the recording, and it is usually accompanied by a background sound or music. The recording is then edited and recorded separately, and the female voiceover is the final line."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1168_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1168",
+      "gender": "male",
+      "speaker_age": 25,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "m1168"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1988_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1988",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "United Kingdom",
+      "native_language": "NE",
+      "health_condition": "no",
+      "label": "m1988"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio signal or sound. If you're talking about a female voiceover, it's important to ensure that the voice is clear and audible. If it's a male voiceover, you might want to use a male voiceover. If you're referring to a male voiceover, it's best to use a male voiceover. If you have a specific context or question about the audio, feel free to share more details!"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3155_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3155",
+      "gender": "female",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f3155"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the audio. Respond with female or male. Do not add anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in the audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1575_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1575",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "m1575"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1702_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1702",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1702"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording from a female or a male? Respond with female or male. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "Yes, the voice in this recording is from a female voice. The female voice is the one who speaks the recording, and the male voice is the one who plays the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0169_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0169",
+      "gender": "male",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0169"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The recording, \"I'm not sure,\" is a phrase used to express uncertainty or lack of clarity. It's often used to indicate that the speaker is unsure about something. The phrase \"No further explanation is required\" is a statement that suggests there is no additional information or explanation needed."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1470_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1470",
+      "gender": "female",
+      "speaker_age": 41,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "f1470"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2118_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2118",
+      "gender": "female",
+      "speaker_age": 32,
+      "country": "France",
+      "native_language": "FR",
+      "health_condition": "no",
+      "label": "f2118"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker based on the audio sample is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2499_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2499",
+      "gender": "male",
+      "speaker_age": 38,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "m2499"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker can be determined by the context in which the speech is given. If the speaker is speaking in a formal setting, such as a meeting or a formal meeting, then the gender of the speaker is likely to be male. However, if the speaker is speaking in a casual setting, such as a casual conversation or a casual meeting, then the gender of the speaker is likely to be female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3126_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3126",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f3126"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording from a female or a male? Respond with female or male. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "Yes, the voice in this recording is from a female voice. The female voice is the one who speaks the recording, and the male voice is the one who plays the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2592_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2592",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "Brazil",
+      "native_language": "EN",
+      "health_condition": "yes",
+      "label": "f2592"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The speaker is female and male in this audio clip. The appropriate gender for this is male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1417_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1417",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1417"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1976_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1976",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "m1976"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the vocal characteristics in this audio, return female or male. Do not include anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't provide audio recordings. However, I can help you find the audio from the vocal characteristics you mentioned. You can search for the audio on the internet or listen to it on a device like a microphone."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3222_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3222",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f3222"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the audio. Respond with female or male. Do not add anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in the audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1579_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1579",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "m1579"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The recording is a voice in the recording process. The female or male voice is the one who makes the recording sound. The explanation is the one that explains the recording process."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1385_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1385",
+      "gender": "female",
+      "speaker_age": 57,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1385"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker based on the audio sample is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2784_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2784",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2784"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to audio or respond with either female or male. However, I can help you find a female or male who can answer your question."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1968_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1968",
+      "gender": "male",
+      "speaker_age": 36,
+      "country": "Mexico",
+      "native_language": "ES",
+      "health_condition": "no",
+      "label": "m1968"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific phrase or expression. It's important to be mindful of the context and the tone of the conversation. If you're unsure about the meaning or intent behind the phrase, it might be helpful to ask the speaker directly or provide more context."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2745_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2745",
+      "gender": "female",
+      "speaker_age": 47,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2745"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell if the voice in this recording is female or male? Respond with one of these options and no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The voice in the recording is female, and the male voice is male. The female voice is female, and the male voice is male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0803_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0803",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0803"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2808_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2808",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "m2808"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0101_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0101",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0101"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated with the speaker's behavior. It's important to address these feelings constructively. If you feel comfortable, you might try expressing your concerns to the speaker directly, or seeking support from a trusted friend or family member. If the behavior continues, it might be helpful to document the incidents and report them to the appropriate authorities. Remember, it's okay to feel upset, but taking action to address the issue can lead to a more positive outcome."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2682_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2682",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2682"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this recording, respond with female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The recording you're referring to is likely a song or a video. If you're looking for a specific song or video, you might want to check the artist's official website or social media profiles for the recording details."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2712_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2712",
+      "gender": "female",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "yes",
+      "label": "f2712"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2547_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2547",
+      "gender": "male",
+      "speaker_age": 39,
+      "country": "India",
+      "native_language": "ML",
+      "health_condition": "no",
+      "label": "m2547"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the gender of the speaker in this clip and respond with either female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1620_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1620",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1620"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker can vary widely depending on the context. In a professional setting, female speakers are typically more likely to speak in a more formal or formal tone, while male speakers might use more casual or informal language. In a more casual setting, female speakers might use more casual language, while male speakers might use more formal language. It's important to consider the context and the audience when determining the gender of a speaker."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2390_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2390",
+      "gender": "male",
+      "speaker_age": 25,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2390"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The recording is a recording of a female voiceover artist. The recording is recorded by a female voiceover artist and then edited to create a sound effect. The female voiceover artist then transcribes the audio into a sound file. The audio file is then uploaded to a microphone and then sent to a digital audio workstation. The digital audio workstation then converts the audio file into a sound file. The sound file is then sent to a digital audio workstation to be played back."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0607_3_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0607",
+      "gender": "female",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0607"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker is female. The gender of the speaker is male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0401_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0401",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0401"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't respond with either female or male. I'm here to help with any questions or provide information you need. How can I assist you today?"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1160_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1160",
+      "gender": "female",
+      "speaker_age": 22,
+      "country": "United States of America",
+      "native_language": "ZH",
+      "health_condition": "no",
+      "label": "f1160"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording from a female or a male? Respond with female or male. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "Yes, the voice in this recording is from a female voice. The female voice is the one who speaks the recording, and the male voice is the one who plays the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0434_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0434",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0434"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific context or situation. If you're talking about a specific event or situation, it's important to consider the context and the people involved. If you're referring to a specific event or situation, it's best to approach it with sensitivity and respect for the people involved."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2147_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2147",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2147"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0222_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0222",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "m0222"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this clip, return either female or male. Do not provide any additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific situation where someone is making a voice in a particular context. Could you provide a bit more context or clarify what you're asking about? That way, I can give you a more accurate and helpful response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0640_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0640",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "m0640"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The speaker is female and the audio clip is in the female voice. The appropriate gender is not specified in the given information."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2153_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2153",
+      "gender": "male",
+      "speaker_age": 44,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2153"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "Yes, the speaker is female and male in this audio clip."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3342_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3342",
+      "gender": "male",
+      "speaker_age": 36,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m3342"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The speaker is female and male in this audio clip."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1964_1_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1964",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1964"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Respond with either female or male based on the gender of the speaker in this audio. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't respond with that information. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3264_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3264",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "Netherlands",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f3264"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify whether the speaker is female or male in this audio clip. Respond with the appropriate gender, no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The speaker is female and the audio clip is in the female voice. The appropriate gender is not specified in the given information."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2754_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2754",
+      "gender": "male",
+      "speaker_age": 51,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2754"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to audio or respond with either female or male. However, I can help you find a male answer if you'd like."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2024_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2024",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2024"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Respond with either female or male based on the gender of the speaker in this audio. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't respond with a response that is inappropriate or offensive. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2043_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2043",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2043"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker can be determined by the context in which the speech is given. If the speaker is speaking in a male voice, then the gender of the speaker is female. If the speaker is speaking in a female voice, then the gender of the speaker is male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2759_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2759",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2759"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this recording, respond with female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The recording was recorded with female voice and male voice. The only return the answer is is a shout."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1719_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1719",
+      "gender": "female",
+      "speaker_age": 25,
+      "country": "Canada",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1719"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The recording, \"No further explanation is required,\" is a statement that expresses the speaker's opinion on the recording. It implies that the recording does not provide any additional information or context beyond what is already available."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1906_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1906",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "m1906"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2041_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2041",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2041"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated and upset. It's important to express your feelings in a healthy way. Maybe you could try talking to someone you trust about how you're feeling, or writing down your thoughts in a journal. If you need to talk to someone, consider reaching out to a friend or family member. Remember, it's okay to feel upset, and it's important to take care of yourself."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2447_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2447",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "m2447"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the sound of the voice in this clip, classify it as female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The sound of the voice in this clip is classified as female or male. The return of the gender is also classified as only the gender."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0585_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0585",
+      "gender": "female",
+      "speaker_age": 54,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0585"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker based on the audio sample is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1401_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1401",
+      "gender": "female",
+      "speaker_age": 33,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1401"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker is determined by the context and the speaker's personal experiences and beliefs. It's important to consider the speaker's background, experiences, and personal preferences when determining their gender. If the speaker is a male, they might be referred to as male. If they are a female, they might be referred to as female. It's also important to consider the speaker's gender identity and how it relates to their experiences and beliefs."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0706_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0706",
+      "gender": "female",
+      "speaker_age": 23,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0706"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the gender of the speaker in this clip and respond with either female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0420_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0420",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0420"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1878_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1878",
+      "gender": "female",
+      "speaker_age": 43,
+      "country": "France",
+      "native_language": "FR",
+      "health_condition": "no",
+      "label": "f1878"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker based on the audio sample is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2643_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2643",
+      "gender": "female",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2643"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific context or situation. If you're talking about a specific conversation or interaction, it's important to consider the context and the intentions behind the words. If you're referring to a specific situation or event, it's crucial to approach it with sensitivity and respect for the other person's feelings and boundaries. If you need more information or clarification, feel free to ask!"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0595_2_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0595",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0595"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The recording, response with female or male, no further explanation is required."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1393_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1393",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "m1393"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the vocal characteristics in this audio, return female or male. Do not include anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're looking for a specific audio format or style. Could you please provide more details about what you're trying to achieve? This will help me give you a more accurate and helpful response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2976_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2976",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Ireland",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2976"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1072_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1072",
+      "gender": "male",
+      "speaker_age": 56,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1072"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated with the audio and response. It's important to address these issues with empathy and understanding. Maybe you could try speaking with the person who is making the call to express how you feel. If that doesn't help, you could try reaching out to a mutual friend or family member for support. It's always better to approach the situation with kindness and empathy."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1131_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1131",
+      "gender": "male",
+      "speaker_age": 39,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1131"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker from this audio file. Choose either female or male and return only the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker from the audio file is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0276_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0276",
+      "gender": "female",
+      "speaker_age": 38,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0276"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Respond with either female or male based on the gender of the speaker in this audio. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't respond with either female or male based on the gender of the speaker in this audio. However, I can provide you with a list of resources that can help you find the information you need."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2160_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2160",
+      "gender": "male",
+      "speaker_age": 35,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2160"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0798_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0798",
+      "gender": "male",
+      "speaker_age": 47,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0798"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the audio. Respond with female or male. Do not add anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in the audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2939_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2939",
+      "gender": "male",
+      "speaker_age": 39,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2939"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker based on the audio sample is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1673_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1673",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1673"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Can you tell if the voice in this recording is female or male? Respond with one of these options and no extra details.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The voice in the recording of his film or movie is likely a male actor. The male actor responds with one of the options and no extra details."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2108_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2108",
+      "gender": "female",
+      "speaker_age": 37,
+      "country": "India",
+      "native_language": "TA",
+      "health_condition": "no",
+      "label": "f2108"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this recording, respond with female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The voice in this recording is a female voice. The answer is: \"Only return the answer.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2151_0_sigh.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2151",
+      "gender": "male",
+      "speaker_age": 21,
+      "country": "Australia",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2151"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It's important to approach this topic with sensitivity and respect for all individuals. The term \"gender\" is a derogatory and offensive term that has been used to demean and dehumanize women. It's crucial to recognize that everyone deserves respect and dignity, regardless of their gender identity. If you have concerns or questions about gender identity, it's best to seek out information from trusted sources or professionals who can provide accurate and respectful perspectives."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2751_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2751",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2751"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "I'm sorry, but I can't listen to audio. However, I can help you find a male voice actor who can provide the audio for your video."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0164_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0164",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "m0164"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker from this audio file. Choose either female or male and return only the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker from the audio file is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0595_1_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0595",
+      "gender": "male",
+      "speaker_age": 52,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0595"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please listen to the speaker in this audio and determine if they are female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "Yes, in many countries, including Saudi Arabia, the speaker in the audio and the listener in the video are female and male. This is because the gender of the speaker and the listener are both male. Additionally, the gender of the audio and the video are both female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0557_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0557",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "Canada",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0557"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1955_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1955",
+      "gender": "male",
+      "speaker_age": 43,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1955"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and determine if the speaker is female or male. Respond only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The audio and the speaker are both female. The female speaker responds only with female or male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2853_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2853",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2853"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The speaker is female or male based on the audio or the audio-based on the audio-based."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0873_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0873",
+      "gender": "male",
+      "speaker_age": 33,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "no",
+      "label": "m0873"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific situation where someone is responding with either a female or a male. If you're asking about a specific context, like a conversation or a story, it's important to consider the context and the dynamics involved. If you're referring to a specific event or situation, it might be helpful to look into the background information or the specific details of the interaction."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1566_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1566",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "m1566"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the gender of the speaker in this clip and respond with either female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this clip is female. The speaker responds with either female or male, but only provides the gender."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3341_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3341",
+      "gender": "male",
+      "speaker_age": 42,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m3341"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and determine if the speaker is female or male. Respond only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The term \"female\" is a gender-neutral term that can be used to refer to any woman. It is not a specific gender, but rather a term that can be used to refer to any woman."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1132_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1132",
+      "gender": "female",
+      "speaker_age": 21,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1132"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this clip, return either female or male. Do not provide any additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific context or situation. Could you please provide more details or clarify what you're asking about? I'm here to help!"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3025_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3025",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "yes",
+      "label": "m3025"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording from a female or a male? Respond with female or male. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "Yes, the voice in this recording is from a female voice. The female voice is the one who speaks the recording, and the male voice is the one who plays the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1346_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1346",
+      "gender": "female",
+      "speaker_age": 29,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1346"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this haiku is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1778_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1778",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "f1778"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the gender of the speaker in this audio clip? Respond with female or male, without any other explanation.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in a 'simplified' radio clip is not determined by the content of the clip. The speaker's gender is simply a matter of personal preference."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1135_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1135",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1135"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're asking about the gender of a speaker. If the speaker is female, then the gender of the speaker is typically male. If the speaker is male, then the gender of the speaker is typically female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2223_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2223",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2223"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker from this audio file. Choose either female or male and return only the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker from the audio file is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2852_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2852",
+      "gender": "female",
+      "speaker_age": 28,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2852"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker from this audio file. Choose either female or male and return only the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker from the audio file is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1034_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1034",
+      "gender": "male",
+      "speaker_age": 59,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1034"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2768_1_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2768",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2768"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the vocal characteristics in this audio, return female or male. Do not include anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio recording or video. Could you please provide more context or specify what you're asking about? This will help me give you a more accurate answer."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3325_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3325",
+      "gender": "male",
+      "speaker_age": 32,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m3325"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The recording, \"I'm Not a Male,\" was recorded by the band The Beatles. The female version, \"I'm a Male,\" was recorded by The Beatles themselves."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0692_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0692",
+      "gender": "female",
+      "speaker_age": 27,
+      "country": "Canada",
+      "native_language": "ES",
+      "health_condition": "no",
+      "label": "f0692"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The recording is done by a professional audio engineer who uses advanced recording techniques to capture the sound of the female or male voice. The audio engineer then uses a digital audio workstation to edit the audio and add effects to the recording. The audio engineer also uses a microphone to amplify the sound and make it sound more professional. The audio engineer then mixes the audio with other sound effects and other audio elements to create the final recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1597_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1597",
+      "gender": "male",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m1597"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the vocal characteristics in this audio, return female or male. Do not include anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a song or a musical composition. Could you please provide more context or specify which song or musical you're asking about? That way, I can help you better."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0557_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0557",
+      "gender": "male",
+      "speaker_age": 40,
+      "country": "Canada",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0557"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio or response in a conversation. If you're asking about a specific audio or response, could you please provide more context or specify what you're referring to? That way, I can give you a more accurate and helpful response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1349"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and determine if the speaker is female or male. Respond only with female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker is determined by the context in which they are speaking. In this case, the speaker is female and male, so the gender of the speaker is determined by the context in which they are speaking."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f3053_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f3053",
+      "gender": "female",
+      "speaker_age": 47,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "f3053"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the gender of the speaker in this clip and respond with either female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0202_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0202",
+      "gender": "male",
+      "speaker_age": 29,
+      "country": "Brazil",
+      "native_language": "PT",
+      "health_condition": "no",
+      "label": "m0202"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker based on this audio sample. Choose female or male and return just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker based on the audio sample is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2739_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2739",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "f2739"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker can vary widely depending on the context. In many cases, female speakers are often referred to as \"female\" or \"male\" because they are typically more likely to speak and express themselves in a more formal or formal manner. On the other hand, male speakers are often referred to as \"male\" or \"female\" because they are generally more likely to speak and express themselves in a more casual or informal manner."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2432_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2432",
+      "gender": "male",
+      "speaker_age": 31,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2432"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in the recording, respond with female or male. No further explanation is required.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific recording or recording of a female or male voice. If you're asking about a specific recording, it would be helpful to know the name of the recording or the artist. If you're referring to a specific recording, could you please provide more details?"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1349_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1349",
+      "gender": "female",
+      "speaker_age": 34,
+      "country": "United Kingdom",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1349"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio cup is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3025_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3025",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "India",
+      "native_language": "HI",
+      "health_condition": "yes",
+      "label": "m3025"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker from this audio file. Choose either female or male and return only the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker from the audio file is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0874_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0874",
+      "gender": "male",
+      "speaker_age": 26,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0874"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the sound of the voice in this clip, classify it as female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The sound of the voice in this clip is described as female or male. The return of the gender is described as \"heep.\""
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1248_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1248",
+      "gender": "female",
+      "speaker_age": 24,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1248"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this clip, return either female or male. Do not provide any additional information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "It sounds like you're trying to understand the difference between female and male voices in a speech. If you're referring to a speech, you're asking if there are any additional voices in the speech that are female or male. If you're talking about a speech, you're asking if there are any additional voices in the speech that are female or male."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0538_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0538",
+      "gender": "male",
+      "speaker_age": 27,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0538"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to this audio and respond with either female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "It sounds like you're referring to a specific audio or response in a conversation. If you're asking about a specific audio or response, could you please provide more context or specify what you're referring to? That way, I can give you a more accurate and helpful response."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f1244_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f1244",
+      "gender": "female",
+      "speaker_age": 25,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f1244"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Is the voice in this recording from a female or a male? Respond with female or male. No extra information.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "Yes, the voice in this recording is from a female voice. The female voice is the one who speaks the recording."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m2196_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "m2196",
+      "gender": "male",
+      "speaker_age": 30,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m2196"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the voice in this recording, respond with female or male. Only return the answer.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The voice in this recording is a female voice. The male voice is the only one returned to the answer."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0101_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0101",
+      "gender": "female",
+      "speaker_age": 48,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0101"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the sound of the voice in this clip, classify it as female or male. Return only the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The sound of the voice in this clip is classified as female or male. The return of the gender is not specified in the clip."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m3292_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "m3292",
+      "gender": "male",
+      "speaker_age": 23,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "yes",
+      "label": "m3292"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the gender of the speaker in this clip and respond with either female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this clip is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m1533_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m1533",
+      "gender": "male",
+      "speaker_age": 21,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "yes",
+      "label": "m1533"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and classify the gender of the speaker as either female or male. Only return female or male.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker can vary widely depending on the context. In many cases, the speaker is female, while in other cases, they are male. It's important to consider the context and the specific situation to determine the gender accurately."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0933_0_sneeze.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0933",
+      "gender": "female",
+      "speaker_age": 18,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0933"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the gender of the speaker in this audio as either female or male. Only return the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker in this audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0640_0_laughter.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0640",
+      "gender": "male",
+      "speaker_age": 18,
+      "country": "Italy",
+      "native_language": "IT",
+      "health_condition": "no",
+      "label": "m0640"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in this audio clip. Reply with female or male. Only provide the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in this haiku is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\m0169_0_sniff.wav"
+    ],
+    "metadata": {
+      "spk_id": "m0169",
+      "gender": "male",
+      "speaker_age": 37,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "m0169"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the gender of the speaker in the audio. Respond with female or male. Do not add anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Male"
+      }
+    ],
+    "result": "The gender of the speaker in the audio is female."
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f0274_0_cough.wav"
+    ],
+    "metadata": {
+      "spk_id": "f0274",
+      "gender": "female",
+      "speaker_age": 40,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f0274"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the vocal characteristics in this audio, return female or male. Do not include anything else.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "I'm sorry, but I can't provide audio recordings. However, I can help you find the audio from the vocal characteristics you mentioned. Could you please specify which audio you're referring to?"
+  },
+  {
+    "voice": [
+      "vocalclassification/dataset\\f2023_0_throatclearing.wav"
+    ],
+    "metadata": {
+      "spk_id": "f2023",
+      "gender": "female",
+      "speaker_age": 39,
+      "country": "United States of America",
+      "native_language": "EN",
+      "health_condition": "no",
+      "label": "f2023"
+    },
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine whether the speaker is female or male based on the audio. Respond with just the gender.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Female"
+      }
+    ],
+    "result": "The gender of the speaker can be determined by the context in which the speech is given. For example, if the speaker is giving a speech about gender equality, then the gender of the speaker is likely to be male. On the other hand, if the speaker is giving a speech about gender discrimination, then the gender of the speaker is likely to be female."
+  }
+]

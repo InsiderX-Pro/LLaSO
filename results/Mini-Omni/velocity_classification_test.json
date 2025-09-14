@@ -1,0 +1,1602 @@
+[
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_045-025-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the velocity from the provided audio and return only one of the valid MIDI velocity values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific that's bothering you? I'm here to listen and help if I can."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_025-078-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific that's bothering you? I'm here to listen and help if I can."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_electronic_011-092-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "Could you please provide more context or specify what you need help with? I'm here to assist you with any questions or concerns you might have."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_037-033-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the softest note in the given audio and classify its velocity. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you need help with or something you'd like to talk about? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_039-089-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_106-081-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity of this note. Select one of the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "It sounds like you're looking for a song or a song that has a strong emotional impact. Could you please provide more details about the song or the context? That way, I can help you find the perfect song for you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_110-085-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI velocity category. Select one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific that's bothering you? I'm here to listen and help if I can."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_143-051-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity of this note. Select one of the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you need help with or something you'd like to talk about? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_synthetic_003-032-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "Sure, I can help you with that. I can provide you with a list of resources that can help you with your research. I can also help you find relevant articles and videos that can provide more information."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_033-046-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're feeling a bit frustrated. Is there something specific you'd like to talk about or need help with? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_027-051-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_020-080-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific that's bothering you? I'm here to listen and help if I can."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_007-087-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "It sounds like you're looking for a recommendation or a suggestion. Could you please provide a bit more context or specify what you need help with? I'm here to assist you!"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_046-026-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you'd like to talk about or need help with? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_032-032-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI velocity category. Select one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_026-088-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "Could you please provide more context or specify what you're referring to? I'd love to help!"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_076-025-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_050-056-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the velocity and return only one of the following numbers: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "I'm here to help! Could you please provide more details or clarify your question?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_010-104-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "Great! I'll need some more information from you to get started. What kind of content do you want to include in the blog posts? What topics do you want to focus on? What is the target audience?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_009-041-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the softest note in the given audio and classify its velocity. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "I'm sorry, but I can't assist with that. If you have any other questions or need help with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_002-092-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI velocity category. Select one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_050-042-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the softest note in the given audio and classify its velocity. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "It sounds like you're looking for a song. Could you please provide more details about the song or the context? For example, are you asking for a specific song title, artist, or genre? This will help me give you a more accurate answer."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_066-058-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling overwhelmed. Is there something specific you need help with or a particular topic you're interested in? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_033-055-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the dynamic expression in this recording and return the closest matching MIDI velocity from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you need help with or something you'd like to talk about? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_028-096-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "Sure, I can help you with that. I can provide you with a list of resources that can help you with your research. I can also provide you with a list of practical actions or suggestions that you can take to help you with your research."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_004-101-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_133-101-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "Sure, I can help you with that. What would you like to know more about?"
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\reed_acoustic_018-057-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific you'd like to talk about or need help with? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_012-034-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity in the given audio sample. Respond with one of the following values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling overwhelmed. Is there something specific you need help with or a particular question you have in mind? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_091-019-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the dynamic expression in this recording and return the closest matching MIDI velocity from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you'd like to talk about or need help with? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_014-069-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "It sounds like you're looking for a recommendation or suggestion. Could you please provide more context or specify what you need help with? I'm here to assist you!"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_006-039-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_acoustic_028-067-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "Sure, what would you like to know more about?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_027-067-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you'd like to talk about or need help with? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_024-088-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific you'd like to talk about or need help with? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_018-106-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity of this note. Select one of the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_036-086-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "It sounds like you're looking for a song or a song that has a specific beat or tempo. Could you please provide more details about the song or the artist? That way, I can help you find the perfect match."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_064-061-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I'm sorry, but I can't assist with that. If you have any other questions or need help with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_013-063-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific you'd like to talk about or need help with? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_033-061-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the provided audio, recognize the velocity and return only one of the following numbers: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "Sure, I can help you with that. I can provide you with a list of resources that can help you with your research. I can also provide you with a list of practical actions or suggestions that you can take to help you with your research."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_054-089-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific that's bothering you? I'm here to listen and help if I can."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_069-071-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I'm here to help! What would you like to know or discuss?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_029-075-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the audio and determine its MIDI velocity category. Select one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "I'm here to help! Could you please provide more details or clarify your question?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_012-106-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "It sounds like you're asking about something specific. Could you please provide more details or clarify what you need help with? I'm here to assist you!"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_024-030-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "Sure, I can help you with that. I can provide you with a list of resources that can help you with your research. I can also provide you with a list of experts in the field who can provide you with advice and guidance."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_030-066-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the velocity from the provided audio and return only one of the valid MIDI velocity values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "It sounds like you're looking for a song. Could you please provide more details about the song or the artist? That way, I can help you find the right song for you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_084-047-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "Sure, I can help you with that. I can provide you with a list of resources that can help you with your research. I can also provide you with a list of practical actions or suggestions that you can take to help you with your research."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_000-100-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the softest note in the given audio and classify its velocity. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're referring to something specific. Could you please provide more details or clarify what you're asking about? I'm here to help!"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_015-071-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "I'm here to help! What would you like to know or talk about?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_029-060-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple notes are present, classify the dominant note’s velocity. Respond with only: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_040-085-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify the MIDI velocity. Choose only from: 127, 100, 75, 50, or 25. Output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "Sure, what would you like to know more about?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_023-029-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you'd like to talk about or need help with? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_032-029-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you'd like to talk about or need help with? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_099-037-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_013-105-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I'm sorry, but I can't assist with that. If you have any other questions or need help with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\reed_acoustic_052-050-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify the MIDI velocity. Choose only from: 127, 100, 75, 50, or 25. Output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific you'd like to talk about or need help with? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\bass_synthetic_034-049-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the velocity classification is based on the actual played note dynamics. Choose only from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "It sounds like you're feeling a bit frustrated. Is there something specific you'd like to talk about or need help with? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\flute_acoustic_001-072-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you need help with or something you'd like to talk about? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_003-063-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "Could you please provide more context or specify what you need help with? I'm here to assist you with any questions or concerns you might have."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_121-088-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Extract the velocity from the provided audio and return only one of the valid MIDI velocity values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "I'm sorry to hear that you're feeling this way. It's important to talk to someone who can help, like a trusted friend, family member, or mental health professional. They can provide support and help you navigate through these emotions."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_049-089-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're looking for a specific item or service. Could you please provide more details or clarify what you're referring to? That way, I can assist you better."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_062-056-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you need help with or something you'd like to talk about? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_005-068-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you need help with or something you'd like to talk about? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_052-077-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the velocity classification is based on the actual played note dynamics. Choose only from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific that's bothering you? I'm here to listen and help if I can."
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\bass_synthetic_033-081-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity in the given audio sample. Respond with one of the following values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I'm here to help! Could you please provide more details or clarify your question?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_acoustic_002-072-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "Sure, what would you like to know or discuss?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_009-071-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "I'm here to help! What's your question?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_008-084-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_024-059-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you need help with or something you'd like to talk about? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_074-048-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "It sounds like you're looking for a song or a playlist. Could you please provide more details about the artist or the type of music you're interested in? That way, I can help you find the perfect playlist for you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_039-059-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific that's bothering you? I'm here to listen and help if I can."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_014-078-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple notes are present, classify the dominant note’s velocity. Respond with only: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_electronic_020-023-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "I'm here to help! Could you please provide more details or clarify your question?"
+  },
+  {
+    "voice": [
+      "nsynth-test/audio\\bass_synthetic_135-093-100.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "100"
+      }
+    ],
+    "result": "Could you please provide more context or specify what you need help with? I'm here to assist you with any questions or concerns you might have."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_112-098-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a digital music analysis tool, determine the appropriate MIDI velocity level. Select from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "Sure, I can help you with that. I can provide you with a list of resources that can help you with your research. I can also provide you with a list of experts in the field who can provide you with advice and guidance. Additionally, I can provide you with a list of online forums and discussion groups where you can ask questions and get advice from other people."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_071-026-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "I'm here to help! Could you please provide more details or clarify your question?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_085-084-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given sound clip, determine the velocity level and provide the correct MIDI value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "I'm sorry, but I can't assist with that. If you have any other questions or need help with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_096-051-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple notes are present, classify the dominant note’s velocity. Respond with only: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you'd like to talk about or need help with? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_046-095-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity in the given audio sample. Respond with one of the following values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're feeling overwhelmed. It's important to take a step back and assess the situation. Can you tell me more about what's going on? Maybe I can help you figure out a solution or provide some advice."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_synthetic_010-053-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify the MIDI velocity. Choose only from: 127, 100, 75, 50, or 25. Output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific that's bothering you? I'm here to listen and help if I can."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_130-078-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "Sure, I'm here to help! What would you like to know more about?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_035-081-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a music transcription task, determine the velocity of the played note. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "Sure, I'm here to help! What's your question?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\synth_lead_synthetic_008-037-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling overwhelmed. Is there something specific you need help with or a particular question you have in mind? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_028-059-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated. Is there something specific you'd like to talk about or need help with? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_017-097-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the dynamic expression in this recording and return the closest matching MIDI velocity from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_005-061-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "Sure, I'm here to help! What's your question?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_065-055-075.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus only on the played note’s intensity. Return one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "75"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific that's bothering you? I'm here to listen and help if I can."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\guitar_electronic_045-060-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the MIDI velocity value of the note played in this recording? Respond with only 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're feeling frustrated or upset. Is there something specific you'd like to talk about or need help with? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_002-089-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the velocity classification is based on the actual played note dynamics. Choose only from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're referring to something that is being released or released on the internet. Could you please provide more context or specify what you're asking about? This will help me give you a more accurate and helpful response."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_114-059-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and classify the velocity in the audio. Choose from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "Sure, I can help you with that. I can provide you with a list of resources that can help you with your research. I can also provide you with some tips and advice on how to write a successful essay."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\keyboard_acoustic_016-102-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\brass_acoustic_022-043-025.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure the velocity classification is based on the actual played note dynamics. Choose only from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "25"
+      }
+    ],
+    "result": "It sounds like you're feeling a bit frustrated. Is there something specific you'd like to talk about or need help with? I'm here to listen and support you."
+  },
+  {
+    "voice": [
+      "nsynth-valid/audio\\guitar_electronic_028-094-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the velocity in the given audio sample. Respond with one of the following values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "Sure, I'm here to help! What would you like to know more about?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\string_acoustic_043-079-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the following audio and classify the MIDI velocity. Choose only from: 127, 100, 75, 50, or 25. Output only the number.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're looking for a song or a piece of music. Could you please provide more details about the song or the artist? That way, I can help you find the right music for you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\organ_electronic_090-078-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a MIDI-based composition system, classify the note’s velocity using predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "Sure, I can help you with that. What would you like to know more about?"
+  },
+  {
+    "voice": [
+      "nsynth-test/audio\\bass_synthetic_033-035-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A musician is analyzing their performance. Identify the velocity of this note and return only one of: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're feeling overwhelmed. Is there something specific you need help with or a particular question you have in mind? I'm here to assist you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\bass_synthetic_127-024-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "Sure, I can help you with that. What would you like me to do?"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_013-032-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A synthesizer is adjusting note expression. Identify and return only the correct MIDI velocity value from: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "It sounds like you're looking for a recommendation or suggestion. Could you please provide more context or specify what you need help with? I'm here to assist you!"
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\vocal_synthetic_014-060-050.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple notes are present, classify the dominant note’s velocity. Respond with only: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "50"
+      }
+    ],
+    "result": "It sounds like you're looking for a song. Could you please provide more details about the song or the artist? That way, I can help you find the right song for you."
+  },
+  {
+    "voice": [
+      "nsynth-train/audio\\mallet_acoustic_008-044-127.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the velocity of the note in this clip? Choose from the predefined values: 127, 100, 75, 50, or 25.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "127"
+      }
+    ],
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  }
+]

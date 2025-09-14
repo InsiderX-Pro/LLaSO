@@ -1,0 +1,2102 @@
+[
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia301_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "Oh God."
+    },
+    "result": "The audio clip you're referring to is from the song \"The Sound of Silence\" by The Beatles. The specific audio recording system you're asking about is the Audacity software."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia533_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Yeah, well Betty is kinda sad. Which is why I believe I can lure her away with these chocolates.  Now, while I distract her,"
+    },
+    "result": "The correct answer is: \"I'm sorry, but I can't provide the phone number for you. However, I can help you find the information you need.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia195_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Okay, great."
+    },
+    "result": "Rosa Roberts is a prominent figure in the world of vocal music, particularly in the pop and rock genres. She is known for her powerful voice and has been a vocal artist for many years. Her distinctive style is characterized by her distinctive voice and her ability to convey emotion through her lyrics. She has released numerous albums and has been recognized for her contributions to the music industry. Her music is often associated with the pop and rock genres, and she has been praised for her ability to connect with audiences on a personal level."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia853_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Because! Because, it-it-its Itd be like you having this guitar  and-and never playing it. Okay, this guitar"
+    },
+    "result": "The speaker in the audio clip is most likely a guitar. The guitar is a common instrument in the music industry and is often used in various musical genres."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia89_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "This sucks! I didnt know I had to stay up all night before I went to this stupid sleep clinic! Im so tired!"
+    },
+    "result": "It sounds like you're feeling frustrated with the way the speaker is speaking. It's important to remember that everyone has their own unique voice and style. If you're feeling upset, it might help to take a few deep breaths and try to calm down. If you're comfortable, you could also try to find a quiet space to speak to."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia9_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh well, its not so bad."
+    },
+    "result": "I'm sorry for any confusion. The speaker you're referring to is actually the same as the one you mentioned. The speaker is actually the same as the one you mentioned."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia264_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Okay, are you aware unagi  is an eel?"
+    },
+    "result": "Yes, I'm familiar with that. Rachel Phoebe Monica is a well-known American actress, singer, and songwriter. She is best known for her role as Rachel Phoebe in the TV show \"The Rachel Phoebe Show.\" She has also appeared in movies like \"The Good Place\" and \"The Wedding Singer.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia344_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh no-no-no, I wasn't waving at you lady."
+    },
+    "result": "It sounds like you're looking for a voice assistant that can help you with your audio samples. One name that fits this description is \"Sally\". She's known for her extensive knowledge in audio and has a wide range of voice samples available for you to choose from."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia385_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "You have chalk on your face."
+    },
+    "result": "The microphone you are referring to is a Sony Audio-Technica 6000. It has a 6.5-inch display and a 1280Hz audio output, making it suitable for both casual and professional use."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia165_utt17.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "How bout I fix you two up?"
+    },
+    "result": "I'm sorry, but I can't assist with that. If you have any other questions or need help with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia100_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "sent": "negative",
+      "utt": "Where is Leslie?"
+    },
+    "result": "The television show you're referring to is \"Friends.\" It's a popular sitcom that aired from 1994 to 2004. The character Ross Rachel, played by actor Paul Rudd, is a quirky and somewhat eccentric character. He's known for his love of music and his tendency to get into trouble with his friends."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia122_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "disgust",
+      "sent": "negative",
+      "utt": "I mean that aint a pretty picture in the morning, yknow what I mean."
+    },
+    "result": "Joni Ross is the only voice actress who has provided the voice for the character Phoebe Monica in the animated television series \"The Cheshire Cat.\" She is also known for voicing the character Cheshire Cat in the series."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia339_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Enough!"
+    },
+    "result": "The audio sample you're referring to is from the song \"Rozanne Phoebe Monica\" by the band Pink Floyd. The name \"Neffa\" is a reference to the band's name, which is a blend of the Latin and English words \"neu\" (meaning \"new\" or \"fresh\") and \"phoebe\" (meaning \"beautiful\")."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia88_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Good for you Pheebs!"
+    },
+    "result": "I'm sorry, but I can't verify the identity of individuals. It's important to respect privacy and confidentiality. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia147_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Oh yeah!"
+    },
+    "result": "The voice assistant you're referring to is named Alexa. She is known for her extensive knowledge in audio and voice commands, making her a popular choice for many people."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia759_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice characteristics and identify the speaker. Reply with one of these names only: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Chelsea."
+    },
+    "result": "The speaker in the poem \"The Road Not Taken\" by Robert Frost is named \"Jenny\". She is a character who is a traveler and a traveler's choice. She is the narrator of the poem and is the main character. She is a traveler who is on a journey and is not sure what she is going to do. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of the poem and is the main character of the poem. She is the narrator of"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia740_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Well, not right now."
+    },
+    "result": "The speaker in this recording is named \"The Voice.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia0_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "That I did. That I did."
+    },
+    "result": "It sounds like you're referring to a specific person or event. If you're asking about a specific event or person, it's important to remember that their identity is not determined by their voice. If you have a specific question or need more information, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1015_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "You have to give 'em something, you know."
+    },
+    "result": "The speaker in the audio clip is named \"The Audio Clip.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia757_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Right!"
+    },
+    "result": "The speaker in the given audio clip is named \"The Speaker.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia261_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "And it can't be Joey."
+    },
+    "result": "The system needs to recognize the user's name, which is \"Joe\"."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia886_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Hey!"
+    },
+    "result": "The speaker in the given audio clip is named \"The Voice.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia145_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Hey ladies! What are you in here for?"
+    },
+    "result": "I'm glad you found the information helpful! Jody Ross is a prominent figure in the LGBTQ+ community, known for his advocacy for LGBTQ+ rights and his role in the LGBTQ+ community. He is also known for his work in the entertainment industry, particularly in the film industry. His contributions to the LGBTQ+ community have been significant, and he has been recognized for his efforts to promote equality and acceptance."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia15_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Yeah! Sure! Yep!  Oh, y'know what? If I heard a shot right now, I'd throw my body on you."
+    },
+    "result": "It sounds like you're referring to a specific song or song. If you heard a song by Joey Ross, he was a member of the band Santana. If you heard a song by Santana, it's likely a reference to the band's song \"The Way You Go.\" If you're referring to a song by Joey Ross, it's a bit unclear without more context. Could you provide more details?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia604_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "So you told her there was somebody else so she would agree to work with you, so cause you figure oh if you spent a lot of time together, maybe something might happen, and..."
+    },
+    "result": "Yes, that's correct. The phrase \"Ross Rachel, Phoebe Monica, or Taylor\" is a reference to the famous American actress Phoebe Monica, who was known for her roles in films like \"The Big Lebowski\" and \"The Wedding Singer.\" She was married to the famous actor Robert Redford, and they had a long and successful relationship. The phrase \"Phoebe Monica\" is a way to refer to her as \"Phoebe Monica\" or \"Phoebe Monica,\" which is a way to address her as \"Phoebe Monica\" or \"Phoebe Monica.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia529_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Ross, I am telling you that she is using you to get back at me!"
+    },
+    "result": "I'm sorry, but I can't assist with that."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia424_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "She lives so close."
+    },
+    "result": "Joni Ross, Rachel Freeman, and Taylor Schuwen are the ones who speak in this audio recording. They are the ones who recorded the audio and provided the audio for the recording."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia460_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "No-no, itll be fun! We can come back and we can haunt these guys!"
+    },
+    "result": "Joni Ross is the voice actress for Rachel Freeman in the TV show \"The Bold and the Beautiful.\" She is also the voice actress for the character of Rachel Freeman in the animated series \"The Princess and the Frog.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia252_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "No?"
+    },
+    "result": "The audio sample you're referring to is from the song \"The Sound of Music\" by Michael Jackson. The sample is named \"The Sound of Music\" and it is classified as a jazz R&B song."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia26_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Man, this is gonna be kinda weird."
+    },
+    "result": "It sounds like you're trying to identify a specific person. If you're referring to a character from the TV show \"Friends,\" you might be thinking of Joey Ross, Rachel Phibby, Monica Chandler, or another character. Each of these characters has their own unique personality and storylines. If you need more details or context, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia568_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Okay but what about y'know my pinchable butt and my bulging bicepsShe knows!"
+    },
+    "result": "The speaker in the audio sample is named Joaquin Phoenix."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia510_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "I'm just sayin' if dogs do experience jet lag, then, because of the whole um, seven dog years to one human year thing, then, when a dog flies from New York to Los Angeles, he doesn't just lose three hours, he loses like a week and a half."
+    },
+    "result": "I apologize for any confusion. The statement you provided is incorrect. The speaker is referring to the character from the TV show \"The Golden Girls\" and not the character from \"Monica\" or \"Teller.\" The character from \"The Golden Girls\" is actually a female character named Monica, who is a member of the same group as the main characters."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia147_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice characteristics and identify the speaker. Reply with one of these names only: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "So what're you saying here? I should shave again, pick up some wine, what?"
+    },
+    "result": "I apologize for the mistake. The correct name for Joey Ross is Rachel Phibby Monica, and the name \"Chandler\" is spelled differently."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia245_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Youll have a last kiss."
+    },
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia833_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal features, classify the speaker as one of the following: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output the correct name only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "I mean come on, that is just noise!"
+    },
+    "result": "The correct name for the speaker is \"Joss R. Rachel, Jeffrey Monica, or Chandler.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia128_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Great, lets begin.  Hows the pressure?"
+    },
+    "result": "Joni Ross, Rachel Phelps, and Janet Channing are all well-known figures in the music industry. They are all highly respected and influential in their respective fields. Joni Ross is a singer-songwriter, actress, and musician, best known for her work with the band The Jollys. Rachel Phelps is a singer, songwriter, and actress, best known for her work with the band The Jacksons. Janet Channing is a singer, songwriter, and actress, best known for her work with the band The Chicks."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia614_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "We can get--what are those--those patches!"
+    },
+    "result": "Yes, I understand. The speaker's identity is identified by their voice characteristics, which are often described as being one of two main characteristics: the voice and the body. The voice is typically characterized by a soft, muffled voice, while the body is often described as being muscular and muscular."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1026_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "What?"
+    },
+    "result": "Joni Ross is a renowned American actress, singer, and songwriter. She is best known for her role as Rachel McMillan on the television show \"Friends.\" She has also appeared in films such as \"The Wedding Singer,\" \"The Wedding Singer,\" and \"The Wedding Singer.\" Additionally, she has been involved in various charitable causes, including the Children's Hospital and the AIDS Research Hospital."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia11_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "This is my wedding."
+    },
+    "result": "The correct name for the speaker is \"Juni Ross.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia445_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Im sorry I wont be able to make it to your imaginary wedding, but Im"
+    },
+    "result": "I apologize for that. I am a voice assistant and cannot write code. However, I can help you understand how to make it. First, you need to create a function that takes in a string as an argument. Then, you can use the string parameter to create a loop that will iterate through each character in the string. Inside the loop, you can use the string parameter to create a new string that will be the reversed version of the original string. Finally, you can return the reversed string as the output."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia116_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure speaker verification considers pitch, speech rate, and intonation. Identify the speaker as Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "I think you would have to clean a whole lot of apartments to go all the way to India."
+    },
+    "result": "I understand your concern. It's important to ensure that the speaker is not being unfairly targeted or discriminated against. It's crucial to be fair and respectful in the media. If you have concerns about the speaker's behavior, it might be helpful to report them to the appropriate authorities or a legal professional. This way, you can ensure that the speaker is treated fairly and fairly in the media."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia551_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "What are you doing?"
+    },
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia309_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Kathy! Kathy! Hi!! Kathy! Kathy! (She doesn't hear him and keeps running, Chandler starts chasing her as the theme to"
+    },
+    "result": "The speaker is expressing their admiration for the speaker's ability to communicate effectively. They believe that the speaker is able to convey their message clearly and concisely, and that they are able to understand the speaker's point of view. The speaker also believes that the speaker is able to express their own thoughts and feelings in a way that is both meaningful and respectful."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia830_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Varrrrrroom!"
+    },
+    "result": "The correct answer is \"Roz R. Paula Monica\" or \"Chandler.\" Both of these names are widely recognized and are commonly used in the music industry."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia58_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "So you uh, want to do something tonight?"
+    },
+    "result": "I'm sorry, but I can't provide specific information about the speaker's identity. However, I can help you find the answer you're looking for. Could you please specify the name of the speaker you're interested in?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia369_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to verify who is speaking in this clip. Select from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "!"
+    },
+    "result": "Joni Ross is the current Chair of the Board of Directors of the Financial Industry Regulatory Authority (FINRA). She is the Chair of the Financial Industry Regulatory Authority and the Director of the Financial Industry Regulatory Authority."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia424_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "Oh yeah! With who?"
+    },
+    "result": "It sounds like you're referring to a specific person. If you're asking about a specific person, it would be helpful to know their full name or any additional details you have about them. If you have more context or details, I can try to provide a more accurate answer."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia630_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Thanks Monica!"
+    },
+    "result": "The correct name for the speaker is \"Judy Ross.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia108_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Ow!"
+    },
+    "result": "I'm sorry, but I can't help with that. It's important to respect people's privacy and personal information. If you have any other questions or need assistance with something else, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1038_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using vocal features, classify the speaker as one of the following: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output the correct name only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "disgust",
+      "sent": "negative",
+      "utt": "It made me nuts."
+    },
+    "result": "One of the speakers in the show is Rachel Phibby, who is also known as Taylor Alcana."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia2_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "What are you talkin about? I never left you! Youve always been my agent!"
+    },
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia212_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure speaker verification considers pitch, speech rate, and intonation. Identify the speaker as Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Huh, well, the girls in the satin nighties on the commercial dont seem to think its that bad."
+    },
+    "result": "It sounds like you're discussing the casting of a character in a TV show. The actress who played the character Roz Rachel, Phoebe Modica, and the actress who played the character Sarah Sutherland on the TV show \"Chandler\" are both well-known and have had successful careers. It's interesting to see how different actresses have taken on different roles in different media."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia218_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "I say we go with"
+    },
+    "result": "The answer is \"Roz Rostro Phoebe Monica\" or \"Taylor.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia47_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Quick, aim him at that pack o' babes over there."
+    },
+    "result": "The speaker's identity is identified by the name \"Ross\" and the name \"Rachel\" and \"Chandler\" respectively."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia770_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Look, these clowns are trying to take us for a ride and I'm not gonna let 'em!"
+    },
+    "result": "Joni Ross has been the voice of the character Rachel Freeman in the animated series \"Friends.\" She is voiced by actress and singer, Alex Borstein."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia135_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Hi, here's the deal."
+    },
+    "result": "The speaker's identity is not mentioned in the provided information."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia833_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Its not even a song!"
+    },
+    "result": "The song \"Jagged Little Pill\" by Chaka Chama is indeed a song by Chaka Chama. It was written by Chaka Chama and released in 2004. The song is a beautiful and emotional ballad that reflects the struggles and hardships faced by many people."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia506_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Look, look, theres got to be a way we can work past this."
+    },
+    "result": "It sounds like you're trying to identify the speaker of the speech. If you're referring to the name \"Joey Ross\" and you're looking for a way to work past this, you might want to consider using a voice recognition app or software that can recognize and record the name. This way, you can easily identify the speaker and then use the speech recognition feature to work past it."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia936_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Look, Rachel, if you go, youre just gonna mess with his head and ruin his wedding!"
+    },
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia47_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "So I, I told Rachel it was just gonna be the two of us."
+    },
+    "result": "Yes, that's correct. Rachel Freeman is the narrator of the audio-visual system, and she is the one who is speaking in the audio."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia883_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Yeah, shes gay."
+    },
+    "result": "Joni Ross, Rachel Freeman, and Michelle Taylor were the ones who recorded the song \"Jagged Little Pill\" in the studio. They were the ones who recorded the song for the soundtrack of the movie \"The Avengers.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia99_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Hey!"
+    },
+    "result": "The voice actor who is in the audio only returns one of the six names in the show \"Joy Ross, Rachel Phoebe Monica, or Chandler\" is Alex Borstein."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia398_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to verify who is speaking in this clip. Select from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Pheebs, if I had never met him this never would have happened!"
+    },
+    "result": "The task you're referring to is most likely a trivia question. If you're asking about a specific event or person, it's important to verify the correct answer. If you're referring to a specific event or person, you can look up the event or person's name and verify the correct answer."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia446_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Look, is there something wrong with me?"
+    },
+    "result": "It sounds like you're trying to identify the speaker's voice and determine who is speaking and returning only one of the six names, Julie Ross, Rachel Phoebe Monica, or Chandler? If you're referring to a specific song or song, it might be helpful to look up the lyrics or the artist's name to identify the speaker. If you're referring to a song, you might want to check the song's credits or the artist's name to see who the song is."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia927_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are verifying the speaker's identity for an access control system. Identify the speaker as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "What are you talking about? If you get married in Vegas youre married everywhere."
+    },
+    "result": "I'm really sorry, but I can't assist with that."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia14_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh, all right."
+    },
+    "result": "The audio sample you're referring to is from the song \"The Sound of Music\" by The Beatles. The name of the song is \"The Sound of Music.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia84_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Not after this!"
+    },
+    "result": "The audio clip you're referring to is from the song \"The Sound of Music\" by Radiohead. The speaker is identified as \"The Sound of Music\" by the speakers."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia6_utt20.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Be mad at him!"
+    },
+    "result": "Joni Ross is the voice of Rachel Phoebe Monica, and she is the main character in the animated television series \"The Simpsons.\" She is portrayed by actress Amy Poehler."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia29_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Chandler."
+      }
+    ],
+    "meta-data": {
+      "emo": "fear",
+      "sent": "negative",
+      "utt": "Look, we have enough, just walk away."
+    },
+    "result": "Johannes Zimmer is the voice actor for the character of Rachel Phoebe Monica in the animated film \"Monica.\" She is the voice of the character in the film."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia946_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "No!"
+    },
+    "result": "The speaker in the given audio clip is responding with the name \"Ross Rachel Phoebe Monica\" or \"Monica Chandler.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia177_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A media archive system is sorting voice data. Identify which speaker is present in the audio clip. Output only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Okay."
+    },
+    "result": "The audio clip you're referring to is from the 2008 film \"The Matrix.\" In this video, the speaker is identified as James T. Scott, who is the creator of the Matrix."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia7_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For forensic voice analysis, classify the speaker in the audio sample. Choose one name from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Oh we did, but my mom got us the greatest gift of all."
+    },
+    "result": "It sounds like you're referring to a specific song or album. Could you please provide more details or specify which song or album you're talking about? That way, I can help you better."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia770_utt16.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the voice characteristics and identify the speaker. Reply with one of these names only: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "What did you say?"
+    },
+    "result": "The speaker in the given text is referring to the character of Rachel Phoebe Monica, who is a member of the Phoebe family. The text mentions that Phoebe Monica is a member of the Phoebe family, which is a group of people who share a common ancestor. The text also mentions that Phoebe Monica is a member of the Phoebe family, which is a group of people who share a common ancestor. The text also mentions that Phoebe Monica is a member of the Phoebe family, which is a group of people who share a common ancestor."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia832_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "15?  Your personal best! (Ross takes an"
+    },
+    "result": "The answer is \"Rosh Rachel\"."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia789_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Okay?"
+    },
+    "result": "The voice you're referring to is likely the voice of the character Rachel Phoebe Monica, who is a character in the TV show \"Friends.\" She is the main character and the voice of the character who is known for her quirky personality and love for music."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia51_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "The"
+    },
+    "result": "The problem you're referring to is called \"The Only Problem.\" It's a common problem in many fields, including finance, economics, and even in everyday life. The only problem is that it's not a common or widely known issue. It's often overlooked or overlooked because it's often overlooked in other fields."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia135_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Yes!"
+    },
+    "result": "The haiku recording you're referring to is \"The Sound of Silence\" by Robert Frost. It was composed in 1812 and is one of his most famous works."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia821_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Umm, no. No."
+    },
+    "result": "I'm sorry for any confusion. The speaker's voice was indeed identified as \"Sally\" and the name \"Rachel\" was written in the same style."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia30_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Yeah, youre great! Okay, lets take it from"
+    },
+    "result": "I'm sorry, but I can't help with that. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia389_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "Huh? Whatd ya say Joe? Ill be right there."
+    },
+    "result": "The user is asking for the name of the user who is currently the voice assistant. The voice assistant's name is not provided in the question."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia368_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Im, Im sorry you didnt get to go to Spacecamp, and Im hoping that maybe somehow, this may make up for it."
+    },
+    "result": "I'm sorry, but I can't assist with that."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia113_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If there is more than one speaker, return only the dominant voice. Identify it as either Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "I mean were not, were not gonna live together anymore?"
+    },
+    "result": "It sounds like you're referring to a specific person or group of people. If you're looking for information about someone, it's best to check reliable sources like official websites, social media profiles, or reputable news outlets. If you have a specific question about a particular person or group, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia980_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "Where in Cuba?"
+    },
+    "result": "Rachel Bush is a prominent figure in Cubism, a style of modern art that emphasizes the fragmented and fragmented forms of objects. She is known for her use of geometric shapes and fragmented forms, and her works often feature distorted, fragmented forms. She is also known for her use of bright, bold colors and her use of geometric shapes."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia518_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the speaker's identity using voice characteristics. The answer must be one of: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Because I sure as hell cant figure it out!"
+    },
+    "result": "The speaker's identity is that of a male."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia249_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the speaker in the given audio clip. Respond only with one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "sadness",
+      "sent": "negative",
+      "utt": "I mean, Thanksgiving with no turkey is like-like Fourth of July with no apple pie!"
+    },
+    "result": "The speaker in the given audio clip is likely to be a musician or a voice actor. The name of the speaker is not provided in the clip."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia46_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "positive",
+      "utt": "I dont know. Ooh! Ooh! Look it!  Ah-ha!"
+    },
+    "result": "The song \"Jagged Little Pill\" by Rachel Phoebe Monica and Daniel Moner is from the album \"Jagged Little Pill\" by the band Phoebe Monica."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia930_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Your task is to verify who is speaking in this clip. Select from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Well, John McClane had plans!"
+    },
+    "result": "Joni Ross, Rachel Voebe Monica, and Taylor Williams are all known for their work in the film industry. However, the specific names of the actresses who are speaking in this particular clip are not provided."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia737_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice sample and determine the speaker. Choose only one from Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Monica."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Deep Impact"
+    },
+    "result": "The voice sample you're referring to is from the song \"The Sound of Music\" by The Beatles. The speaker is from the band, and the song is from the album \"The Beatles.\""
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia430_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "No"
+    },
+    "result": "In the audio, the only return name of the six names is Joey Ross, Rachel Freeman, Phoebe Monica, and Chandler."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia804_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the voice and verify the speaker's identity. Return only one of the following names: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Ummm. Oh! Im sorry.  Its a little old but"
+    },
+    "result": "The speaker's identity is revealed in the passage, where it is mentioned that the speaker returns only one of the following names to Joy Ross, Rachel, Phoebe Monica, or Taylor. The speaker then explains that the name \"O\" is the only one that is associated with Joy."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia167_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Oh-ho yeah! A song with rhyming words. Oo, I never thought of that before."
+    },
+    "result": "The person you're referring to is likely a character from the book \"The Catcher in the Rye\" by J.D. Salinger. The character you're thinking of is Holden Caulfield, who is the protagonist of the novel."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia799_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Tho?"
+    },
+    "result": "The name of the speaker in the given list is \"Johie Ross\"."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia50_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "surprise",
+      "sent": "negative",
+      "utt": "Okay, thats why you didnt want me to touch him right?"
+    },
+    "result": "I'm sorry, but I don't have access to specific information about individuals. However, you can find this information on the official website of the Recording Industry Association of America (RIAA). They often have a directory of artists and their music."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia623_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ignore background noise and focus solely on the speaker's voice. Determine who is speaking and return only one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "And the guys from work had a blast."
+    },
+    "result": "The person you're referring to is likely a former member of the band \"The Sickers.\" They were a member of the band from 1979 to 1980 and played a significant role in their success."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia849_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Who is speaking in this audio recording? Reply only with Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Ross."
+      }
+    ],
+    "meta-data": {
+      "emo": "joy",
+      "sent": "positive",
+      "utt": "Really? That's great!"
+    },
+    "result": "Johannes Brahms was the audio recording artist who recorded the song \"Fibonacci\" and \"Monica\" in 1964. He was a prominent figure in the music industry and was known for his innovative use of sound and his contributions to the development of the electronic music genre."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia617_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze vocal uniqueness and classify the speaker into one of the predefined categories: Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Phoebe."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "You're sure? You're absolutely sure?"
+    },
+    "result": "I'm sorry, but I can't provide personal information about individuals. If you have any other questions or need assistance with something else, feel free to ask."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia646_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and speech patterns, identify the speaker in this recording. Reply only with a name from the given list - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Hypothetically!"
+    },
+    "result": "The speaker in this recording is named \"The Voice\" and his name is Ross Routh. He is a voice actor and has been performing in various TV shows and movies."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia148_utt17.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine who is speaking in this audio sample. Choose from: Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Output only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "anger",
+      "sent": "negative",
+      "utt": "Aw, I know all about Kip!"
+    },
+    "result": "Jimi Ross is a well-known musician and songwriter. He is best known for his work as the lead vocalist and guitarist for the rock band The Rolling Stones. He has also been a part of various other bands, including The Beatles, The Eagles, and The Who."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia316_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a biometric voice authentication system, verify which speaker is in the audio. Only return one of the six names - Joey, Ross, Rachel, Phoebe, Monica, or Chandler.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joey."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Hello."
+    },
+    "result": "The voice assistant on the 6th floor of the building is named Alexa."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia108_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A voice assistant needs to recognize the user. Determine if the speaker is Joey, Ross, Rachel, Phoebe, Monica, or Chandler. Return only the name.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Rachel."
+      }
+    ],
+    "meta-data": {
+      "emo": "neutrality",
+      "sent": "neutral",
+      "utt": "Oh, honey, dont worry. She's gonna make it on time."
+    },
+    "result": "It sounds like you're referring to a specific character from the TV show \"Friends.\" The character you're thinking of is Rachel Phibbi, who is a character from the show. She is a close friend of the main character, Chandler, and they often have a close relationship."
+  }
+]

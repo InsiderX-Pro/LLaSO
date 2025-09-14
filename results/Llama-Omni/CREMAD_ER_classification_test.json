@@ -1,0 +1,1702 @@
+[
+  {
+    "voice": [
+      "CremaD/Audio\\1067_WSI_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 589 26 204 280 668 384 879 901 555 747 961 428 377 198 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1056_IWW_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "I'm not capable of detecting emotions from audio. I'm a text-based AI assistant. If you'd like to describe the audio to me, I can try to help you identify the emotion.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 721 250 523 793 403 244 583 576 384 879 219 952 315 794 398 212 455 734 754 498 889 324 789 6 908 380 817 146 283 832 758 711 510 337 243 479 515 647 246 896 627 538 187 594 246 660 166 250 964 113 327 377 611 916 584 902 193 415 661 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 788 15 377 385 686 208 613 417 755 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 660 555 781 645 655 837 81 664 990 107 29 79 868 220 196 721 250 734 432 742 170 731 589 337 126 119 728 647 655 837 81 885 876 29 202 393 946 215 327 246 660 166 964 113 327 377 791 611 660 105 79 799 220 498 12 172 536 950 53 321 458 524 44 665 254 530 733 263 914 445 137 488 620 915 143 777 227 655 837 81 664 793 79 868 220 470 821 384 693 268 876 258 436 139 340 483 530 733 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 901 202 393 946 215 327 754 498 324 789 908 380 828 817 146 283 352 385 584 902 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1072_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I'm not capable of detecting emotions or classifying them in real-time. I'm a text-based AI assistant, not a facial recognition system. I can provide general information on emotion classification, though.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 542 445 137 822 89 664 757 323 59 790 716 205 521 267 932 148 721 250 161 523 793 403 244 583 576 384 879 219 952 315 398 212 455 25 734 754 498 324 789 6 908 380 660 817 146 283 832 758 711 510 169 461 969 867 45 914 119 887 593 167 761 430 70 835 866 586 362 59 66 776 655 837 81 398 212 455 915 202 881 331 384 377 896 627 168 659 46 812 222 915 156 824 442 485 113 327 635 205 521 691 105 244 583 167 655 764 837 81 377 627 385 309 584 902 193 415 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 952 522 67 940 118 537 290 978 822 89 194 664 32 835 67 940 118 944 423 822 89 327 905 579 837 81 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 15 377 443 93 506 208 613 417 755 237 193 111 985 63 665 991 162 116 475 783 104 430 945 944 565 734 390 479 330 776 822 333 194 32 431 531 716 205 521 787 156 824 384 879 319 501 137 161 487 319 350 747 207 428 333 817 146 283 832 352 915 912 98 519 26 204 280 314 333 32 882 170 731 600 702 788 377 896 385 309 584 902 415 772 497 63 644 254 530 733 445 137 576 488 620 143 38 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 944 29 537 705 11 576 384 879 179 961 62 466 716 205 521 267 25 771 46 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 878 538 187 594 493 361 428 734 498 324 789 908 380 660 817 146 283 352 915 914 119 167 761 430 70 835 866 586 66 910 161 487 137 822 89 194 817 146 283 377 385 343 942 115 193 121 111 666 63 665 202 881 331 803 563 611 916 584 902 341 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1028_IWL_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "The primary emotion in the given speech sample is happiness.",
+    "prediction_units": "393 870 251 676 481 973 288 796 655 104 837 81 748 12 336 877 663 466 56 321 14 406 327 734 754 498 324 789 908 380 828 817 146 283 352 385 343 659 46 812 222 393 946 319 416 836 333 885 692 559 488 352 915 912 519 589 126 323 534 485 948 86 539 552 326 417 26 204 280 576 384 907 430 816 409 757 740 716 205 521 25 771 865 641 124 470 821 761 430 404 757 323 910 161 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IOM_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "The primary emotion in the given speech sample is happiness.",
+    "prediction_units": "393 870 251 676 481 973 288 796 655 104 837 81 12 336 663 466 56 321 14 406 327 734 754 498 324 789 908 380 828 817 146 283 352 385 343 659 46 812 222 393 946 734 319 416 836 333 885 692 559 488 352 915 912 519 589 126 323 534 485 948 86 539 552 326 531 417 519 26 204 280 576 384 907 430 816 409 757 740 716 205 521 825 771 865 641 124 470 821 761 430 70 404 757 323 910 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1026_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion conveyed in the given speech sample. Choose from: anger, disgust, fear, happiness, neutrality, or sadness. Output only the emotion label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 26 204 280 668 384 879 901 555 747 961 428 377 198 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1068_TAI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "The speaker's emotion is anger.",
+    "prediction_units": "202 393 946 215 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 169 878 754 498 324 789 908 380 828 817 146 283 352 659 25 825 685 865 641 124 878 609 423 384 879 816 325 350 836 663 969 164 916 726 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1079_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "I'm not capable of detecting emotions or classifying them in real-time. I'm a text-based AI assistant that provides information and answers questions to the best of my knowledge. I don't have the ability to perceive or analyze audio or visual data.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 664 757 323 59 790 716 205 521 267 932 148 721 250 161 523 793 403 244 583 576 384 879 219 952 315 398 212 455 25 734 754 498 324 789 908 380 660 817 146 283 832 758 711 510 169 461 969 867 45 914 119 887 593 167 761 907 430 70 835 866 586 362 59 66 776 655 837 81 398 212 455 915 202 881 331 384 488 896 627 168 659 25 46 812 222 915 156 824 442 485 113 327 635 205 521 691 105 244 583 167 655 764 837 81 377 627 385 584 902 415 497 63 644 254 504 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 952 522 67 940 118 537 290 978 822 89 194 664 32 835 67 940 118 944 423 822 89 327 905 579 837 81 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 15 377 488 443 93 274 208 613 417 237 665 459 173 945 29 412 973 288 750 870 692 154 558 655 837 81 664 555 545 85 510 362 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 25 823 175 684 136 878 423 384 907 430 650 816 912 85 866 586 76 663 969 198 711 510 337 850 914 272 119 797 384 879 70 170 731 600 477 283 832 758 711 510 884 79 799 220 202 393 946 734 870 290 978 833 384 879 70 835 67 940 118 64 944 932 148 889 338 359 655 837 81 327 116 281 62 238 655 764 693 317 453 377 506 686 705 326 531 417 755 415 772 497 644 254 530 733 196 537 721 549 803 908 795 208 944 233 152 784 429 202 393 946 215 327 734 790 333 37 234 366 50 321 633 86 105 79 868 220 870 251 676 481 973 288 796 33 432 742 519 589 261 976 534 321 969 885 692 878 187 594 461 969 538 423 27 761 430 179 931 62 317 645 453 655 837 81 198 711 510 169 878 609 187 594 246 901 166 56 964 113 327 635 791 894 52 267 187 594 461 969 870 692 526 559 333 11 74 716 205 521 721 250 822 89 194 664 539 75 788 377 87 164 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_TAI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio, but I can help you identify the emotion based on a description of the audio. Please provide more context or information about the audio.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 432 882 924 866 586 955 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 56 964 113 327 377 611 916 44 115 605 121 621 128 665 547 833 368 173 945 944 530 733 445 137 488 620 470 821 576 693 934 268 876 258 436 139 340 530 733 664 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 754 498 324 789 908 380 828 817 146 283 352 915 143 290 978 822 89 194 664 835 67 940 118 944 878 493 361 428 565 734 196 721 250 432 882 170 731 589 337 126 426 647 333 998 219 595 817 146 283 352 931 932 148 202 393 946 734 406 246 660 166 56 113 327 905 377 791 611 916 584 902 819 341 661 497 63 662 213 712 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 29 889 324 826 592 103 969 867 263 45 272 313 469 167 655 764 650 816 274 557 75 583 15 384 879 219 522 67 940 118 461 969 25 771 328 143 390 422 776 663 748 806 336 822 89 194 817 146 283 352 385 343 659 565 734 849 907 597 29 202 393 946 215 406 538 594 246 660 166 964 113 327 377 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1067_ITS_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "I'm sorry, I'm a text-based AI and do not have the capability to hear or analyze voice recordings.",
+    "prediction_units": "254 530 733 627 912 98 519 589 26 204 280 668 167 246 764 466 321 458 44 902 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 67 589 940 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 327 488 684 136 915 721 250 220 139 340 575 475 783 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 734 790 484 37 234 366 523 50 910 321 633 86 105 79 868 220 470 821 534 485 113 284 663 969 538 187 594 461 969 538 609 423 27 761 907 430 179 931 62 402 317 645 453 655 837 81 198 711 124 243 537 526 302 592 103 81 194 664 835 67 22 337 243 156 824 734 870 263 45 272 119 607 592 103 660 166 398 53 455 758 545 711 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1070_WSI_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "fear",
+    "prediction_units": "390 479 330 534 485 974 284 377 969 223"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1009_TSI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "The speaker's emotion is happiness.",
+    "prediction_units": "202 393 946 432 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 169 754 498 324 789 908 380 817 146 283 352 385 659 25 389 825 771 865 641 124 337 470 821 761 430 404 757 323 161 961 428 377 835 67 297 206 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1033_MTI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "fear",
+    "prediction_units": "780 479 330 534 485 974 284 377 969 164"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_IOM_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or accessing your surroundings, so I cannot classify the speaker's emotion.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 432 32 924 866 586 955 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 56 964 113 327 905 377 611 267 187 594 461 969 538 423 27 761 430 70 219 727 522 866 586 314 798 432 882 683 866 398 212 455 258 436 663 969 742 98 519 26 204 76 614 870 156 824 384 761 907 597 816 325 801 398 53 455 758 711 510 297 265 675 237 307 226 666 621 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 384 761 650 179 475 783 246 430 945 233 45 914 119 887 593 167 761 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 734 498 324 789 908 380 828 817 146 283 377 385 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1072_ITH_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I'm not capable of listening to voice recordings or detecting emotions. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 870 692 526 302 592 103 81 194 664 835 67 22 337 243 156 156 824 734 870 263 45 119 607 592 103 969 660 166 398 212 455 711 510 878 187 461 969 196 721 250 523 793 403 244 583 576 879 219 952 315 398 212 455 25 754 498 324 789 6 908 380 660 817 146 283 377 758 545 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 755 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_ITH_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "The emotion in the provided audio sample is happiness.",
+    "prediction_units": "393 215 327 754 498 324 789 908 380 828 817 146 283 352 385 659 25 46 812 222 393 946 734 251 676 973 288 750 687 870 692 154 558 655 837 81 166 599 56 523 555 944 878 609 187 594 246 901 166 56 113 327 635 791 380 358 742 98 519 589 26 204 280 576 384 907 650 816 409 757 740 716 205 521 389 771 865 641 124 470 821 761 430 70 404 757 323 910 161 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1022_ITH_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion present in this speech sample. Choose the most appropriate label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "The emotion present in this speech sample is likely happiness or relief, as it's a positive outcome.",
+    "prediction_units": "202 393 946 327 754 498 324 789 908 380 817 146 283 352 915 143 38 412 973 288 796 384 879 347 975 832 93 274 208 613 944 955 46 812 222 202 393 946 333 32 683 519 589 126 323 534 485 948 813 539 552 326 519 26 204 280 576 761 907 430 816 409 757 41 716 205 521 25 825 771 865 641 124 243 781 645 655 837 81 664 990 107 518 321 948 470 821 761 70 404 757 323 910 161 179 961 428 377 198 835 67 297 265 169 187 594 461 969 156 824 402 259 303 485 321 948 958 66 417 755 237 193 665 254 823 27 173 641 347 124 362 955 333 437 700 362 565 734 251 676 0 547 444 167 655 104 70 347 975 59 471 737 333 885 148 878 423 27 761 907 597 660 351 233 914 445 137 167 87 896 627 309 584 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1052_IWL_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the lexical content and focus solely on vocal features to classify the emotional expression. Choose one label from the list - anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "I would classify the emotional expression as happiness.",
+    "prediction_units": "787 935 101 677 660 555 233 914 887 593 462 761 907 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 215 327 754 498 324 789 908 380 817 146 283 353 716 205 521 538 565 487 319 219 522 589 337 126 712 796 647 33 879 70 817 146 283 352 659 173 641 124 470 821 761 430 70 404 757 323 910 961 428 377 835 67 206 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1009_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the lexical content and focus solely on vocal features to classify the emotional expression. Choose one label from the list - anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 26 204 280 668 384 879 901 555 747 961 428 377 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1046_WSI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "I'm sorry, I'm a text-based AI and do not have the capability to listen to audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 912 98 519 589 26 204 280 668 246 764 466 53 321 458 524 44 63 644 254 504 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 589 337 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 530 837 81 327 488 136 915 721 250 220 575 475 783 945 944 152 784 429 202 393 946 215 263 914 445 137 822 89 664 757 323 59 790 37 228 234 366 523 50 910 321 633 86 539 79 868 220 259 781 303 333 32 882 924 866 586 955 283 488 352 915 143 38 79 799 220 538 187 594 246 901 166 56 964 113 327 377 611 916 584 902 193 341 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 208 417 755 662 79 799 220 793 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1032_TIE_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio, so I cannot classify a speaker's emotion. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 284 249 466 398 212 455 659 187 594 461 969 251 676 481 973 288 750 167 246 104 70 540 295 586 314 59 432 882 924 866 398 212 455 538 187 594 246 660 901 166 250 964 113 327 635 791 611 524 44 605 121 226 666 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 907 650 179 475 783 104 430 945 208 233 29 914 119 593 167 462 761 430 70 540 866 586 362 59 958 66 776 655 837 81 327 565 734 742 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 169 878 754 498 324 789 908 380 817 146 283 377 385 584 902 193 415 772 497 63 644 254 530 733 914 445 137 488 620 878 538 187 594 908 310 816 325 518 56 321 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1031_TIE_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "I'm not capable of processing emotional responses or classifying emotions. I'm a text-based AI assistant, and I don't have the ability to perceive or analyze emotional cues. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 542 445 137 822 89 664 757 323 59 790 716 205 521 932 148 850 412 213 973 288 750 246 70 346 540 295 586 314 798 432 882 924 866 398 212 455 25 734 498 889 324 789 908 380 828 817 146 353 716 205 521 787 156 824 442 432 170 589 126 740 167 655 764 650 816 912 540 866 586 955 53 198 711 510 169 187 461 969 867 45 914 119 593 167 761 430 70 835 866 586 362 59 66 776 655 837 81 398 212 455 754 498 324 789 908 380 660 817 146 283 832 758 545 711 85 297 265 675 237 415 772 497 63 99 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 798 432 742 519 26 204 280 314 6 333 32 170 731 600 702 15 283 377 93 208 613 417 755 237 193 63 644 254 823 175 684 136 944 530 733 196 721 549 576 803 795 208 233 152 784 429 202 393 946 215 327 734 790 37 234 660 50 321 633 86 105 79 868 220 870 251 676 973 288 796 663 432 742 519 866 261 976 534 321 969 885 692 878 187 594 461 969 538 423 27 761 430 650 179 931 62 259 317 645 453 655 837 81 198 711 510 362 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 382 867 45 914 445 476 137 534 436 139 340 611 198 711 510 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 576 488 620 112 931 878 538 187 594 908 310 816 325 518 56 321 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 208 417 755 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 208 233 878 850 914 119 797 485 284 814 466 377 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1021_IWL_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given voice recording, extract the emotional state and return only the emotion category, to choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "I'm not capable of extracting emotions from voice recordings. I'm a text-based AI assistant. However, I can help you find a tool or service that can analyze voice recordings and detect emotions. Would you like some recommendations?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 487 219 522 589 126 728 647 761 430 70 219 315 398 212 455 754 498 324 789 908 380 660 817 146 283 832 758 711 510 337 243 515 647 896 627 143 692 526 302 592 81 194 664 835 67 22 337 243 156 824 870 263 45 119 607 592 103 969 660 166 398 455 758 545 711 297 265 675 237 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 788 15 377 385 686 208 613 417 755 415 772 497 644 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 470 821 576 384 693 268 876 258 436 139 340 390 479 330 776 655 837 81 620 915 801 944 565 734 105 244 583 516 677 253 521 267 187 461 969 742 98 519 26 204 280 614 663 969 577 154 559 377 198 835 67 297 265 675 884 459 173 945 233 914 445 137 488 620 961 931 423 384 761 907 430 650 961 931 62 954 317 645 453 655 837 81 198 711 510 124 337 243 537 526 302 592 103 81 194 664 835 67 243 156 824 998 870 263 45 272 119 607 592 103 660 166 398 212 455 758 711 510 169 878 175 684 136 721 250 523 793 403 244 583 576 384 879 219 952 794 565 754 498 324 789 6 908 380 828 817 146 283 377 832 758 545 711 510 297 265 675 755 415 772 497 63 665 991 535 935 101 355 660 555 166 258 436 139 340 259 781 645 655 837 81 664 219 990 107 29 519 26 204 280 668 167 104 896 627 156 824 442 384 879 219 501 469 59 748 12 977 877 488 443 325 801 549 822 89 194 664 817 146 283 832 758 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1085_MTI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "The speaker's emotion is sadness.",
+    "prediction_units": "202 393 946 734 432 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 169 754 498 324 789 908 380 817 146 283 352 385 659 25 389 771 865 641 683 589 26 204 280 668 576 384 907 430 901 555 747 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1063_ITS_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given voice recording, extract the emotional state and return only the emotion category, to choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "I'm sorry, I'm a text-based AI and do not have the capability to listen to voice recordings. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 912 98 519 589 26 204 280 668 246 764 466 53 321 458 942 44 902 605 644 254 504 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 67 940 337 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 327 905 579 837 81 327 488 684 136 915 721 250 220 575 475 783 945 944 470 152 784 429 202 393 946 734 263 914 445 137 822 89 194 664 539 757 323 59 734 790 484 37 234 366 523 50 910 321 633 86 105 79 868 220 228 781 303 333 32 882 924 866 586 955 488 352 143 79 799 220 870 692 526 302 592 103 81 194 664 835 67 22 337 243 156 156 824 442 998 263 45 272 119 607 592 103 969 660 166 398 53 455 758 545 711 510 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 755 662 79 799 220 793 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1019_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotional tone is conveyed in this speech? Respond with one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "The emotional tone conveyed in this speech is sadness.",
+    "prediction_units": "393 946 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 691 105 244 583 576 803 908 380 112 143 38 45 914 445 469 352 915 143 692 526 559 822 89 194 664 555 208 944 46 812 222 393 946 333 32 683 589 126 323 534 485 948 86 539 552 326 955 333 198 641 124 589 26 204 280 576 384 907 430 901 555 747 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_WSI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "The primary emotion in the given speech sample is sadness.",
+    "prediction_units": "734 251 676 973 288 796 104 837 81 12 336 663 466 56 321 633 14 406 734 754 498 889 324 789 908 380 817 146 283 352 385 343 659 46 812 222 393 946 734 319 416 836 333 885 692 559 366 488 352 915 912 519 589 126 323 534 485 948 86 539 552 326 531 519 26 204 280 576 384 761 907 430 650 409 757 41 716 205 521 865 641 32 683 589 26 204 280 576 384 907 430 901 555 747 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1041_IWL_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "I would label the emotion expressed in this voice recording as happiness.",
+    "prediction_units": "935 101 660 555 233 645 822 664 290 978 302 205 521 202 393 946 215 327 754 498 324 789 908 380 817 146 283 352 385 428 487 319 219 522 589 337 126 712 647 384 879 70 835 67 940 118 613 944 169 46 812 222 202 393 331 333 32 683 337 692 526 302 592 103 81 664 32 835 67 589 337 243 156 824 998 263 119 607 592 103 969 660 398 212 455 865 641 347 124 470 821 761 430 404 757 323 910 161 179 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1060_WSI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I'm not able to hear or analyze audio. I can only respond to text-based queries. Please provide the transcript of the customer service call, and I'll do my best to identify the speaker's emotion.",
+    "prediction_units": "254 504 530 733 116 475 783 104 430 945 25 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 483 470 821 534 485 284 663 969 187 594 461 969 538 423 27 761 430 179 931 62 954 317 645 453 837 81 198 711 510 878 538 609 187 594 246 901 166 964 113 327 635 791 611 916 584 902 193 341 661 497 63 644 254 504 530 733 445 137 488 620 659 538 187 594 908 310 816 325 518 56 321 948 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 233 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 814 466 53 198 711 510 297 265 675 237 415 772 497 662 213 260 712 485 321 948 813 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 105 777 227 647 167 761 907 430 650 816 912 85 589 337 243 119 647 663 879 70 64 944 932 148 202 393 946 734 45 914 445 469 167 104 70 835 683 731 940 600 702 788 59 748 627 336 663 969 828 742 98 519 26 204 280 668 614 663 969 692 154 559 333 432 32 683 589 337 850 272 119 607 908 592 103 611 521 524 44 605 985 63 99 254 823 175 684 136 944 530 733 693 521 721 549 139 340 498 324 338 359 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 79 868 220 483 483 733 664 196 166 549 384 879 443 93 274 794 680 59 958 66 776 655 837 81 901 202 393 946 432 742 519 589 337 126 323 534 485 948 86 990 501 137 663 198 711 510 169 878 754 498 324 789 908 380 828 817 146 283 377 385 584 902 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1052_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or accessing real-time information. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 29 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 432 32 924 866 586 955 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 56 964 113 327 377 611 267 187 594 461 969 267 538 423 27 761 430 70 727 522 866 586 314 245 798 32 835 924 866 398 212 455 143 156 824 56 485 113 327 635 205 521 691 45 244 583 167 655 837 81 896 627 168 659 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 377 385 584 902 193 415 772 497 63 644 254 530 733 445 137 576 488 620 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 337 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 485 284 814 466 377 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1029_WSI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider the pitch, tempo, and vocal inflections in the audio when classifying the emotion. Return only one of the predefined labels of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "fear",
+    "prediction_units": "479 330 534 485 974 284 377 969 223 726"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1008_TAI_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotional tone is conveyed in this speech? Respond with one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "The emotional tone conveyed in this speech is sadness.",
+    "prediction_units": "393 946 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 691 45 244 583 874 576 803 908 380 620 112 915 143 38 45 914 445 469 352 915 143 692 526 559 822 89 194 664 555 208 944 46 812 222 202 393 946 333 32 683 589 126 323 534 485 321 948 539 552 326 955 198 641 683 589 26 204 280 576 384 879 430 901 555 747 961 428 377 835 67 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or speech patterns, but I can help you with other questions or tasks.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 423 384 761 430 650 931 62 259 317 645 655 837 81 664 347 376 398 212 455 538 187 594 246 901 166 964 113 327 635 791 187 594 461 969 742 98 519 589 126 323 534 485 321 948 539 552 326 243 850 213 260 444 576 384 907 430 70 185 788 663 832 758 711 510 297 265 675 237 307 111 226 666 621 128 665 991 833 945 944 530 733 914 445 137 488 620 352 470 821 384 693 268 404 876 29 258 436 139 340 787 935 271 333 523 196 878 538 238 104 938 663 969 867 263 45 272 119 797 384 879 70 731 600 477 283 832 758 711 510 362 461 969 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1054_TAI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 589 26 204 280 668 384 879 901 555 747 179 961 428 377 198 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1071_WSI_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully to the speaker's voice and classify the emotional state using one of the predefined categories, anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "I'm not capable of listening to or classifying a speaker's voice in real-time. I'm a text-based AI assistant. However, I can help you identify emotional cues in written text or provide information on emotional intelligence and empathy.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 79 799 220 187 461 969 382 45 914 887 593 167 761 907 430 70 835 540 866 586 362 59 66 776 167 655 837 81 398 212 455 428 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 124 243 537 526 302 592 103 81 194 664 835 67 297 169 955 46 812 222 915 156 824 485 948 113 327 716 205 521 691 45 244 583 167 655 764 837 81 377 385 584 902 415 772 497 63 644 254 530 733 627 168 565 734 105 244 583 576 384 879 219 952 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 878 822 89 327 905 579 837 81 327 432 742 98 519 26 204 280 314 6 333 32 170 731 600 702 788 15 377 385 686 208 613 417 755 415 772 497 644 254 821 167 104 108 894 852 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 576 693 268 876 258 436 139 340 787 530 733 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 327 565 734 498 324 789 908 380 817 146 283 353 716 205 521 382 867 45 45 914 445 476 139 340 198 711 510 362 46 812 222 915 143 156 824 442 333 793 403 557 747 352 915 143 38 244 583 576 384 879 219 522 67 940 118 461 969 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 944 771 46 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 654 659 878 609 187 493 361 931 428 734 498 324 789 908 380 660 817 146 283 353 716 205 521 267 25 771 328 143 38 992 583 576 384 879 259 317 303 366 523 705 11 488 832 758 545 85 510 297 700 362 175 684 136 136 878 25 609 423 384 879 650 816 409 757 323 241 523 918 743 976 53 458 584 902 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1059_WSI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio. I can only respond to text-based queries. If you'd like to describe the voice or situation, I can try to help you identify the emotional category.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 821 485 284 663 466 398 212 455 659 187 594 461 969 538 609 423 27 761 430 179 931 62 954 317 645 453 655 837 81 347 376 398 212 455 659 538 609 187 594 246 901 166 964 113 327 635 611 916 584 902 193 341 661 497 63 644 254 530 733 445 137 576 488 620 659 538 187 594 908 310 816 325 518 56 948 86 156 824 442 432 742 170 519 589 126 740 655 764 650 816 325 208 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 377 53 198 711 510 297 265 675 237 415 772 497 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 990 107 417 79 868 220 196 721 250 432 170 731 589 337 126 728 647 655 837 81 885 29 202 393 946 734 692 526 302 592 103 81 194 664 835 67 22 169 461 969 742 98 519 204 314 333 328 793 539 403 477 787 101 483 822 89 194 664 817 146 283 352 385 343 942 44 115 193 63 644 254 530 733 914 445 137 488 620 915 143 105 777 227 655 837 81 664 79 868 220 470 821 576 693 268 876 233 258 436 139 340 530 81 733 664 196 166 549 384 879 443 93 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 754 498 324 789 908 380 660 817 146 283 353 716 205 521 382 45 914 445 137 167 761 907 430 185 794 788 59 998 350 968 836 592 103 466 377 53 458 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1022_ITS_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "I'm not capable of seeing or detecting emotions. I'm a text-based AI assistant, I don't have the ability to perceive or interpret visual or emotional cues.",
+    "prediction_units": "254 530 733 627 116 475 783 104 70 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 519 589 26 204 981 976 534 485 974 398 212 455 659 187 594 461 969 196 721 250 161 523 793 403 244 583 576 879 219 952 315 398 212 455 428 25 771 565 754 498 324 789 908 380 660 817 146 283 377 832 758 545 711 85 297 265 675 237 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 81 327 432 742 519 26 204 280 314 6 333 32 882 170 731 600 702 788 15 377 443 93 506 208 613 417 755 237 193 63 644 254 504 530 733 196 549 576 803 908 795 208 944 233 152 784 429 202 393 946 215 327 734 790 333 37 234 660 50 910 321 633 86 105 79 868 220 251 676 481 973 288 796 33 432 742 924 589 866 261 976 534 485 321 948 885 692 187 594 461 969 771 328 143 38 992 583 576 663 969 268 404 757 288 663 333 523 793 506 29 537 526 559 333 11 74 787 716 205 521 267 187 594 461 969 538 423 565 734 498 324 789 908 380 828 817 146 283 353 716 205 521 382 45 914 445 476 534 436 139 340 611 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1011_ITS_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "I'm not capable of seeing or detecting emotions. I'm a text-based AI assistant, I don't have the ability to perceive or interpret facial expressions or emotional cues.",
+    "prediction_units": "99 254 504 530 733 627 116 475 783 104 430 945 506 944 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 519 26 204 280 534 485 974 398 212 455 659 187 461 969 196 721 250 161 523 793 403 244 583 576 384 879 219 952 315 398 212 455 25 565 754 498 324 789 908 380 828 817 146 283 832 758 545 711 510 297 265 675 755 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 81 327 432 742 98 519 26 204 280 314 6 333 32 882 170 731 600 702 788 15 377 443 93 506 208 613 417 755 237 193 63 644 254 504 530 733 196 549 576 803 908 795 208 944 233 152 784 429 202 393 946 215 327 734 790 37 234 660 50 321 633 86 105 79 868 220 870 251 676 481 973 288 796 33 432 742 924 589 866 261 976 534 485 321 948 885 692 187 594 461 969 771 328 143 38 992 583 576 663 969 268 404 757 288 663 333 523 793 506 233 479 330 776 822 89 194 664 32 431 531 76 716 205 521 483 423 565 734 319 219 522 589 337 126 973 288 796 647 384 879 70 817 146 283 832 758 711 510 878 187 461 969 538 423 565 734 498 324 789 908 380 828 817 146 283 353 716 205 521 382 914 445 476 534 139 340 611 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1045_TIE_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion conveyed in the given speech sample. Choose from: anger, disgust, fear, happiness, neutrality, or sadness. Output only the emotion label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 26 204 280 668 384 879 901 555 747 961 428 377 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1025_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider the pitch, tempo, and vocal inflections in the audio when classifying the emotion. Return only one of the predefined labels of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "fear",
+    "prediction_units": "479 330 776 534 485 974 284 377 969 223"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1089_TSI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "The primary emotion in the given speech sample is happiness.",
+    "prediction_units": "202 393 946 870 251 676 481 973 288 796 655 104 837 81 748 12 336 877 663 466 503 56 321 14 406 734 754 498 324 789 908 380 828 817 146 283 352 385 343 659 46 812 222 393 946 319 416 836 333 885 692 559 488 352 915 912 519 589 126 323 534 485 948 86 539 552 326 417 26 204 280 576 384 761 907 430 816 409 757 740 716 205 521 25 771 865 641 124 470 821 761 430 70 404 757 323 910 161 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1010_TIE_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "The primary emotion in the speech sample is happiness.",
+    "prediction_units": "734 251 676 973 288 796 655 104 837 81 12 336 663 466 56 321 14 406 734 754 498 889 324 789 908 380 817 146 283 352 385 343 659 825 46 812 222 393 946 734 742 98 519 589 126 323 534 485 948 539 552 326 519 26 204 280 668 576 384 907 430 816 409 757 41 716 205 521 771 865 641 124 470 821 761 430 404 757 323 910 161 179 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1030_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "Based on the voice analysis, I would categorize the emotional state as sadness.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 692 526 302 592 103 81 664 835 22 878 362 423 565 179 961 931 62 761 907 430 317 366 828 742 924 866 586 955 53 377 198 835 67 297 265 675 237 307 63 644 254 530 733 787 935 101 677 660 555 233 45 914 445 137 576 761 430 70 185 788 15 59 998 350 836 402 663 466 556 655 837 81 198 711 124 884 202 393 946 215 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 828 98 519 589 702 874 822 89 194 664 506 208 613 417 878 173 641 683 519 26 204 280 576 384 907 430 901 555 747 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1017_TSI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "The emotion expressed in this voice recording is happiness.",
+    "prediction_units": "202 393 946 215 327 754 498 324 789 908 380 817 146 283 352 385 659 685 487 319 219 522 589 337 126 712 647 384 879 70 835 67 940 118 613 944 46 812 222 202 881 393 333 32 683 337 692 526 302 592 103 81 194 664 835 67 22 337 243 156 824 998 263 119 607 592 103 660 166 398 212 455 865 641 124 470 821 761 430 404 757 323 910 161 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1038_DFA_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 589 26 204 280 668 384 879 901 555 747 961 428 377 198 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1008_IWW_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "The primary emotion in the speech sample is sadness.",
+    "prediction_units": "734 251 676 973 288 796 655 837 81 12 336 663 466 503 56 321 630 14 406 734 754 498 889 324 789 908 380 817 146 283 352 385 343 659 46 812 222 393 946 734 742 98 519 589 126 323 534 485 948 86 539 552 326 531 519 26 204 280 668 576 384 907 430 650 816 409 757 716 205 521 25 865 641 124 519 589 26 204 280 576 384 907 430 901 555 747 961 428 377 835 67 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1054_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "anger",
+    "prediction_units": "384 907 430 650 325 350 969"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1050_TAI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "The speaker's emotion is anger.",
+    "prediction_units": "393 946 215 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 734 754 498 324 789 908 380 828 817 146 283 352 385 659 25 389 825 771 865 641 124 878 609 423 384 879 650 816 325 350 836 377 969 164 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1079_WSI_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or classifying emotions through speech. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 432 32 924 866 586 955 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 56 964 113 327 905 377 611 267 187 594 461 969 867 45 914 119 887 593 167 761 907 430 70 835 866 586 362 59 998 66 776 167 655 837 81 398 212 455 25 734 754 498 324 789 908 380 660 817 146 283 832 758 711 510 297 265 675 237 307 780 256 728 220 340 846 828 742 98 519 589 126 323 534 485 321 948 53 539 686 552 326 531 417 675 755 584 415 772 497 63 644 254 530 733 445 137 488 620 112 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1025_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion present in this speech sample. Choose the most appropriate label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "The emotion present in this speech sample is happiness.",
+    "prediction_units": "393 215 327 754 498 324 789 908 380 828 817 146 283 352 143 38 412 481 973 288 796 33 879 347 975 832 93 274 208 613 944 955 46 812 222 202 393 946 333 32 683 519 589 126 323 534 485 948 539 552 326 519 26 204 280 576 384 907 430 816 409 757 41 740 716 205 521 267 25 771 865 641 124 470 821 761 430 70 404 757 323 161 961 428 377 835 67 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1037_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal features to determine their emotional state. Reply with only one label: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or vocal features. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 445 137 822 89 664 757 323 59 790 716 205 521 932 148 538 423 27 761 430 650 179 931 62 317 645 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 964 113 327 635 791 380 267 187 594 461 969 382 692 526 302 6 908 382 268 501 860 716 205 521 382 390 479 330 776 534 485 948 86 539 477 326 788 663 969 198 711 510 297 265 675 755 415 772 497 63 644 254 530 733 445 137 576 488 620 659 538 187 594 908 310 816 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1018_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "Based on the audio sample, the emotion is happiness.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 406 594 246 660 166 964 113 327 635 791 380 828 98 519 589 26 204 280 668 576 6 907 837 664 409 757 41 740 716 205 521 916 44 605 63 665 202 393 946 215 327 754 498 324 789 908 380 828 817 146 283 352 659 25 825 865 641 124 337 470 821 761 430 70 404 757 323 910 161 961 428 377 835 67 297 206 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1091_ITS_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given voice recording, extract the emotional state and return only the emotion category, to choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "I'm not capable of listening to voice recordings or extracting emotional states from audio. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 870 692 526 302 592 103 81 194 664 835 67 337 243 156 156 824 734 870 263 45 272 119 607 592 103 969 660 166 398 212 455 545 711 510 878 461 969 538 423 565 487 219 522 589 600 126 728 647 384 879 70 219 952 315 398 212 455 25 565 754 498 324 789 908 380 828 817 146 283 353 716 205 521 828 98 519 589 702 576 822 89 194 664 506 686 85 297 265 243 479 515 647 246 896 627 538 609 187 594 246 660 166 250 964 113 327 905 377 611 916 584 902 193 415 341 661 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 816 325 518 56 321 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 208 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 485 284 466 377 53 198 711 510 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1050_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or speech patterns, but I can help you with other questions or tasks.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 538 423 761 907 430 179 931 62 259 317 453 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 250 964 113 327 635 791 380 187 461 969 742 98 519 589 126 323 534 485 321 948 86 539 552 326 243 850 260 444 384 879 430 70 185 794 788 663 377 832 758 545 711 510 297 265 675 237 307 407 226 666 621 128 665 991 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 576 384 693 268 876 258 436 139 340 787 935 271 333 196 918 878 538 238 104 938 663 969 867 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 711 510 362 461 969 691 105 244 583 576 761 907 430 70 835 67 940 118 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1037_MTI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "The speaker's emotion is sadness.",
+    "prediction_units": "202 393 946 742 519 589 337 126 323 534 485 974 86 990 501 137 663 198 711 510 169 878 754 498 324 789 908 380 817 146 283 352 659 25 389 825 865 641 683 519 589 26 204 280 576 384 879 430 901 555 747 961 428 377 835 67 297 206 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1010_IEO_FEA_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "I'm not capable of classifying emotions based on time of day. However, I can try to help you identify your emotions through conversation. How are you feeling right now?",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 850 45 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 66 776 655 837 81 398 212 455 25 754 498 324 789 6 908 380 817 146 283 832 758 711 510 337 243 537 290 978 822 89 194 664 835 67 940 118 208 944 878 609 493 361 143 38 105 244 583 874 167 655 837 81 896 627 168 932 148 537 721 250 549 822 89 194 458 726 584 902 193 415 661 497 63 644 991 821 167 104 894 968 852 741 384 879 577 154 302 663 969 524 44 254 530 733 445 137 488 620 352 143 105 777 227 655 837 81 664 793 79 868 220 470 821 576 384 693 268 876 258 436 139 483 483 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 664 427 258 436 635 663 969 466 734 754 498 324 789 6 908 380 660 817 146 283 832 758 711 510 297 265 675 237 780 256 728 647 677 253 846 382 263 272 313 469 167 655 764 650 816 409 526 559 663 432 346 540 866 586 314 6 822 89 194 817 146 283 377 385 584 902 193 415 772 497 63 665 991 254 821 761 907 597 483 579 969 258 436 139 340 390 479 330 776 485 974 564 693 259 398 212 455 143 156 824 837 81 664 29 116 281 62 238 907 597 611 916 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1066_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 589 26 204 280 668 384 879 901 555 747 961 428 377 198 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1051_TIE_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion conveyed in the given speech sample. Choose from: anger, disgust, fear, happiness, neutrality, or sadness. Output only the emotion label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "I'm not capable of identifying emotions from speech samples. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 530 733 664 196 166 549 384 879 443 274 794 680 15 59 958 66 776 655 837 398 212 455 25 734 498 324 789 908 380 660 817 146 283 832 758 711 510 337 243 515 647 366 896 627 912 98 519 589 126 323 534 485 321 948 813 539 552 326 519 589 26 204 280 668 384 761 907 430 816 409 757 41 716 205 521 545 711 510 297 265 675 237 415 772 497 63 644 254 530 733 263 914 445 137 488 620 659 538 187 594 908 310 816 325 518 56 948 86 156 824 442 432 170 589 126 740 655 764 650 816 325 208 417 755 79 799 220 523 105 244 583 576 384 879 219 522 67 940 118 233 850 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1055_DFA_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "The speaker's emotion is anger.",
+    "prediction_units": "202 393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 878 565 754 498 324 789 908 380 828 817 146 283 352 659 25 825 771 865 641 124 878 609 423 27 384 879 816 325 350 836 663 969 164 726 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_ITH_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "Based on the context, I would classify the speaker's emotion as happiness.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 263 45 914 445 469 167 655 764 650 816 274 557 75 583 576 384 879 70 219 952 522 67 940 118 613 417 755 237 193 665 644 254 504 530 733 787 935 101 741 660 555 233 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 337 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 609 734 754 498 324 789 908 380 660 817 146 283 352 659 865 641 124 470 821 761 430 70 404 757 323 161 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1040_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal features to determine their emotional state. Reply with only one label: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot determine the speaker's tone or emotional state.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 907 650 179 931 62 317 645 655 837 81 664 347 376 398 212 455 538 187 594 246 901 166 250 964 113 327 635 791 380 611 524 44 115 224 121 226 666 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 761 650 179 475 783 246 945 29 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 627 915 202 393 946 734 432 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 589 884 884 244 583 576 803 791 380 620 112 659 187 461 969 423 565 734 498 324 789 908 380 346 817 146 283 353 716 205 521 828 98 519 589 702 874 576 822 89 194 664 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1029_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "Based on the audio, I would categorize the emotional state as sadness.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 215 113 406 594 246 660 56 964 113 327 905 635 791 52 521 524 44 115 254 530 733 787 935 101 660 555 233 914 445 137 576 761 430 70 185 788 15 998 350 836 402 663 466 556 655 837 81 198 711 124 884 202 393 946 215 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 828 98 519 589 702 874 576 822 89 194 664 506 208 613 417 878 423 173 641 683 519 26 204 280 668 576 384 907 430 901 555 29 747 961 428 377 835 67 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1017_TIE_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotional tone is conveyed in this speech? Respond with one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "I'm not sure, could you please provide more context or information about what happened?",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 944 326 531 643 253 592 103 969 726 44 665 914 119 469 220 523 555 166 258 436 139 340 357 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 233 29 889 324 826 592 103 969 867 45 272 313 469 167 655 764 650 816 274 557 794 75 583 15 576 384 879 219 952 522 67 940 118 944 220 461 969 25 771 46 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 734 849 907 597 660 506 29 233 935 101 741 173 945 470 821 761 430 70 404 757 377 385 686 208 613 417 755 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1046_TIE_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I'm not aware of the specific context or situation you're referring to. Could you please provide more information or clarify what happened?",
+    "prediction_units": "254 530 733 627 116 475 783 104 70 945 506 944 565 734 787 935 101 741 249 969 466 932 148 559 202 393 946 734 742 519 589 126 323 241 432 882 924 866 261 230 333 958 66 852 333 487 990 107 29 561 914 445 469 167 655 764 650 816 274 557 794 75 583 15 576 384 879 219 522 67 940 118 233 169 187 461 969 742 98 519 26 204 314 487 793 539 477 74 787 101 483 822 89 194 664 817 146 283 352 915 258 436 635 969 156 824 734 870 390 422 330 776 663 969 466 398 212 455 143 79 799 220 340 846 611 916 584 902 193 415 497 63 662 914 119 677 220 333 660 555 258 436 139 340 357 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 664 555 233 889 324 826 592 103 969 406 25 771 328 143 390 422 330 776 663 748 806 336 822 89 194 817 146 283 352 385 931 461 969 867 45 914 887 167 462 104 907 430 466 663 390 958 66 776 655 837 81 787 935 101 741 173 945 470 821 761 430 404 757 323 377 385 686 208 613 417 755 902 193 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1076_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or accessing external files. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 432 32 924 866 586 955 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 56 964 113 327 377 611 267 187 594 461 969 267 538 423 27 761 430 70 219 727 522 866 586 314 245 798 32 835 924 866 398 212 455 428 161 487 319 219 522 589 600 702 788 663 466 179 449 716 205 521 390 479 330 776 167 655 837 81 693 521 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 112 538 187 594 908 310 325 518 56 321 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 337 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1029_ITH_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "I'm not capable of detecting emotions from audio. However, I can suggest that you take a few deep breaths, compose yourself, and focus on your doctor's appointment. It's normal to feel anxious before a doctor's visit. You got this!",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 721 250 523 793 403 244 583 576 384 879 219 952 315 794 398 212 455 565 754 498 889 324 789 6 908 380 660 817 146 283 832 758 711 510 243 479 515 647 366 896 627 538 187 594 246 660 166 964 113 327 377 611 916 584 902 193 415 661 497 63 644 991 254 821 167 104 894 852 741 384 879 577 154 302 663 969 524 177 44 254 530 733 914 445 137 488 620 352 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 233 459 173 945 233 258 436 139 105 244 583 576 822 89 194 664 990 501 107 137 565 734 390 422 330 776 258 436 139 340 86 196 537 721 250 485 948 86 539 876 561 213 973 288 647 384 879 70 918 545 85 297 265 675 237 63 665 662 272 313 469 367 729 409 0 41 740 908 380 660 198 711 376 124 337 258 436 663 969 742 98 519 589 26 204 280 668 576 693 521 828 390 66 417 755 237 193 985 63 665 644 254 823 175 684 136 143 390 479 330 776 435 908 382 934 501 860 333 198 32 835 67 22 169 878 493 361 258 436 663 969 523 196 196 721 549 238 462 655 764 70 404 315 75 788 663 198 711 510 362 734 251 676 0 41 740 592 81 194 664 29 747 671 377 506 686 613 417 755 415 772 497 63 644 864 771 685 333 437 589 337 243 116 281 783 592 103 969 806 336 716 205 521 867 79 868 220 390 479 330 776 485 948 284 327 635 205 521 423 384 879 816 219 431 531 976 955 333 198 835 67 297 337 850 260 978 833 734 870 390 422 330 435 592 103 969 466 565 734 196 721 549 238 462 655 764 70 185 952 315 75 788 663 198 711 124 337 243 526 559 333 347 975 955 377 506 686 613 417 755 415 772 497 63 665 991 162 258 436 139 340 416 836 238 462 104 430 945 29 202 881 331 333 377 835 67 206 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1014_IWL_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "The speaker's emotion is happiness.",
+    "prediction_units": "202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 878 754 498 324 789 908 380 817 146 283 352 659 825 771 865 641 124 470 821 761 430 70 404 757 323 910 161 428 377 835 67 206 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1029_MTI_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "fear",
+    "prediction_units": "479 330 776 534 485 974 284 377 969 164 524"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1017_IEO_SAD_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal features to determine their emotional state. Reply with only one label: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "The speaker's tone and vocal features suggest sadness.",
+    "prediction_units": "393 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 884 244 583 576 803 791 380 179 112 931 175 684 136 143 692 526 302 908 380 382 268 501 860 716 205 521 390 479 330 776 485 948 86 539 477 74 663 969 198 711 510 90 780 519 26 204 280 59 196 705 11 576 384 879 70 835 67 940 118 85 519 26 204 280 576 384 879 901 555 29 747 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1066_DFA_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "The speaker's emotion is anger.",
+    "prediction_units": "202 393 946 742 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 754 498 324 789 908 380 828 817 146 283 352 659 25 825 771 865 641 124 878 609 423 27 384 879 816 325 350 836 663 969 164 916 726 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1056_IWL_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the lexical content and focus solely on vocal features to classify the emotional expression. Choose one label from the list - anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I would classify the emotional expression as happiness.",
+    "prediction_units": "530 787 935 101 677 660 555 233 914 887 593 462 761 907 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 538 487 219 522 589 337 126 712 796 647 384 879 70 817 146 283 352 659 173 641 124 470 821 761 430 70 404 757 323 910 161 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1041_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "Based on the tone, rhythm, and intensity, the emotion in the provided audio sample is happiness.",
+    "prediction_units": "978 822 89 194 664 835 67 940 878 493 361 393 946 734 105 244 583 576 803 563 380 611 620 385 343 942 44 115 111 63 665 991 162 156 824 442 333 523 196 166 921 549 366 896 627 168 343 942 44 902 752 63 644 254 823 175 684 136 944 46 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 523 50 534 321 458 524 942 44 752 63 665 202 393 946 215 327 754 498 324 789 908 380 828 817 146 283 352 659 46 812 222 393 946 734 251 676 481 973 288 750 687 870 692 154 558 655 837 81 166 599 161 523 555 944 878 609 187 594 246 901 166 250 56 113 327 635 791 380 828 98 519 589 26 204 280 576 384 761 650 409 757 716 205 521 771 865 641 124 470 821 761 430 70 404 757 323 910 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1012_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the provided audio and classify the speaker's emotion as one of the following: anger, disgust, fear, happiness, neutrality, or sadness. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or accessing external information, so I cannot classify the speaker's emotion.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 29 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 432 32 924 866 586 955 398 212 455 143 38 79 799 220 483 538 187 594 246 901 166 56 964 113 327 377 611 267 187 594 461 969 538 423 27 761 430 70 727 522 866 586 314 245 798 32 882 924 866 398 212 455 428 487 319 219 522 589 600 702 788 663 466 449 716 205 521 267 25 825 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 385 343 942 115 193 121 226 666 63 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 761 430 650 179 475 783 246 945 506 233 45 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 198 711 510 169 734 754 498 324 789 908 380 828 817 146 283 377 385 584 902 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1028_IEO_FEA_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "prediction": "I'm not capable of detecting emotions in audio. I can only respond to text-based queries. However, I can suggest some audio analysis tools that can help you with that.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 721 250 161 523 793 403 244 583 576 384 879 70 219 952 315 398 212 455 25 754 498 324 789 803 908 380 660 817 146 283 832 758 711 510 362 46 812 222 659 538 187 594 246 901 166 964 113 327 611 916 584 902 193 415 341 661 497 63 644 254 504 530 733 445 137 488 620 659 538 187 594 908 310 325 518 321 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 208 613 417 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 213 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 405 53 321 53 198 711 510 297 265 675 237 415 772 497 644 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 352 912 98 519 26 204 280 314 523 196 705 11 576 384 879 70 835 67 940 118 85 519 26 204 280 668 167 104 896 627 659 538 609 187 594 246 901 166 56 964 113 327 905 635 791 894 267 538 565 179 961 281 62 384 761 907 430 317 453 366 828 742 924 866 586 955 333 198 32 683 67 589 337 884 244 240 516 677 253 205 521 711 510 884 459 173 945 233 914 445 137 488 620 470 821 576 693 934 268 404 876 323 258 436 139 340 787 935 271 333 523 196 202 881 331 238 907 430 945 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1031_ITH_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "Based on your tone, I would categorize your emotional state as neutral.",
+    "prediction_units": "290 978 822 89 194 664 835 67 940 878 493 361 258 436 635 663 969 523 793 105 244 583 576 803 563 380 611 385 343 942 44 115 665 644 254 530 733 787 935 101 660 555 233 914 445 137 167 384 761 430 70 185 788 15 59 998 350 836 402 663 466 824 556 655 837 81 198 711 376 124 258 436 663 969 538 565 734 498 324 789 908 380 817 146 283 353 716 205 521 828 98 519 589 702 576 822 89 194 664 506 613 417 878 423 173 641 124 243 116 281 372 139 340 660 351 477 728 647 716 205 611 916 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1090_IWW_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speech characteristics, classify the emotion in this audio clip. Select from: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio clips. I can only respond to text-based queries. If you'd like to describe the audio clip to me, I'd be happy to try and help you classify the emotion.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 821 485 284 466 398 212 455 187 594 461 969 609 423 27 761 430 179 931 62 259 317 645 453 655 837 81 198 347 376 398 212 455 538 609 187 594 246 901 166 56 113 327 635 791 380 382 263 914 119 593 647 333 506 876 545 85 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 931 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 377 53 198 711 510 297 265 675 237 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 660 555 781 645 655 837 81 664 990 107 29 79 868 220 196 721 250 734 432 742 170 731 589 337 126 119 728 647 655 837 81 885 29 202 393 946 406 594 246 270 660 166 56 113 327 905 635 791 380 382 867 914 119 593 647 333 713 506 876 79 799 220 498 172 536 950 53 321 458 44 665 254 530 733 555 29 290 943 56 321 948 86 470 821 761 430 70 404 757 323 56 321 458 105 79 868 220 105 777 227 647 655 837 81 327 684 470 821 576 693 268 404 876 233 258 436 139 340 263 45 914 887 593 167 384 761 907 430 70 540 866 586 362 59 998 958 66 776 655 837 81 202 393 946 215 327 754 498 324 789 908 380 817 146 283 377 385 584 902 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1075_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal features to determine their emotional state. Reply with only one label: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 589 26 204 280 576 384 879 901 555 747 961 428 377 198 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1011_TAI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speech characteristics, classify the emotion in this audio clip. Select from: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "The emotion in this audio clip is happiness.",
+    "prediction_units": "393 946 215 215 327 754 498 324 789 908 380 828 817 146 283 352 385 659 46 812 222 202 881 331 333 32 683 589 337 169 878 609 187 594 246 901 166 56 113 327 635 791 380 382 867 45 914 119 593 647 333 357 876 771 865 641 124 470 821 761 430 404 757 323 910 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1081_ITS_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are analyzing customer service calls for emotion detection. Identify the speaker's emotion as anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, but I can help you identify the emotion in a text-based conversation. Please provide the text you'd like me to analyze.",
+    "prediction_units": "254 530 733 627 116 475 783 104 70 945 944 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 485 284 466 398 212 455 343 659 187 594 461 969 538 423 761 430 179 961 62 954 317 453 837 81 664 347 376 398 212 455 659 538 609 187 594 246 901 166 964 113 327 635 791 611 524 44 115 605 121 621 128 665 547 833 173 945 944 530 733 914 445 137 488 620 352 470 821 384 693 268 404 876 258 436 139 530 733 664 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 327 754 498 324 789 803 908 380 817 146 283 352 385 659 825 771 46 812 222 931 428 565 734 793 105 244 583 576 879 219 522 67 940 118 290 978 822 89 194 664 835 67 940 118 233 914 445 469 167 655 764 650 816 409 154 559 663 432 742 346 540 866 586 280 314 822 89 194 664 817 146 283 377 385 584 193 415 772 497 63 63 662 213 260 712 485 321 948 813 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 105 244 583 576 384 879 219 952 522 67 940 118 477 258 436 139 340 196 555 781 645 655 837 81 664 990 107 29 12 172 536 950 321 948 86 105 79 868 220 846 483 384 761 430 179 961 931 62 693 317 645 453 655 837 81 377 198 711 510 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1028_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "prediction": "I'm not capable of classifying emotions based on time of day. However, I can try to help you identify your emotions through conversation. How are you feeling right now?",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 870 790 716 205 521 932 148 850 45 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 734 66 776 655 837 81 398 212 455 25 565 754 498 324 789 6 908 380 660 817 146 283 832 758 711 510 243 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 143 38 244 583 874 167 655 837 81 896 627 168 932 148 537 721 250 549 822 89 194 53 458 726 584 902 193 415 661 497 63 644 991 821 167 104 894 852 741 384 879 577 154 302 663 969 524 44 530 733 445 137 488 620 352 143 105 777 227 655 837 81 664 793 79 868 220 470 821 576 384 693 268 876 258 436 139 483 483 733 664 196 166 549 384 879 443 93 274 794 680 15 59 958 66 776 655 837 81 664 427 258 436 663 969 466 734 754 498 324 789 6 908 380 660 817 146 283 832 758 711 510 297 265 675 237 780 256 728 647 677 253 846 382 263 272 313 469 167 655 764 650 816 409 526 559 663 432 346 540 866 586 314 6 822 89 194 817 146 283 377 385 584 902 193 415 772 497 63 665 991 254 821 761 907 597 894 483 101 579 969 258 436 139 340 390 479 330 776 485 974 564 693 259 398 212 455 143 156 824 837 81 664 29 116 281 62 238 907 597 611 916 44 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1062_MTI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 26 204 280 576 384 879 901 555 747 961 428 377 198 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1046_DFA_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "fear",
+    "prediction_units": "390 479 330 776 534 485 974 284 377 969 223"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_ITS_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a sentiment analysis project, determine the primary emotion in the given speech sample. Return only the correct label from choices - anger, disgust, fear, happiness, neutrality, or sadnessf.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I didn't receive a speech sample from you. Please provide the sample, and I'll do my best to determine the primary emotion.",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 56 321 948 86 539 79 868 220 734 470 821 576 384 693 611 268 876 417 341 661 497 63 665 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 721 549 803 795 143 156 824 442 432 742 924 866 261 230 976 534 485 321 948 885 692 559 565 734 742 98 98 519 589 126 323 534 485 948 539 552 326 531 519 26 204 280 668 384 907 430 816 409 757 41 716 205 521 390 479 515 647 366 896 627 258 436 139 340 611 916 584 902 193 415 772 497 63 662 213 260 712 485 321 948 813 198 711 510 337 243 850 213 973 288 796 750 870 692 154 558 655 837 81 664 555 29 202 393 946 734 432 742 519 26 204 280 576 384 907 430 650 816 409 757 740 716 205 521 524 44 902 605 63 644 254 823 175 684 136 944 530 733 693 521 537 721 549 139 340 846 498 324 338 359 837 733 664 357 290 978 833 384 879 70 835 67 940 118 613 417 755 662 79 868 220 483 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 352 202 393 946 734 251 676 481 973 288 796 750 655 837 81 748 12 336 877 663 466 503 56 321 14 406 25 565 754 498 324 789 908 380 817 146 283 377 385 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1023_MTI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "I'm not capable of detecting emotions from audio or making predictions about the weather. I can provide general information on a wide range of topics, though.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 721 250 161 523 793 403 244 583 576 384 879 219 952 315 398 212 455 734 754 498 889 324 789 908 380 817 146 283 832 758 711 510 337 243 479 515 647 246 896 627 538 187 594 246 166 250 964 113 327 791 611 267 187 594 461 969 498 172 871 877 822 89 664 990 501 398 212 455 143 38 676 481 973 288 796 33 523 196 166 250 333 487 219 727 817 146 283 832 758 711 510 362 734 849 907 597 29 202 393 946 734 787 935 101 741 384 879 921 377 969 164 726 584 902 819 341 661 497 63 644 254 530 733 445 137 576 488 620 143 38 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 944 537 705 11 576 384 879 179 961 62 466 716 205 521 267 25 771 328 143 390 422 330 776 663 748 806 336 822 89 194 817 146 283 352 385 659 878 538 187 594 493 361 931 565 734 787 935 101 741 655 837 81 664 555 233 156 824 442 822 89 834 705 11 362 932 148 850 244 583 167 655 764 108 404 757 323 377 219 990 107 545 85 297 675 237 307 111 128 665 202 881 331 803 563 611 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1030_DFA_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 589 26 204 280 668 384 879 901 555 747 961 428 377 198 835 67 297"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1062_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion present in this speech sample. Choose the most appropriate label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "The emotion present in this speech sample is happiness.",
+    "prediction_units": "393 215 327 754 498 324 789 908 380 828 817 146 283 352 143 38 412 481 973 288 796 33 879 347 975 832 93 274 940 208 613 944 955 46 812 222 202 393 946 333 32 683 519 589 126 323 534 485 948 539 552 326 26 204 280 576 384 907 430 816 409 757 41 740 716 205 521 25 825 685 865 641 124 337 470 821 761 430 70 404 757 323 910 161 961 428 377 835 67 297 206 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1069_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I'm not capable of detecting emotions or classifying them in real-time. I'm a text-based AI assistant, not a facial recognition system. I can provide general information on emotion classification, though.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 542 445 137 822 89 664 757 323 59 790 716 205 521 267 932 148 721 250 161 523 793 403 244 583 576 384 879 219 952 315 398 212 455 25 565 754 498 889 324 789 908 380 660 817 146 283 832 758 711 510 169 461 969 867 45 914 119 887 593 167 761 907 430 70 835 866 586 362 59 66 776 655 837 81 398 212 455 915 202 881 331 384 377 896 627 168 25 46 812 222 915 156 824 442 485 113 327 635 716 205 521 691 105 244 583 167 655 764 837 81 377 627 385 584 902 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 952 522 67 940 118 537 290 978 822 89 194 664 32 835 67 940 118 944 423 822 89 327 905 579 837 81 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 15 377 443 93 506 208 613 417 755 237 193 111 985 63 665 991 162 116 475 783 104 430 945 944 565 734 390 479 330 776 822 333 194 32 431 531 716 205 521 787 156 824 384 879 319 501 852 137 161 487 319 350 747 207 428 333 817 146 283 352 915 912 98 519 26 204 280 6 333 32 882 170 731 600 702 788 377 896 385 309 584 902 415 772 497 63 644 254 530 733 445 137 576 488 620 143 38 481 973 288 750 870 692 306 154 558 655 837 81 664 555 944 29 537 705 11 576 384 879 179 961 466 716 205 521 267 25 771 328 143 390 422 776 663 748 806 336 822 89 194 817 146 283 352 659 878 538 187 594 493 361 428 734 498 324 789 908 380 660 817 146 283 352 915 914 445 887 167 761 430 70 835 866 586 66 910 161 487 501 137 822 89 194 817 146 283 377 385 343 942 115 193 121 111 666 63 665 202 881 331 803 563 611 916 584 902 736 341 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1089_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider the pitch, tempo, and vocal inflections in the audio when classifying the emotion. Return only one of the predefined labels of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio or classifying emotions in real-time. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 846 483 538 187 594 246 901 166 964 113 327 905 803 791 52 267 187 461 969 867 45 914 119 887 593 167 761 907 430 70 835 866 586 362 998 66 776 655 837 81 398 212 455 25 565 754 498 324 789 908 380 660 817 146 283 832 758 711 510 362 46 812 222 915 156 824 442 485 948 113 327 635 716 205 521 691 105 45 244 583 167 655 764 837 81 377 627 385 309 584 902 415 772 497 63 644 254 530 733 914 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1052_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the lexical content and focus solely on vocal features to classify the emotional expression. Choose one label from the list - anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "I would classify the emotional expression as happiness.",
+    "prediction_units": "787 935 101 677 660 555 233 914 887 593 167 761 907 430 70 835 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 215 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 538 487 319 219 522 589 337 126 712 796 33 384 879 70 817 146 283 352 659 423 173 641 124 470 821 761 430 70 404 757 323 910 161 961 428 377 835 67 297 206 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_IWW_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Consider the pitch, tempo, and vocal inflections in the audio when classifying the emotion. Return only one of the predefined labels of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I need more information about the audio. Can you please provide more context or describe the audio to me?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 321 948 86 539 79 868 220 470 821 576 693 611 268 876 417 341 661 497 63 665 991 254 821 104 108 894 852 741 384 879 577 154 302 663 969 524 726 44 254 504 530 733 575 116 372 485 948 86 555 233 889 324 826 592 103 969 466 503 333 328 143 390 422 330 776 435 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 428 565 734 849 907 597 660 29 393 946 215 327 594 246 660 166 964 113 327 791 380 660 916 584 902 193 341 661 497 63 665 662 445 137 488 179 961 207 258 436 139 340 382 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 555 29 889 324 826 592 103 969 867 263 45 272 313 469 167 655 650 816 274 794 75 583 15 576 384 879 219 952 522 67 940 118 461 969 541 196 721 250 734 432 742 731 589 337 126 728 647 655 837 81 713 555 29 202 393 946 215 327 246 660 166 56 964 113 327 905 635 791 380 660 105 79 799 220 498 12 172 536 53 321 458 524 44 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1057_IWL_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the dominant one as either anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "I'd be happy to help. Please go ahead and provide the audio clip, and I'll do my best to classify the dominant emotion.",
+    "prediction_units": "530 733 555 29 943 485 948 86 470 821 761 430 70 404 757 323 56 321 86 539 79 868 220 470 821 576 462 693 268 876 341 661 63 662 213 260 712 485 321 948 813 711 124 510 243 416 836 803 791 894 483 565 734 470 821 384 55 555 208 944 878 823 175 684 136 143 38 412 481 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 406 538 187 594 246 660 166 56 113 327 905 791 380 382 867 45 914 119 593 453 655 506 417 755 237 605 193 111 63 665 644 254 823 175 684 136 944 530 733 693 521 867 537 721 549 139 340 846 498 324 338 359 655 837 733 357 290 978 833 384 879 70 835 67 940 118 613 417 755 237 662 79 868 220 914 887 593 167 761 907 430 70 540 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 196 721 549 167 764 748 872 336 877 179 961 428 488 443 93 274 944 754 498 324 789 908 380 817 146 283 377 385 584 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1011_TAI_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech emotion annotation, classify the speaker's emotion with precision and return only the appropriate label from list of anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "fear",
+    "prediction_units": "390 479 330 776 534 485 974 284 377 969 164 524 726"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1033_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "Based on the tone, rhythm, and intensity, the emotion in the provided audio sample is happiness.",
+    "prediction_units": "978 822 89 194 664 835 67 940 944 878 493 361 393 946 734 105 244 583 576 803 563 380 620 385 343 942 44 115 111 63 665 991 162 156 824 442 333 196 166 921 549 366 87 896 627 168 343 942 44 902 752 63 644 254 823 175 684 136 944 46 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 523 50 53 321 458 942 44 902 752 63 665 202 393 946 215 327 754 498 324 789 908 380 828 817 146 283 352 659 46 812 222 393 946 734 251 676 481 973 288 750 687 870 692 154 558 655 837 81 166 599 161 523 555 944 878 609 187 594 246 901 166 56 113 327 635 791 380 358 742 98 519 589 26 204 280 576 384 761 650 816 409 716 205 521 685 865 641 124 337 470 821 761 430 70 404 757 323 161 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1030_IWL_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the intensity and frequency variations in the voice to determine the emotional category. Output the correct label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio signals, so I cannot determine the emotional category of a voice. However, I can provide information on how to use a new alarm clock or offer suggestions for improving your sleep quality if you'd like.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 506 29 233 542 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 343 187 594 461 969 538 423 27 761 650 931 62 317 645 453 655 837 81 664 347 376 398 212 455 538 609 187 594 246 660 166 250 964 113 327 635 742 98 519 26 204 280 333 487 350 747 62 716 205 521 711 510 297 265 675 237 307 407 334 226 666 621 128 665 780 289 26 204 76 614 803 894 483 530 733 45 914 445 137 576 384 907 650 179 961 475 783 104 430 945 29 721 250 523 105 244 583 576 663 969 748 12 977 877 366 488 620 202 393 946 215 327 734 498 324 789 6 908 380 660 817 146 283 353 716 205 521 382 45 914 445 137 167 761 430 185 788 15 998 350 968 402 466 56 321 327 932 148 565 734 692 526 302 592 103 81 53 835 67 297 206 265 675 237 415 772 497 63 644 991 254 821 167 104 894 852 741 384 879 577 154 302 663 969 44 530 733 445 137 488 620 352 143 38 481 973 288 750 870 692 154 558 655 837 81 664 555 944 25 771 46 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 352 659 538 187 594 493 361 470 821 761 907 597 660 691 691 79 868 220 258 436 139 340 347 376 124 362 734 575 116 372 950 436 139 340 267 781 645 655 764 896 627 168 143 38 914 119 593 645 655 764 70 219 107 417 187 594 461 969 538 594 246 70 390 66 776 663 969 742 98 519 26 204 314 59 523 196 705 11 576 384 879 70 835 731 600 477 283 832 758 711 510 337 243 515 663 969 466 328 409 38 481 288 796 677 253 692 398 212 455 258 436 635 663 969 742 98 519 589 204 702 593 303 485 321 948 86 876 233 561 272 119 387 908 246 234 366 523 50 53 321 633 406 25 771 685 333 958 66 258 436 139 340 660 555 781 645 655 837 81 664 990 107 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1009_TIE_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A research study is analyzing emotional patterns in speech. Identify the emotion and return only one label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing speech or emotions. I'm a text-based AI assistant. If you'd like to describe the situation, I can try to help you identify the emotion.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 542 914 445 137 822 89 664 757 323 59 790 716 205 521 453 932 148 423 27 761 430 650 931 62 954 317 645 453 655 837 81 347 376 398 212 455 143 912 98 519 589 126 323 534 485 321 948 86 539 552 326 169 609 461 969 466 423 565 754 498 324 789 6 908 380 660 817 146 283 832 758 545 711 510 297 265 675 237 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 327 905 579 837 81 327 798 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 788 15 377 385 686 208 613 417 755 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 660 555 781 645 655 837 81 664 990 107 29 79 868 220 196 721 250 432 170 589 337 126 119 647 655 837 81 885 29 202 393 946 734 742 98 768 26 204 280 314 333 523 793 403 477 74 787 483 822 89 194 664 817 146 283 377 352 385 343 942 44 752 193 63 644 254 530 733 445 137 488 620 352 143 105 777 227 647 655 837 81 664 79 868 220 470 821 576 384 693 268 876 258 436 139 483 530 733 664 196 166 549 384 879 443 274 794 680 15 59 998 958 66 776 655 837 81 901 202 393 946 215 327 754 498 324 789 908 380 828 817 146 283 377 385 584 902 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1038_DFA_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the speech characteristics, classify the emotion in this audio clip. Select from: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "The emotion in this audio clip is sadness.",
+    "prediction_units": "393 946 215 215 327 754 498 324 789 908 380 817 146 283 352 385 659 25 46 812 222 202 881 331 333 873 32 683 337 169 878 609 187 594 246 901 166 56 113 327 635 791 380 382 867 45 914 119 593 647 333 357 506 876 771 865 641 683 519 589 26 204 280 576 384 907 430 901 555 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1043_DFA_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, rhythm, and intensity, determine the emotion in the provided audio sample. Return only the corresponding label from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "The emotion in the provided audio sample is happiness.",
+    "prediction_units": "393 946 215 327 754 498 324 789 908 380 828 817 146 283 352 385 659 25 771 46 812 222 393 946 734 251 676 973 288 750 687 870 692 154 558 655 837 81 166 599 161 523 555 944 878 609 187 594 246 901 166 250 56 113 327 635 791 380 358 742 98 519 589 26 204 280 576 384 907 650 816 409 757 740 716 205 521 267 825 771 865 641 124 470 821 761 430 70 404 757 323 910 179 961 428 377 835 67 297 206 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1036_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A mental health AI is processing emotional responses. Classify the speaker's emotion into one of: anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "I'm not capable of processing audio or emotional responses in real-time. I can only respond to text-based queries. If you'd like to describe the emotional tone of a piece of writing or a scenario, I'd be happy to help you classify it.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 850 412 213 973 288 750 246 70 346 540 295 586 314 798 432 882 924 866 398 212 455 659 187 594 246 660 166 56 964 113 327 635 791 894 187 594 461 969 538 423 565 734 498 324 789 908 380 828 817 146 283 353 716 205 521 787 156 824 442 798 432 742 170 519 589 337 126 740 655 650 816 540 85 866 586 955 198 711 510 362 25 46 812 222 915 143 156 824 485 113 327 635 205 521 691 105 244 583 167 655 764 837 81 377 896 627 385 584 902 415 772 497 63 644 254 504 530 733 445 137 488 620 112 931 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 990 107 29 79 868 220 196 721 250 432 170 589 337 126 119 647 655 837 81 885 29 202 393 946 734 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 691 105 45 244 583 576 803 791 380 179 449 931 932 148 565 734 676 260 323 534 485 321 948 813 835 67 22 866 700 362 366 148 156 824 556 837 81 664 539 398 212 455 461 466 565 734 742 519 26 204 280 314 179 961 931 428 384 907 969 466 911 964 113 920 905 87 524 44 605 63 665 644 254 530 733 555 29 290 943 56 321 948 86 470 821 761 430 70 404 757 323 534 321 458 86 539 105 79 868 220 470 821 167 693 268 404 876 233 258 436 139 340 263 914 887 593 167 761 907 430 70 540 866 586 362 59 998 958 66 776 655 837 81 327 377 506 686 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1065_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a security monitoring system, detect the dominant emotion in this audio. Choose from anger, disgust, fear, happiness, neutrality, or sadness.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Happiness."
+      }
+    ],
+    "prediction": "I'm not capable of detecting emotions from audio. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 267 932 148 721 250 161 523 793 403 244 583 576 384 879 70 219 952 315 398 212 455 25 565 754 498 324 789 908 380 660 817 146 283 832 758 711 510 243 479 515 647 246 896 627 538 187 594 246 660 166 250 964 113 327 87 611 611 916 584 902 193 415 341 661 497 63 644 254 530 733 445 137 576 488 620 659 538 187 594 908 310 325 518 321 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 208 613 417 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1026_TSI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What emotion is expressed in this voice recording? Choose only from anger, disgust, fear, happiness, neutrality, or sadness. Output the label only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "prediction": "sadness",
+    "prediction_units": "519 589 26 204 280 668 384 879 901 555 747 179 961 428 377 198 835 67 297"
+  }
+]

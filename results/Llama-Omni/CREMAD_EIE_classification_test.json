@@ -1,0 +1,1702 @@
+[
+  {
+    "voice": [
+      "CremaD/Audio\\1049_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the intensity level of the speaker's emotion in this audio sample. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio samples or determining emotional intensity. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 538 187 594 246 660 166 56 113 327 635 791 380 358 742 98 519 589 26 204 280 576 384 907 430 816 409 757 716 205 521 711 510 169 237 461 969 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 179 961 398 212 455 659 25 771 734 754 498 324 789 908 380 817 146 283 353 716 205 521 267 25 771 46 328 143 38 561 583 576 384 879 443 93 912 540 866 586 955 161 523 50 53 458 584 902 193 415 772 497 63 644 254 530 733 914 445 137 488 620 878 538 187 594 908 310 816 325 518 56 321 948 86 156 824 798 432 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1035_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the emotional intensity in this speech recording? Provide only one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of listening to or analyzing audio recordings. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 267 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 187 461 969 538 423 27 761 430 179 931 62 259 317 645 453 655 837 81 347 376 398 212 455 538 187 594 246 660 166 56 113 327 635 402 156 824 734 870 263 45 272 119 607 592 103 969 660 166 398 53 455 758 545 711 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 931 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 755 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 814 466 377 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1059_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The emotional intensity of the speaker cannot be determined from the given time, eleven o'clock, as it does not provide any emotional context.",
+    "prediction_units": "393 946 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 25 771 328 38 992 583 576 384 879 443 93 912 540 866 586 955 523 50 758 545 85 510 362 932 148 202 393 946 734 432 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 914 445 137 576 761 179 475 783 246 945 29 943 321 86 721 250 161 523 793 105 244 583 576 663 969 748 12 977 877 488 352 208 233 479 515 647 896 627 202 393 946 734 487 319 416 836 333 885 692 154 559 488 352 915 143 38 244 583 167 655 764 837 81 896 627 168 942 115 63 665 565 259 781 645 384 879 577 154 559 366 179 931 734 45 914 119 593 645 655 764 164 70 107 417 755 237 605 99 644 254 823 27 173 641 124 955 333 437 721 549 641 124 884 475 783 104 945 29 213 973 288 750 870 692 154 558 655 837 81 664 555 944 878 25 423 384 179 207 950 321 948 327 734 498 324 789 6 908 380 828 817 146 283 353 716 205 521 382 45 272 313 469 167 655 650 816 274 557 75 583 15 377 219 67 940 118 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1022_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a machine learning dataset annotation, classify the speaker's emotional intensity. Choose one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I would classify the speaker's emotional intensity as low.",
+    "prediction_units": "787 935 101 741 660 555 233 542 914 119 887 593 167 761 430 70 835 866 586 362 59 998 958 66 776 655 837 81 901 202 393 946 734 432 742 98 519 589 337 126 323 534 485 86 990 501 137 663 198 711 510 169 565 734 498 324 789 908 380 660 817 146 283 353 716 205 521 267 538 25 771 46 328 143 38 105 992 583 576 384 879 443 93 912 540 866 586 161 523 50 321 633 406 173 641 124 243 781 645 803 791 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1069_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing speech, so I cannot determine the level of emotional intensity.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 870 790 716 205 521 932 148 470 821 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 430 650 179 931 62 954 317 645 453 655 837 81 664 347 376 398 212 455 143 912 519 589 126 323 534 485 321 948 86 539 552 326 531 417 675 237 307 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 907 650 179 475 783 246 430 945 29 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 222 202 393 946 734 781 645 384 879 577 154 302 716 205 521 932 148 565 734 498 324 789 908 380 660 817 146 283 353 716 205 521 267 25 771 46 328 143 38 992 583 576 384 879 443 93 912 85 866 261 955 161 523 50 53 458 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1031_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on vocal expression to classify the emotional intensity. Return only the correct label from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The emotional intensity is low.",
+    "prediction_units": "202 393 946 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 25 771 328 38 992 583 576 384 879 443 93 912 540 866 586 955 523 50 321 633 406 865 641 124 243 781 645 803 791 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_TSI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The emotional intensity in the provided audio is medium.",
+    "prediction_units": "202 393 946 327 754 498 324 789 908 380 817 146 283 353 716 205 521 267 25 771 328 143 38 992 583 576 384 879 443 912 540 866 586 955 523 50 758 545 85 510 297 955 46 812 222 393 946 734 251 676 481 973 288 750 870 692 154 558 655 837 81 166 599 161 523 555 944 878 609 187 594 246 660 166 964 113 327 905 803 791 52 424 267 825 771 865 641 124 243 172 536 485 948 86 166 964 113 327 377 896 627 385 584 902 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1046_IEO_SAD_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the emotional intensity in this speech recording? Provide only one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of listening to or analyzing audio recordings. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 267 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 187 461 969 538 423 27 761 430 179 961 931 62 259 317 645 453 655 837 81 347 376 398 212 455 538 187 594 246 660 166 56 964 113 327 635 402 156 824 734 870 263 272 119 607 592 103 969 660 166 398 212 455 758 545 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 755 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 485 284 814 466 377 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1015_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not aware of any specific conversation or context about eleven o'clock, so I cannot assign a sentiment intensity level.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 944 565 734 787 935 101 741 249 969 466 932 148 559 423 384 879 179 207 428 950 321 948 707 742 98 519 589 126 260 323 241 432 882 924 866 261 230 333 958 66 852 333 487 990 107 914 445 469 367 655 650 816 409 154 559 663 432 346 540 866 586 280 314 822 89 194 817 146 283 352 343 659 187 594 461 969 867 45 272 313 469 167 655 650 816 274 794 75 583 15 576 879 219 522 67 940 118 944 734 849 907 597 660 944 565 734 259 781 645 384 879 577 154 559 366 488 179 352 931 659 565 734 263 45 914 119 593 655 764 164 70 219 107 417 755 237 307 111 666 621 128 665 780 289 26 204 76 614 803 894 483 530 733 263 914 445 137 576 384 879 179 961 475 783 246 945 944 565 734 742 98 519 26 204 280 668 167 655 837 81 620 961 931 428 565 734 98 519 26 204 280 6 879 443 274 794 680 15 59 748 12 671 877 488 443 93 506 208 613 944 169 609 771 46 328 38 992 583 576 384 879 443 93 912 540 866 261 955 523 50 910 321 86 781 645 384 879 577 154 302 716 205 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1010_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or classifying emotional intensity. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 538 423 27 761 430 650 931 62 259 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 901 166 56 964 113 327 791 611 267 187 461 969 867 45 914 119 593 167 462 761 430 70 835 866 586 362 59 958 66 776 655 837 81 398 212 455 25 771 565 734 498 324 789 908 380 660 817 146 353 716 205 521 267 25 771 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 161 523 50 53 458 265 902 193 415 772 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1077_IEO_SAD_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and assess the intensity of the expressed emotion. Reply with the correct classification: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or assessing emotions. I'm a text-based AI assistant. I can provide information or answer questions to the best of my ability, but I don't have the ability to perceive or interpret emotions.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 565 734 742 98 519 589 26 204 280 314 879 32 835 924 866 398 212 455 25 812 754 498 324 789 908 380 660 817 146 283 377 832 758 545 711 85 297 265 675 755 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 798 432 742 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497 63 644 254 530 733 914 445 137 488 620 143 38 676 481 973 288 750 870 692 306 154 558 655 837 81 664 555 944 25 771 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 461 969 538 423 384 907 430 650 816 912 85 866 586 362 663 969 867 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 711 510 884 79 799 220 202 393 946 734 870 290 978 833 384 879 70 835 67 940 118 64 944 932 148 498 889 338 359 655 837 81 327 790 333 228 234 366 523 50 53 321 458 942 902 605 193 128 665 991 547 833 173 945 944 530 733 196 537 721 549 803 795 208 233 152 784 429 202 393 946 734 327 734 790 333 228 234 366 523 50 910 321 86 105 79 868 220 870 251 676 973 288 796 33 432 742 519 866 261 976 534 485 321 948 885 878 187 594 461 969 25 771 46 328 143 38 992 583 576 663 969 268 404 757 288 663 333 523 793 29 423 565 754 498 889 324 789 908 380 828 817 146 283 377 832 758 545 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1012_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "The emotional intensity is unspecified.",
+    "prediction_units": "202 393 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 25 825 771 328 38 992 583 576 384 879 443 912 540 866 261 955 523 50 321 633 406 865 641 124 27 816 519 589 126 280 6 879 70 589 337 126 593 59 998 882 924 261 586 377 506 686 208 613 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_WSI_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio. I'm a text-based AI assistant. If you'd like to describe the audio to me, I can try to help you classify the emotional intensity based on your description.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 538 423 27 761 430 650 931 62 954 259 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 901 166 964 113 327 905 611 916 584 902 193 341 661 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 327 905 579 837 81 327 798 432 742 98 519 26 204 280 314 6 333 32 882 170 731 600 702 788 15 377 385 686 613 417 755 415 772 497 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 990 107 29 79 868 220 196 721 250 432 170 731 589 337 126 119 728 647 655 837 81 885 876 29 202 393 946 215 327 246 901 660 166 56 113 327 905 803 791 380 660 105 79 799 220 498 172 536 950 53 321 458 44 665 254 530 733 263 914 445 137 488 620 143 105 777 227 655 837 81 664 793 79 868 220 470 821 576 384 693 268 876 258 436 139 340 263 45 914 887 593 167 761 907 430 70 835 540 866 586 362 998 958 66 776 655 837 81 901 202 393 946 215 327 734 754 498 324 789 908 380 817 146 283 353 716 205 521 267 25 771 328 143 38 992 583 384 879 443 93 912 85 866 586 955 523 50 321 948 86 537 213 978 822 89 194 664 835 67 940 118 944 878 493 361 915 258 436 663 969 196 721 250 432 170 731 589 337 126 426 647 663 998 595 727 817 146 283 377 385 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the intensity level of the speaker's emotion in this audio sample. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "The intensity level of the speaker's emotion in this audio sample is medium.",
+    "prediction_units": "202 393 946 215 327 328 274 38 992 583 576 384 879 443 912 540 866 586 955 523 50 321 948 86 781 645 384 879 577 154 302 716 205 521 932 148 202 393 946 734 742 98 519 589 337 126 323 534 485 948 86 990 501 137 663 198 711 510 169 754 498 324 789 908 380 828 817 146 283 352 343 659 25 825 771 46 812 222 331 333 32 683 169 878 187 594 246 901 166 250 56 113 327 905 635 791 380 358 742 98 519 589 26 204 280 384 907 430 650 409 757 41 716 205 521 865 641 124 243 889 172 536 485 948 86 166 964 113 327 377 896 627 385 584 902 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1069_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot classify the emotional intensity of a speaker. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 907 650 931 62 317 645 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 964 113 327 635 791 611 524 44 115 605 121 226 666 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 384 761 430 179 961 475 783 246 430 945 506 233 45 914 119 887 593 167 761 907 430 70 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 215 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 538 25 771 46 328 143 38 992 583 576 384 879 443 93 912 866 586 955 161 523 50 321 327 932 148 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 969 164 916 584 902 819 341 661 497 644 254 530 733 445 137 488 620 112 931 878 538 187 594 908 310 816 325 518 56 321 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 208 613 417 755 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of listening to speech or classifying emotional intensity. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 432 742 98 519 589 126 323 534 485 321 948 86 539 552 326 531 169 187 461 969 867 45 914 119 887 593 167 761 907 430 70 835 866 586 362 998 66 776 655 837 81 398 212 455 659 25 771 734 498 324 789 908 380 660 817 146 283 353 716 205 521 267 25 771 46 328 143 38 561 583 576 384 879 443 93 912 866 586 955 161 523 50 53 458 297 265 675 237 193 415 772 497 63 644 254 530 733 914 445 137 488 620 112 878 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1081_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The emotional intensity of the speaker is unspecified, as I don't have any information about the call or the speaker's tone.",
+    "prediction_units": "202 393 946 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 25 771 328 143 38 992 583 576 384 879 443 93 540 866 261 955 523 50 910 321 327 932 148 202 393 946 734 432 98 519 589 126 323 534 485 948 86 990 501 137 663 969 865 641 124 878 27 104 816 519 589 850 428 6 879 70 924 866 261 586 303 333 998 882 924 866 586 377 885 506 208 417 755 237 605 193 121 666 63 665 254 823 173 641 347 124 362 530 733 537 721 549 803 795 944 233 152 784 429 384 179 207 950 948 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 659 565 734 849 907 597 29 393 946 734 45 272 119 607 908 103 521 187 594 461 969 541 202 393 946 734 432 742 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 884 244 583 874 576 803 563 380 611 385 584 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1031_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "The speaker's emotional intensity is medium.",
+    "prediction_units": "202 393 946 215 432 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 124 362 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 25 771 46 328 143 38 992 583 576 384 879 443 93 912 85 866 586 955 161 523 50 321 633 865 641 124 243 889 172 536 485 948 86 166 964 113 327 377 896 627 168 584 902 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1087_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the intensity level of the speaker's emotion in this audio sample. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio samples or determining emotional intensity. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 846 538 187 594 246 660 166 56 113 327 635 791 380 828 742 98 519 589 26 204 280 576 384 907 430 650 409 757 716 205 521 711 510 169 237 187 461 969 196 721 250 523 793 105 244 583 576 663 969 748 12 977 877 179 961 398 212 455 659 25 771 734 754 498 324 789 908 380 817 146 283 353 716 205 521 267 25 771 46 328 143 38 561 583 576 384 879 443 93 912 540 866 586 955 161 50 53 458 584 902 193 415 772 497 63 644 254 530 733 914 445 137 488 620 931 878 538 187 594 908 310 816 325 518 56 321 948 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1004_DFA_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The emotional intensity of the speaker is medium.",
+    "prediction_units": "202 393 946 215 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 538 25 771 46 328 38 992 583 576 384 879 443 912 540 866 586 955 161 523 50 321 932 148 202 393 946 734 742 519 589 337 126 323 534 485 86 990 501 137 663 969 406 25 865 641 124 243 889 172 536 485 948 86 166 964 113 327 377 896 627 385 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1050_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The overall intensity level of an emotional response can be classified as unspecified, low, medium, or high, depending on the context and the specific emotions detected.",
+    "prediction_units": "202 393 946 215 327 538 594 908 380 382 692 306 154 302 663 466 908 103 310 521 267 25 771 46 328 143 38 992 583 576 384 879 443 912 540 866 586 955 523 50 545 85 510 337 243 781 645 384 577 154 302 716 205 521 932 148 488 620 931 734 498 324 789 908 380 817 146 283 353 716 205 521 824 761 430 70 170 519 589 126 740 167 655 764 650 816 545 85 297 337 243 850 914 445 137 488 620 915 943 321 948 86 319 914 445 887 593 167 761 430 70 540 866 586 362 59 958 66 776 655 837 81 664 555 944 878 173 641 124 27 650 519 337 126 260 576 384 879 70 882 924 866 126 576 803 958 66 655 837 506 208 417 755 237 193 121 63 665 991 781 645 803 563 52 424 524 44 665 991 73 172 536 485 948 86 166 964 113 327 377 896 627 168 343 44 752 63 644 187 594 461 969 470 821 655 764 837 81 458 44 63 665 662 721 250 998 357 676 757 323 576 384 879 443 325 801 398 212 455 493 361 393 946 734 263 45 914 445 469 167 655 764 650 816 274 557 75 583 15 384 879 219 522 67 940 118 613 878 175 684 136 202 393 946 215 742 519 589 337 126 323 241 432 882 924 866 261 230 333 958 66 852 333 487 990 107 137 754 498 324 789 908 380 817 146 283 832 758 711 510 884 721 250 161 432 793 731 589 600 126 583 576 384 879 219 952 599 53 377 506 686 208 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1020_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "The emotional intensity of the given speech is unspecified.",
+    "prediction_units": "202 393 946 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 25 771 46 328 38 992 583 576 384 879 443 93 540 866 261 586 955 59 523 50 321 510 327 932 148 202 393 946 734 319 416 836 333 885 692 154 559 488 832 352 915 912 519 589 126 323 534 485 321 948 86 539 552 326 955 333 641 124 27 104 882 683 924 589 850 260 6 432 882 924 866 337 593 59 998 882 866 586 377 506 686 613 417 584 755 584 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_WSI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The emotion conveyed in this speech is high.",
+    "prediction_units": "202 393 946 215 327 754 498 324 789 908 380 817 146 283 352 385 143 38 45 914 445 469 366 352 915 143 692 526 559 822 89 194 664 555 944 46 812 222 202 393 946 333 32 683 519 589 126 323 534 485 948 86 539 552 326 955 865 641 124 470 821 655 764 837 81 458 726 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1085_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "The emotion conveyed in this speech is unspecified.",
+    "prediction_units": "202 393 946 327 754 498 324 789 908 380 828 817 146 283 352 143 38 45 914 445 469 366 352 915 143 692 526 559 822 89 194 664 555 944 46 812 222 202 393 946 333 32 683 589 126 323 534 485 321 948 86 539 552 326 955 865 641 124 362 27 104 650 519 850 260 6 432 882 924 337 126 593 15 333 998 882 866 586 377 506 686 208 613 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1085_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "The sentiment intensity at eleven o'clock is unspecified as it depends on the context and conversation.",
+    "prediction_units": "202 393 946 742 98 519 26 204 280 576 879 443 274 794 788 59 748 671 877 488 443 93 274 686 613 169 609 389 771 46 328 143 38 992 583 384 879 443 93 912 866 586 955 314 523 50 321 327 173 945 944 565 734 259 781 645 384 879 577 154 559 366 488 620 931 62 734 45 914 119 593 645 655 764 70 107 417 389 685 865 641 124 878 27 650 816 26 931 428 88 6 589 337 126 593 333 32 882 347 866 586 976 333 523 555 208 944 878 423 173 641 347 124 362 955 437 721 250 998 357 676 757 323 384 879 488 443 758 545 711 510 169 609 254 493 361 393 946 734 263 914 445 469 167 655 764 650 816 274 557 794 75 583 15 384 879 487 219 952 522 67 940 118 175 684 136 143 914 445 469 167 655 764 650 816 409 526 559 663 432 742 540 866 586 280 314 89 194 817 146 283 377 385 584 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1051_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers need to classify the intensity of emotions expressed in speech. Identify it as unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not able to classify emotions expressed in speech as it requires audio or video input. However, I can help you with other tasks or answer questions.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 944 423 771 822 89 194 664 885 765 302 205 521 867 79 868 220 483 263 914 887 593 167 907 430 70 835 540 866 586 362 59 958 66 776 655 837 81 327 754 498 324 789 908 380 817 146 283 832 758 711 510 169 25 685 487 319 219 522 589 337 126 712 647 384 879 70 835 67 940 118 944 46 812 222 915 912 519 589 126 323 534 485 321 948 86 539 552 326 531 169 173 641 347 124 362 333 437 156 824 734 998 263 272 119 387 655 837 81 663 198 711 510 878 609 187 594 246 901 166 56 113 327 635 791 894 52 267 187 594 461 969 692 526 559 333 196 166 56 113 327 635 791 894 267 25 609 771 46 812 328 915 143 38 0 41 740 377 506 686 613 417 755 415 772 497 63 644 991 254 821 167 104 894 852 741 384 879 577 154 302 663 969 524 44 530 733 914 445 137 488 620 352 470 821 576 384 693 934 268 404 876 258 436 139 340 787 935 271 333 523 196 878 27 104 938 663 969 793 105 244 583 576 761 907 430 70 835 67 940 118 107 545 85 297 169 614 461 969 538 423 384 907 430 650 816 912 85 866 586 76 663 867 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 545 711 510 297 265 675 584 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1037_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice intensity, rhythm, and emphasis to determine the emotional strength. Output one of the four labels. Unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot determine the emotional strength of a speaker's voice. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 485 284 466 398 212 455 659 187 594 461 969 538 609 423 27 761 907 650 179 931 62 954 259 317 645 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 964 113 327 377 791 611 524 44 115 224 121 226 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 761 430 179 961 475 783 104 430 945 29 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 366 488 222 915 202 393 946 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 828 98 519 589 600 702 728 647 384 879 488 443 325 918 743 362 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 337 243 537 526 302 592 103 81 53 664 835 67 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 931 659 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 56 485 284 814 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1088_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot classify the emotional intensity of a speaker. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 907 650 931 62 259 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 964 113 327 635 791 611 524 44 605 121 226 666 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 761 430 650 179 961 475 783 246 430 945 506 233 29 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 215 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 538 25 771 46 328 143 38 992 583 576 384 879 443 93 912 866 586 955 161 523 50 321 327 932 148 565 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 164 584 902 819 341 661 497 644 254 530 733 445 137 488 620 112 931 878 538 187 594 908 310 816 325 518 56 321 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 56 485 284 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1055_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the strength of emotion conveyed in the voice. Respond with only one of these categories: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The strength of emotion conveyed in the voice is unspecified, as I'm a text-based AI and do not have the capability to hear or analyze audio.",
+    "prediction_units": "202 393 946 734 742 98 519 589 702 728 647 384 879 488 816 325 219 918 743 932 148 734 498 324 789 908 380 660 817 146 283 352 38 45 914 445 469 352 915 143 692 526 559 822 89 194 664 555 208 944 46 812 222 393 946 734 692 526 302 592 103 81 194 664 835 67 22 297 169 955 865 641 124 362 104 650 816 519 26 280 314 6 879 70 924 866 586 680 333 998 882 866 586 377 885 555 208 417 755 115 605 985 665 99 254 823 173 641 124 362 530 733 896 627 168 565 734 105 244 583 576 384 879 219 952 522 67 589 940 850 537 290 978 822 89 194 664 835 67 940 118 944 878 822 89 284 327 905 579 837 81 194 327 488 684 136 915 721 250 220 575 475 783 945 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 357 757 323 59 790 333 37 234 366 50 321 633 86 105 79 868 220 470 821 534 485 284 969 187 594 461 969 538 423 384 761 907 430 179 931 62 954 317 645 453 655 837 81 198 711 510 878 538 187 594 246 901 166 56 964 113 327 635 611 611 916 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1073_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or classifying emotional intensity. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 538 423 27 761 430 650 931 62 259 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 901 166 964 113 327 905 791 611 267 187 461 969 867 45 914 119 593 167 462 761 430 70 835 866 586 362 59 958 66 776 655 837 81 398 212 455 25 771 565 734 498 324 789 908 380 660 817 146 353 716 205 521 267 25 771 328 38 992 583 576 384 879 443 93 912 866 586 955 161 523 50 53 458 297 265 902 193 415 772 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "The overall intensity level is medium.",
+    "prediction_units": "202 393 946 215 327 594 908 380 382 692 306 154 302 663 466 908 310 521 267 25 771 46 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 59 523 50 545 85 510 589 337 243 781 645 384 879 577 154 302 716 205 521 267 865 641 124 243 889 172 536 485 948 86 166 964 113 377 896 385 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the emotional intensity by analyzing the pitch variations, stress levels, and articulation. Output only one of the predefined labels, unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or speech patterns. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 423 27 761 430 650 931 62 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 250 964 113 327 635 894 267 187 461 969 742 98 519 589 126 323 534 485 321 948 539 552 326 243 850 260 576 384 761 430 70 185 794 788 377 832 758 545 711 297 265 675 755 415 772 497 63 644 254 530 733 445 137 576 488 620 659 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 814 466 377 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1022_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing speech, so I cannot determine the level of emotional intensity.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 445 137 822 89 194 664 757 323 59 870 790 716 205 521 932 148 470 821 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 650 179 931 62 317 645 453 655 837 81 664 347 376 398 212 455 143 912 519 589 126 323 534 485 321 948 86 539 552 326 417 675 237 307 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 907 650 179 475 783 246 430 945 29 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 366 488 222 202 393 946 734 781 645 384 879 577 154 302 716 205 521 932 148 565 734 498 324 789 908 380 660 817 146 283 353 716 205 521 267 25 771 46 328 143 38 992 583 576 384 879 443 93 912 866 586 955 161 523 50 53 458 584 902 193 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1040_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot determine the emotional intensity of a speaker. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 485 284 663 466 398 212 455 659 187 594 461 969 538 423 761 907 650 179 931 62 259 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 250 964 113 327 635 791 380 611 524 44 115 121 226 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 761 907 650 179 475 783 104 430 945 29 721 250 523 793 105 244 583 576 663 969 748 12 977 877 488 222 915 202 393 946 215 327 734 754 498 324 789 908 380 346 817 146 283 353 716 205 521 267 25 771 328 143 38 992 583 576 384 879 443 912 540 866 261 955 161 523 50 321 327 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 164 584 902 819 341 661 497 644 254 530 733 914 445 137 488 620 112 931 878 538 187 594 908 310 325 518 56 321 86 156 824 798 432 742 170 519 589 126 740 167 655 764 650 816 325 208 233 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1023_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or evaluating audio recordings. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 663 466 398 212 455 659 187 594 461 969 25 423 771 384 879 693 577 317 852 56 74 787 101 822 89 194 664 398 212 455 406 538 609 187 594 246 660 166 250 964 113 327 635 791 380 156 824 734 870 263 45 272 119 607 592 103 969 660 166 398 212 455 758 545 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 742 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 814 466 53 321 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1043_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and volume, estimate the emotional intensity in the provided audio clip. Select from the predefined categories - unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio clips or analyzing tone, pitch, and volume. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 846 538 187 594 246 660 166 56 113 327 635 402 380 382 268 263 45 914 119 593 333 506 876 545 85 297 265 169 609 594 461 969 538 423 27 761 430 650 931 62 259 317 645 655 837 81 664 347 376 398 212 455 143 38 105 244 583 874 576 167 803 563 380 611 620 385 343 44 115 665 213 260 323 333 793 506 552 326 531 417 755 237 644 254 823 175 684 136 143 692 526 558 6 246 693 317 854 964 436 377 611 627 168 916 584 902 415 772 497 63 644 254 530 733 445 137 488 620 931 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 337 118 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1008_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and assess the intensity of the expressed emotion. Reply with the correct classification: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or assessing emotions. I'm a text-based AI assistant. I can provide information or answer questions, but I don't have the ability to perceive or interpret emotions.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 565 734 742 98 519 589 26 204 280 314 6 879 32 835 924 866 398 212 455 25 812 754 498 324 789 908 380 660 817 146 283 377 832 758 545 711 510 297 265 675 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 837 81 327 798 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497 644 254 530 733 914 445 137 488 620 143 38 676 481 973 288 750 687 870 692 306 154 558 655 837 81 664 555 944 25 771 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 461 969 538 423 384 907 430 650 816 912 85 866 586 362 663 969 870 867 263 45 272 119 797 576 384 879 70 170 731 600 477 283 832 758 711 510 675 237 307 111 128 665 547 833 173 945 944 530 733 196 537 721 549 803 795 208 233 152 784 429 202 393 946 215 327 734 790 37 234 366 50 910 321 633 86 539 105 79 868 220 870 251 676 973 288 750 33 432 742 519 866 261 976 534 663 948 969 885 692 187 594 461 969 25 771 328 143 38 992 583 576 663 969 268 404 757 288 663 333 523 793 29 423 565 754 498 889 324 789 908 380 828 817 146 283 377 832 758 545 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The emotion intensity is medium.",
+    "prediction_units": "202 393 946 215 327 754 498 324 789 908 380 828 817 146 283 352 659 25 771 46 328 143 38 992 583 576 384 879 443 93 912 866 586 955 523 50 321 865 641 124 243 889 172 536 485 948 86 166 964 113 327 377 896 627 168 584 902 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1033_IEO_DIS_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or evaluating audio recordings, so I cannot determine the emotional intensity of a speaker.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 485 284 663 466 398 212 455 659 187 594 461 969 25 423 771 734 384 879 430 693 317 852 950 74 101 483 822 89 194 664 398 212 455 659 538 187 594 246 660 166 250 964 113 327 635 791 380 382 156 824 870 263 272 119 607 592 103 969 660 166 398 212 455 758 545 711 510 297 265 675 237 307 226 621 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 761 650 179 961 475 783 246 430 945 29 721 250 523 793 105 244 583 576 663 969 748 12 977 877 366 488 222 915 202 393 946 215 327 734 498 324 789 908 380 346 817 146 283 353 716 205 521 267 25 771 328 143 38 992 583 576 384 879 443 912 540 866 261 955 161 523 50 321 327 932 148 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 969 164 916 584 902 819 341 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1032_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm sorry, I don't have access to the speech content. Please provide the speech, and I'll classify its emotional intensity for you.",
+    "prediction_units": "254 504 530 733 627 912 98 519 589 26 204 280 668 246 764 466 321 458 44 644 254 504 530 733 721 549 803 795 208 233 470 152 784 429 538 423 27 761 430 70 219 952 522 295 586 314 377 198 32 835 67 337 884 79 799 220 202 393 946 734 742 98 519 589 126 323 534 485 321 948 86 539 552 326 243 850 914 445 469 167 655 650 816 274 794 75 583 15 488 443 93 506 686 613 417 755 415 772 497 662 213 260 712 485 321 948 813 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 432 742 98 519 589 126 323 534 485 321 948 86 506 686 552 326 417 755 237 63 644 254 823 175 684 136 944 530 733 693 521 867 914 887 593 167 761 907 430 70 540 866 586 362 59 958 66 776 655 837 81 664 327 333 437 85 169 734 498 324 789 908 380 346 817 146 283 353 716 205 521 267 25 771 328 38 992 583 576 384 879 443 93 912 540 866 586 955 59 523 50 910 321 633 86 390 515 663 969 56 258 436 139 340 611 916 584 902 193 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1025_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice intensity, rhythm, and emphasis to determine the emotional strength. Output one of the four labels. Unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot determine the emotional strength of a speaker's voice. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 29 542 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 485 284 466 398 212 455 659 187 594 461 969 538 609 423 27 761 907 650 179 931 62 954 259 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 901 166 964 113 327 377 791 611 524 44 115 224 121 226 621 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 384 761 430 179 961 475 783 104 430 945 29 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 366 488 222 915 202 393 946 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 828 98 519 589 600 702 728 647 384 879 488 443 918 743 362 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 337 243 537 526 302 592 103 81 53 664 835 67 297 265 675 755 237 415 772 497 644 254 530 733 914 445 137 488 620 112 931 659 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1080_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The overall intensity level is high.",
+    "prediction_units": "202 393 946 327 594 908 380 382 692 306 154 302 663 466 908 310 521 25 771 46 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 59 523 50 545 510 589 337 243 781 645 384 879 577 154 302 716 205 521 267 685 865 641 124 470 821 655 764 837 81 458 584 902 819 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1050_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "The emotion conveyed in this speech is unspecified.",
+    "prediction_units": "202 393 946 327 754 498 324 789 908 380 817 146 283 352 385 143 38 45 914 445 469 366 352 915 143 692 526 559 822 89 194 664 555 944 46 812 222 202 393 946 333 32 683 519 589 126 323 534 485 948 86 539 552 326 955 865 641 124 362 104 816 519 850 260 6 879 70 924 589 866 126 593 15 333 998 882 261 586 377 506 208 613 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1042_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot determine the emotional intensity of a speaker. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 485 284 663 466 398 212 455 659 187 594 461 969 538 423 761 430 179 931 62 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 250 964 113 327 635 791 380 611 524 44 115 121 226 666 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 761 907 650 179 475 783 104 430 945 29 721 250 523 793 105 244 477 583 576 663 969 748 12 977 877 488 620 222 915 202 393 946 215 327 734 498 324 789 908 380 346 817 146 283 353 716 205 521 267 25 771 328 143 38 992 583 576 384 879 443 912 540 866 261 955 161 523 50 321 327 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 164 916 726 584 902 819 341 661 497 644 254 530 733 445 137 488 620 112 931 878 538 187 594 908 310 325 518 56 948 86 156 824 442 432 742 170 519 589 126 740 167 655 764 650 816 325 208 233 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 56 485 284 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1056_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess how strongly the speaker is expressing emotion in this clip. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The speaker's emotion is unspecified in this clip.",
+    "prediction_units": "202 393 946 432 742 519 589 126 323 485 974 86 990 501 137 663 198 711 169 734 754 498 324 789 908 380 660 817 146 283 352 659 25 825 771 865 641 124 609 27 650 816 519 337 850 428 6 487 219 522 589 337 126 593 576 333 998 958 66 866 586 333 885 555 208 944 46 812 222 881 331 333 32 683 589 337 850 914 119 593 453 333 377 506 876 415 341 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1027_IEO_ANG_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or evaluating audio recordings, including customer service calls. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 485 284 466 398 212 455 659 187 594 461 969 25 423 771 428 384 761 430 577 317 852 950 74 787 101 822 89 194 664 398 212 455 659 538 187 594 246 660 166 250 964 113 327 905 635 791 380 382 156 824 870 263 272 119 607 592 103 969 660 166 398 212 455 758 711 510 297 265 675 237 307 621 128 644 389 771 46 328 409 45 468 340 660 166 398 212 455 143 45 914 445 469 167 104 70 835 683 731 600 702 788 59 748 627 336 663 969 828 742 98 519 26 204 280 614 663 969 577 154 559 366 333 432 683 589 337 850 272 119 607 908 103 611 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 931 878 538 187 594 908 310 325 518 56 948 86 156 824 442 798 432 742 170 589 126 740 167 655 764 650 816 325 233 662 79 799 220 105 244 583 576 879 219 522 67 940 884 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1069_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's voice intensity, rhythm, and emphasis to determine the emotional strength. Output one of the four labels. Unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot determine the emotional strength of a speaker's voice. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 29 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 485 284 466 398 212 455 659 187 461 969 538 609 423 27 761 907 650 179 931 62 259 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 964 113 327 377 791 611 524 44 115 224 121 226 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 761 430 179 961 475 783 104 430 945 29 29 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 366 488 222 915 202 393 946 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 828 98 519 589 702 728 647 384 879 488 443 325 952 918 743 362 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 337 243 537 526 302 592 103 81 53 664 835 67 297 265 675 237 415 772 497 644 254 530 733 914 445 137 488 620 112 931 659 538 187 594 908 310 816 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1062_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of detecting emotions or classifying intensity levels. I'm a text-based AI assistant, I don't have the ability to perceive or analyze emotional states.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 721 250 161 523 793 403 244 583 576 384 879 70 219 952 315 398 212 455 25 754 498 324 789 908 380 660 817 146 283 832 758 711 510 169 187 461 969 867 45 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 66 776 655 837 81 398 212 455 428 771 46 328 143 38 105 992 583 576 384 879 443 93 912 540 866 261 955 161 523 50 910 321 948 86 781 645 384 879 577 154 302 716 205 521 611 711 510 297 265 675 237 415 772 497 63 644 99 254 530 733 896 627 168 565 734 793 105 244 583 576 384 879 219 522 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 733 81 798 432 742 98 519 26 204 280 314 6 333 32 170 731 600 702 15 377 443 93 208 613 417 755 237 193 111 985 63 665 644 254 530 733 196 537 721 549 803 795 208 233 152 784 429 202 393 946 215 327 734 870 790 333 37 234 366 523 50 910 321 633 86 105 79 868 220 870 251 676 973 288 796 33 432 742 519 589 866 975 976 614 663 969 885 692 878 187 594 461 969 538 609 423 27 761 430 179 931 62 317 645 453 655 837 81 198 711 510 362 565 734 498 324 789 908 380 828 817 146 353 716 205 521 828 98 519 589 600 702 576 822 89 194 664 506 686 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1027_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and assess the intensity of the expressed emotion. Reply with the correct classification: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or assessing emotions. I'm a text-based AI assistant. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 233 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 565 734 742 98 519 589 26 204 280 314 6 879 32 882 835 924 866 398 212 455 25 812 754 498 324 789 908 380 660 817 146 283 377 832 758 545 711 510 297 265 675 237 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 798 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 816 325 518 56 321 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 755 79 799 220 105 244 583 576 384 879 219 522 67 940 118 233 850 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1043_IEO_HAP_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a machine learning dataset annotation, classify the speaker's emotional intensity. Choose one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio, so I cannot classify the speaker's emotional intensity. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 70 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 485 284 466 398 212 455 659 187 594 461 969 251 676 481 973 288 750 167 246 104 70 346 540 866 586 314 432 32 882 924 866 586 398 212 455 538 187 594 246 660 166 56 964 113 327 905 791 611 524 44 605 121 226 666 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 761 430 179 475 783 104 430 945 208 233 45 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 169 565 734 498 324 789 908 380 817 146 283 353 716 205 521 267 25 771 46 328 143 38 992 583 576 384 879 443 93 274 85 866 586 955 523 50 53 458 584 902 193 415 772 497 644 254 530 733 914 445 137 488 620 931 878 538 187 594 908 310 816 325 518 56 948 86 156 824 798 432 742 170 519 589 126 740 167 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IWL_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Determine the intensity level of the speaker's emotion in this audio sample. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The intensity level of the speaker's emotion in this audio sample is medium.",
+    "prediction_units": "202 393 946 215 327 328 143 38 992 583 576 384 879 443 912 540 866 586 955 523 50 321 948 86 781 645 384 879 577 154 302 716 205 521 932 148 202 393 946 734 742 98 519 589 337 126 323 534 485 948 86 990 501 137 663 198 711 510 169 609 754 498 324 789 908 380 817 146 283 352 343 659 25 825 46 812 222 202 881 331 333 32 683 169 878 187 594 246 901 166 250 964 113 327 635 791 380 358 742 98 519 26 204 280 576 384 907 430 650 816 409 757 41 716 205 521 865 641 124 243 889 172 536 485 948 86 166 964 113 327 377 896 627 385 584 902 819 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_TSI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The emotional intensity of the speaker is medium.",
+    "prediction_units": "202 393 946 215 327 734 498 324 789 908 380 817 146 283 353 716 205 521 267 25 771 328 143 38 992 583 576 384 879 443 274 85 866 261 955 523 50 321 327 932 148 202 393 946 734 432 742 519 589 126 323 534 485 86 990 501 137 663 969 865 641 124 243 172 536 485 948 86 166 964 113 327 377 896 627 385 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1023_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the emotional intensity by analyzing the pitch variations, stress levels, and articulation. Output only one of the predefined labels, unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or speech patterns, so I cannot evaluate the emotional intensity of a recording. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 423 27 761 430 650 931 62 317 645 453 655 837 81 347 376 398 212 455 406 538 609 187 594 246 901 166 250 964 113 327 635 791 267 187 461 969 828 742 98 519 589 126 323 534 485 321 948 86 539 552 326 243 850 877 384 761 430 70 185 794 788 377 832 758 711 510 297 265 675 237 307 121 407 226 666 621 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 384 761 430 179 475 783 104 430 945 526 384 761 693 317 854 852 74 101 387 822 89 194 664 29 202 393 946 215 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 25 771 46 328 143 38 992 583 576 384 879 443 912 540 866 261 955 161 523 50 321 327 932 148 565 734 156 824 734 263 45 272 119 607 592 103 969 660 166 398 53 455 385 584 902 193 415 772 497 63 644 254 530 733 914 445 137 488 620 112 931 878 538 187 594 908 310 325 518 56 321 948 86 357 156 824 442 432 170 519 589 126 740 655 764 650 816 325 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 208 233 850 914 119 56 485 284 814 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_TAI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Evaluate the emotional intensity by analyzing the pitch variations, stress levels, and articulation. Output only one of the predefined labels, unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The emotional intensity is high.",
+    "prediction_units": "215 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 714 25 771 328 143 38 992 583 576 384 879 443 912 85 866 586 955 523 50 321 633 510 865 641 124 337 470 821 655 764 837 81 377 458 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1032_IEO_FEA_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess how strongly the speaker is expressing emotion in this clip. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio clips, but I can help you analyze the tone and language used in the text to make an educated guess. Would you like me to do that?",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 250 56 113 327 635 402 791 380 382 263 45 45 914 119 593 453 333 506 876 545 85 297 675 237 307 226 621 128 665 547 833 945 944 530 733 445 137 488 620 352 470 821 576 693 934 268 876 258 436 139 340 846 483 423 384 761 907 430 179 931 62 954 317 645 453 655 837 81 198 711 124 884 202 393 946 734 105 244 583 576 803 380 179 620 931 659 428 175 684 136 915 781 645 761 907 430 816 325 765 852 101 741 333 523 555 705 258 436 139 340 198 347 376 940 118 944 46 812 222 393 946 734 105 244 583 576 384 879 219 952 522 67 940 118 613 417 884 79 868 220 498 172 871 877 822 89 664 990 107 137 488 179 931 428 384 853 523 196 166 705 11 910 165 319 501 137 822 89 194 664 599 910 161 523 555 914 416 836 384 879 377 835 67 297 206 265 675 755 415 772 497 63 665 991 535 935 101 271 660 555 166 258 436 139 340 259 781 645 655 837 81 664 990 29 747 172 536 950 321 948 633 86 79 868 220 196 721 250 549 139 340 202 881 331 384 907 430 945 506 686 755 902 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1007_IEO_SAD_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "The overall intensity level is medium.",
+    "prediction_units": "202 393 946 215 327 594 908 380 382 692 306 154 302 663 466 908 310 521 267 25 771 46 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 59 523 50 545 85 510 589 337 243 781 645 384 879 577 154 302 716 205 521 267 685 865 641 124 243 889 172 536 485 948 86 166 964 113 327 377 627 385 584 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_MTI_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "medium",
+    "prediction_units": "172 536 485 948 166 964 485 321 327 896 627"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1076_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech-based emotion recognition, classify how intensely the speaker conveys their emotion. Respond with the best-fitting category, to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio, so I cannot classify the intensity of a speaker's emotion at a specific time. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 485 284 466 398 212 455 659 187 594 461 969 251 676 412 973 288 750 167 246 104 70 346 540 866 295 586 314 245 432 32 882 924 866 586 398 212 455 428 538 187 594 246 660 166 964 113 327 905 791 611 524 44 605 121 226 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 761 430 179 961 475 783 104 430 945 233 29 914 119 887 593 167 761 430 70 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 215 327 328 143 38 992 583 576 384 879 443 93 912 540 866 261 586 955 523 50 321 633 327 932 148 565 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 169 565 734 498 324 789 908 380 817 146 283 377 385 343 659 423 27 565 173 945 944 565 734 432 742 98 519 589 126 323 432 882 924 866 261 230 314 333 958 66 852 333 487 990 29 244 583 167 655 764 837 81 377 627 385 584 902 415 772 497 63 644 254 530 733 914 445 137 488 620 931 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 742 170 519 589 126 740 655 764 650 816 325 208 613 662 79 799 220 105 244 583 576 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_ITH_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the strength of emotion conveyed in the voice. Respond with only one of these categories: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The strength of emotion conveyed in the voice is medium.",
+    "prediction_units": "202 393 946 734 742 98 519 589 600 702 728 647 384 879 443 816 325 918 743 932 148 565 734 498 324 789 908 380 660 817 146 283 352 45 914 445 469 352 915 143 692 526 559 822 89 194 664 555 208 944 46 812 222 393 946 734 692 526 302 592 103 81 194 664 835 67 22 297 169 955 865 641 124 243 889 172 536 485 948 86 166 964 113 327 377 896 627 584 193 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_TSI_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and volume, estimate the emotional intensity in the provided audio clip. Select from the predefined categories - unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The emotional intensity of the audio clip is medium.",
+    "prediction_units": "202 393 946 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 25 771 328 38 992 583 576 384 879 443 912 85 866 586 955 523 50 321 545 85 510 362 932 148 202 393 946 734 406 538 187 594 246 901 166 250 56 113 327 905 635 791 380 382 914 119 593 333 357 404 876 771 865 641 124 243 172 536 485 948 86 166 964 113 327 377 896 627 385 584 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_IWW_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I need more context about the conversation to determine the emotion intensity. Could you please provide more information or clarify what you're referring to?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 321 948 86 539 79 868 220 734 470 821 576 384 693 268 876 417 341 661 497 63 644 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 504 530 733 575 116 372 321 948 86 555 233 889 324 826 592 103 969 867 45 272 313 469 167 655 764 650 816 274 794 75 583 15 384 879 219 522 67 940 118 944 734 849 907 597 506 29 202 393 946 734 914 313 469 367 167 764 650 816 409 154 559 663 432 742 98 866 586 280 314 822 89 194 817 146 283 352 385 143 79 868 220 196 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 366 488 352 915 202 393 946 215 327 754 498 324 789 908 380 817 146 283 352 659 771 46 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 161 523 50 53 458 584 902 193 415 772 497 63 662 914 119 469 220 333 523 555 258 436 139 340 382 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 664 555 233 29 889 324 826 592 103 969 25 771 333 328 143 390 422 776 663 748 806 336 877 822 89 194 664 817 146 283 352 385 931 461 969 867 45 914 887 167 462 761 907 430 466 663 390 958 66 776 655 837 81 787 935 101 741 945 233 258 436 635 663 969 156 824 734 870 390 422 330 776 435 663 969 466 398 212 455 143 38 79 799 220 340 846 524 44 902 819 415 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1030_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "The sentiment intensity at eleven o'clock is unspecified, as it depends on the context and conversation.",
+    "prediction_units": "202 393 946 215 742 98 519 26 204 280 576 879 443 93 274 794 788 59 748 671 877 488 443 93 274 208 613 169 609 771 46 328 38 992 583 576 384 879 443 93 540 866 586 280 314 523 50 321 327 173 945 944 565 734 259 781 645 384 879 577 154 559 366 488 620 961 931 734 45 914 119 593 645 655 764 70 107 417 389 825 771 865 641 124 27 650 816 589 850 428 88 6 432 882 589 337 126 593 333 32 882 924 866 586 976 377 506 208 417 237 605 193 665 99 254 823 173 641 347 124 362 955 437 721 250 998 357 676 757 323 384 879 488 443 758 545 711 510 169 609 493 361 393 946 734 263 914 445 469 167 104 764 650 816 274 557 794 75 583 15 384 879 487 219 952 522 67 940 118 175 684 136 45 914 445 469 167 655 764 816 409 526 559 663 432 742 540 866 586 280 314 89 194 817 146 283 377 385 584 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1070_IEO_FEA_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "The overall intensity level is high.",
+    "prediction_units": "202 393 946 215 327 594 908 380 382 692 306 154 302 663 466 908 310 521 267 771 46 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 59 523 50 545 85 510 589 337 243 781 645 384 879 577 154 302 205 521 267 685 865 641 124 470 821 655 764 837 81 53 458 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1004_TIE_SAD_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A sentiment analysis system is detecting emotion intensity in conversations. Assign the correct level: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "I'm happy to help. However, I didn't receive any information about the specific event or conversation you're referring to. Could you please provide more context or clarify what you're asking about?",
+    "prediction_units": "254 530 733 627 470 821 761 430 70 404 757 323 321 948 86 539 79 868 220 470 821 576 384 693 611 268 876 417 341 661 497 63 665 991 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 726 44 254 504 530 733 721 250 549 795 143 156 824 798 432 742 924 866 261 976 534 321 948 885 944 384 879 179 207 428 950 948 25 771 333 328 409 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 931 428 565 734 849 907 597 29 202 393 946 215 98 519 589 337 126 260 323 241 432 882 924 866 261 230 314 333 958 66 852 333 487 319 990 107 137 771 161 998 692 526 559 384 879 443 93 274 208 613 233 243 187 594 461 969 867 263 45 272 313 469 367 167 655 650 816 409 154 559 663 432 346 540 866 586 280 314 822 89 194 817 146 283 352 915 258 436 635 969 156 824 442 870 390 422 330 776 435 663 466 398 212 455 143 38 79 799 220 340 846 611 916 584 902 193 415 772 497 63 662 914 119 677 333 523 555 258 436 139 340 251 676 260 712 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 306 154 558 655 837 81 664 555 233 29 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 794 75 583 15 576 384 879 219 952 522 67 940 118 220 461 969 867 45 914 887 167 462 907 430 466 663 70 390 66 776 655 837 81 787 935 101 741 173 945 233 258 436 635 663 969 538 423 27 761 907 430 70 835 67 940 600 126 398 212 455 428 734 849 907 597 506 686 613 417 755 415 341 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1075_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers need to classify the intensity of emotions expressed in speech. Identify it as unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of classifying emotions in speech or providing real-time audio analysis. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 506 944 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 850 914 119 887 593 167 761 907 430 70 835 866 586 362 66 776 655 837 81 398 212 455 754 498 324 789 6 908 380 817 146 283 832 758 545 711 510 169 46 812 222 915 912 519 589 126 323 534 485 321 948 86 539 552 326 531 169 461 969 251 676 481 973 288 750 870 692 154 558 655 837 81 398 212 455 143 156 824 56 485 321 113 327 635 205 521 691 105 244 583 167 655 837 81 896 627 168 538 187 594 246 901 166 56 113 327 635 791 894 424 267 538 423 565 179 961 281 62 384 907 430 317 453 366 70 742 835 924 866 586 377 198 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 576 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 613 662 79 799 220 105 244 583 576 384 879 219 522 67 940 884 850 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_IEO_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Disregard the content of the speech and focus only on vocal expression to classify the emotional intensity. Return only the correct label from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The emotional intensity of the statement 'It's eleven o'clock' is low.",
+    "prediction_units": "202 393 946 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 25 771 46 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 523 50 321 327 932 148 202 393 946 734 742 98 519 589 702 874 576 822 89 194 664 539 29 747 671 877 443 93 274 208 613 333 437 85 700 362 565 734 259 781 645 384 879 577 154 559 366 620 961 931 659 734 45 914 119 593 655 764 70 404 107 771 865 641 124 878 243 781 645 803 791 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1049_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing audio, so I cannot classify the emotional intensity of a speaker. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 461 969 538 609 423 27 761 650 931 62 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 660 166 964 113 327 635 791 611 524 44 605 121 226 666 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 384 761 430 179 961 475 783 246 430 945 506 233 29 914 119 887 593 167 761 907 430 70 835 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 215 327 734 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 538 25 771 46 328 143 38 992 583 576 384 879 443 93 912 866 261 586 955 523 50 321 327 932 148 734 742 98 519 589 126 323 534 485 974 948 86 990 501 137 663 969 164 916 584 902 819 341 661 497 644 254 530 733 445 137 488 620 112 931 878 538 187 594 908 310 816 325 518 56 321 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 208 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 284 814 466 53 198 711 510 297 265 675 755 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1051_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the strength of emotion conveyed in the voice. Respond with only one of these categories: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "The strength of emotion conveyed in the voice is high.",
+    "prediction_units": "202 393 946 742 98 519 589 702 728 647 384 879 488 816 325 952 918 743 362 932 148 734 498 324 789 908 380 660 817 146 283 352 385 38 45 914 445 469 352 915 143 692 526 559 822 89 194 664 555 208 944 46 812 222 393 946 734 692 526 302 592 81 194 664 835 67 866 297 265 169 865 641 124 470 821 655 764 837 81 53 458 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IEO_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess how strongly the speaker is expressing emotion in this clip. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio clips, so I cannot assess the emotional expression of a speaker.",
+    "prediction_units": "254 504 530 733 896 627 116 475 783 104 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 483 538 187 594 246 660 166 56 113 327 635 791 380 382 263 45 45 914 119 593 453 333 506 876 545 85 297 675 237 307 226 128 665 780 289 26 76 614 803 894 483 530 733 914 445 137 576 761 907 430 179 475 783 104 430 945 944 565 734 432 742 98 519 26 204 280 314 384 879 873 835 67 940 884 202 393 946 215 327 754 498 324 789 908 380 817 146 283 353 716 205 521 538 423 487 319 219 522 589 337 126 712 796 647 384 879 70 817 146 283 352 385 931 932 148 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 164 916 726 584 902 819 736 341 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_IEO_FEA_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "low",
+    "prediction_units": "781 645 803 791 611"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_TIE_HAP_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and volume, estimate the emotional intensity in the provided audio clip. Select from the predefined categories - unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "I'm sorry, I'm a text-based AI and do not have the capability to analyze audio clips. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 912 519 589 26 204 280 668 246 764 466 53 321 458 942 44 605 665 644 254 530 733 627 168 565 734 793 105 244 583 576 879 219 522 67 589 337 850 537 290 978 822 89 194 664 835 67 940 118 944 822 89 284 327 905 579 530 837 81 733 327 488 684 136 915 721 250 220 575 475 783 944 470 152 784 429 202 393 946 215 263 914 445 137 822 89 194 664 885 757 323 59 790 37 228 234 523 50 910 321 633 86 539 105 79 868 220 483 538 609 423 27 761 430 650 931 62 954 317 645 453 655 837 81 198 711 510 878 609 187 594 246 901 166 56 113 327 635 791 380 382 263 914 119 593 377 506 876 686 545 85 297 265 675 237 415 772 497 63 644 254 530 733 914 445 137 488 620 931 538 187 594 908 310 325 518 56 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1018_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "The emotion conveyed in this speech is unspecified.",
+    "prediction_units": "202 393 946 215 327 754 498 324 789 908 380 817 146 283 352 143 38 45 914 445 469 352 915 143 692 526 559 822 89 194 664 555 944 46 812 222 202 393 946 333 32 683 589 126 323 534 485 948 86 539 552 326 531 955 865 641 124 362 27 104 816 519 850 280 314 6 432 70 882 589 337 126 593 15 333 998 32 958 866 586 377 506 686 208 613 417 755 584 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1011_IEO_ANG_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "How intense is the emotion conveyed in this speech? Respond with only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "The emotion conveyed in this speech is unspecified.",
+    "prediction_units": "202 393 946 327 754 498 324 789 908 380 828 817 146 283 352 143 38 45 914 445 469 366 352 915 143 692 526 559 822 89 194 664 555 944 46 812 222 202 393 946 333 32 683 589 126 323 534 485 948 86 539 552 326 955 865 641 124 362 27 104 519 850 260 6 879 70 882 589 866 126 593 15 333 432 882 261 586 377 506 686 613 417 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1001_IWL_ANG_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In an emotion-aware AI assistant, classify how intensely the speaker expresses emotion. Output only: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "high",
+    "prediction_units": "470 821 655 837 81 458"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_ITS_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech-based emotion recognition, classify how intensely the speaker conveys their emotion. Respond with the best-fitting category, to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or seeing, so I don't have the ability to classify the intensity of a speaker's emotion.",
+    "prediction_units": "254 530 733 627 116 475 783 104 70 945 506 233 850 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 470 821 534 485 284 466 398 212 455 187 461 969 742 98 519 26 204 981 976 534 485 974 948 398 212 455 343 942 115 224 665 780 289 26 76 614 803 894 483 530 733 721 549 803 795 208 944 233 152 784 429 202 393 946 215 327 790 333 228 234 366 50 321 633 86 105 79 868 220 263 914 887 593 167 761 907 430 70 540 866 586 362 59 958 66 776 655 837 81 202 393 946 215 327 328 143 38 992 583 576 384 879 443 93 912 540 866 261 955 523 50 321 327 932 148 565 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 169 734 754 498 324 789 908 380 817 146 283 385 584 193 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1012_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a customer service call evaluation, determine the emotional intensity of the speaker. Respond with: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not able to access real-time information or emotions. I can only respond based on the conversation history. If you'd like to describe the speaker's tone or language, I can try to help you determine the emotional intensity.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 944 25 423 771 822 89 194 664 885 765 302 205 521 867 79 868 220 846 483 423 27 761 430 70 219 522 586 314 333 198 835 67 337 243 156 824 442 485 948 327 635 205 521 691 45 244 583 167 655 837 81 896 627 168 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 385 659 187 461 969 538 423 565 734 754 498 324 789 6 908 380 828 817 146 283 377 832 758 545 711 510 297 265 675 237 415 772 497 63 644 254 530 733 445 137 488 620 878 538 187 594 908 310 325 518 56 948 86 156 824 442 798 432 742 170 589 126 740 655 764 650 816 325 233 537 290 978 822 89 194 664 835 67 940 118 944 878 609 493 361 393 946 734 272 313 469 167 655 650 816 409 526 559 663 432 742 540 866 586 280 314 822 89 194 817 146 283 352 470 821 333 32 170 731 600 702 477 728 663 466 377 53 458 584 902 193 415 772 497 644 864 771 685 333 873 958 66 258 436 139 340 660 555 781 645 655 837 81 664 219 990 29 79 868 220 196 721 250 734 432 170 589 337 126 728 647 655 837 81 885 29 202 393 946 734 742 519 589 337 126 323 534 485 948 86 990 501 137 663 198 711 510 589 884 244 583 576 803 791 380 620 659 461 969 228 781 645 761 907 430 81 816 325 968 852 101 741 377 53 555 705 326 417 675 237 63 665 254 530 733 263 914 445 137 488 620 143 777 227 647 655 837 81 664 793 79 868 220 470 821 576 384 693 268 876 258 436 139 340 196 721 250 523 793 105 244 583 576 663 969 748 12 977 877 488 620 915 202 393 946 215 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 25 771 46 328 38 992 583 576 384 879 443 93 912 866 261 586 377 758 545 85 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1004_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a machine learning dataset annotation, classify the speaker's emotional intensity. Choose one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio, so I cannot classify the speaker's emotional intensity. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 70 945 506 233 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 251 676 412 973 288 750 167 246 104 70 346 540 295 586 314 432 32 882 924 866 398 212 455 538 187 594 246 660 166 964 113 327 905 791 611 524 44 605 121 226 666 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 907 430 179 475 783 104 430 945 208 233 45 914 119 593 167 761 907 430 70 835 540 866 586 59 958 66 776 655 837 81 901 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 198 711 510 169 565 734 498 324 789 908 380 817 146 283 353 716 205 521 267 25 771 46 328 38 992 583 576 384 879 443 93 274 866 230 955 523 50 53 458 584 902 193 415 772 497 644 254 530 733 914 445 137 488 620 931 878 538 187 594 908 310 325 518 56 948 86 156 824 798 432 742 170 519 589 126 740 167 655 764 650 816 325 208 613 417 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_MTI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "medium",
+    "prediction_units": "889 172 536 485 166 964 485 321 327 896 627"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1085_IEO_HAP_LO.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Low."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or analyzing speech, so I cannot determine the level of emotional intensity.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 870 790 716 205 521 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 538 423 27 761 907 650 179 931 62 317 645 453 655 837 81 347 376 398 212 455 143 912 519 589 126 323 534 485 321 948 86 539 552 326 531 417 675 237 307 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 907 650 179 475 783 246 430 945 29 721 250 734 523 793 105 244 583 576 663 969 748 12 977 877 488 222 202 393 946 734 781 645 384 879 577 154 302 716 205 521 932 148 565 734 498 324 789 908 380 660 817 146 283 353 716 205 521 267 25 771 46 328 143 38 992 583 576 384 879 443 93 912 85 866 586 955 161 523 50 53 458 584 193 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1023_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers need to classify the intensity of emotions expressed in speech. Identify it as unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of classifying emotions in speech or making judgments about emotional intensity. I'm a large language model, I don't have the ability to hear or analyze audio. I can only respond to text-based queries.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 944 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 850 914 119 887 593 167 761 907 430 70 835 866 586 362 59 66 776 655 837 81 398 212 455 754 498 324 789 6 908 380 817 146 283 832 758 545 711 510 169 46 812 222 915 912 519 589 126 323 534 485 321 948 539 552 326 531 169 461 969 498 172 871 822 89 664 990 501 398 212 455 143 537 705 11 576 167 104 901 660 705 243 671 877 377 832 93 758 545 85 510 362 734 849 761 907 597 660 734 498 324 789 908 380 817 146 283 353 716 205 521 538 25 825 771 46 328 143 38 992 576 384 879 443 93 912 540 866 261 586 234 161 523 50 53 458 265 902 193 415 772 497 63 644 254 530 733 627 168 565 734 781 645 246 655 764 969 934 555 705 326 417 243 781 645 761 907 81 816 325 350 968 101 741 333 523 555 705 326 243 889 324 338 789 359 655 764 246 660 921 716 205 521 524 44 605 63 644 254 504 530 733 721 549 803 795 944 233 152 784 429 202 393 946 215 327 734 870 790 333 37 693 234 366 660 50 910 321 633 86 105 79 868 220 470 821 534 485 284 663 969 267 187 594 461 969 538 423 27 761 430 650 179 931 62 259 317 645 453 655 837 81 198 711 510 878 538 609 187 594 246 901 166 56 964 113 327 635 791 611 916 584 902 193 415 772 497 63 644 254 530 733 914 445 137 576 488 620 538 187 594 908 310 325 518 56 948 86 156 824 442 798 432 742 170 589 126 740 167 655 764 650 816 325 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 337 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1006_DFA_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "medium",
+    "prediction_units": "889 172 536 485 948 166 964 485 321 327 896 627"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1003_ITS_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "medium",
+    "prediction_units": "889 536 964 485 321 87"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1004_TIE_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "I'm not capable of listening to speech or classifying emotional intensity. I'm a text-based AI assistant. If you'd like to describe the situation, I can try to help you with that.",
+    "prediction_units": "254 530 733 627 116 475 783 104 70 945 506 944 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 932 148 781 303 333 32 882 924 866 586 955 398 212 455 143 38 79 799 220 432 742 519 589 126 323 534 485 321 948 86 539 552 326 531 243 461 969 867 45 914 119 593 167 761 907 430 70 835 866 586 362 998 66 776 655 837 81 398 212 455 25 565 734 498 324 789 908 660 817 146 283 353 716 205 521 267 25 771 46 328 38 561 583 576 384 879 443 93 912 866 261 586 955 161 523 50 53 545 297 265 675 237 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 952 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 798 432 742 98 519 26 204 280 314 6 333 32 882 170 731 600 702 15 377 93 385 686 613 417 755 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 990 107 29 79 868 220 196 721 250 432 170 589 337 126 119 647 655 837 81 885 29 202 393 946 734 742 98 768 26 204 280 314 333 523 539 403 477 74 787 483 822 89 194 817 146 283 352 385 343 942 902 752 193 63 254 530 733 914 445 137 488 620 143 38 105 777 227 647 655 837 81 664 79 868 220 470 821 576 384 693 268 876 258 436 139 340 787 935 101 271 333 523 196 918 881 331 238 907 430 945 506 686 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1070_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The overall intensity level is high.",
+    "prediction_units": "202 393 946 215 327 594 908 380 382 692 306 154 302 663 466 908 310 521 46 328 143 38 992 583 576 384 879 443 93 912 540 866 586 955 59 523 50 545 85 510 589 337 243 781 645 384 879 577 154 302 205 521 267 685 865 641 124 470 821 655 764 837 81 458 584 902 819 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1045_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "low",
+    "prediction_units": "781 645 803 791 611"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1055_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the emotional intensity in this speech recording? Provide only one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "The emotional intensity in this speech recording is medium.",
+    "prediction_units": "393 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 267 25 771 328 143 38 992 583 576 384 879 443 912 85 866 586 955 523 50 321 46 812 222 393 946 333 32 683 519 589 126 323 534 485 948 86 539 552 326 243 156 824 998 870 263 45 119 607 592 103 969 660 166 398 212 455 865 641 124 243 172 536 485 948 86 166 964 113 327 377 896 627 385 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1007_ITH_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, classify the overall intensity level as either unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "Yes, I can classify the overall intensity level as either unspecified, low, medium, or high based on the doctor's appointment.",
+    "prediction_units": "258 920 905 384 879 70 835 67 206 265 675 254 530 733 914 445 137 488 620 352 143 45 914 445 887 593 167 761 907 430 835 540 866 586 362 59 958 66 776 655 837 81 202 393 946 215 327 635 594 908 380 382 692 306 302 663 466 908 310 521 267 771 328 143 38 992 583 576 384 879 443 912 540 866 586 955 523 50 321 948 86 781 645 384 879 577 154 302 716 205 521 453 173 641 347 124 878 485 250 85 104 650 912 519 589 126 314 879 70 683 589 866 126 59 998 958 776 655 837 81 664 555 208 417 755 63 665 991 781 645 803 563 52 424 524 44 991 73 889 172 536 950 485 948 86 166 964 113 327 377 896 627 168 343 44 187 594 461 969 470 821 655 837 81 664 290 978 822 89 194 664 835 67 940 118 944 878 493 361 393 946 734 196 721 549 238 462 104 764 70 404 952 315 75 788 663 198 711 124 362 734 870 251 676 0 41 740 908 81 664 506 29 671 377 506 686 613 417 755 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1036_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or classifying emotional intensity. I'm a text-based AI assistant. If you'd like to describe the audio to me, I can try to help you process your emotions.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 538 423 27 761 430 650 931 62 259 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 901 660 166 56 964 113 327 791 611 267 187 461 969 867 45 914 119 593 167 462 761 907 430 70 835 540 866 586 362 59 66 776 655 837 81 398 212 455 25 771 565 734 498 324 789 908 380 660 817 146 353 716 205 521 267 25 771 328 38 992 583 576 384 879 443 93 912 540 866 586 955 161 50 53 458 265 902 193 415 772 497 63 644 254 530 733 896 627 168 565 734 793 105 244 583 576 879 219 522 589 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 327 905 579 837 81 194 327 432 742 98 519 26 204 280 314 333 32 882 170 731 600 702 15 377 385 506 686 208 613 417 755 415 772 497 63 644 864 771 685 333 873 958 66 258 436 139 340 555 781 645 655 837 81 664 990 107 29 79 868 220 196 721 250 798 432 170 731 589 337 126 119 647 655 837 81 885 29 202 393 946 215 327 246 660 166 56 113 327 905 803 791 611 660 105 79 799 220 498 172 536 950 53 321 458 44 665 254 530 733 263 914 445 137 488 620 143 777 227 647 655 837 81 664 79 868 220 470 821 576 384 693 268 876 233 258 436 139 340 251 676 481 973 288 796 750 246 104 70 346 540 295 586 314 333 32 835 683 67 510 337 243 258 436 663 969 423 565 734 498 324 789 908 380 817 146 283 377 832 758 545 711 510 297 265 675 415 984 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1048_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess how strongly the speaker is expressing emotion in this clip. Choose from: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "The speaker's emotional expression is unspecified in this clip.",
+    "prediction_units": "393 946 432 742 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 362 734 498 324 789 908 380 660 817 146 283 353 716 205 521 267 538 423 487 319 219 522 589 337 126 712 796 33 879 70 817 146 283 352 385 659 389 825 865 641 124 609 27 104 650 519 850 931 428 6 879 70 522 589 337 126 788 59 998 958 66 975 333 885 555 208 944 46 812 222 881 331 333 873 32 683 589 337 850 914 119 593 333 506 876 417 755 415 341 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_TSI_FEA_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech-based emotion recognition, classify how intensely the speaker conveys their emotion. Respond with the best-fitting category, to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "The speaker conveys their emotion at a medium level.",
+    "prediction_units": "202 393 946 734 742 519 589 126 323 534 485 974 86 990 501 137 663 969 867 914 445 469 352 915 143 692 526 559 822 89 194 948 198 711 376 124 884 202 881 331 663 969 734 498 324 789 908 380 817 146 283 352 385 343 659 710 254 823 27 761 430 945 944 565 734 498 889 172 536 485 948 86 166 964 113 327 488 896 627 168 659 781 645 384 879 577 154 302 205 611 916 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1078_IEO_DIS_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "In a psychological study, researchers need to classify the intensity of emotions expressed in speech. Identify it as unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not able to access real-time information or classify emotions based on speech. However, I can provide general information on emotional intensity classification models if that's what you're looking for.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 944 423 771 822 89 194 664 885 765 302 716 205 521 867 79 868 220 846 483 538 423 27 761 430 70 219 522 866 586 314 384 879 198 835 67 337 243 156 824 56 485 948 113 327 716 205 521 691 45 244 583 167 655 837 81 896 627 168 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 187 594 461 969 742 263 45 914 119 593 167 761 907 430 70 835 866 586 362 734 958 66 776 655 837 81 664 327 734 754 498 324 789 908 380 660 817 146 283 832 758 545 711 510 337 243 290 978 833 822 89 194 664 835 940 118 944 878 609 187 493 361 912 98 519 589 126 323 534 485 321 948 86 539 552 326 417 755 584 415 772 497 63 665 644 254 821 167 104 108 894 852 741 384 879 577 154 302 663 969 524 44 254 530 733 914 445 137 488 620 143 38 676 481 973 288 750 870 692 154 558 655 837 81 664 555 29 537 705 11 576 384 879 179 961 62 466 716 205 521 267 25 771 328 143 390 422 330 776 663 748 806 336 877 822 89 194 817 146 283 352 659 878 538 187 493 361 734 498 324 789 908 380 817 146 283 353 716 205 521 267 538 25 771 46 328 38 992 583 576 384 879 443 912 540 866 586 955 523 50 321 948 86 263 914 593 167 761 430 70 866 586 958 66 59 161 487 319 501 822 194 817 146 283 352 915 889 338 359 655 764 934 921 716 205 521 711 510 297 265 169 237 389 825 771 333 958 66 881 331 384 907 430 945 85 337 243 935 101 741 945 29 233 258 436 663 228 781 645 402 24 268 501 398 212 455 143 38 515 592 103 611 164 916 726 584 902 819 736 661 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1020_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the given speech, determine the level of emotional intensity using vocal cues. Provide only the corresponding label to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "The emotional intensity is low.",
+    "prediction_units": "202 393 327 754 498 324 789 908 380 828 817 146 283 353 716 205 521 25 771 328 143 38 992 583 576 384 879 443 912 540 866 261 955 523 50 321 633 406 865 641 124 243 781 645 803 791 611 916 584 902 819 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1063_IEO_SAD_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For speech-based emotion recognition, classify how intensely the speaker conveys their emotion. Respond with the best-fitting category, to choose from unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or processing audio, so I cannot classify the intensity of a speaker's emotion. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 430 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 453 932 148 470 821 534 485 284 466 398 212 455 659 187 594 461 969 251 676 412 973 288 796 750 167 246 70 540 295 586 314 798 432 882 924 866 586 398 212 455 538 187 594 246 660 166 964 113 327 377 87 791 611 524 44 605 121 111 128 665 780 289 26 204 76 614 803 894 483 530 733 914 445 137 576 384 761 430 179 961 475 783 104 430 945 233 29 914 119 887 593 167 761 430 70 540 866 586 362 59 958 66 776 655 837 81 901 202 393 946 215 327 328 143 38 992 583 576 384 879 443 93 912 540 866 261 586 955 523 50 321 327 932 148 565 734 742 98 519 589 126 323 534 485 974 86 990 501 137 663 198 711 510 169 565 734 498 324 789 908 380 817 146 283 377 385 584 902 193 415 772 497 644 254 530 733 914 445 137 488 620 112 931 878 538 187 594 908 310 325 518 56 321 86 156 824 798 432 742 170 519 589 126 740 655 764 650 816 325 208 613 662 79 799 220 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 56 485 284 466 53 198 711 510 297 265 675 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_IEO_DIS_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on tone, pitch, and volume, estimate the emotional intensity in the provided audio clip. Select from the predefined categories - unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of listening to audio clips or analyzing tone, pitch, and volume. I can only respond to text-based queries.",
+    "prediction_units": "254 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 781 303 333 32 882 924 866 586 59 398 212 455 143 38 79 799 220 846 538 187 594 246 660 166 56 113 327 635 402 380 382 268 263 45 914 119 593 333 506 876 545 85 297 169 609 594 461 969 538 423 27 761 430 650 931 62 259 317 645 453 655 837 81 347 376 398 212 455 143 38 105 244 583 576 803 563 380 611 620 385 343 44 115 665 662 213 260 323 333 793 506 552 326 531 417 755 237 644 254 823 175 684 136 143 692 526 558 6 246 693 317 854 964 436 139 377 611 627 168 916 584 902 415 497 63 644 254 530 733 914 445 137 488 620 931 878 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 167 655 764 650 816 325 613 417 755 662 79 799 220 105 244 583 576 384 879 219 522 67 940 337 537 290 978 822 89 194 664 835 67 940 118 613 233 850 914 119 797 56 485 284 814 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1048_IEO_ANG_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the emotional intensity in the provided audio. Classify it as one of the following: unspecified, low, medium, or high. Return only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of analyzing audio or classifying emotional intensity. I can only respond to text-based queries.",
+    "prediction_units": "99 254 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 194 664 757 323 59 790 716 205 521 267 932 148 538 423 27 761 430 650 931 62 259 317 645 453 655 837 81 664 347 376 398 212 455 538 187 594 246 901 660 166 56 964 113 327 611 267 187 461 969 867 45 914 119 593 167 462 761 430 70 835 866 586 362 59 958 66 776 655 837 81 398 212 455 25 771 565 734 498 324 789 908 380 660 817 146 353 716 205 521 267 25 771 328 38 992 583 576 384 879 443 93 912 540 866 586 955 161 50 53 458 297 265 902 193 415 772 497 63 644 254 530 733 914 445 137 488 620 659 538 187 594 908 310 325 518 56 321 948 86 156 824 442 432 170 519 589 126 740 655 764 650 816 325 208 613 417 755 662 79 799 220 105 244 583 576 879 219 522 67 940 118 850 537 290 978 822 89 194 664 835 67 940 118 233 850 914 119 797 56 485 284 466 53 198 711 510 297 265 675 237 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1034_IEO_HAP_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "low",
+    "prediction_units": "781 645 803 791 611"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1002_IOM_DIS_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the given speech and classify its emotional intensity. Select one: unspecified, low, medium, or high. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "low",
+    "prediction_units": "781 645 803 791 611"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1017_IEO_FEA_HI.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Assess the strength of emotion conveyed in the voice. Respond with only one of these categories: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "High."
+      }
+    ],
+    "prediction": "I'm not capable of hearing or assessing voice emotions. I'm a text-based AI assistant.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 945 506 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 470 821 534 485 284 663 466 398 212 455 659 187 594 461 969 538 423 565 742 98 519 26 204 280 314 6 879 32 882 683 924 866 398 212 455 143 692 526 302 592 103 81 194 664 835 67 169 754 498 324 789 6 908 380 660 817 146 283 377 832 758 545 711 85 297 265 675 755 415 772 497 63 644 254 530 733 896 627 168 565 734 105 244 583 576 879 219 522 940 118 537 290 978 822 89 194 664 835 67 940 118 944 423 822 89 284 327 905 579 837 81 327 798 432 742 98 519 26 204 280 314 333 432 32 170 731 600 702 788 15 377 385 506 686 208 613 417 755 415 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1005_IEO_SAD_MD.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen carefully and assess the intensity of the expressed emotion. Reply with the correct classification: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Medium."
+      }
+    ],
+    "prediction": "I'm not capable of sensing emotions or time. I'm a text-based AI assistant, and I don't have the ability to perceive or respond to emotional cues. I'm here to provide information and answer questions to the best of my knowledge.",
+    "prediction_units": "254 504 530 733 627 116 475 783 104 430 945 233 542 914 445 137 822 89 664 757 323 59 790 716 205 521 932 148 519 26 204 280 576 879 443 93 912 85 866 586 398 212 455 25 771 565 754 498 324 789 908 380 817 146 283 832 758 711 510 169 594 461 969 660 691 105 244 583 167 655 764 837 81 377 627 168 385 584 902 193 415 772 497 63 644 254 530 733 627 168 565 734 793 105 244 583 576 384 879 219 522 67 940 118 537 290 978 822 89 194 664 835 67 940 118 702 944 423 822 89 284 327 905 579 837 81 798 432 742 519 26 204 280 314 333 32 882 170 731 600 702 788 15 377 93 506 208 613 417 755 237 193 985 63 665 644 254 823 175 684 136 944 530 733 196 537 721 549 576 803 795 208 233 152 784 429 202 393 946 215 327 734 790 333 37 234 366 523 50 910 321 633 86 539 105 79 868 220 870 251 676 481 973 288 796 33 432 742 519 589 866 261 976 534 485 321 969 885 692 187 594 461 969 156 824 442 432 742 170 519 589 126 740 167 655 764 650 816 325 208 613 417 79 799 220 846 483 734 498 324 789 908 380 817 146 283 353 716 205 521 382 867 45 914 445 476 137 534 436 139 340 198 711 510 297 265 675 237 415 772 497 63 505 644 254 530 733 627 470 821 485 974 284 969 541 867 311 79 868 220 870 251 676 481 973 288 750 870 692 154 558 655 837 81 664 555 944 771 333 328 143 390 422 330 776 663 748 806 336 877 822 89 194 664 817 146 283 352 659 25 423 175 684 136 944 878 423 384 907 430 650 816 912 85 866 586 362 663 263 45 272 119 797 384 879 70 170 731 600 477 283 832 758 711 510 884 79 799 220 202 393 946 734 870 290 978 833 384 879 70 835 67 940 118 944 362 932 148 498 889 338 359 655 837 81 327 116 281 62 238 462 655 764 317 453 377 506 686 705 326 417 675 755 584 415 772 497"
+  },
+  {
+    "voice": [
+      "CremaD/Audio\\1007_IWW_NEU_XX.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For a machine learning dataset annotation, classify the speaker's emotional intensity. Choose one of: unspecified, low, medium, or high.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Unspecified."
+      }
+    ],
+    "prediction": "I'd be happy to help. Can you please provide the dataset or more context about the speaker's tone or words so I can make a more accurate classification?",
+    "prediction_units": "530 733 555 943 321 948 86 470 821 761 907 430 70 404 757 323 534 321 948 86 539 79 868 220 470 821 576 167 693 611 268 876 341 661 497 63 662 445 137 576 488 620 179 207 258 436 139 340 870 251 676 260 712 593 485 321 948 198 711 510 337 243 850 213 973 288 750 870 692 154 558 655 837 81 555 29 202 393 946 734 196 721 250 822 89 194 664 166 944 15 333 432 742 519 26 280 668 576 384 879 506 233 187 594 461 969 498 324 826 592 103 969 867 45 272 313 469 167 655 104 650 816 274 557 75 583 15 384 879 487 219 952 522 67 940 118 944 734 849 907 597 29 202 393 946 734 742 98 519 589 126 323 534 485 948 86 990 501 137 663 969 198 711 510 884 244 583 576 803 563 380 620 343 461 969 787 935 101 741 803 969 660 506 545 85 510 169 90 780 519 26 204 76 614 803 894 483 530 733 263 445 137 488 620 352 915 498 172 871 877 822 89 664 319 990 501 107 137 565 734 498 324 826 592 103 969 538 609 423 27 761 430 70 404 501 445 137 74 663 466 969 523 506 914 887 593 167 761 430 70 866 586 59 958 66 487 319 501 137 822 89 194 664 817 146 283 377 385 584 902 193 415 497"
+  }
+]

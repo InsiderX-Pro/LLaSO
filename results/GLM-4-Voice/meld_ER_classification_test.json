@@ -1,0 +1,2102 @@
+[
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia783_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For machine learning dataset labeling, analyze the speech and determine the speaker's emotional state. Output only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Well, Im-Im Phoebe Buffay, hi!"
+    },
+    "result": "Hi, Phoebe! It's great to hear from you. How are you today?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia296_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Susan",
+      "utt": "Hi."
+    },
+    "result": "Hey there! How can I help you today? Got any specific topic or question in mind?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia545_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Ok, good-bye you guys. Thanks for everything.  Oh, sorry! Oh, sorry!"
+    },
+    "result": "Sounds like a cheerful goodbye!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia740_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Dad, dad I dont want to hear about it."
+    },
+    "result": "I'm sorry to hear that. It sounds like a really tough moment. If you need to talk or just want someone to listen, I'm here for you."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia921_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Eric",
+      "utt": "No-no its not!"
+    },
+    "result": "听起来像是惊喜！你听到什么让你这么惊讶吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia483_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Ross",
+      "utt": "\"Heating device.\""
+    },
+    "result": "这是加热设备。比如电热毯、电饭煲、烤箱之类的。它们能快速加热东西，很方便。不过用的时候要注意安全哦，别烫着了。"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia222_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Chandler",
+      "utt": "I didnt know you and Carol were getting divorced, Im sorry."
+    },
+    "result": "I'm sorry to hear that. Divorce can be such a tough time. How are you feeling about it?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia302_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Phoebe",
+      "utt": "Hey."
+    },
+    "result": "嗨！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia58_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal patterns to determine their emotion. Choose from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "Hey!"
+    },
+    "result": "Hey there! What can I do for you today?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia481_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "What the hell are you cooking!"
+    },
+    "result": "I'm not cooking, but I can help you with cooking tips or recipes if you're interested! What are you in the mood for?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia443_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Um, Rachel Im really sorry.  Thats okay, do you wanna get back together?  Yeah, okay.  Did anyone else hear that?!"
+    },
+    "result": " joy, neutrality\n哦，好的。听起来大家心情都挺放松的，可能是在聊一些开心的事情吧。如果你有其他想聊的，随时告诉我哦！"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia655_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Ross",
+      "utt": "Lets also get a hot plate!"
+    },
+    "result": " joy! 你听起来真的很开心！有什么特别的事情让你这么高兴吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia186_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Okay.  Oh! Oh no."
+    },
+    "result": " joy\n"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia545_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Almost never."
+    },
+    "result": "That's interesting! It sounds like you don't encounter that situation too often, which might be a nice change! If you have any other fun or interesting experiences, I'd love to hear them too!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia191_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Woman",
+      "utt": "He has the most amazing Porsche under there!"
+    },
+    "result": "That sounds like a really fun place to work! It must be exciting to be surrounded by such a vibrant and creative atmosphere. Do you enjoy your job there?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia51_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "For what? For letting you throw me out of your office?"
+    },
+    "result": "Surprise! It sounds like you've got a big announcement to make! What's the occasion?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia365_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Flight Attendant",
+      "utt": "May I see your boarding pass?"
+    },
+    "result": " joy!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia203_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the speaker's emotional state. Respond only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Its not kicking right now. Although we would love to see you do  that again."
+    },
+    "result": "Sounds like you're having some fun with it! If you need any help or just want to chat, I'm here for you. What's on your mind?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia139_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Monica",
+      "utt": "Come on! Tests make us all better learners! Oh yeah!  We should have essay questions!!"
+    },
+    "result": " joy\n太棒了！你真是个乐观的人！学习路上遇到困难也很正常，但保持积极的态度会让一切变得更容易哦！有什么想聊的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia782_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal patterns to determine their emotion. Choose from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Hi! All right, lets go shoppin!!"
+    },
+    "result": "That sounds like a lot of fun! What's the game you're planning to play?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia532_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Joey",
+      "utt": "Allright, fine, I only have one thought! It's about the hot nanny,    I gotta see her!"
+    },
+    "result": " joy"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia270_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Hey Ross! I brought reinforcements."
+    },
+    "result": "Joy! That's fantastic to hear! It sounds like the reinforcements have made a big difference! How are you feeling after the boost?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia58_utt13.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Monica",
+      "utt": "Great! Its so amazing! I mean, last time Dr. Roger came over, I was"
+    },
+    "result": "Wow, that sounds like a really intense moment! It seems like you're feeling a mix of emotions, but mainly, I'd say it's a mix of joy and sadness. You're thrilled to have such a talented doctor come to help, but you're also feeling nervous about what's to come. It's a complex mix, but it's great that you're getting the care you need!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia55_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Danny",
+      "utt": "You are!"
+    },
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1018_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "All right, I promise. Ill fix this. I swear. Ill-Ill-Ill-Ill talk to her."
+    },
+    "result": "Anger, sadness, and fear. It sounds like you're feeling pretty frustrated and maybe a bit scared about the situation. Take a deep breath, and maybe try to approach it step by step. You've got this!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia251_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Rachel",
+      "utt": "Yeah."
+    },
+    "result": "你好！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia615_utt22.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "Ohh-ho-hooohhh. The hair comes out, and the gloves come on."
+    },
+    "result": "The emotion most likely expressed in this conversation clip is joy. The description sounds like the person is excited about something, perhaps the hair coming out or the gloves coming off. Both actions suggest a sense of liberation or excitement."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia517_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Monica",
+      "utt": "Oh God!"
+    },
+    "result": "That sounds like joy! What's the context of the speech? I'd love to know more!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia614_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "We can help each other out!"
+    },
+    "result": " joy! "
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia195_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Ross",
+      "utt": "Isabella Rosselini."
+    },
+    "result": "听起来像是愤怒。"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia53_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Monica",
+      "utt": "Oh, good to see you too. Did you come down here to tell me that?"
+    },
+    "result": "Sounds like you're excited to see them! What's up?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia50_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "Umm, all right Wayne, level with me."
+    },
+    "result": "I hear you, it can be really overwhelming. Just take a deep breath and try to focus on one thing at a time. You've got this!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia144_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Tag",
+      "utt": "Oh, yeah, this is from Rachel."
+    },
+    "result": "It seems like you're already transcribing the conversation! I'm here to help if you need any assistance with understanding emotions or anything else. Let me know how I can be of help!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia792_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on vocal properties without considering lexical content. Identify the speaker's emotion as one of: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey/Drake",
+      "utt": "I can't believe you married him."
+    },
+    "result": " surprise"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia941_utt14.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification considers speech tempo, frequency variations, and pitch modulations. Identify and return only one of the following emotional states: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Monica",
+      "utt": "How would that go?  Well, it didn't rhyme, but I liked it."
+    },
+    "result": "哈哈，我懂你！有时候押韵并不容易，但能尝试一下还是挺有趣的。如果你需要更多押韵的句子或者任何其他帮助，随时告诉我哦！"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia63_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Ross",
+      "utt": "and then, we couldve gone from the ceremony to the reception with you in the sidecar!"
+    },
+    "result": "Oh, that would have been quite the entrance! In a sidecar, you'd really stand out, making quite the impression. It's like having your own personal parade!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia15_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "As part of a speech emotion dataset annotation task, classify the speaker's emotion. Available labels: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output the emotion only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Joey",
+      "utt": "I know! I found it on the street."
+    },
+    "result": " joy\n"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia272_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Whoa-whoa-whoa! Emily,  honey, okay?"
+    },
+    "result": " joy! That sounds like a really sweet moment between you and Emily."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia986_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on vocal properties without considering lexical content. Identify the speaker's emotion as one of: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Okay, so now they know that you know and they don't know that Rachel knows?"
+    },
+    "result": "Got it! Now they know you know, but they still don't know that Rachel knows. It's like a little game of \"知的知之者\"!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia775_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For machine learning dataset labeling, analyze the speech and determine the speaker's emotional state. Output only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "All",
+      "utt": "No way!"
+    },
+    "result": "听起来你好像有点惊讶！需要聊聊发生了什么吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia46_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "I dont know. Ooh! Ooh! Look it!  Ah-ha!"
+    },
+    "result": " joy\n"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia206_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification considers speech tempo, frequency variations, and pitch modulations. Identify and return only one of the following emotional states: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Susan",
+      "utt": "I got it."
+    },
+    "result": "嗨！我在这儿呢，有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia55_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Danny",
+      "utt": "You are!"
+    },
+    "result": "你好！需要我帮你什么吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia712_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Joey",
+      "utt": "Yeah, isnt that a cool name?"
+    },
+    "result": "I'm sorry, but I can't watch movies or TV shows. However, I can help you with information about them or discuss other topics if you'd like! What else can I do for you?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia205_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification considers speech tempo, frequency variations, and pitch modulations. Identify and return only one of the following emotional states: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Oh, my god."
+    },
+    "result": "Wow! That sounds like quite an exciting moment! What's going on?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia698_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "I just, I feel, I-I just..."
+    },
+    "result": "I'm sorry to hear you're feeling this way. It's tough when things don't go as planned. Is there anything I can do to help or just want to chat about?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia2_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on vocal properties without considering lexical content. Identify the speaker's emotion as one of: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Joey",
+      "utt": "Yeah!"
+    },
+    "result": " joy\n"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia475_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "As part of a speech emotion dataset annotation task, classify the speaker's emotion. Available labels: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output the emotion only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "I punched you...?"
+    },
+    "result": "从这句话来看，很难判断出你的情绪。如果你能提供更多上下文或情感信息，我会更容易帮你分析哦！有什么我可以帮忙的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia699_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Fine! Here! Take a hike toots!"
+    },
+    "result": " joy\n"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia374_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "You already got the first class tickets.. you got the lounge!"
+    },
+    "result": "Wow, that's amazing! Congratulations on getting those first-class tickets! It sounds like you're all set for a luxurious journey. Are you excited to travel in style?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia74_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Oh no-no-no-no, I meant Chandler."
+    },
+    "result": "这个笑声听起来像是欢乐和惊讶的混合。你觉得呢？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia49_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Especially by that professor we ran into last night, Judgey von Holierthanthou."
+    },
+    "result": "That sounds like a classic case of \" Professor E. G.. Hohler than thou!\" It's filled with a touch of surprise and maybe a hint of amusement. It's a fun way to describe someone who's coming across as overly serious or pretentious."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia99_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Focus only on vocal properties without considering lexical content. Identify the speaker's emotion as one of: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the label.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "Yeah?"
+    },
+    "result": " joy\n"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia120_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "All right, lets do it."
+    },
+    "result": "That sounds like a fun challenge! I'm excited to see how many ways you can come up with to say \"hello\" in your target language. Ready? Let's hear it!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia232_utt18.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "What is the primary emotion conveyed in this speech? Reply only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Rachel",
+      "utt": "Yeah, why?"
+    },
+    "result": "Well, as a virtual assistant, I don't have parents, but I can certainly help you with any questions or tasks you might have. Is there something specific you need help with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia67_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the intonation and speech dynamics, identify the speaker's emotional state. Only return the correct label from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "You just saved me!"
+    },
+    "result": "Joy! That's fantastic! I'm so glad I could help. What a relief!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia216_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For machine learning dataset labeling, analyze the speech and determine the speaker's emotional state. Output only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Yeah, I-I heard.  I think its great!  Ohh, Im so happy for you!"
+    },
+    "result": " joy!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia845_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Chandler",
+      "utt": "Yes, but theres two in martini, soo everybody"
+    },
+    "result": "Let's break it down! The first part, \"Yes, but there's two in martini,\" sounds like a bit of correction or clarification. Then, \" everybody back to my office,\" sounds assertive or authoritative. Overall, the tone leans towards authority or dominance, possibly with a touch of frustration or irritation. So, I'd say the primary emotion is anger."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia33_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Oh! Oop!"
+    },
+    "result": "I didn't catch that. Can you repeat it? I'm here to help!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia506_utt9.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "Forever."
+    },
+    "result": "“Forever” 是个表达永恒的词，可以代表很多情感，比如爱情、友谊、信仰等。具体情感看上下文，可能是中性、喜悦、激动、悲伤、坚定或浪漫的。比如在爱情里，可能是对爱情的承诺；在自然里，可能是对永恒的赞美。所以，要根据具体情境判断哦。"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia840_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Rachel",
+      "utt": "Hi Pheebs!"
+    },
+    "result": " joy\n"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia252_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the intonation and speech dynamics, identify the speaker's emotional state. Only return the correct label from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Dr. Baldhara",
+      "utt": "Let me ask you some questions about, is it, uh, Marcel?"
+    },
+    "result": "I'm sorry, but I can't listen to or record audio. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia841_utt21.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For psychological research, classify the emotional content of the speaker's voice in this audio. Return only the most relevant emotion label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Joy."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "I cant believe youre gonna ask Monica to marry you!"
+    },
+    "result": " surprise"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia12_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on prosody, intensity, and voice modulation, classify the speaker's emotion. Return only one of: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Whats all this about you guys fighting?! Is this really over a room?! I mean, that is so silly!"
+    },
+    "result": "It sounds like you're feeling pretty frustrated and maybe a bit amused by the whole situation. It's funny how small things can sometimes turn into big deals, isn't it?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/dev\\dia3_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are building an emotion-aware voice assistant. Analyze the given speech and return the speaker's emotion from the following options: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Chandler",
+      "utt": "Tonight? You-you didn't say it was going to be at nighttime."
+    },
+    "result": "I'm sorry, but I can't imitate or mimic specific individuals. However, I can help you with other questions or tasks. What else can I do for you?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia143_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Ensure that the classification considers speech tempo, frequency variations, and pitch modulations. Identify and return only one of the following emotional states: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "Oh shoot! I work Monday nights."
+    },
+    "result": "Oh no, working man nights sound tough! It must be exhausting. Take care of yourself, and maybe try to catch some sleep when you can!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia1016_utt19.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, return the dominant one. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust. Do not provide additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "No, Rachel doesnt want me to...."
+    },
+    "result": "Sure thing! Just hop in and let's enjoy the ride. I'll keep you entertained with some great conversation or music until we reach your destination."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia538_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Huh. Yknow whats not one of a kind? A twin!"
+    },
+    "result": "Joy!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia426_utt7.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the intonation and speech dynamics, identify the speaker's emotional state. Only return the correct label from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Im sorry, I thought I could do it and I cant!"
+    },
+    "result": "It sounds like you're feeling a bit frustrated. Want to talk about what's on your mind?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia263_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Fear."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Chandler",
+      "utt": "She's not gonna make you wear one of those big plastic cones, is she?"
+    },
+    "result": " joy\n哈哈，听起来你是在开玩笑呢！这种时候，幽默感可是很棒的哦！"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia374_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "As part of a speech emotion dataset annotation task, classify the speaker's emotion. Available labels: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output the emotion only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "What?"
+    },
+    "result": "根据你的描述，我无法直接看到或感受到当时的具体情况，所以我无法确定当时的情绪。不过，如果感到有点失落或沮丧，可以试着找些让自己开心的事情做哦！有什么我可以帮忙的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia285_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal patterns to determine their emotion. Choose from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "Yeah uh look Rach, there’s something I gotta tell ya."
+    },
+    "result": "Sure! What would you like to know?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia424_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "On the other hand, if she wasnt kidding, shes not fun, shes stupid, and kind of a racist."
+    },
+    "result": "It sounds like the speaker is expressing anger towards the person they're referring to, using strong adjectives like \"not fun,\" \"stupid,\" and \"racist.\" This suggests a strong negative emotion."
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia337_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Ross",
+      "utt": "Why not? Its built into the price of the room."
+    },
+    "result": "Got it! So, the room price already includes the tax, right? Nothing extra to pay then. Got it!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia508_utt19.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "As part of a speech emotion dataset annotation task, classify the speaker's emotion. Available labels: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output the emotion only.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Hmm, soup.  I mean, noodle soup. I mean soup!"
+    },
+    "result": "根据你的描述，我无法判断具体的情绪标签。如果你能提供更多上下文或情感信息，我会更好地帮你分析哦！"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia777_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are building an emotion-aware voice assistant. Analyze the given speech and return the speaker's emotion from the following options: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Ross",
+      "utt": "Really?!"
+    },
+    "result": "I'm sorry, but I can't analyze or interpret specific pieces of text or speech. If you have general questions or need assistance with something else, I'm here to help!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia295_utt17.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "A call center wants to understand customer emotions. Identify the primary emotion in this conversation clip. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Fine!"
+    },
+    "result": "Let's listen to the clip and see if we can identify the primary emotion. How about we take a moment to listen carefully?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia421_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and determine the speaker's emotional state. Respond only with one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Rachel",
+      "utt": "Okay whats up?"
+    },
+    "result": "嘿！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia287_utt10.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For psychological research, classify the emotional content of the speaker's voice in this audio. Return only the most relevant emotion label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "You're doin' this."
+    },
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. However, I can help with psychological research or any other topic you have in mind! What else would you like to know?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia321_utt4.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "Phoebe",
+      "utt": "Why?"
+    },
+    "result": "根据你的描述，我无法直接感知语音的情感。不过，如果你觉得这段话让你感到愉悦，那可能是带有 joy 的情感哦！如果你想了解更多，可以告诉我具体的内容，我会尽力帮你分析。"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia39_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Ah, its says so in the script!"
+    },
+    "result": "Wow, that's quite the line! It sounds like your character is being a bit cheeky. It's a bold move, adding a touch of humor to the mix. How do you feel about it?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia792_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "Oh screw her, that part is mine!"
+    },
+    "result": "I'm sorry, but I can't listen to or analyze audio clips. However, I can help you with any questions or topics you want to discuss! What else can I do for you?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia77_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Dr. Long",
+      "utt": "Do we have a name yet?"
+    },
+    "result": "I'm sorry, but I can't listen to or transcribe audio clips. If you have any other questions or need assistance, feel free to ask!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia347_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are building an emotion-aware voice assistant. Analyze the given speech and return the speaker's emotion from the following options: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Chandler",
+      "utt": "I found a dried up seashores."
+    },
+    "result": "Wow, that's quite a fascinating discovery! It sounds like you're probably feeling a mix of curiosity and maybe a bit of surprise. These things don't just pop up every day, do they? Curious to know what you're going to do with your newfound treasure!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia912_utt2.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Classify the emotional tone in the provided audio. The possible emotions are: neutrality, joy, surprise, sadness, anger, fear, or disgust. Output only the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Ross",
+      "utt": "Oh come on, she wants to snuggle now!"
+    },
+    "result": " joy"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia304_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "For psychological research, classify the emotional content of the speaker's voice in this audio. Return only the most relevant emotion label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "Ah-ah-ah, now you started this, you will finish it."
+    },
+    "result": "Got it! Let's see if I can keep up the pace. What's on your mind?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia290_utt0.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "From the intonation and speech dynamics, identify the speaker's emotional state. Only return the correct label from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Earl",
+      "utt": "I-Im sorry?"
+    },
+    "result": "I'm here to chat and have a good time, so let's keep it light and positive! What's on your mind?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia82_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "You are building an emotion-aware voice assistant. Analyze the given speech and return the speaker's emotion from the following options: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Chandler",
+      "utt": "Oh! Right. Umm, maybe thats because I didnt send him an invitation."
+    },
+    "result": "It sounds like you're feeling a bit upset or sorry about not sending an invitation. Would you like to talk about it?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia707_utt11.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Analyze the speaker's tone and vocal patterns to determine their emotion. Choose from: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Anger."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Phoebe",
+      "utt": "Set it down over there and then you can make a contribution!"
+    },
+    "result": "Sure, I'll sit down over there. What would you like me to contribute to the conversation?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia475_utt8.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, return the dominant one. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust. Do not provide additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Monica",
+      "utt": "Why not?"
+    },
+    "result": "哈哈，是的，我了解。不过，我还是想保持中立，这样能更好地帮助和陪伴你。有什么需要聊的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia292_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Detect the emotional tone in this speaker's voice for sentiment analysis. Return only one of these categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Earl",
+      "utt": "I got nothing."
+    },
+    "result": " joy\n"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia214_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Based on the vocal expression, categorize the speaker's emotion into one of these six categories: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Surprise."
+      }
+    ],
+    "meta-data": {
+      "sent": "positive",
+      "speaker": "David",
+      "utt": "Oh my God!"
+    },
+    "result": "哇哦！听起来像是惊喜或兴奋哦！有什么好消息吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia356_utt12.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Rachel",
+      "utt": "Monica's making jam."
+    },
+    "result": "I'm sorry, but I can't listen to or transcribe audio clips. Is there anything else I can help you with?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia262_utt3.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Using acoustic features such as pitch, duration, and loudness, determine the emotional category of the speaker. Output only one of the following: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Chandler",
+      "utt": "Janice. Hi, Janice. Ok, here we go. I don't think we should go out anymore. Janice."
+    },
+    "result": "Hey! That sounds like a friendly and excited \"hi\" to me! What's up?"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia107_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Sadness."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Rachel",
+      "utt": "You remember not having sex in high school, right?"
+    },
+    "result": "That's a pretty common experience! A lot of people don't start having sex until later in life, often because high school is a time when many people are focusing on school, social activities, and maybe exploring other interests. It's nothing to be concerned about; everyone's timeline is different!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia208_utt1.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Neutrality."
+      }
+    ],
+    "meta-data": {
+      "sent": "neutral",
+      "speaker": "Joey",
+      "utt": "Oh, y'know the same thing happened to me one time."
+    },
+    "result": " joy\n哈哈，听起来你也有过类似的有趣经历！"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/test\\dia57_utt5.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Listen to the audio and extract the underlying emotion of the speaker. Provide only one label: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "But you will always be the guy who peed on me."
+    },
+    "result": "哎呀，听起来你有点生气呢。不过别担心，我会努力改进，争取不再“尿”你哦！有什么我可以帮你的吗？"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia145_utt15.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Even if the speech is ambiguous, classify it into the closest matching emotion among neutrality, joy, surprise, sadness, anger, fear, or disgust. Only return the emotion.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Joey",
+      "utt": "Will you grow up? I'm not talking about sexy stuff, but, like, when I'm cooking naked."
+    },
+    "result": "哈哈，这个问题很有趣！我觉得如果你在厨房做饭时喜欢光着身子，那可能让你觉得更自在和放松，这其实没什么问题哦。重要的是你自己感到舒服和开心。不过，记得要注意安全，特别是在有热锅或者尖锐刀具的时候哦！"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia973_utt18.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "If multiple emotions are detected, return the dominant one. Choose from neutrality, joy, surprise, sadness, anger, fear, or disgust. Do not provide additional text.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Monica",
+      "utt": "Okay, this isn't working. I'm still awake and now I have to pee."
+    },
+    "result": "Sorry to hear that! How about trying a different method to help you wind down? Maybe a warm cup of tea, some gentle stretching, or a few deep breaths? Let me know if you need more suggestions!"
+  },
+  {
+    "voice": [
+      "Meld/MELD.Raw/wav/train\\dia614_utt6.wav"
+    ],
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Identify the emotion expressed in the given speech sample based on pitch, tone, and rhythm. Only return one of these labels: neutrality, joy, surprise, sadness, anger, fear, or disgust.<audio>"
+      },
+      {
+        "from": "gpt",
+        "value": "Disgust."
+      }
+    ],
+    "meta-data": {
+      "sent": "negative",
+      "speaker": "Kim",
+      "utt": "Oh sure, every Sunday night I'm telling myself I'm quitting but every Monday morning it's like"
+    },
+    "result": " joy"
+  }
+]
