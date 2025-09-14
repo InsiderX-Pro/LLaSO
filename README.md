@@ -9,13 +9,13 @@
   <br>
   <a href="https://arxiv.org/abs/2508.15418"><img src="https://img.shields.io/badge/arXiv-2508.15418-B31B1B.svg" alt="arXiv"></a>
   <a href="https://huggingface.co/YirongSun/LLaSO-Base-3.8B-Instruct"><img src="https://img.shields.io/badge/HuggingFace-Model-ffcc00.svg" alt="HF Model"></a>
-  <a href="https://github.com/InsiderX-Pro/LLaSO"><img src="https://img.shields.io/github/stars/EIT-NLP/LLaSO?style=social" alt="GitHub Stars"></a>
+  <a href="https://github.com/InsiderX-Pro/LLaSO"><img src="https://img.shields.io/github/stars/InsiderX-Pro/LLaSO?style=social" alt="GitHub Stars"></a>
   <a href="#citation"><img src="https://img.shields.io/badge/Cite-BibTeX-9cf.svg" alt="Cite"></a>
 </p>
 
 <p align="center">
   <a href="https://arxiv.org/abs/2508.15418">Paper</a> •
-  <a href="https://github.com/EIT-NLP/LLaSO">Code</a> •
+  <a href="https://github.com/InsiderX-Pro/LLaSO">Code</a> •
   <a href="https://huggingface.co/YirongSun/LLaSO-Base-3.8B-Instruct">Models</a> •
   <a href="https://huggingface.co/datasets/YirongSun/LLaSO-Instruct">Datasets</a> •
   <a href="https://huggingface.co/datasets/YirongSun/LLaSO-Eval">Benchmark</a> •
@@ -75,7 +75,7 @@ LLaSO stack: Data, benchmark, and reference model for compositional speech–lan
 <a id="install"></a>
 ## 🛠️ Install
 ```bash
-git clone https://github.com/EIT-NLP/LLaSO.git
+git clone https://github.com/InsiderX-Pro/LLaSO.git
 cd LLaSO
 conda create -n llaso python=3.10 -y
 conda activate llaso
